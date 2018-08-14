@@ -2,4 +2,33 @@
 
 json version of the OUI Database published at https://linuxnet.ca/ieee/oui/
 
-Usign https://github.com/jfisbein/ouidb-to-json-publisher everyday it's updated with latest change (if any).
+Using https://github.com/jfisbein/ouidb-to-json-publisher everyday it's updated with latest change (if any).
+
+#### Format
+```
+[
+  {
+    "prefix": "000000",
+    "organization": {
+      "name": "Xerox Corporation",
+      "address": {
+        "line1": "M/S 105-50C",
+        "line2": "Webster  NY  14580",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "000001",
+    "organization": {
+      "name": "Xerox Corporation",
+      "address": {
+        "line1": "M/S 105-50C",
+        "line2": "Webster  NY  14580",
+        "countryCode": "US"
+      }
+    }
+  }
+  ....
+]
+```
