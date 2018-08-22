@@ -31,13 +31,13 @@ Using https://github.com/jfisbein/ouidb-to-json-publisher everyday it's updated 
   }
   ....
   {
-    prefix: "FCFFAA",
-    organization: {
-    name: "IEEE Registration Authority",
-    address: {
-      line1: "445 Hoes Lane",
-      line2: "Piscataway NJ 08554",
-      countryCode: "US"
+    "prefix": "FCFFAA",
+    "organization": {
+    "name": "IEEE Registration Authority",
+    "address": {
+      "line1": "445 Hoes Lane",
+      "line2": "Piscataway NJ 08554",
+      "countryCode": "US"
     }
   }
 }
