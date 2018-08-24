@@ -17,17 +17,6 @@ Using https://github.com/jfisbein/ouidb-to-json-publisher everyday it's updated 
         "countryCode": "US"
       }
     }
-  },
-  {
-    "prefix": "000001",
-    "organization": {
-      "name": "Xerox Corporation",
-      "address": {
-        "line1": "M/S 105-50C",
-        "line2": "Webster  NY  14580",
-        "countryCode": "US"
-      }
-    }
   }
   ....
   {
