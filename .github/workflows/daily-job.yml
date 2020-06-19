@@ -11,7 +11,7 @@ jobs:
       - name: run ouidb-to-json-publisher
         run: >
           docker run --name ouidb-to-json-publisher --rm
-          --env "REPO_USERNAME=${{ secrets.GITHUB_TOKEN }}"
+          --env "REPO_USERNAME=${{ secrets.MY_GITHUB_TOKEN }}"
           --env "REPO_URL=https://github.com/jfisbein/ouidb-json"
           --env "GIT_AUTHOR_NAME=Joan Fisbein"
           --env "GIT_AUTHOR_EMAIL=${{ secrets.EMAIL }}"
