@@ -17,5 +17,4 @@ jobs:
           --env "REPO_USERNAME=$MY_GITHUB_TOKEN"
           --env "REPO_URL=https://github.com/jfisbein/ouidb-json"
           --env "GIT_AUTHOR_NAME=Joan Fisbein"
-          --env "GIT_AUTHOR_EMAIL=$EMAIL"
           jfisbein/ouidb-to-json-publisher
