@@ -1,6 +1,6 @@
 # ouidb-json
 
-json version of the OUI Database published at https://linuxnet.ca/ieee/oui/
+json version of the OUI Database published at http://standards-oui.ieee.org/oui/oui.txt
 
 Using https://github.com/jfisbein/ouidb-to-json-publisher everyday it's updated with latest change (if any).
 
