@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jfisbein/ouidb-json/ouidb.schema.json",
+  "title": "OUI Database",
+  "description": "Database of Organizationally Unique Identifiers (OUI) assigned to network device manufacturers",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["prefix", "organization"],
+    "properties": {
+      "prefix": {
+        "type": "string",
+        "pattern": "^[0-9A-F]{6}$",
+        "description": "The 6-character hexadecimal OUI prefix"
+      },
+      "organization": {
+        "type": "object",
+        "required": ["name", "address"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the organization that owns this OUI"
+          },
+          "address": {
+            "type": "object",
+            "properties": {
+              "line1": {
+                "type": "string",
+                "description": "First line of the organization's address"
+              },
+              "line2": {
+                "type": "string",
+                "description": "Second line of the organization's address (city, postal code, etc.)"
+              },
+              "countryCode": {
+                "type": "string",
+                "pattern": "^[A-Z]{2}$",
+                "description": "ISO 3166-1 alpha-2 country code"
+              }
+            },
+            "description": "Physical address of the organization"
+          }
+        }
+      }
+    }
+  }
+}
