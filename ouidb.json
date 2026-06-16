@@ -187095,6 +187095,17 @@
     }
   },
   {
+    "prefix": "28806E",
+    "organization": {
+      "name": "Pirelli Tyre S.p.A",
+      "address": {
+        "line1": "Via Piero e Alberto Pirelli 25",
+        "line2": "Milan Lombardia 20126",
+        "countryCode": "IT"
+      }
+    }
+  },
+  {
     "prefix": "288088",
     "organization": {
       "name": "Netgear",
@@ -190820,6 +190831,13 @@
         "line2": "Lustenau 6890",
         "countryCode": "AT"
       }
+    }
+  },
+  {
+    "prefix": "2C3F87",
+    "organization": {
+      "name": "Private",
+      "address": {}
     }
   },
   {
@@ -207070,7 +207088,7 @@
   {
     "prefix": "38BEAB",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
@@ -218240,7 +218258,7 @@
   {
     "prefix": "44291E",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
@@ -227711,6 +227729,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "4C4553",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
       }
     }
   },
@@ -248555,7 +248584,7 @@
   {
     "prefix": "5CE753",
     "organization": {
-      "name": "Private",
+      "name": "Shenzhen Intellirocks Tech. Ltd",
       "address": {}
     }
   },
@@ -293636,7 +293665,7 @@
   {
     "prefix": "847AB6",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
@@ -296858,7 +296887,7 @@
   {
     "prefix": "88287D",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
@@ -315897,6 +315926,17 @@
     }
   },
   {
+    "prefix": "982AC3",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "982AFD",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -319887,7 +319927,7 @@
   {
     "prefix": "9C1C37",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
@@ -322869,6 +322909,17 @@
         "line1": "G315, Hua Chuang Da Business Certer",
         "line2": "Shen Zhen Guang Dong 518000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "9CBCA6",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
       }
     }
   },
@@ -333182,7 +333233,7 @@
   {
     "prefix": "A4EF15",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
@@ -351321,7 +351372,7 @@
   {
     "prefix": "B4FBE3",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
@@ -355084,6 +355135,17 @@
         "line1": "6205 Peachtree Dunwoody Rd",
         "line2": "Atlanta GA 30328",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B8D3EF",
+    "organization": {
+      "name": "Unisem (M) Berhad",
+      "address": {
+        "line1": "Lot 302285, Jalan Industri 1/1, Kawasan Perindustrian Gopeng",
+        "line2": "Gopeng Perak 31600",
+        "countryCode": "MY"
       }
     }
   },
@@ -393244,7 +393306,7 @@
   {
     "prefix": "DC2919",
     "organization": {
-      "name": "Altobeam (xiamen) Technology Ltd, Co",
+      "name": "Altobeam(xiamen)technology Ltd",
       "address": {
         "line1": "South Building 203-38, Huoju Square, No.56-58, Huoju Road, Huoju Park, Huoju High-tech District",
         "line2": "Xiamen 361000",
@@ -422251,7 +422313,7 @@
   {
     "prefix": "F4B19C",
     "organization": {
-      "name": "Altobeam (china) Inc",
+      "name": "Altobeam Inc",
       "address": {
         "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
         "line2": "Beijing Beijing 100083",
