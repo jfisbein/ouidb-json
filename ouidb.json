@@ -121612,6 +121612,17 @@
     }
   },
   {
+    "prefix": "0066DC",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "006762",
     "organization": {
       "name": "Fiberhome Telecommunication Technologies Ltd",
@@ -143156,6 +143167,17 @@
     }
   },
   {
+    "prefix": "0423A3",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "042405",
     "organization": {
       "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
@@ -147224,8 +147246,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -152701,6 +152723,17 @@
     }
   },
   {
+    "prefix": "08E64B",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "08E672",
     "organization": {
       "name": "Jebsee Electronics Ltd",
@@ -153566,6 +153599,17 @@
         "line1": "167, Churye-2dong, Sasang-gu",
         "line2": "Busan 617-716",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "0C166E",
+    "organization": {
+      "name": "Wirelessmobility Engineering Centre SDN. BHD",
+      "address": {
+        "line1": "Summerskye Square, NO. 1-2-13 \u0026 1-2, 13a, Jalan Sungai Tiram 8, 11900 Bayan Lepas",
+        "line2": "Penang 11900",
+        "countryCode": "MY"
       }
     }
   },
@@ -158805,6 +158849,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "103089",
+    "organization": {
+      "name": "Resideo",
+      "address": {
+        "line1": "2 Corporate Center Dr.",
+        "line2": "Melville NY 11747",
+        "countryCode": "US"
       }
     }
   },
@@ -166462,8 +166517,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -169989,8 +170044,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -170787,6 +170842,17 @@
     }
   },
   {
+    "prefix": "18D0E1",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "18D225",
     "organization": {
       "name": "Fiberhome Telecommunication Technologies Ltd",
@@ -171352,8 +171418,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -177537,6 +177603,17 @@
     }
   },
   {
+    "prefix": "20521D",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "205383",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -178343,6 +178420,17 @@
         "line1": "Route de Lausanne 319",
         "line2": "Bellevue Ch-1293",
         "countryCode": "SZ"
+      }
+    }
+  },
+  {
+    "prefix": "20845F",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -181862,8 +181950,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -182247,8 +182335,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -191945,8 +192033,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -193803,6 +193891,17 @@
         "line1": "4 Allée Des Messageries",
         "line2": "Bois-colombes Haut de Seine 92270",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "2CE5BD",
+    "organization": {
+      "name": "Ubiquiti Inc",
+      "address": {
+        "line1": "685 Third Avenue, 27th Floor",
+        "line2": "New York NY New York NY 10017",
+        "countryCode": "US"
       }
     }
   },
@@ -198091,6 +198190,17 @@
         "line1": "BR 101, km 210, S/N°",
         "line2": "São José Santa Catarina 88104800",
         "countryCode": "BR"
+      }
+    }
+  },
+  {
+    "prefix": "30E226",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -204165,6 +204275,17 @@
     }
   },
   {
+    "prefix": "3816B3",
+    "organization": {
+      "name": "HP Inc",
+      "address": {
+        "line1": "10300 Energy Dr",
+        "line2": "Spring TX 77389",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "3816D1",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -205722,6 +205843,17 @@
     }
   },
   {
+    "prefix": "386FF4",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "38700C",
     "organization": {
       "name": "Commscope",
@@ -207136,6 +207268,17 @@
       "address": {
         "line1": "899 Kifer Road",
         "line2": "Sunnyvale 94086",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "38C22D",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
         "countryCode": "US"
       }
     }
@@ -210313,8 +210456,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -210775,8 +210918,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -213994,8 +214137,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -219345,6 +219488,17 @@
     }
   },
   {
+    "prefix": "4463B6",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "4463C2",
     "organization": {
       "name": "Zyxel Communications Corporation",
@@ -219437,8 +219591,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -222414,8 +222568,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -223800,8 +223954,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -224327,6 +224481,17 @@
         "line1": "Block A, Lianfeng Creative Park, #2 Jisheng Rd., Nansha District",
         "line2": "Guangzhou Guangdong 511455",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "487F80",
+    "organization": {
+      "name": "Fritz! Technology GmbH",
+      "address": {
+        "line1": "Alt-moabit 95",
+        "line2": "Berlin Berlin 10559",
+        "countryCode": "DE"
       }
     }
   },
@@ -226912,8 +227077,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -230263,6 +230428,17 @@
     }
   },
   {
+    "prefix": "4CD012",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "4CD08A",
     "organization": {
       "name": "Humax Ltd",
@@ -232418,8 +232594,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -235153,8 +235329,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -242602,6 +242778,17 @@
     }
   },
   {
+    "prefix": "588FA7",
+    "organization": {
+      "name": "LG Innotek",
+      "address": {
+        "line1": "26, Hanamsandan 5beon-ro",
+        "line2": "Gwangju Gwangsan-gu 506-731",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "588FCF",
     "organization": {
       "name": "Hangzhou Ezviz Software Ltd",
@@ -245079,6 +245266,17 @@
       "address": {
         "line1": "8050 Freedom Ave NW Suite B",
         "line2": "North Canton OH 44720",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "5C23C2",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
         "countryCode": "US"
       }
     }
@@ -249847,8 +250045,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -250023,8 +250221,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -250155,8 +250353,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -255822,8 +256020,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -257174,6 +257372,17 @@
         "line1": "No.198, First Section, Snow Mountain Avenue, Jinyuan Town, Dayi County",
         "line2": "Chengdu Sichuan 611330",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "64C045",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -259190,6 +259399,17 @@
     }
   },
   {
+    "prefix": "682E3C",
+    "organization": {
+      "name": "Ubiquiti Inc",
+      "address": {
+        "line1": "685 Third Avenue, 27th Floor",
+        "line2": "New York NY New York NY 10017",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "682F67",
     "organization": {
       "name": "Apple",
@@ -259351,6 +259571,17 @@
         "line1": "199-6, Anyang 7-dong, Manan-gu",
         "line2": "Anyang-si Gyeonggi-do 430-817",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "683B09",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -260371,8 +260602,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -262174,8 +262405,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -263992,6 +264223,17 @@
     }
   },
   {
+    "prefix": "6C3DD8",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "6C3E51",
     "organization": {
       "name": "Mindray North America",
@@ -265033,6 +265275,17 @@
         "line1": "Lux Building (5th Floor), 1-1-41 Kawamata",
         "line2": "Higashiosaka City Osaka 577-0063",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "6C72B8",
+    "organization": {
+      "name": "Lcfc(hefei) Electronics Technology Ltd",
+      "address": {
+        "line1": "No. 3188-1 Yungu Road (comprehensive Bonded Zone), Hefei Economic \u0026 Technological Development Area，anhui",
+        "line2": "Hefei Anhui 230601",
+        "countryCode": "CN"
       }
     }
   },
@@ -266144,8 +266397,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -273223,8 +273476,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -276112,6 +276365,17 @@
     }
   },
   {
+    "prefix": "74D5E8",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "74D637",
     "organization": {
       "name": "Amazon Technologies Inc",
@@ -278488,8 +278752,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -279159,8 +279423,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -283737,6 +284001,17 @@
     }
   },
   {
+    "prefix": "7C59B1",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "7C5A1C",
     "organization": {
       "name": "Sophos Ltd",
@@ -285457,8 +285732,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -290215,8 +290490,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -290948,6 +291223,17 @@
     }
   },
   {
+    "prefix": "80D175",
+    "organization": {
+      "name": "iPanel.TV Inc",
+      "address": {
+        "line1": "6th Floor, Building B, Jinfengcheng Mansion, Shennan East Road No. 5015, Luohu District",
+        "line2": "Shenzhen Guangdong 518004",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "80D18B",
     "organization": {
       "name": "Hangzhou I\u0027converge Technology Ltd",
@@ -291293,8 +291579,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -292339,6 +292625,17 @@
       "address": {
         "line1": "400 West Cesar Chavez",
         "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "842789",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
         "countryCode": "US"
       }
     }
@@ -294898,8 +295195,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -295437,8 +295734,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -296595,6 +296892,17 @@
         "line1": "Phase 3, Bayan Lepas Fiz",
         "line2": "Bayan Lepas Penang 11900",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "8817A8",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -298967,8 +299275,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -304351,6 +304659,17 @@
         "line1": "1-15 Matsuo-cho",
         "line2": "Kadoma Osaka 571-8504",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "8CC246",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -317700,8 +318019,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -326990,6 +327309,17 @@
     }
   },
   {
+    "prefix": "A09C19",
+    "organization": {
+      "name": "CIG Shanghai Ltd",
+      "address": {
+        "line1": "5th Floor, Building 8 No 2388 Chenhang Road",
+        "line2": "Shanghai 201114",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "A09D22",
     "organization": {
       "name": "Apple",
@@ -329324,8 +329654,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -340368,8 +340698,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -342175,6 +342505,17 @@
     }
   },
   {
+    "prefix": "ACE4D8",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "ACE5F0",
     "organization": {
       "name": "Doppler Labs",
@@ -342776,6 +343117,17 @@
         "line1": "4f, 90, Chien 1 Road, Chungho",
         "line2": "New Taipei City Taipei 23585",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "B006EC",
+    "organization": {
+      "name": "Nexquome Pte Limited",
+      "address": {
+        "line1": "200 Cantoment Road#05-03 Southpoint",
+        "line2": "Singapore 089763",
+        "countryCode": "SG"
       }
     }
   },
@@ -345061,8 +345413,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -345735,6 +346087,17 @@
         "line1": "Room 1611b, 16/F, HO King Commercial Centre, 2-16 Fayuen Street, Mongkok, Kowloon",
         "line2": "Hongkong 999077",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B0BBA9",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -346691,6 +347054,17 @@
       "address": {
         "line1": "1133 Innovation Way",
         "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B0EC69",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
         "countryCode": "US"
       }
     }
@@ -349126,6 +349500,17 @@
         "line1": "Room 4, Office Iv, Floor 4 Rochdelskaya Street, 15, b.15 Moscow, 123376 Russia",
         "line2": "Moscow 123376",
         "countryCode": "RU"
+      }
+    }
+  },
+  {
+    "prefix": "B47E9F",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
       }
     }
   },
@@ -363964,6 +364349,17 @@
     }
   },
   {
+    "prefix": "C0C7B5",
+    "organization": {
+      "name": "Infinix Mobility Limited",
+      "address": {
+        "line1": "Rms 05-15, 13A/F South Tower World Finance Ctr Harbour City 17 Canton RD Tst Kln Hong Kong",
+        "line2": "Hongkong Hongkong 999077",
+        "countryCode": "HK"
+      }
+    }
+  },
+  {
     "prefix": "C0C7DB",
     "organization": {
       "name": "Apple",
@@ -366900,6 +367296,17 @@
     }
   },
   {
+    "prefix": "C46940",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "C469F0",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -368369,6 +368776,17 @@
       "address": {
         "line1": "Room 415, No.569 Anchi Road, Jiading District",
         "line2": "Shanghai 201804",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "C4BB89",
+    "organization": {
+      "name": "Shanghai High-flying Electronics Technology Ltd",
+      "address": {
+        "line1": "#17 Building, No.1500 Zu Chongzhi Road, Pudong District, 201203, Shanghai, China",
+        "line2": "Shanghai Shanghai 201200",
         "countryCode": "CN"
       }
     }
@@ -379588,6 +380006,17 @@
     }
   },
   {
+    "prefix": "D032E7",
+    "organization": {
+      "name": "Tuya Smart Inc",
+      "address": {
+        "line1": "160 Greentree Drive, Suite 101",
+        "line2": "Dover DE 19904",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "D03311",
     "organization": {
       "name": "Apple",
@@ -379625,8 +380054,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -381101,6 +381530,17 @@
       "address": {
         "line1": "1133 Innovation Way",
         "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D082E8",
+    "organization": {
+      "name": "Tuya Smart Inc",
+      "address": {
+        "line1": "160 Greentree Drive, Suite 101",
+        "line2": "Dover DE 19904",
         "countryCode": "US"
       }
     }
@@ -388135,8 +388575,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -389385,8 +389825,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -391632,6 +392072,17 @@
     }
   },
   {
+    "prefix": "D8C262",
+    "organization": {
+      "name": "Ubiquiti Inc",
+      "address": {
+        "line1": "685 Third Avenue, 27th Floor",
+        "line2": "New York NY New York NY 10017",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "D8C3FB",
     "organization": {
       "name": "Detracom",
@@ -392611,6 +393062,17 @@
     }
   },
   {
+    "prefix": "D8FB58",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "D8FB5E",
     "organization": {
       "name": "Askey Computer Corp",
@@ -392714,8 +393176,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -401120,6 +401582,17 @@
     }
   },
   {
+    "prefix": "E0DFB7",
+    "organization": {
+      "name": "Zeica Labs Pte Ltd",
+      "address": {
+        "line1": "380 Jalan Besar, #06-06, Arc 380",
+        "line2": "Singapore 209000",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "E0E0C2",
     "organization": {
       "name": "China Mobile Group Device Ltd",
@@ -403459,6 +403932,17 @@
         "line1": "1 Internal Business Park, #03-12, The Synergy, Singapore",
         "line2": "Singapore Singapore 609917",
         "countryCode": "SG"
+      }
+    }
+  },
+  {
+    "prefix": "E47010",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -410572,6 +411056,17 @@
     }
   },
   {
+    "prefix": "E8FEBE",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "E8FF1E",
     "organization": {
       "name": "Ieee Registration Authority",
@@ -412189,8 +412684,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -416022,6 +416517,17 @@
       "address": {
         "line1": "445 Hoes Lane",
         "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F040D9",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
         "countryCode": "US"
       }
     }
@@ -421329,8 +421835,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -421703,8 +422209,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -426065,8 +426571,8 @@
     "organization": {
       "name": "Tp-link Technologies Ltd",
       "address": {
-        "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
-        "line2": "Shenzhen Guangdong 518057",
+        "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
+        "line2": "Hangzhou City Zhejiang Province, 310000",
         "countryCode": "CN"
       }
     }
@@ -429103,6 +429609,17 @@
       "address": {
         "line1": "12500 TI Blvd",
         "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "FC0F76",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
         "countryCode": "US"
       }
     }
