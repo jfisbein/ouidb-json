@@ -165952,6 +165952,17 @@
     }
   },
   {
+    "prefix": "14B6EB",
+    "organization": {
+      "name": "CJ Intelligent Technology Ltd",
+      "address": {
+        "line1": "4f, No. 16, Zhongxin St., Shulin Dist.",
+        "line2": "New Taipei City 238035",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "14B73D",
     "organization": {
       "name": "Archean Technologies",
@@ -198383,7 +198394,7 @@
   {
     "prefix": "30EB5A",
     "organization": {
-      "name": "Landis + GYR",
+      "name": "Landis+gyr S.A",
       "address": {
         "line1": "78th km Old National Road Athens-corinth",
         "line2": "Corinth 20100",
@@ -199037,6 +199048,17 @@
         "line1": "Room 101, No.8 Xinglong 3rd Road, Shipai Town",
         "line2": "Dongguan Guangdong 523000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3409E9",
+    "organization": {
+      "name": "Harman/Becker Automotive Systems GmbH",
+      "address": {
+        "line1": "Becker-göring-straße 16",
+        "line2": "Karlsbad Baden-württemberg 76307",
+        "countryCode": "DE"
       }
     }
   },
@@ -318453,7 +318475,7 @@
   {
     "prefix": "98B177",
     "organization": {
-      "name": "Landis + GYR",
+      "name": "Landis+gyr S.A",
       "address": {
         "line1": "78th km Old National Road Athens-corinth",
         "line2": "Corinth 20100",
@@ -373286,6 +373308,17 @@
     }
   },
   {
+    "prefix": "C8BBB4",
+    "organization": {
+      "name": "GSD Viet NAM Technology Company Limited",
+      "address": {
+        "line1": "Part OF Factory 2, Lot C2.10, D1 Street, Dong AN 2 Industrial Park, Binhduong Ward",
+        "line2": "HO Chi Minh City HO Chi Minh 820000",
+        "countryCode": "VN"
+      }
+    }
+  },
+  {
     "prefix": "C8BBD3",
     "organization": {
       "name": "Embrane",
@@ -413342,7 +413375,7 @@
   {
     "prefix": "EC8439",
     "organization": {
-      "name": "Private",
+      "name": "Bitmain Development PTE. Ltd",
       "address": {}
     }
   },
