@@ -157328,6 +157328,17 @@
     }
   },
   {
+    "prefix": "0CE623",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "0CE67C",
     "organization": {
       "name": "Realme Chongqing Mobile Telecommunications Corp. Ltd",
@@ -160587,6 +160598,17 @@
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "1093C9",
+    "organization": {
+      "name": "Kingsignal Technology Ltd",
+      "address": {
+        "line1": "Floor 26, Unit B, Block 10, No.1819 Shahexi Road, Shenzhen Bay Eco-technology Park, Nanshan District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
       }
     }
   },
@@ -178050,6 +178072,17 @@
     }
   },
   {
+    "prefix": "2068AA",
+    "organization": {
+      "name": "Potron Technology Ltd",
+      "address": {
+        "line1": "708 Bldg.B, Qian Wan Key\u0026core Technology Industrial Park, Shenzhen, China 518126",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "206980",
     "organization": {
       "name": "Apple",
@@ -183653,6 +183686,17 @@
         "line1": "2-8-1 Gakuen-minami",
         "line2": "Thukuba-shi Ibaraki 305-0818",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "24BA23",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -199910,6 +199954,17 @@
     }
   },
   {
+    "prefix": "343638",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "34363B",
     "organization": {
       "name": "Apple",
@@ -200445,6 +200500,17 @@
         "line1": "8f, Sia Toyosu Prime Square, 5-6-36, Toyosu",
         "line2": "Koto-ku Tokyo 1350061",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "3454EF",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -205052,6 +205118,17 @@
     }
   },
   {
+    "prefix": "383E51",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "383F10",
     "organization": {
       "name": "DBL Technology Ltd",
@@ -205916,6 +205993,17 @@
         "line1": "3f-1, 10 Lane 609, Chongxin Road, Section 5",
         "line2": "New Taipei City, Taiwan 24159",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "38736E",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -214942,6 +215030,17 @@
         "line1": "Nobelring 26",
         "line2": "Frankfurt am Main Hessen 60598",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "406768",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -234306,6 +234405,17 @@
     }
   },
   {
+    "prefix": "509546",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "509551",
     "organization": {
       "name": "Commscope",
@@ -251529,6 +251639,17 @@
     }
   },
   {
+    "prefix": "6079C9",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "607AD8",
     "organization": {
       "name": "GD Midea Air-conditioning Equipment Ltd",
@@ -261379,6 +261500,17 @@
     }
   },
   {
+    "prefix": "689DD2",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "689E0B",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -265198,6 +265330,17 @@
         "line1": "710 N. Tucker Blvd, Suite 110",
         "line2": "St. Louis MO 63101",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "6C7028",
+    "organization": {
+      "name": "Landis+gyr S.A",
+      "address": {
+        "line1": "78th km Old National Road Athens-corinth",
+        "line2": "Corinth 20100",
+        "countryCode": "GR"
       }
     }
   },
@@ -270751,6 +270894,17 @@
         "line1": "Rooms 05-15, 13A/F., South Tower, World Finance Centre, Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong",
         "line2": "Hong Kong Hong Kong 999077",
         "countryCode": "HK"
+      }
+    }
+  },
+  {
+    "prefix": "709FEC",
+    "organization": {
+      "name": "CU Velocity",
+      "address": {
+        "line1": "480 Brogdon Rd, Suite 500",
+        "line2": "Suwanee GA 30024",
+        "countryCode": "US"
       }
     }
   },
@@ -281065,6 +281219,17 @@
         "line1": "15a Tung Lee Commercial Building",
         "line2": "Sheung Wan 852",
         "countryCode": "HK"
+      }
+    }
+  },
+  {
+    "prefix": "78B5F2",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -291410,6 +291575,17 @@
     }
   },
   {
+    "prefix": "80DACE",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "80DB17",
     "organization": {
       "name": "Juniper Networks",
@@ -295429,6 +295605,17 @@
         "line1": "Alejandro Goicoechea 6 Local 9",
         "line2": "Sant Just Desvern Barcelona Es08960",
         "countryCode": "ES"
+      }
+    }
+  },
+  {
+    "prefix": "84C7BB",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -308095,6 +308282,17 @@
     }
   },
   {
+    "prefix": "9074F2",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "9075BC",
     "organization": {
       "name": "Nokia Shanghai Bell Ltd",
@@ -312077,6 +312275,17 @@
     }
   },
   {
+    "prefix": "9449F6",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "944A09",
     "organization": {
       "name": "Bitwise Controls",
@@ -313668,6 +313877,17 @@
         "line1": "Heusteigstraße 37",
         "line2": "Stuttgart 70108",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "94AD05",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -328119,6 +328339,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "A0C926",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -350131,6 +350362,17 @@
     }
   },
   {
+    "prefix": "B4A64A",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "B4A678",
     "organization": {
       "name": "Zhejiang Tmall Technology Ltd",
@@ -362065,6 +362307,17 @@
     }
   },
   {
+    "prefix": "C03E75",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "C03EBA",
     "organization": {
       "name": "Dell Inc",
@@ -362555,6 +362808,17 @@
       "address": {
         "line1": "360 Mt Kemble Ave",
         "line2": "Morristown NJ 07960",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "C0582E",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
         "countryCode": "US"
       }
     }
@@ -365665,6 +365929,17 @@
         "line1": "NO.8 Tangzhuang Road, Suzhou Industrial Park, Su Zhoucity, Jiangsu Province, China",
         "line2": "Suzhou 215021",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "C41062",
+    "organization": {
+      "name": "Cornet Technology India Pvt Ltd",
+      "address": {
+        "line1": "Plot No.10/A-16 5th Cross Road, Sipcot IT Park",
+        "line2": "Siruseri, Chennai Tamilnadu 603103",
+        "countryCode": "IN"
       }
     }
   },
@@ -368898,6 +369173,17 @@
         "line1": "Rooms 05-15, 13A/F., South Tower, World Finance Centre, Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong",
         "line2": "Hong Kong Hong Kong 999077",
         "countryCode": "HK"
+      }
+    }
+  },
+  {
+    "prefix": "C4C00A",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
       }
     }
   },
@@ -375614,6 +375900,17 @@
         "line1": "3000 Tannery Way",
         "line2": "Santa Clara CA 95054",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "CC38E1",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -390085,6 +390382,17 @@
     }
   },
   {
+    "prefix": "D85437",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "D8543A",
     "organization": {
       "name": "Texas Instruments",
@@ -392243,6 +392551,17 @@
       "address": {
         "line1": "3666 Sixian Rd., Songjiang District",
         "line2": "Shanghai Shanghai 201616",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "D8C960",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
       }
     }
@@ -400273,6 +400592,17 @@
     }
   },
   {
+    "prefix": "E09EC1",
+    "organization": {
+      "name": "Silicon Innovation Microelectronics Ltd",
+      "address": {
+        "line1": "2106, Building C, Maoye Center, 28 North Tianfu Avenue, High-tech Zone, Chengdu, Sichuan, China2106-7",
+        "line2": "Chengdu 610041",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "E09F2A",
     "organization": {
       "name": "Iton Technology Corp",
@@ -402337,6 +402667,17 @@
         "line1": "Krefelder Straße 201",
         "line2": "Aachen 52070",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "E4135C",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -419994,6 +420335,17 @@
     }
   },
   {
+    "prefix": "F406A3",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "F406A5",
     "organization": {
       "name": "Hangzhou Bianfeng Networking Technology Ltd",
@@ -420540,6 +420892,17 @@
         "line1": "660 3rd Street",
         "line2": "San Francisco CA 94107",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F425FE",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -421376,6 +421739,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F453E4",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -422867,6 +423241,17 @@
       "address": {
         "line1": "No.1199, Waterfront Road",
         "line2": "Hangzhou Zhejiang 310053",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F4B24E",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
       }
     }
