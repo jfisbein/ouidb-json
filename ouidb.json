@@ -160591,6 +160591,17 @@
     }
   },
   {
+    "prefix": "109327",
+    "organization": {
+      "name": "Giga-byte Technology Ltd",
+      "address": {
+        "line1": "No.215 Nan-ping Road",
+        "line2": "Taoyuan 324",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "109397",
     "organization": {
       "name": "Commscope",
@@ -167322,6 +167333,17 @@
       "address": {
         "line1": "Floor 5, Building C1, Greenland Central Plaza",
         "line2": "Huangpu District, Guangzhou Guangdong Province 510700",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "18120C",
+    "organization": {
+      "name": "Zhouhai Intelligence(Shenzhen). Ltd",
+      "address": {
+        "line1": "Guangming Jianfa Yule No.2 Industrial Park, Yatong Street, Guangming District, Shenzhen City",
+        "line2": "Shenzhen Gudong 518083",
         "countryCode": "CN"
       }
     }
@@ -224954,6 +224976,17 @@
         "line1": "60-39, Gasan-dong, Geumcheon-gu",
         "line2": "Seoul 153-801",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "4890F0",
+    "organization": {
+      "name": "Dell Inc",
+      "address": {
+        "line1": "One Dell Way",
+        "line2": "Round Rock TX 78682",
+        "countryCode": "US"
       }
     }
   },
