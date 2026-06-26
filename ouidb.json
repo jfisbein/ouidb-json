@@ -3288,7 +3288,7 @@
   {
     "prefix": "000130",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -12681,7 +12681,7 @@
   {
     "prefix": "000496",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -70853,7 +70853,7 @@
   {
     "prefix": "001977",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -125155,7 +125155,7 @@
   {
     "prefix": "0089C9",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville 27560",
@@ -132200,7 +132200,7 @@
   {
     "prefix": "00B81D",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -138680,7 +138680,7 @@
   {
     "prefix": "00DCB2",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -139384,7 +139384,7 @@
   {
     "prefix": "00E02B",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -141854,7 +141854,7 @@
   {
     "prefix": "00E60E",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -150282,6 +150282,17 @@
     }
   },
   {
+    "prefix": "084F44",
+    "organization": {
+      "name": "GEW (ec) Ltd",
+      "address": {
+        "line1": "Crompton Way",
+        "line2": "Crawley West Sussex Rh10 9qr",
+        "countryCode": "GB"
+      }
+    }
+  },
+  {
     "prefix": "084F66",
     "organization": {
       "name": "Shenzhen Skyworth Digital Technology Ltd",
@@ -150344,6 +150355,17 @@
         "line1": "Koivu-mankkaan Tie 6",
         "line2": "Espoo 02100",
         "countryCode": "FI"
+      }
+    }
+  },
+  {
+    "prefix": "0851F2",
+    "organization": {
+      "name": "Sagemcom Broadband SAS",
+      "address": {
+        "line1": "4 Allée Des Messageries",
+        "line2": "Bois-colombes Haut de Seine 92270",
+        "countryCode": "FR"
       }
     }
   },
@@ -152813,7 +152835,7 @@
   {
     "prefix": "08EA44",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -156021,7 +156043,7 @@
   {
     "prefix": "0C9B78",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -157473,7 +157495,7 @@
   {
     "prefix": "0CED71",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -168359,7 +168381,7 @@
   {
     "prefix": "1849F8",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -172417,7 +172439,7 @@
   {
     "prefix": "1C2D60",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -174507,7 +174529,7 @@
   {
     "prefix": "1C984B",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -178184,7 +178206,7 @@
   {
     "prefix": "206C8A",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -178921,7 +178943,7 @@
   {
     "prefix": "209EF7",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -181127,7 +181149,7 @@
   {
     "prefix": "241FBD",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -182871,7 +182893,7 @@
   {
     "prefix": "248185",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville 27560",
@@ -194005,6 +194027,17 @@
     }
   },
   {
+    "prefix": "2CE7A7",
+    "organization": {
+      "name": "Sjit Ltd",
+      "address": {
+        "line1": "54-33 Dongtanhana 1-gil",
+        "line2": "Hwaseong-si Gyeonggi-do 18423",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "2CE871",
     "organization": {
       "name": "Alert Metalguard ApS",
@@ -198713,7 +198746,7 @@
   {
     "prefix": "30F856",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville 27560",
@@ -201496,7 +201529,7 @@
   {
     "prefix": "348584",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -213706,7 +213739,7 @@
   {
     "prefix": "4018B1",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -214256,7 +214289,7 @@
   {
     "prefix": "403F43",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -215585,7 +215618,7 @@
   {
     "prefix": "40882F",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -216333,7 +216366,7 @@
   {
     "prefix": "40B215",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -217268,7 +217301,7 @@
   {
     "prefix": "40E317",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -221998,7 +222031,7 @@
   {
     "prefix": "44E4E6",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -225114,7 +225147,7 @@
   {
     "prefix": "489BD5",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -227152,7 +227185,7 @@
   {
     "prefix": "4C0A4E",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -227581,7 +227614,7 @@
   {
     "prefix": "4C231A",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "6480 Via Del Oro",
         "line2": "San Jose CA 95119",
@@ -231712,7 +231745,7 @@
   {
     "prefix": "500A9C",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville 27560",
@@ -231958,6 +231991,17 @@
       "address": {
         "line1": "3180 De La Cruz Blvd. Ste# 110",
         "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "501911",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
         "countryCode": "US"
       }
     }
@@ -241000,6 +241044,17 @@
     }
   },
   {
+    "prefix": "580E85",
+    "organization": {
+      "name": "Sagemcom Broadband SAS",
+      "address": {
+        "line1": "4 Allée Des Messageries",
+        "line2": "Bois-colombes Haut de Seine 92270",
+        "countryCode": "FR"
+      }
+    }
+  },
+  {
     "prefix": "580FA5",
     "organization": {
       "name": "Apple",
@@ -242102,7 +242157,7 @@
   {
     "prefix": "5858CD",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -242124,7 +242179,7 @@
   {
     "prefix": "5859C2",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -245064,7 +245119,7 @@
   {
     "prefix": "5C0E8B",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "475 Half Day Road",
         "line2": "Lincolnshire IL 60069",
@@ -250032,7 +250087,7 @@
   {
     "prefix": "601D56",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -250285,7 +250340,7 @@
   {
     "prefix": "602D74",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -254037,6 +254092,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "60FAA7",
+    "organization": {
+      "name": "Shenzhen MTC Ltd",
+      "address": {
+        "line1": "5th Floor, 3rd Building, Shenzhen Mtc Industrial Park, Xialilang Rd, Nanwan Street, Long’gang District",
+        "line2": "Shenzhen Guangdong 518100",
         "countryCode": "CN"
       }
     }
@@ -258009,6 +258075,17 @@
       "address": {
         "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
         "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "64D667",
+    "organization": {
+      "name": "Shanghai Ikotek Technology Ltd",
+      "address": {
+        "line1": "Room 209, Building 7, No. 351 Sizhuan Road, Sijing Town, Songjiang District, Shanghai Municipality",
+        "line2": "Shanghai 200233",
         "countryCode": "CN"
       }
     }
@@ -263301,7 +263378,7 @@
   {
     "prefix": "6C0370",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -268423,6 +268500,17 @@
         "line1": "Thalkirchner Str. 210, Geb. 6",
         "line2": "81371 München 0",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "70246E",
+    "organization": {
+      "name": "Zhejiang Laibao Display Technology Ltd",
+      "address": {
+        "line1": "No. 2366 Xiangyang West Road, Dongqian Street, Nanxun District, Huzhou City, Zhejiang Province",
+        "line2": "Huzhou Zhejiang 313000",
+        "countryCode": "CN"
       }
     }
   },
@@ -274055,6 +274143,17 @@
     }
   },
   {
+    "prefix": "744F80",
+    "organization": {
+      "name": "Shenzhen Amos Electronics Ltd",
+      "address": {
+        "line1": "1st Floor, Building 4, Zhiheng Industrialpark, No.15, Guankou Raod, Nanshan District",
+        "line2": "Shenzhen Guangdong 518052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "74504E",
     "organization": {
       "name": "New H3C Technologies Ltd",
@@ -274475,7 +274574,7 @@
   {
     "prefix": "7467F7",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -280114,7 +280213,7 @@
   {
     "prefix": "787D53",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -280631,7 +280730,7 @@
   {
     "prefix": "7896A3",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -285345,7 +285444,7 @@
   {
     "prefix": "7C95B1",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -285587,7 +285686,7 @@
   {
     "prefix": "7CA4F7",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -290301,7 +290400,7 @@
   {
     "prefix": "809562",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -296247,6 +296346,17 @@
     }
   },
   {
+    "prefix": "84E6B3",
+    "organization": {
+      "name": "Tiinlab Corporation",
+      "address": {
+        "line1": "Building A Room 201 Cooperation District Between Shenzhen And Hongkong, Qianwan Road No.1, Shenzhen City, Business Address:No. 3333, Liuxian Avenuetower A, 35th Floor, Tanglang City, Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "84E714",
     "organization": {
       "name": "Liang Herng Enterprise, Co.Ltd",
@@ -298405,7 +298515,7 @@
   {
     "prefix": "885BDD",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -299031,7 +299141,7 @@
   {
     "prefix": "887E25",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -299091,6 +299201,17 @@
         "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
         "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "888225",
+    "organization": {
+      "name": "Telink Micro LLC",
+      "address": {
+        "line1": "2975 Scott Blvd #120",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
       }
     }
   },
@@ -302569,7 +302690,7 @@
   {
     "prefix": "8C497A",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -309681,7 +309802,7 @@
   {
     "prefix": "90B832",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -313542,7 +313663,7 @@
   {
     "prefix": "949B2C",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -321797,7 +321918,7 @@
   {
     "prefix": "9C5D12",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -331433,7 +331554,7 @@
   {
     "prefix": "A473AB",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -332060,7 +332181,7 @@
   {
     "prefix": "A49791",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -333079,7 +333200,7 @@
   {
     "prefix": "A4C7F6",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -333794,7 +333915,7 @@
   {
     "prefix": "A4EA8E",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -337463,7 +337584,7 @@
   {
     "prefix": "A8C647",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -339893,7 +340014,7 @@
   {
     "prefix": "AC4DD9",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -340817,7 +340938,7 @@
   {
     "prefix": "AC7F8D",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -342980,7 +343101,7 @@
   {
     "prefix": "ACED32",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -343849,7 +343970,7 @@
   {
     "prefix": "B027CF",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -348483,7 +348604,7 @@
   {
     "prefix": "B42D56",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -350331,7 +350452,7 @@
   {
     "prefix": "B4A3BD",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -351079,7 +351200,7 @@
   {
     "prefix": "B4C799",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -352527,7 +352648,7 @@
   {
     "prefix": "B81E0B",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -353359,7 +353480,7 @@
   {
     "prefix": "B85001",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -354140,7 +354261,7 @@
   {
     "prefix": "B87CF2",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -356087,7 +356208,7 @@
   {
     "prefix": "B8DC28",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -357781,7 +357902,7 @@
   {
     "prefix": "BC34D6",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -361110,7 +361231,7 @@
   {
     "prefix": "BCF310",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -366045,7 +366166,7 @@
   {
     "prefix": "C413E2",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -367952,6 +368073,17 @@
         "line1": "Room 202, 2nd.Floor, 3rd.Building, Kuiqiao Road, No.2, Tangxia Town, Dongguan",
         "line2": "Dongguan Guangdong 523000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "C47A5D",
+    "organization": {
+      "name": "Panmnesia Inc",
+      "address": {
+        "line1": "1, Expo-ro, Yuseong-gu",
+        "line2": "Daejeon 34126",
+        "countryCode": "KR"
       }
     }
   },
@@ -371753,7 +371885,7 @@
   {
     "prefix": "C851FB",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -372083,7 +372215,7 @@
   {
     "prefix": "C8665D",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -372094,7 +372226,7 @@
   {
     "prefix": "C8675E",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -373717,7 +373849,7 @@
   {
     "prefix": "C8BE35",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -373898,6 +374030,17 @@
         "line1": "501, Gwangmyeong M-cluster 17, Deogan-ro 104beon-gil",
         "line2": "Gwangmyeong-si Gyeonggi-do 14353",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "C8C992",
+    "organization": {
+      "name": "Beijing Roborock Technology Ltd",
+      "address": {
+        "line1": "Floor 6, Building C, Kangjian Baosheng Plaza, No. 8 Heiquan Road, Haidian District",
+        "line2": "Beijing Beijing 100085",
+        "countryCode": "CN"
       }
     }
   },
@@ -377198,6 +377341,17 @@
         "line1": "Tower 4, Excellence Century Center",
         "line2": "Shenzhen Guangdong 518000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "CC79B8",
+    "organization": {
+      "name": "Lunar Energy",
+      "address": {
+        "line1": "755 Ravendale Dr",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
@@ -382444,6 +382598,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D0A651",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
       }
     }
   },
@@ -388870,7 +389035,7 @@
   {
     "prefix": "D802C0",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -390450,7 +390615,7 @@
   {
     "prefix": "D854A2",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -391304,7 +391469,7 @@
   {
     "prefix": "D88466",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -393031,7 +393196,7 @@
   {
     "prefix": "D8E016",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -394120,7 +394285,7 @@
   {
     "prefix": "DC233B",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -396678,7 +396843,7 @@
   {
     "prefix": "DCB808",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -396700,7 +396865,7 @@
   {
     "prefix": "DCBB3D",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville 27560",
@@ -397305,7 +397470,7 @@
   {
     "prefix": "DCDCC3",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -397492,7 +397657,7 @@
   {
     "prefix": "DCE650",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -398383,7 +398548,7 @@
   {
     "prefix": "E01C41",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -400649,7 +400814,7 @@
   {
     "prefix": "E0A129",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -402728,7 +402893,7 @@
   {
     "prefix": "E41613",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -403531,7 +403696,7 @@
   {
     "prefix": "E444E5",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -406138,7 +406303,7 @@
   {
     "prefix": "E4DBAE",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -406706,7 +406871,7 @@
   {
     "prefix": "E4FD8C",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -416616,7 +416781,7 @@
   {
     "prefix": "F02B7C",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -416654,6 +416819,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F02F50",
+    "organization": {
+      "name": "Shenzhen SEI Robotics Ltd",
+      "address": {
+        "line1": "11th Floor, Kangtai Group Building, No. 222 Kefa Road, Science And Technology Park Community, Yuehai Street, Nanshan District, Shenzhen",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
       }
     }
   },
@@ -417470,7 +417646,7 @@
   {
     "prefix": "F06426",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -418350,7 +418526,7 @@
   {
     "prefix": "F09CE9",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -421800,7 +421976,7 @@
   {
     "prefix": "F45424",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -422317,7 +422493,7 @@
   {
     "prefix": "F46E95",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -422938,6 +423114,17 @@
         "line1": "Hans-urmiller-ring 56",
         "line2": "Wolfratshausen Bayern 82515",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "F49A7C",
+    "organization": {
+      "name": "Hangzhou Supranett Network Technology Ltd",
+      "address": {
+        "line1": "12f Building 1, 1399 Xiangbin Road, Xiaoshan Distric",
+        "line2": "Hangzhou Zhejiang 310000",
+        "countryCode": "CN"
       }
     }
   },
@@ -423874,7 +424061,7 @@
   {
     "prefix": "F4CE48",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -424380,7 +424567,7 @@
   {
     "prefix": "F4EAB5",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
@@ -430034,7 +430221,7 @@
   {
     "prefix": "FC0A81",
     "organization": {
-      "name": "Extreme Networks Headquarters",
+      "name": "Extreme Networks Inc",
       "address": {
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
