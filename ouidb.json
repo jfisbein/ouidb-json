@@ -21530,9 +21530,10 @@
   {
     "prefix": "0007CC",
     "organization": {
-      "name": "Kaba Benzing GmbH",
+      "name": "Dormakaba Deutschland GmbH",
       "address": {
-        "line1": "Albertistrabe 3",
+        "line1": "Dorma Platz 1",
+        "line2": "Ennepetal 58256",
         "countryCode": "DE"
       }
     }
@@ -32557,7 +32558,7 @@
   {
     "prefix": "000BD7",
     "organization": {
-      "name": "Dorma Time + Access GmbH",
+      "name": "Dormakaba Deutschland GmbH",
       "address": {
         "line1": "Mainzer Straße 36-52",
         "line2": "Bonn Nordrheinwestfalen 53179",
@@ -197622,6 +197623,17 @@
     }
   },
   {
+    "prefix": "30B89A",
+    "organization": {
+      "name": "Kryon Technology Private Limited",
+      "address": {
+        "line1": "Kryon Technology Private Limitedrbf 5 5g, Dtz, 380 Belerica Road, Sricity, Siddam Agraharam Village, Varadaiahpalem, Tirupati, Andhra Pradesh, 517541",
+        "line2": "Tirupati Andhra Pradesh 517541",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "30B930",
     "organization": {
       "name": "zte Corporation",
@@ -267449,6 +267461,17 @@
     }
   },
   {
+    "prefix": "6CE40D",
+    "organization": {
+      "name": "Raisecom Technology Ltd",
+      "address": {
+        "line1": "No. 11, East Area, No. 10 Block, East Xibeiwang Road",
+        "line2": "Beijing 100094",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "6CE4A4",
     "organization": {
       "name": "Silicon Laboratories",
@@ -276647,6 +276670,17 @@
         "line1": "NO.18 Haibin Road",
         "line2": "Dong Guan Guang Dong 523860",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "74D59C",
+    "organization": {
+      "name": "Fluidiq by Magnalytix",
+      "address": {
+        "line1": "424 Harding Industrial Drive",
+        "line2": "Nashville TN 37211",
+        "countryCode": "US"
       }
     }
   },
@@ -305704,6 +305738,17 @@
         "line1": "Blackbushe Business Park",
         "line2": "Yateley Hampshire Gu46 6gd",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "8CE807",
+    "organization": {
+      "name": "Bouffalo Lab (nanjing) Ltd",
+      "address": {
+        "line1": "5f, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China",
+        "line2": "Nanjing Jiangsu 211800",
+        "countryCode": "CN"
       }
     }
   },
@@ -352620,6 +352665,17 @@
         "line1": "Energeticheskaya, 1",
         "line2": "Moscow 111116",
         "countryCode": "RU"
+      }
+    }
+  },
+  {
+    "prefix": "B81BCB",
+    "organization": {
+      "name": "Shanghai Sunmi Technology Ltd",
+      "address": {
+        "line1": "Room 505, No.388 Song Hu Road, Yang Pu District, Shanghai, China",
+        "line2": "Shanghai Shanghai 200433",
+        "countryCode": "CN"
       }
     }
   },
