@@ -253318,6 +253318,17 @@
     }
   },
   {
+    "prefix": "60D1D8",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "60D21C",
     "organization": {
       "name": "Sunnovo International Limited",
@@ -272868,6 +272879,17 @@
     }
   },
   {
+    "prefix": "740B12",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "740BB0",
     "organization": {
       "name": "Hirschmann Automation and Control GmbH",
@@ -276944,6 +276966,17 @@
       "address": {
         "line1": "9-11, Building A3, Nanshan Ipark, No.1001 Xueyuan Avenue, Nanshan?",
         "line2": "Shenzhen 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "74DDF0",
+    "organization": {
+      "name": "Shen Zhen Tenda Technology Ltd",
+      "address": {
+        "line1": "6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen 518052",
         "countryCode": "CN"
       }
     }
