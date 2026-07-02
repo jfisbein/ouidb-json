@@ -130332,7 +130332,7 @@
   {
     "prefix": "00A0B0",
     "organization": {
-      "name": "I-O Data Device Inc",
+      "name": "I-O Data Inc",
       "address": {
         "line1": "24-1, Sakurada-machi",
         "line2": "Kanazawa, Ishikawa 920 na",
@@ -149542,6 +149542,17 @@
         "line1": "The Rainbow City of China Resources",
         "line2": "NO.68, Qinghe Middle Street Haidian District, Beijing 100085",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "082532",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },
@@ -182925,6 +182936,17 @@
     }
   },
   {
+    "prefix": "24814E",
+    "organization": {
+      "name": "AMD",
+      "address": {
+        "line1": "2485 Augustine Dr.",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "248185",
     "organization": {
       "name": "Extreme Networks Inc",
@@ -189358,6 +189380,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "28E971",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
       }
     }
   },
@@ -201288,7 +201321,7 @@
   {
     "prefix": "3476C5",
     "organization": {
-      "name": "I-O Data Device Inc",
+      "name": "I-O Data Inc",
       "address": {
         "line1": "3-10, Sakurada-machi",
         "line2": "Kanazawa Ishikawa 920-8512",
@@ -233000,7 +233033,7 @@
   {
     "prefix": "5041B9",
     "organization": {
-      "name": "I-O Data Device Inc",
+      "name": "I-O Data Inc",
       "address": {
         "line1": "3-10, Sakurada-machi",
         "line2": "Kanazawa Ishikawa 920-8512",
@@ -260203,6 +260236,17 @@
     }
   },
   {
+    "prefix": "6847C5",
+    "organization": {
+      "name": "Intel Corporate",
+      "address": {
+        "line1": "Lot 8, Jalan Hi-tech 2/3",
+        "line2": "Kulim Kedah 09000",
+        "countryCode": "MY"
+      }
+    }
+  },
+  {
     "prefix": "684898",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -266383,6 +266427,17 @@
     }
   },
   {
+    "prefix": "6CA0AF",
+    "organization": {
+      "name": "CM Partner Inc",
+      "address": {
+        "line1": "479-11 Gyeonggidong-ro Namsa-eup Cheoin-gu",
+        "line2": "Yongin-si Gyeonggi-do 17121",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "6CA0B4",
     "organization": {
       "name": "SKY UK Limited",
@@ -270653,6 +270708,17 @@
         "line1": "23 Hubble",
         "line2": "Irvine CA 92618",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "708536",
+    "organization": {
+      "name": "Arcadyan Corporation",
+      "address": {
+        "line1": "No.8, Sec.2, Guangfu Rd.",
+        "line2": "Hsinchu City Hsinchu 30071",
+        "countryCode": "TW"
       }
     }
   },
@@ -276399,6 +276465,17 @@
     }
   },
   {
+    "prefix": "74BC6B",
+    "organization": {
+      "name": "Intel Corporate",
+      "address": {
+        "line1": "Lot 8, Jalan Hi-tech 2/3",
+        "line2": "Kulim Kedah 09000",
+        "countryCode": "MY"
+      }
+    }
+  },
+  {
     "prefix": "74BE08",
     "organization": {
       "name": "Atek Products, LLC",
@@ -280274,6 +280351,17 @@
         "line1": "445 Hoes Lane",
         "line2": "Piscataway NJ 08554",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "787462",
+    "organization": {
+      "name": "Intel Corporate",
+      "address": {
+        "line1": "Lot 8, Jalan Hi-tech 2/3",
+        "line2": "Kulim Kedah 09000",
+        "countryCode": "MY"
       }
     }
   },
@@ -306666,6 +306754,17 @@
     }
   },
   {
+    "prefix": "900C0F",
+    "organization": {
+      "name": "Flume-io Inc",
+      "address": {
+        "line1": "7500 Rialto Blvd, Suite 1-250",
+        "line2": "Austin TX 78735",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "900CB4",
     "organization": {
       "name": "Alinket Electronic Technology Ltd",
@@ -330487,6 +330586,17 @@
     }
   },
   {
+    "prefix": "A426CA",
+    "organization": {
+      "name": "Intel Corporate",
+      "address": {
+        "line1": "Lot 8, Jalan Hi-tech 2/3",
+        "line2": "Kulim Kedah 09000",
+        "countryCode": "MY"
+      }
+    }
+  },
+  {
     "prefix": "A427A5",
     "organization": {
       "name": "Palo Alto Networks",
@@ -348427,6 +348537,17 @@
     }
   },
   {
+    "prefix": "B4101C",
+    "organization": {
+      "name": "Shanghai Imilab Technology Co.Ltd",
+      "address": {
+        "line1": "29f, A Tower, New Caohejing International Business Center, Guiping Road, Xuhui District",
+        "line2": "Shanghai Shanghai 200000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B4107A",
     "organization": {
       "name": "Amazon Technologies Inc",
@@ -348797,6 +348918,17 @@
         "line1": "89# Jiang Nan RD",
         "line2": "Suzhou Jiangsu 215412",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B42802",
+    "organization": {
+      "name": "Intel Corporate",
+      "address": {
+        "line1": "Lot 8, Jalan Hi-tech 2/3",
+        "line2": "Kulim Kedah 09000",
+        "countryCode": "MY"
       }
     }
   },
@@ -375795,6 +375927,17 @@
     }
   },
   {
+    "prefix": "CC1966",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
+      }
+    }
+  },
+  {
     "prefix": "CC19A8",
     "organization": {
       "name": "PT Inovação e Sistemas SA",
@@ -399258,6 +399401,17 @@
         "line1": "Bertel Jungin Aukio 9",
         "line2": "Espoo 02600",
         "countryCode": "FI"
+      }
+    }
+  },
+  {
+    "prefix": "E02A25",
+    "organization": {
+      "name": "Shenzhen Intellirocks Tech. Ltd",
+      "address": {
+        "line1": "No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue, Xili Community, Xili Street, Nanshan District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
       }
     }
   },
@@ -426145,6 +426299,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F82980",
+    "organization": {
+      "name": "Dongguan Ruilian Xiangtong Technology Ltd",
+      "address": {
+        "line1": "Room 203, Building 3, No.5-1 Gaoyuan Road, Tangxia Town",
+        "line2": "Dongguan City Guangdong Province 523710",
         "countryCode": "CN"
       }
     }
