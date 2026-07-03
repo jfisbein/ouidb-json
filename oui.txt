@@ -47966,6 +47966,30 @@ A426CA     (base 16)		Intel Corporate
 				KANAZAWA, ISHIKAWA 920    na
 				JP
 
+BC-C8-CC   (hex)		Seiko Epson Corporation
+BCC8CC     (base 16)		Seiko Epson Corporation
+				2070 Kotobuki Koaka
+				Matsumoto-shi  Nagano-ken  399-8702
+				JP
+
+90-B1-41   (hex)		Motorola Mobility LLC, a Lenovo Company
+90B141     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+B8-FE-96   (hex)		Amazon Technologies Inc.
+B8FE96     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+8C-A9-FD   (hex)		Copper Mountain Technologies
+8CA9FD     (base 16)		Copper Mountain Technologies
+				631 E New York St
+				Indianapolis  IN  46202
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95098,6 +95122,18 @@ B0FC4B     (base 16)		Shenzhen Phaten Tech. LTD
 				3-10,Sakurada-machi
 				Kanazawa  Ishikawa  920-8512
 				JP
+
+5C-C7-86   (hex)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
+5CC786     (base 16)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
+				3rd Floor, Building A1, Chuangxin Industrial Park, Songfu Avenue, Shasan Community, Shajing Subdistrict
+				Shenzhen  Guangdong  518104
+				CN
+
+F4-BD-AE   (hex)		Shenzhen V-Link Technology CO., LTD.
+F4BDAE     (base 16)		Shenzhen V-Link Technology CO., LTD.
+				Room 1803, BaiRuiDa Building, Bantian Sub-district, LongGang District
+				Shenzhen  GuangDong  518000
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -142346,12 +142382,6 @@ ECD508     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-10-A4-C9   (hex)		Apple, Inc.
-10A4C9     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 E0-2A-25   (hex)		Shenzhen Intellirocks Tech. Co. Ltd.
 E02A25     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
 				No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue,Xili Community, Xili Street, Nanshan District
@@ -142376,17 +142406,35 @@ E02A25     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
 				Yongin-si  Gyeonggi-do  17121
 				KR
 
-34-76-C5   (hex)		I-O DATA, INC.
-3476C5     (base 16)		I-O DATA, INC.
-				3-10, SAKURADA-MACHI
-				KANAZAWA  ISHIKAWA  920-8512
-				JP
+64-C9-F1   (hex)		Amazon Technologies Inc.
+64C9F1     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+0C-1B-7B   (hex)		Microsoft Corporation
+0C1B7B     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+10-A4-C9   (hex)		Apple, Inc.
+10A4C9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 24-81-4E   (hex)		AMD
 24814E     (base 16)		AMD
 				2485 Augustine Dr.
 				Santa Clara  CA  95054
 				US
+
+34-76-C5   (hex)		I-O DATA, INC.
+3476C5     (base 16)		I-O DATA, INC.
+				3-10, SAKURADA-MACHI
+				KANAZAWA  ISHIKAWA  920-8512
+				JP
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -190331,6 +190379,18 @@ CC1966     (base 16)		EM Microelectronic
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
+20-AB-53   (hex)		Motorola Mobility LLC, a Lenovo Company
+20AB53     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+5C-AA-A2   (hex)		CELESTICA INC.
+5CAAA2     (base 16)		CELESTICA INC.
+				1900-5140 Yonge Street PO Box 42   
+				Toronto  Ontario  M2N 6L7
+				CA
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -237762,4 +237822,10 @@ F8-29-80   (hex)		Dongguan Ruilian Xiangtong Technology Co., Ltd
 F82980     (base 16)		Dongguan Ruilian Xiangtong Technology Co., Ltd
 				 Room 203, Building 3, No.5-1 Gaoyuan Road, Tangxia Town
 				Dongguan City   Guangdong Province  523710
+				CN
+
+D8-A3-12   (hex)		Taicang T&W Electronics
+D8A312     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
 				CN

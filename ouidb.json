@@ -153725,6 +153725,17 @@
     }
   },
   {
+    "prefix": "0C1B7B",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "0C1BCC",
     "organization": {
       "name": "Iflytek Ltd",
@@ -179224,6 +179235,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "20AB53",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
+        "countryCode": "US"
       }
     }
   },
@@ -248033,6 +248055,17 @@
     }
   },
   {
+    "prefix": "5CAAA2",
+    "organization": {
+      "name": "Celestica Inc",
+      "address": {
+        "line1": "1900-5140 Yonge Street PO Box 42",
+        "line2": "Toronto Ontario M2n 6l7",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "5CAAFD",
     "organization": {
       "name": "Sonos Inc",
@@ -248556,6 +248589,17 @@
       "address": {
         "line1": "Suit 2207, 22nd Floor, Tower Ii, Lippo Centre, 89 Queensway",
         "line2": "Hong Kong 070",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "5CC786",
+    "organization": {
+      "name": "Shenzhen Tengxin Electronics Manufacturing Ltd",
+      "address": {
+        "line1": "3rd Floor, Building A1, Chuangxin Industrial Park, Songfu Avenue, Shasan Community, Shajing Subdistrict",
+        "line2": "Shenzhen Guangdong 518104",
         "countryCode": "CN"
       }
     }
@@ -257955,6 +257999,17 @@
       "address": {
         "line1": "2570 W El Camino Real",
         "line2": "Mountain View CA 94040",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "64C9F1",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
         "countryCode": "US"
       }
     }
@@ -305038,6 +305093,17 @@
     }
   },
   {
+    "prefix": "8CA9FD",
+    "organization": {
+      "name": "Copper Mountain Technologies",
+      "address": {
+        "line1": "631 E New York St",
+        "line2": "Indianapolis IN 46202",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "8CAAB5",
     "organization": {
       "name": "Espressif Inc",
@@ -310005,6 +310071,17 @@
       "address": {
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "90B141",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
         "countryCode": "US"
       }
     }
@@ -357241,6 +357318,17 @@
     }
   },
   {
+    "prefix": "B8FE96",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "B8FF61",
     "organization": {
       "name": "Apple",
@@ -361028,6 +361116,17 @@
         "line1": "5030 Sugarloaf Parkway",
         "line2": "Lawrenceville GA 30044",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "BCC8CC",
+    "organization": {
+      "name": "Seiko Epson Corporation",
+      "address": {
+        "line1": "2070 Kotobuki Koaka",
+        "line2": "Matsumoto-shi Nagano-ken 399-8702",
+        "countryCode": "JP"
       }
     }
   },
@@ -392520,6 +392619,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D8A312",
+    "organization": {
+      "name": "Taicang T\u0026W Electronics",
+      "address": {
+        "line1": "89# Jiang Nan RD",
+        "line2": "Suzhou Jiangsu 215412",
+        "countryCode": "CN"
       }
     }
   },
@@ -424287,6 +424397,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F4BDAE",
+    "organization": {
+      "name": "Shenzhen V-link Technology Ltd",
+      "address": {
+        "line1": "Room 1803, Bairuida Building, Bantian Sub-district, Longgang District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
       }
     }
   },
