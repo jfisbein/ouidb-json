@@ -95069,17 +95069,17 @@ E4DBAE     (base 16)		Extreme Networks, Inc.
 				Austin  TX  78701
 				US
 
-6C-DA-1D   (hex)		SUNTON TECHNOLOGY (M) SDN. BHD
-6CDA1D     (base 16)		SUNTON TECHNOLOGY (M) SDN. BHD
-				No. 20, Jalan BS7/1C, Taman Perindustrian Bukit Serdang, Seksyen 7
-				Seri Kembangan  Selangor  43300
-				MY
+5C-C7-86   (hex)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
+5CC786     (base 16)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
+				3rd Floor, Building A1, Chuangxin Industrial Park, Songfu Avenue, Shasan Community, Shajing Subdistrict
+				Shenzhen  Guangdong  518104
+				CN
 
-A4-42-80   (hex)		Apple, Inc.
-A44280     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
+F4-BD-AE   (hex)		Shenzhen V-Link Technology CO., LTD.
+F4BDAE     (base 16)		Shenzhen V-Link Technology CO., LTD.
+				Room 1803, BaiRuiDa Building, Bantian Sub-district, LongGang District
+				Shenzhen  GuangDong  518000
+				CN
 
 D0-92-82   (hex)		Apple, Inc.
 D09282     (base 16)		Apple, Inc.
@@ -95111,10 +95111,10 @@ B0FC4B     (base 16)		Shenzhen Phaten Tech. LTD
 				Shenzhen    518108
 				CN
 
-68-47-C5   (hex)		Intel Corporate
-6847C5     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3  
-				Kulim  Kedah  09000
+6C-DA-1D   (hex)		SUNTON TECHNOLOGY (M) SDN. BHD
+6CDA1D     (base 16)		SUNTON TECHNOLOGY (M) SDN. BHD
+				No. 20, Jalan BS7/1C, Taman Perindustrian Bukit Serdang, Seksyen 7
+				Seri Kembangan  Selangor  43300
 				MY
 
 50-41-B9   (hex)		I-O DATA, INC.
@@ -95123,17 +95123,17 @@ B0FC4B     (base 16)		Shenzhen Phaten Tech. LTD
 				Kanazawa  Ishikawa  920-8512
 				JP
 
-5C-C7-86   (hex)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
-5CC786     (base 16)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
-				3rd Floor, Building A1, Chuangxin Industrial Park, Songfu Avenue, Shasan Community, Shajing Subdistrict
-				Shenzhen  Guangdong  518104
-				CN
+68-47-C5   (hex)		Intel Corporate
+6847C5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
 
-F4-BD-AE   (hex)		Shenzhen V-Link Technology CO., LTD.
-F4BDAE     (base 16)		Shenzhen V-Link Technology CO., LTD.
-				Room 1803, BaiRuiDa Building, Bantian Sub-district, LongGang District
-				Shenzhen  GuangDong  518000
-				CN
+A4-42-80   (hex)		Apple, Inc.
+A44280     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
