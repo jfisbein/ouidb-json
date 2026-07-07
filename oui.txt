@@ -47990,6 +47990,12 @@ B8FE96     (base 16)		Amazon Technologies Inc.
 				Indianapolis  IN  46202
 				US
 
+7C-8A-3C   (hex)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+7C8A3C     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+				No.218 Qianwangang Road
+				Qingdao  Shangdong  266510
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -71173,12 +71179,6 @@ C035BD     (base 16)		Velocytech Aps
 				Units 3 & 6 Milford Trading Estate
 				Salisbury  Wiltshire  SP1 2UD
 				GB
-
-7C-B0-3E   (hex)		OSRAM GmbH
-7CB03E     (base 16)		OSRAM GmbH
-				Berliner Allee 65
-				Augsburg  Bayern  86136
-				DE
 
 E0-EF-25   (hex)		Lintes Technology Co., Ltd.
 E0EF25     (base 16)		Lintes Technology Co., Ltd.
@@ -95134,6 +95134,12 @@ D09282     (base 16)		Apple, Inc.
 				Lot 8, Jalan Hi-Tech 2/3  
 				Kulim  Kedah  09000
 				MY
+
+7C-B0-3E   (hex)		Inventronics GmbH
+7CB03E     (base 16)		Inventronics GmbH
+				Parkring 31-33
+				Garching    85748 
+				DE
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -142435,6 +142441,36 @@ ECD508     (base 16)		Apple, Inc.
 				P.O Box 8102 
 				Reno  NV  89507
 				US
+
+9C-96-1B   (hex)		IFTER Jerzy Taczalski
+9C961B     (base 16)		IFTER Jerzy Taczalski
+				Wola Niemiecka 78C
+				Niemce    21-025
+				PL
+
+50-F8-AD   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+50F8AD     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+80-43-5E   (hex)		Luminys Systems Corporation
+80435E     (base 16)		Luminys Systems Corporation
+				15245 Alton PkwySTE100
+				Irvine  CA  92618
+				US
+
+4C-83-FE   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+4C83FE     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				TP-LINK Building (Middle Tower, Room 402), No. 56, Xianyuan Rd, Yuncheng Comm., Xili S.D.O.
+				Nanshan  Shenzhen   518055
+				CN
+
+84-D3-03   (hex)		Chipsea Technologies (Shenzhen) Crop.
+84D303     (base 16)		Chipsea Technologies (Shenzhen) Crop.
+				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
+				Shenzhen    518000
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -190391,6 +190427,12 @@ CC1966     (base 16)		EM Microelectronic
 				Toronto  Ontario  M2N 6L7
 				CA
 
+84-1E-1A   (hex)		Sanya Muyu Technology Co., Ltd
+841E1A     (base 16)		Sanya Muyu Technology Co., Ltd
+				SW707, 7th Floor, Building 2, Sanya Taiping Financial Industry Port, No. 198 Yingbin Road, Jiyang District
+				Sanya  572022  Hainan
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -237829,3 +237871,21 @@ D8A312     (base 16)		Taicang T&W Electronics
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+EC-B1-57   (hex)		Sagemcom Broadband SAS
+ECB157     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+24-47-50   (hex)		Sagemcom Broadband SAS
+244750     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+10-1E-F4   (hex)		kiwimoore (Quzhou) Semiconductor Co.,Ltd
+101EF4     (base 16)		kiwimoore (Quzhou) Semiconductor Co.,Ltd
+				Room 349, Zone A, Building 1, No. 6 Kaixuan South Road, Kecheng District
+				Quzhou  Zhejiang  324000
+				CN

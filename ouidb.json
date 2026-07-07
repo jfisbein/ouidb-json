@@ -158524,6 +158524,17 @@
     }
   },
   {
+    "prefix": "101EF4",
+    "organization": {
+      "name": "Kiwimoore (quzhou) Semiconductor Ltd",
+      "address": {
+        "line1": "Room 349, Zone A, Building 1, No. 6 Kaixuan South Road, Kecheng District",
+        "line2": "Quzhou Zhejiang 324000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "101F74",
     "organization": {
       "name": "Hewlett Packard",
@@ -181833,6 +181844,17 @@
         "line1": "Bergsliden 1",
         "line2": "Gunnebo 59093",
         "countryCode": "SE"
+      }
+    }
+  },
+  {
+    "prefix": "244750",
+    "organization": {
+      "name": "Sagemcom Broadband SAS",
+      "address": {
+        "line1": "4 Allée Des Messageries",
+        "line2": "Bois-colombes Haut de Seine 92270",
+        "countryCode": "FR"
       }
     }
   },
@@ -229472,6 +229494,17 @@
     }
   },
   {
+    "prefix": "4C83FE",
+    "organization": {
+      "name": "Shenzhen Mercury Communication Technologies Ltd",
+      "address": {
+        "line1": "Tp-link Building (middle Tower, Room 402), No. 56, Xianyuan Rd, Yuncheng Comm., Xili S.D.O.",
+        "line2": "Nanshan Shenzhen 518055",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "4C858A",
     "organization": {
       "name": "BUFFALO.INC",
@@ -236374,6 +236407,17 @@
         "line1": "14f, 9, Teheran-ro 20-gil",
         "line2": "Gangnam-gu, Seoul 06236",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "50F8AD",
+    "organization": {
+      "name": "Nanjing Qinheng Microelectronics Ltd",
+      "address": {
+        "line1": "No.18, Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210012",
+        "countryCode": "CN"
       }
     }
   },
@@ -285608,6 +285652,17 @@
     }
   },
   {
+    "prefix": "7C8A3C",
+    "organization": {
+      "name": "Qingdao Intelligent\u0026precise Electronics Ltd",
+      "address": {
+        "line1": "No.218 Qianwangang Road",
+        "line2": "Qingdao Shangdong 266510",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "7C8AE1",
     "organization": {
       "name": "Compal Information (kunshan) Ltd",
@@ -286204,10 +286259,10 @@
   {
     "prefix": "7CB03E",
     "organization": {
-      "name": "Osram GmbH",
+      "name": "Inventronics GmbH",
       "address": {
-        "line1": "Berliner Allee 65",
-        "line2": "Augsburg Bayern 86136",
+        "line1": "Parkring 31-33",
+        "line2": "Garching 85748",
         "countryCode": "DE"
       }
     }
@@ -289210,6 +289265,17 @@
       "address": {
         "line1": "1133 Innovation Way",
         "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "80435E",
+    "organization": {
+      "name": "Luminys Systems Corporation",
+      "address": {
+        "line1": "15245 Alton Pkwyste100",
+        "line2": "Irvine CA 92618",
         "countryCode": "US"
       }
     }
@@ -293093,6 +293159,17 @@
     }
   },
   {
+    "prefix": "841E1A",
+    "organization": {
+      "name": "Sanya Muyu Technology Ltd",
+      "address": {
+        "line1": "Sw707, 7th Floor, Building 2, Sanya Taiping Financial Industry Port, No. 198 Yingbin Road, Jiyang District",
+        "line2": "Sanya 572022 Hainan",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "841E26",
     "organization": {
       "name": "Kernel-i Ltd",
@@ -296266,6 +296343,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "84D303",
+    "organization": {
+      "name": "Chipsea Technologies (shenzhen) Crop",
+      "address": {
+        "line1": "Room 301, Building 1, Shenzhen Bay Innovation And Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen",
+        "line2": "Shenzhen 518000",
+        "countryCode": "CN"
       }
     }
   },
@@ -323416,6 +323504,17 @@
         "line1": "618 Liangjiang Avenue, Longxing Town, Yubei District, Chongqing",
         "line2": "Chongqing Chongqing 401120",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "9C961B",
+    "organization": {
+      "name": "Ifter Jerzy Taczalski",
+      "address": {
+        "line1": "Wola Niemiecka 78c",
+        "line2": "Niemce 21-025",
+        "countryCode": "PL"
       }
     }
   },
@@ -415379,6 +415478,17 @@
         "line1": "42808 Christy St., Suite 100",
         "line2": "Fremont CA 94538",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "ECB157",
+    "organization": {
+      "name": "Sagemcom Broadband SAS",
+      "address": {
+        "line1": "4 Allée Des Messageries",
+        "line2": "Bois-colombes Haut de Seine 92270",
+        "countryCode": "FR"
       }
     }
   },
