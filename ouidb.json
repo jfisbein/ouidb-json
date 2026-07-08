@@ -162435,6 +162435,17 @@
     }
   },
   {
+    "prefix": "10E864",
+    "organization": {
+      "name": "Nucode Ltd",
+      "address": {
+        "line1": "3f, Zenith Tower, 557 Yeoksam-ro",
+        "line2": "Seoul 06182",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "10E878",
     "organization": {
       "name": "Nokia",
@@ -164926,6 +164937,17 @@
         "line1": "Zweigniederlassung/Branch Walluf",
         "line2": "In Der Rehbach 22 Walluf 65396",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "147830",
+    "organization": {
+      "name": "Nvidia Corporation",
+      "address": {
+        "line1": "2701 San Tomas Expressway",
+        "line2": "Santa Clara CA 95050",
+        "countryCode": "US"
       }
     }
   },
@@ -171004,6 +171026,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "18D3CF",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
       }
     }
   },
@@ -189743,6 +189776,17 @@
         "line1": "Via Zanella 21",
         "line2": "Lissone (mb) Monza Brianza 20851",
         "countryCode": "IT"
+      }
+    }
+  },
+  {
+    "prefix": "28F79A",
+    "organization": {
+      "name": "LX Semicon Ltd",
+      "address": {
+        "line1": "222 Techno 2-ro",
+        "line2": "Yuseong-gu, Daejeon - 34027",
+        "countryCode": "KR"
       }
     }
   },
@@ -244341,6 +244385,17 @@
     }
   },
   {
+    "prefix": "58D469",
+    "organization": {
+      "name": "Arista Networks",
+      "address": {
+        "line1": "5453 Great America Parkway",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "58D50A",
     "organization": {
       "name": "Murata Manufacturing Ltd",
@@ -267336,6 +267391,17 @@
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "6CCB7F",
+    "organization": {
+      "name": "GD Midea Air-conditioning Equipment Ltd",
+      "address": {
+        "line1": "Midea Global Innovation Center, Beijiao Town, Shunde",
+        "line2": "Foshan Guangdong 528311",
+        "countryCode": "CN"
       }
     }
   },
@@ -400725,6 +400791,17 @@
     }
   },
   {
+    "prefix": "E06A1B",
+    "organization": {
+      "name": "Shenzhen Zidoo Technology Ltd",
+      "address": {
+        "line1": "Floor 14, Building C, Huizhi R\u0026d Center, Xixiang Street, Bao\u0027an District",
+        "line2": "Shenzhen Guangdong 518100",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "E06C4E",
     "organization": {
       "name": "Shenzhen Tinno Mobile Technology Corp",
@@ -401875,6 +401952,17 @@
       "address": {
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "E0B613",
+    "organization": {
+      "name": "Arista Networks",
+      "address": {
+        "line1": "5453 Great America Parkway",
+        "line2": "Santa Clara CA 95054",
         "countryCode": "US"
       }
     }

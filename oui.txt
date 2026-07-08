@@ -47006,12 +47006,6 @@ D05533     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054
 				US
 
-1C-E5-87   (hex)		Cisco Meraki
-1CE587     (base 16)		Cisco Meraki
-				500 Terry A. Francois Blvd
-				San Francisco    94158
-				US
-
 FC-18-6B   (hex)		Dot Origin Ltd
 FC186B     (base 16)		Dot Origin Ltd
 				Unit 7 Coopers PlaceCombe Lane, Wormley
@@ -47048,44 +47042,20 @@ C4AA43     (base 16)		Cisco Systems, Inc
 				Chino  CA  91710
 				US
 
+1C-E5-87   (hex)		Cisco Meraki
+1CE587     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
 B8-34-46   (hex)		Motorola Mobility LLC, a Lenovo Company
 B83446     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
 
-38-17-B1   (hex)		Sagemcom Broadband SAS
-3817B1     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D8-CF-61   (hex)		Sagemcom Broadband SAS
-D8CF61     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-EC-FC-2F   (hex)		Sagemcom Broadband SAS
-ECFC2F     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-60-45-CD   (hex)		Sagemcom Broadband SAS
-6045CD     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-B0-92-4A   (hex)		Sagemcom Broadband SAS
-B0924A     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-38-E1-F4   (hex)		Sagemcom Broadband SAS
-38E1F4     (base 16)		Sagemcom Broadband SAS
+04-E3-1A   (hex)		Sagemcom Broadband SAS
+04E31A     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -47120,26 +47090,14 @@ B0924A     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-44-D4-53   (hex)		Sagemcom Broadband SAS
-44D453     (base 16)		Sagemcom Broadband SAS
+B0-92-4A   (hex)		Sagemcom Broadband SAS
+B0924A     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-64-66-24   (hex)		Sagemcom Broadband SAS
-646624     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-EC-BE-DD   (hex)		Sagemcom Broadband SAS
-ECBEDD     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-F8-08-4F   (hex)		Sagemcom Broadband SAS
-F8084F     (base 16)		Sagemcom Broadband SAS
+38-E1-F4   (hex)		Sagemcom Broadband SAS
+38E1F4     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -47158,6 +47116,30 @@ B05B99     (base 16)		Sagemcom Broadband SAS
 
 AC-D7-5B   (hex)		Sagemcom Broadband SAS
 ACD75B     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+38-17-B1   (hex)		Sagemcom Broadband SAS
+3817B1     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+D8-CF-61   (hex)		Sagemcom Broadband SAS
+D8CF61     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+EC-FC-2F   (hex)		Sagemcom Broadband SAS
+ECFC2F     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+60-45-CD   (hex)		Sagemcom Broadband SAS
+6045CD     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -47210,6 +47192,18 @@ B0FC88     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
+44-D4-53   (hex)		Sagemcom Broadband SAS
+44D453     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+64-66-24   (hex)		Sagemcom Broadband SAS
+646624     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
 24-4E-CD   (hex)		Sagemcom Broadband SAS
 244ECD     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
@@ -47222,8 +47216,14 @@ B0FC88     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-04-E3-1A   (hex)		Sagemcom Broadband SAS
-04E31A     (base 16)		Sagemcom Broadband SAS
+EC-BE-DD   (hex)		Sagemcom Broadband SAS
+ECBEDD     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+F8-08-4F   (hex)		Sagemcom Broadband SAS
+F8084F     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -47246,6 +47246,36 @@ E8ADA6     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
+8C-94-DF   (hex)		Espressif Inc.
+8C94DF     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+28-84-85   (hex)		Espressif Inc.
+288485     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+F8-5B-1B   (hex)		Espressif Inc.
+F85B1B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+44-1B-F6   (hex)		Espressif Inc.
+441BF6     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+70-4B-CA   (hex)		Espressif Inc.
+704BCA     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 2C-79-D7   (hex)		Sagemcom Broadband SAS
 2C79D7     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
@@ -47254,6 +47284,24 @@ E8ADA6     (base 16)		Sagemcom Broadband SAS
 
 D8-7D-7F   (hex)		Sagemcom Broadband SAS
 D87D7F     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+B0-98-2B   (hex)		Sagemcom Broadband SAS
+B0982B     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+18-90-D8   (hex)		Sagemcom Broadband SAS
+1890D8     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+34-8A-AE   (hex)		Sagemcom Broadband SAS
+348AAE     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -47276,32 +47324,8 @@ C0AC54     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-B4-3B-52   (hex)		Sagemcom Broadband SAS
-B43B52     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-F8-5B-1B   (hex)		Espressif Inc.
-F85B1B     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-44-1B-F6   (hex)		Espressif Inc.
-441BF6     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-70-4B-CA   (hex)		Espressif Inc.
-704BCA     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-8C-FD-49   (hex)		Espressif Inc.
-8CFD49     (base 16)		Espressif Inc.
+58-2A-BD   (hex)		Espressif Inc.
+582ABD     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -47318,32 +47342,8 @@ F85B1B     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-8C-94-DF   (hex)		Espressif Inc.
-8C94DF     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-28-84-85   (hex)		Espressif Inc.
-288485     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-B0-98-2B   (hex)		Sagemcom Broadband SAS
-B0982B     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-18-90-D8   (hex)		Sagemcom Broadband SAS
-1890D8     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-08-3E-5D   (hex)		Sagemcom Broadband SAS
-083E5D     (base 16)		Sagemcom Broadband SAS
+00-15-56   (hex)		Sagemcom Broadband SAS
+001556     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -47360,50 +47360,20 @@ A01B29     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-34-8A-AE   (hex)		Sagemcom Broadband SAS
-348AAE     (base 16)		Sagemcom Broadband SAS
+B4-3B-52   (hex)		Sagemcom Broadband SAS
+B43B52     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-88-56-A6   (hex)		Espressif Inc.
-8856A6     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-E0-8C-FE   (hex)		Espressif Inc.
-E08CFE     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+08-3E-5D   (hex)		Sagemcom Broadband SAS
+083E5D     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 80-45-6B   (hex)		Espressif Inc.
 80456B     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-58-2A-BD   (hex)		Espressif Inc.
-582ABD     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-00-15-56   (hex)		Sagemcom Broadband SAS
-001556     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-C4-5B-BE   (hex)		Espressif Inc.
-C45BBE     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-BC-FF-4D   (hex)		Espressif Inc.
-BCFF4D     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -47432,24 +47402,6 @@ C8C9A3     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-10-91-A8   (hex)		Espressif Inc.
-1091A8     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-58-CF-79   (hex)		Espressif Inc.
-58CF79     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-58-E6-C5   (hex)		Espressif Inc.
-58E6C5     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 AC-D0-74   (hex)		Espressif Inc.
 ACD074     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -47462,26 +47414,50 @@ ACD074     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-24-6F-28   (hex)		Espressif Inc.
-246F28     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-FC-F5-C4   (hex)		Espressif Inc.
-FCF5C4     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-70-03-9F   (hex)		Espressif Inc.
-70039F     (base 16)		Espressif Inc.
+68-C6-3A   (hex)		Espressif Inc.
+68C63A     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
 8C-CE-4E   (hex)		Espressif Inc.
 8CCE4E     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+C4-5B-BE   (hex)		Espressif Inc.
+C45BBE     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+BC-FF-4D   (hex)		Espressif Inc.
+BCFF4D     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+88-56-A6   (hex)		Espressif Inc.
+8856A6     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+E0-8C-FE   (hex)		Espressif Inc.
+E08CFE     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+58-E6-C5   (hex)		Espressif Inc.
+58E6C5     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+34-85-18   (hex)		Espressif Inc.
+348518     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -47498,38 +47474,38 @@ FCF5C4     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-68-C6-3A   (hex)		Espressif Inc.
-68C63A     (base 16)		Espressif Inc.
+FC-F5-C4   (hex)		Espressif Inc.
+FCF5C4     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-34-85-18   (hex)		Espressif Inc.
-348518     (base 16)		Espressif Inc.
+70-03-9F   (hex)		Espressif Inc.
+70039F     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-10-06-1C   (hex)		Espressif Inc.
-10061C     (base 16)		Espressif Inc.
+10-91-A8   (hex)		Espressif Inc.
+1091A8     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-DC-06-75   (hex)		Espressif Inc.
-DC0675     (base 16)		Espressif Inc.
+58-CF-79   (hex)		Espressif Inc.
+58CF79     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-58-8C-81   (hex)		Espressif Inc.
-588C81     (base 16)		Espressif Inc.
+8C-FD-49   (hex)		Espressif Inc.
+8CFD49     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-FC-01-2C   (hex)		Espressif Inc.
-FC012C     (base 16)		Espressif Inc.
+24-6F-28   (hex)		Espressif Inc.
+246F28     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -47564,6 +47540,42 @@ F09E9E     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+58-8C-81   (hex)		Espressif Inc.
+588C81     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+FC-01-2C   (hex)		Espressif Inc.
+FC012C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+5C-BA-75   (hex)		Quectel Wireless Solutions Co.,Ltd.
+5CBA75     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
+				Shanghai    200233
+				CN
+
+DC-06-75   (hex)		Espressif Inc.
+DC0675     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+10-06-1C   (hex)		Espressif Inc.
+10061C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+B8-D3-EF   (hex)		UNISEM (M) BERHAD
+B8D3EF     (base 16)		UNISEM (M) BERHAD
+				LOT 302285, JALAN INDUSTRI 1/1,KAWASAN PERINDUSTRIAN GOPENG,
+				GOPENG  PERAK  31600
+				MY
+
 6C-E4-DA   (hex)		NEC Platforms, Ltd.
 6CE4DA     (base 16)		NEC Platforms, Ltd.
 				14-1, Shiba 4-chome
@@ -47576,10 +47588,70 @@ F09E9E     (base 16)		Espressif Inc.
 				Minato-ku  Tokyo  108-8556
 				JP
 
-5C-BA-75   (hex)		Quectel Wireless Solutions Co.,Ltd.
-5CBA75     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
-				Shanghai    200233
+5C-40-97   (hex)		ACCTON TECHNOLOGY CORPORATION
+5C4097     (base 16)		ACCTON TECHNOLOGY CORPORATION
+				No.1, Creation Road 3, Hsinchu Science Park,
+				Hsinchu    30077
+				TW
+
+04-FB-66   (hex)		Ericsson AB
+04FB66     (base 16)		Ericsson AB
+				Torshamnsgatan 36
+				Stockholm    SE-164 80
+				SE
+
+D8-07-B6   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+D807B6     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+64-6E-97   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+646E97     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+D0-37-45   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+D03745     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+60-3A-7C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+603A7C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+68-DD-B7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+68DDB7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+14-D8-64   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+14D864     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+AC-84-C6   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+AC84C6     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+6C-B1-58   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+6CB158     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+24-69-68   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+246968     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
 				CN
 
 9C-1C-37   (hex)		AltoBeam Inc.
@@ -47606,23 +47678,17 @@ A4EF15     (base 16)		AltoBeam Inc.
 				Hangzhou City  Zhejiang Province,  310000
 				CN
 
-B8-D3-EF   (hex)		UNISEM (M) BERHAD
-B8D3EF     (base 16)		UNISEM (M) BERHAD
-				LOT 302285, JALAN INDUSTRI 1/1,KAWASAN PERINDUSTRIAN GOPENG,
-				GOPENG  PERAK  31600
-				MY
+04-23-A3   (hex)		Mellanox Technologies, Inc.
+0423A3     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
 
-5C-40-97   (hex)		ACCTON TECHNOLOGY CORPORATION
-5C4097     (base 16)		ACCTON TECHNOLOGY CORPORATION
-				No.1, Creation Road 3, Hsinchu Science Park,
-				Hsinchu    30077
-				TW
-
-04-FB-66   (hex)		Ericsson AB
-04FB66     (base 16)		Ericsson AB
-				Torshamnsgatan 36
-				Stockholm    SE-164 80
-				SE
+2C-E5-BD   (hex)		Ubiquiti Inc
+2CE5BD     (base 16)		Ubiquiti Inc
+				685 Third Avenue, 27th Floor
+				New York  NY  New York NY 10017
+				US
 
 5C-E7-53   (hex)		Shenzhen Intellirocks Tech. Co. Ltd.
 5CE753     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
@@ -47640,60 +47706,6 @@ C4-69-40   (hex)		Xiaomi Communications Co Ltd
 C46940     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
-				CN
-
-24-69-68   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-246968     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-D8-07-B6   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-D807B6     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-64-6E-97   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-646E97     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-D0-37-45   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-D03745     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-60-3A-7C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-603A7C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-AC-84-C6   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-AC84C6     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-6C-B1-58   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-6CB158     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-68-DD-B7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-68DDB7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-14-D8-64   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-14D864     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
 				CN
 
 B0-EC-69   (hex)		Apple, Inc.
@@ -47714,17 +47726,53 @@ B0BBA9     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-04-23-A3   (hex)		Mellanox Technologies, Inc.
-0423A3     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100  
-				Sunnyvale  CA  94085
+CC-38-E1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CC38E1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+50-95-46   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+509546     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+14-B6-EB   (hex)		 CJ intelligent technology LTD.
+14B6EB     (base 16)		 CJ intelligent technology LTD.
+				4F, No. 16, Zhongxin St., Shulin Dist.
+				New Taipei City    238035
+				TW
+
+C4-C0-0A   (hex)		Microsoft Corporation
+C4C00A     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
 				US
 
-2C-E5-BD   (hex)		Ubiquiti Inc
-2CE5BD     (base 16)		Ubiquiti Inc
-				685 Third Avenue, 27th Floor
-				New York  NY  New York NY 10017
-				US
+E0-9E-C1   (hex)		Silicon Innovation Microelectronics Co.,Ltd.
+E09EC1     (base 16)		Silicon Innovation Microelectronics Co.,Ltd.
+				2106, Building C, Maoye Center, 28 North Tianfu Avenue, High-tech Zone, Chengdu, Sichuan, China2106-7
+				Chengdu    610041
+				CN
+
+F4-9A-7C   (hex)		Hangzhou Supranett Network Technology Co.,Ltd.
+F49A7C     (base 16)		Hangzhou Supranett Network Technology Co.,Ltd.
+				12F Building 1, 1399 Xiangbin Road, Xiaoshan Distric
+				Hangzhou  Zhejiang  310000
+				CN
+
+10-93-27   (hex)		GIGA-BYTE TECHNOLOGY CO. , Ltd.
+109327     (base 16)		GIGA-BYTE TECHNOLOGY CO. , Ltd.
+				No.215 Nan-Ping Road
+				Taoyuan     324
+				TW
+
+18-12-0C   (hex)		Zhouhai Intelligence(Shenzhen).,Ltd
+18120C     (base 16)		Zhouhai Intelligence(Shenzhen).,Ltd
+				Guangming Jianfa Yule No.2 Industrial Park, Yatong Street, Guangming District, Shenzhen City
+				Shenzhen  Gudong  518083
+				CN
 
 0C-E6-23   (hex)		Huawei Device Co., Ltd.
 0CE623     (base 16)		Huawei Device Co., Ltd.
@@ -47744,46 +47792,28 @@ A0C926     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
-E0-9E-C1   (hex)		Silicon Innovation Microelectronics Co.,Ltd.
-E09EC1     (base 16)		Silicon Innovation Microelectronics Co.,Ltd.
-				2106, Building C, Maoye Center, 28 North Tianfu Avenue, High-tech Zone, Chengdu, Sichuan, China2106-7
-				Chengdu    610041
+64-D6-67   (hex)		Shanghai Ikotek Technology Co.,Ltd
+64D667     (base 16)		Shanghai Ikotek Technology Co.,Ltd
+				Room 209, Building 7, No. 351 Sizhuan Road, Sijing Town, Songjiang District, Shanghai Municipality
+				Shanghai    200233
 				CN
 
-10-93-27   (hex)		GIGA-BYTE TECHNOLOGY CO. , Ltd.
-109327     (base 16)		GIGA-BYTE TECHNOLOGY CO. , Ltd.
-				No.215 Nan-Ping Road
-				Taoyuan     324
-				TW
+08-51-F2   (hex)		Sagemcom Broadband SAS
+0851F2     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
-18-12-0C   (hex)		Zhouhai Intelligence(Shenzhen).,Ltd
-18120C     (base 16)		Zhouhai Intelligence(Shenzhen).,Ltd
-				Guangming Jianfa Yule No.2 Industrial Park, Yatong Street, Guangming District, Shenzhen City
-				Shenzhen  Gudong  518083
-				CN
+50-19-11   (hex)		IEEE Registration Authority
+501911     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
-14-B6-EB   (hex)		 CJ intelligent technology LTD.
-14B6EB     (base 16)		 CJ intelligent technology LTD.
-				4F, No. 16, Zhongxin St., Shulin Dist.
-				New Taipei City    238035
-				TW
-
-50-95-46   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-509546     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-CC-38-E1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-CC38E1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-C4-C0-0A   (hex)		Microsoft Corporation
-C4C00A     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND  WA  98052
+88-7E-25   (hex)		Extreme Networks, Inc.
+887E25     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
 				US
 
 B8-7C-F2   (hex)		Extreme Networks, Inc.
@@ -47804,74 +47834,8 @@ F4EAB5     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
-00-19-77   (hex)		Extreme Networks, Inc.
-001977     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-F4-9A-7C   (hex)		Hangzhou Supranett Network Technology Co.,Ltd.
-F49A7C     (base 16)		Hangzhou Supranett Network Technology Co.,Ltd.
-				12F Building 1, 1399 Xiangbin Road, Xiaoshan Distric
-				Hangzhou  Zhejiang  310000
-				CN
-
-B4-2D-56   (hex)		Extreme Networks, Inc.
-B42D56     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-88-7E-25   (hex)		Extreme Networks, Inc.
-887E25     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-64-D6-67   (hex)		Shanghai Ikotek Technology Co.,Ltd
-64D667     (base 16)		Shanghai Ikotek Technology Co.,Ltd
-				Room 209, Building 7, No. 351 Sizhuan Road, Sijing Town, Songjiang District, Shanghai Municipality
-				Shanghai    200233
-				CN
-
-08-51-F2   (hex)		Sagemcom Broadband SAS
-0851F2     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D0-A6-51   (hex)		AltoBeam Inc.
-D0A651     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
-50-19-11   (hex)		IEEE Registration Authority
-501911     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-A8-C6-47   (hex)		Extreme Networks, Inc.
-A8C647     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-E0-A1-29   (hex)		Extreme Networks, Inc.
-E0A129     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive
-				Morrisville  NC  27560
-				US
-
-0C-9B-78   (hex)		Extreme Networks, Inc.
-0C9B78     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-A4-73-AB   (hex)		Extreme Networks, Inc.
-A473AB     (base 16)		Extreme Networks, Inc.
+BC-34-D6   (hex)		Extreme Networks, Inc.
+BC34D6     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
@@ -47900,35 +47864,65 @@ A4C7F6     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
-BC-34-D6   (hex)		Extreme Networks, Inc.
-BC34D6     (base 16)		Extreme Networks, Inc.
+A8-C6-47   (hex)		Extreme Networks, Inc.
+A8C647     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
 
-60-D1-D8   (hex)		Silicon Laboratories
-60D1D8     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
+E0-A1-29   (hex)		Extreme Networks, Inc.
+E0A129     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive
+				Morrisville  NC  27560
 				US
+
+0C-9B-78   (hex)		Extreme Networks, Inc.
+0C9B78     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+A4-73-AB   (hex)		Extreme Networks, Inc.
+A473AB     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+D0-A6-51   (hex)		AltoBeam Inc.
+D0A651     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+B4-2D-56   (hex)		Extreme Networks, Inc.
+B42D56     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+00-19-77   (hex)		Extreme Networks, Inc.
+001977     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+94-0E-5F   (hex)		Apple, Inc.
+940E5F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C8-8A-7B   (hex)		Espressif Inc.
+C88A7B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 B4-10-1C   (hex)		Shanghai Imilab Technology Co.Ltd
 B4101C     (base 16)		Shanghai Imilab Technology Co.Ltd
 				29F, A Tower, New Caohejing International Business Center, Guiping Road, Xuhui District
 				Shanghai  Shanghai  200000
 				CN
-
-78-74-62   (hex)		Intel Corporate
-787462     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3  
-				Kulim  Kedah  09000
-				MY
-
-A4-26-CA   (hex)		Intel Corporate
-A426CA     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3  
-				Kulim  Kedah  09000
-				MY
 
 38-04-84   (hex)		Apple, Inc.
 380484     (base 16)		Apple, Inc.
@@ -47948,17 +47942,29 @@ A426CA     (base 16)		Intel Corporate
 				Cupertino  CA  95014
 				US
 
-94-0E-5F   (hex)		Apple, Inc.
-940E5F     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
+78-74-62   (hex)		Intel Corporate
+787462     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+A4-26-CA   (hex)		Intel Corporate
+A426CA     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
+60-D1-D8   (hex)		Silicon Laboratories
+60D1D8     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
 				US
 
-90-B1-41   (hex)		Motorola Mobility LLC, a Lenovo Company
-90B141     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
-				US
+00-A0-B0   (hex)		I-O DATA, INC.
+00A0B0     (base 16)		I-O DATA, INC.
+				24-1, SAKURADA-MACHI
+				KANAZAWA, ISHIKAWA 920    na
+				JP
 
 BC-C8-CC   (hex)		Seiko Epson Corporation
 BCC8CC     (base 16)		Seiko Epson Corporation
@@ -47966,17 +47972,11 @@ BCC8CC     (base 16)		Seiko Epson Corporation
 				Matsumoto-shi  Nagano-ken  399-8702
 				JP
 
-C8-8A-7B   (hex)		Espressif Inc.
-C88A7B     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-00-A0-B0   (hex)		I-O DATA, INC.
-00A0B0     (base 16)		I-O DATA, INC.
-				24-1, SAKURADA-MACHI
-				KANAZAWA, ISHIKAWA 920    na
-				JP
+90-B1-41   (hex)		Motorola Mobility LLC, a Lenovo Company
+90B141     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
 
 B8-FE-96   (hex)		Amazon Technologies Inc.
 B8FE96     (base 16)		Amazon Technologies Inc.
@@ -47995,6 +47995,18 @@ B8FE96     (base 16)		Amazon Technologies Inc.
 				No.218 Qianwangang Road
 				Qingdao  Shangdong  266510
 				CN
+
+58-D4-69   (hex)		Arista Networks
+58D469     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+18-D3-CF   (hex)		Hewlett Packard Enterprise
+18D3CF     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -94130,18 +94142,6 @@ EC50A6     (base 16)		Sagemcom Broadband SAS
 				Regensburg    93059
 				DE
 
-98-9E-85   (hex)		Honor Device Co., Ltd.
-989E85     (base 16)		Honor Device Co., Ltd.
-				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
-				Shenzhen   Guangdong  518040
-				CN
-
-0C-54-27   (hex)		Dongguan Huayin Electronic Technology Co., Ltd.
-0C5427     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
-				Room 101, No.8 Xinglong 3rd Road, Shipai Town
-				Dongguan  Guangdong  523000
-				CN
-
 BC-4F-2D   (hex)		Apple, Inc.
 BC4F2D     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -94166,6 +94166,24 @@ BC4F2D     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+98-9E-85   (hex)		Honor Device Co., Ltd.
+989E85     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+0C-54-27   (hex)		Dongguan Huayin Electronic Technology Co., Ltd.
+0C5427     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
+				Room 101, No.8 Xinglong 3rd Road, Shipai Town
+				Dongguan  Guangdong  523000
+				CN
+
+14-C7-C4   (hex)		Zyxel Communications Corporation
+14C7C4     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
 EC-2C-0D   (hex)		Apple, Inc.
 EC2C0D     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -94178,12 +94196,6 @@ D846CE     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-14-C7-C4   (hex)		Zyxel Communications Corporation
-14C7C4     (base 16)		Zyxel Communications Corporation
-				No. 6 Innovation Road II, Science Park
-				Hsichu  Taiwan  300
-				TW
-
 00-02-31   (hex)		Ingersoll-Rand
 000231     (base 16)		Ingersoll-Rand
 				53 Frontage Road Suite 250
@@ -94195,6 +94207,12 @@ D846CE     (base 16)		Apple, Inc.
 				35 Rue Joseph Monier
 				Rueil-Malmaison    92500
 				CA
+
+78-0C-26   (hex)		Trafag AG
+780C26     (base 16)		Trafag AG
+				Industriestrasse 11
+				Bubikon  Zuerich  8608
+				CH
 
 74-28-AE   (hex)		Mellanox Technologies, Inc.
 7428AE     (base 16)		Mellanox Technologies, Inc.
@@ -94219,12 +94237,6 @@ D846CE     (base 16)		Apple, Inc.
 				595, SECTOR-8, IMT MANESAR
 				GURGAON  Haryana  122051
 				IN
-
-78-0C-26   (hex)		Trafag AG
-780C26     (base 16)		Trafag AG
-				Industriestrasse 11
-				Bubikon  Zuerich  8608
-				CH
 
 24-1F-49   (hex)		NXP Semiconductors Taiwan Ltd.
 241F49     (base 16)		NXP Semiconductors Taiwan Ltd.
@@ -94268,6 +94280,18 @@ DCDE4B     (base 16)		SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
 				Shenzhen    518000
 				CN
 
+2C-FB-0F   (hex)		Sagemcom Broadband SAS
+2CFB0F     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+BC-D5-ED   (hex)		Sagemcom Broadband SAS
+BCD5ED     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
 B8-8C-2B   (hex)		Sagemcom Broadband SAS
 B88C2B     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
@@ -94292,30 +94316,6 @@ DC9272     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-70-7D-A1   (hex)		Sagemcom Broadband SAS
-707DA1     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-8C-9A-8F   (hex)		Sagemcom Broadband SAS
-8C9A8F     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-2C-FB-0F   (hex)		Sagemcom Broadband SAS
-2CFB0F     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-BC-D5-ED   (hex)		Sagemcom Broadband SAS
-BCD5ED     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
 9C-24-72   (hex)		Sagemcom Broadband SAS
 9C2472     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
@@ -94328,11 +94328,77 @@ BCD5ED     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
+70-7D-A1   (hex)		Sagemcom Broadband SAS
+707DA1     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+8C-9A-8F   (hex)		Sagemcom Broadband SAS
+8C9A8F     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+08-7B-12   (hex)		Sagemcom Broadband SAS
+087B12     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+D0-CF-0E   (hex)		Sagemcom Broadband SAS
+D0CF0E     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
 C0-A3-C7   (hex)		Telink Micro LLC
 C0A3C7     (base 16)		Telink Micro LLC
 				2975 Scott Blvd #120
 				Santa Clara  CA  95054
 				US
+
+D8-33-B7   (hex)		Sagemcom Broadband SAS
+D833B7     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+D0-6D-C9   (hex)		Sagemcom Broadband SAS
+D06DC9     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+34-53-D2   (hex)		Sagemcom Broadband SAS
+3453D2     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+58-2F-F7   (hex)		Sagemcom Broadband SAS
+582FF7     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+84-A4-23   (hex)		Sagemcom Broadband SAS
+84A423     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+48-E2-7E   (hex)		Sagemcom Broadband SAS
+48E27E     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+BC-33-DB   (hex)		Sagemcom Broadband SAS
+BC33DB     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 AC-3B-77   (hex)		Sagemcom Broadband SAS
 AC3B77     (base 16)		Sagemcom Broadband SAS
@@ -94352,62 +94418,8 @@ AC3B77     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-78-C2-13   (hex)		Sagemcom Broadband SAS
-78C213     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D8-33-B7   (hex)		Sagemcom Broadband SAS
-D833B7     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D0-6D-C9   (hex)		Sagemcom Broadband SAS
-D06DC9     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-08-7B-12   (hex)		Sagemcom Broadband SAS
-087B12     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D0-CF-0E   (hex)		Sagemcom Broadband SAS
-D0CF0E     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-C4-EB-42   (hex)		Sagemcom Broadband SAS
-C4EB42     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-48-E2-7E   (hex)		Sagemcom Broadband SAS
-48E27E     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-BC-33-DB   (hex)		Sagemcom Broadband SAS
-BC33DB     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-34-53-D2   (hex)		Sagemcom Broadband SAS
-3453D2     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-58-2F-F7   (hex)		Sagemcom Broadband SAS
-582FF7     (base 16)		Sagemcom Broadband SAS
+34-49-5B   (hex)		Sagemcom Broadband SAS
+34495B     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -94424,32 +94436,14 @@ BC33DB     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-10-06-45   (hex)		Sagemcom Broadband SAS
-100645     (base 16)		Sagemcom Broadband SAS
+C4-EB-42   (hex)		Sagemcom Broadband SAS
+C4EB42     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-34-49-5B   (hex)		Sagemcom Broadband SAS
-34495B     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-E8-F1-B0   (hex)		Sagemcom Broadband SAS
-E8F1B0     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-84-A4-23   (hex)		Sagemcom Broadband SAS
-84A423     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-4C-17-EB   (hex)		Sagemcom Broadband SAS
-4C17EB     (base 16)		Sagemcom Broadband SAS
+78-C2-13   (hex)		Sagemcom Broadband SAS
+78C213     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -94460,35 +94454,29 @@ CC33BB     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-24-B2-DE   (hex)		Espressif Inc.
-24B2DE     (base 16)		Espressif Inc.
+E8-F1-B0   (hex)		Sagemcom Broadband SAS
+E8F1B0     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+10-06-45   (hex)		Sagemcom Broadband SAS
+100645     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+20-50-0D   (hex)		Espressif Inc.
+20500D     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-D8-A0-1D   (hex)		Espressif Inc.
-D8A01D     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-BC-DD-C2   (hex)		Espressif Inc.
-BCDDC2     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-CC-50-E3   (hex)		Espressif Inc.
-CC50E3     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-A4-F0-0F   (hex)		Espressif Inc.
-A4F00F     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+4C-17-EB   (hex)		Sagemcom Broadband SAS
+4C17EB     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 D8-85-AC   (hex)		Espressif Inc.
 D885AC     (base 16)		Espressif Inc.
@@ -94504,6 +94492,24 @@ D4E9F4     (base 16)		Espressif Inc.
 
 1C-DB-D4   (hex)		Espressif Inc.
 1CDBD4     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+5C-CF-7F   (hex)		Espressif Inc.
+5CCF7F     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+BC-DD-C2   (hex)		Espressif Inc.
+BCDDC2     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+CC-50-E3   (hex)		Espressif Inc.
+CC50E3     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -94532,32 +94538,32 @@ D4E9F4     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-A4-E5-7C   (hex)		Espressif Inc.
-A4E57C     (base 16)		Espressif Inc.
+AC-67-B2   (hex)		Espressif Inc.
+AC67B2     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-EC-94-CB   (hex)		Espressif Inc.
-EC94CB     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-44-17-93   (hex)		Espressif Inc.
-441793     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-5C-CF-7F   (hex)		Espressif Inc.
-5CCF7F     (base 16)		Espressif Inc.
+0C-DC-7E   (hex)		Espressif Inc.
+0CDC7E     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
 A0-20-A6   (hex)		Espressif Inc.
 A020A6     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+24-B2-DE   (hex)		Espressif Inc.
+24B2DE     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+D8-A0-1D   (hex)		Espressif Inc.
+D8A01D     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -94574,6 +94580,24 @@ ACA704     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+A4-F0-0F   (hex)		Espressif Inc.
+A4F00F     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+EC-94-CB   (hex)		Espressif Inc.
+EC94CB     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+44-17-93   (hex)		Espressif Inc.
+441793     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 68-67-25   (hex)		Espressif Inc.
 686725     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -94586,26 +94610,26 @@ ACA704     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-AC-67-B2   (hex)		Espressif Inc.
-AC67B2     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-0C-DC-7E   (hex)		Espressif Inc.
-0CDC7E     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-20-50-0D   (hex)		Espressif Inc.
-20500D     (base 16)		Espressif Inc.
+A4-E5-7C   (hex)		Espressif Inc.
+A4E57C     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
 68-EE-8F   (hex)		Espressif Inc.
 68EE8F     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+F0-24-F9   (hex)		Espressif Inc.
+F024F9     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+8C-BF-EA   (hex)		Espressif Inc.
+8CBFEA     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -94634,38 +94658,8 @@ B8F862     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-4C-C3-82   (hex)		Espressif Inc.
-4CC382     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-10-B4-1D   (hex)		Espressif Inc.
-10B41D     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-F0-24-F9   (hex)		Espressif Inc.
-F024F9     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-8C-BF-EA   (hex)		Espressif Inc.
-8CBFEA     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-9C-9E-6E   (hex)		Espressif Inc.
-9C9E6E     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-78-EE-4C   (hex)		Espressif Inc.
-78EE4C     (base 16)		Espressif Inc.
+54-43-B2   (hex)		Espressif Inc.
+5443B2     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -94682,14 +94676,38 @@ F024F9     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-D8-13-2A   (hex)		Espressif Inc.
-D8132A     (base 16)		Espressif Inc.
+BC-14-69   (hex)		Phyplus Technology (Shanghai) Co., Ltd
+BC1469     (base 16)		Phyplus Technology (Shanghai) Co., Ltd
+				3th Floor, Building 23, 676 Wuxing Road, Pudong New District, Shanghai
+				Shanghai  Shanghai  201204
+				CN
+
+9C-9E-6E   (hex)		Espressif Inc.
+9C9E6E     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-54-43-B2   (hex)		Espressif Inc.
-5443B2     (base 16)		Espressif Inc.
+78-EE-4C   (hex)		Espressif Inc.
+78EE4C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+4C-C3-82   (hex)		Espressif Inc.
+4CC382     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+10-B4-1D   (hex)		Espressif Inc.
+10B41D     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+D8-13-2A   (hex)		Espressif Inc.
+D8132A     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -94700,10 +94718,16 @@ D8132A     (base 16)		Espressif Inc.
 				San Jose  CA  95002
 				US
 
-BC-14-69   (hex)		Phyplus Technology (Shanghai) Co., Ltd
-BC1469     (base 16)		Phyplus Technology (Shanghai) Co., Ltd
-				3th Floor, Building 23, 676 Wuxing Road, Pudong New District, Shanghai
-				Shanghai  Shanghai  201204
+B4-FB-E3   (hex)		AltoBeam Inc.
+B4FBE3     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+88-28-7D   (hex)		AltoBeam Inc.
+88287D     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
 				CN
 
 28-F3-66   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
@@ -94736,54 +94760,6 @@ D826D3     (base 16)		eero inc.
 				San Francisco  CA  94107
 				US
 
-74-39-89   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-743989     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-3C-6A-48   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-3C6A48     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-DC-00-77   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-DC0077     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-88-99-86   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-889986     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-60-32-B1   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-6032B1     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-B4-FB-E3   (hex)		AltoBeam Inc.
-B4FBE3     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
-88-28-7D   (hex)		AltoBeam Inc.
-88287D     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
-48-7F-80   (hex)		FRITZ! Technology GmbH
-487F80     (base 16)		FRITZ! Technology GmbH
-				Alt-Moabit 95
-				Berlin  Berlin  10559
-				DE
-
 2C-3F-87   (hex)		Private
 2C3F87     (base 16)		Private
 
@@ -94799,17 +94775,59 @@ D8FB58     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
+18-D0-E1   (hex)		Mellanox Technologies, Inc.
+18D0E1     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+88-99-86   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+889986     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+74-39-89   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+743989     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+DC-00-77   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+DC0077     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+60-32-B1   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+6032B1     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+3C-6A-48   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+3C6A48     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+48-7F-80   (hex)		FRITZ! Technology GmbH
+487F80     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
 30-EB-5A   (hex)		Landis+Gyr S.A.
 30EB5A     (base 16)		Landis+Gyr S.A.
 				78th km Old National Road Athens-Corinth 
 				Corinth     20100
 				GR
 
-C8-BB-B4   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-C8BBB4     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
-				HO CHI MINH CITY  HO CHI MINH  820000
-				VN
+98-B1-77   (hex)		Landis+Gyr S.A.
+98B177     (base 16)		Landis+Gyr S.A.
+				78th km Old National Road Athens-Corinth 
+				Corinth     20100
+				GR
 
 E8-FE-BE   (hex)		Apple, Inc.
 E8FEBE     (base 16)		Apple, Inc.
@@ -94841,11 +94859,35 @@ E8FEBE     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-18-D0-E1   (hex)		Mellanox Technologies, Inc.
-18D0E1     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100  
-				Sunnyvale  CA  94085
-				US
+C8-BB-B4   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+C8BBB4     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
+34-36-38   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+343638     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+60-79-C9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+6079C9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+38-3E-51   (hex)		Espressif Inc.
+383E51     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+78-B5-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78B5F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 64-C0-45   (hex)		Apple, Inc.
 64C045     (base 16)		Apple, Inc.
@@ -94853,11 +94895,35 @@ E8FEBE     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-98-B1-77   (hex)		Landis+Gyr S.A.
-98B177     (base 16)		Landis+Gyr S.A.
-				78th km Old National Road Athens-Corinth 
-				Corinth     20100
-				GR
+EC-84-39   (hex)		BITMAIN DEVELOPMENT PTE. LTD.
+EC8439     (base 16)		BITMAIN DEVELOPMENT PTE. LTD.
+				
+				    
+				
+
+DC-B8-08   (hex)		Extreme Networks, Inc.
+DCB808     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+48-9B-D5   (hex)		Extreme Networks, Inc.
+489BD5     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+BC-F3-10   (hex)		Extreme Networks, Inc.
+BCF310     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+E0-1C-41   (hex)		Extreme Networks, Inc.
+E01C41     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
 
 84-E6-B3   (hex)		Tiinlab Corporation
 84E6B3     (base 16)		Tiinlab Corporation
@@ -94865,11 +94931,23 @@ E8FEBE     (base 16)		Apple, Inc.
 				Shenzhen  Guangdong  518000
 				CN
 
-80-DA-CE   (hex)		Huawei Device Co., Ltd.
-80DACE     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
+FC-0A-81   (hex)		Extreme Networks, Inc.
+FC0A81     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+00-01-30   (hex)		Extreme Networks, Inc.
+000130     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+F4-6E-95   (hex)		Extreme Networks, Inc.
+F46E95     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
 
 10-93-C9   (hex)		Kingsignal Technology Co., Ltd.
 1093C9     (base 16)		Kingsignal Technology Co., Ltd.
@@ -94883,28 +94961,10 @@ C41062     (base 16)		Cornet Technology India Pvt Ltd
 				Siruseri, Chennai  Tamilnadu  603103
 				IN
 
-78-B5-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-78B5F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-34-36-38   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-343638     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-38-3E-51   (hex)		Espressif Inc.
-383E51     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-60-79-C9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-6079C9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+80-DA-CE   (hex)		Huawei Device Co., Ltd.
+80DACE     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
 
 24-BA-23   (hex)		Cisco Systems, Inc
@@ -94919,11 +94979,17 @@ C41062     (base 16)		Cornet Technology India Pvt Ltd
 				Crawley  West Sussex  RH10 9QR
 				GB
 
-EC-84-39   (hex)		BITMAIN DEVELOPMENT PTE. LTD.
-EC8439     (base 16)		BITMAIN DEVELOPMENT PTE. LTD.
-				
-				    
-				
+DC-23-3B   (hex)		Extreme Networks, Inc.
+DC233B     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+C8-51-FB   (hex)		Extreme Networks, Inc.
+C851FB     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
 
 60-1D-56   (hex)		Extreme Networks, Inc.
 601D56     (base 16)		Extreme Networks, Inc.
@@ -94961,32 +95027,14 @@ DCBB3D     (base 16)		Extreme Networks, Inc.
 				Morrisville    27560
 				US
 
-F4-6E-95   (hex)		Extreme Networks, Inc.
-F46E95     (base 16)		Extreme Networks, Inc.
+C8-66-5D   (hex)		Extreme Networks, Inc.
+C8665D     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
 
-DC-B8-08   (hex)		Extreme Networks, Inc.
-DCB808     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-48-9B-D5   (hex)		Extreme Networks, Inc.
-489BD5     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-BC-F3-10   (hex)		Extreme Networks, Inc.
-BCF310     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-E0-1C-41   (hex)		Extreme Networks, Inc.
-E01C41     (base 16)		Extreme Networks, Inc.
+D8-54-A2   (hex)		Extreme Networks, Inc.
+D854A2     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
@@ -95009,30 +95057,6 @@ E4DBAE     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
-C8-66-5D   (hex)		Extreme Networks, Inc.
-C8665D     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-D8-54-A2   (hex)		Extreme Networks, Inc.
-D854A2     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-DC-23-3B   (hex)		Extreme Networks, Inc.
-DC233B     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-C8-51-FB   (hex)		Extreme Networks, Inc.
-C851FB     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
 00-07-CC   (hex)		dormakaba Deutschland GmbH
 0007CC     (base 16)		dormakaba Deutschland GmbH
 				DORMA Platz 1
@@ -95045,23 +95069,41 @@ C851FB     (base 16)		Extreme Networks, Inc.
 				Bonn  Nordrheinwestfalen  53179
 				DE
 
-FC-0A-81   (hex)		Extreme Networks, Inc.
-FC0A81     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-00-01-30   (hex)		Extreme Networks, Inc.
-000130     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
 6C-E4-0D   (hex)		Raisecom Technology CO., LTD
 6CE40D     (base 16)		Raisecom Technology CO., LTD
 				No. 11, East Area, No. 10 Block, East Xibeiwang Road
 				Beijing    100094
 				CN
+
+74-0B-12   (hex)		Silicon Laboratories
+740B12     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+5C-C7-86   (hex)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
+5CC786     (base 16)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
+				3rd Floor, Building A1, Chuangxin Industrial Park, Songfu Avenue, Shasan Community, Shajing Subdistrict
+				Shenzhen  Guangdong  518104
+				CN
+
+F4-BD-AE   (hex)		Shenzhen V-Link Technology CO., LTD.
+F4BDAE     (base 16)		Shenzhen V-Link Technology CO., LTD.
+				Room 1803, BaiRuiDa Building, Bantian Sub-district, LongGang District
+				Shenzhen  GuangDong  518000
+				CN
+
+D0-92-82   (hex)		Apple, Inc.
+D09282     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+50-3B-70   (hex)		Apple, Inc.
+503B70     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 20-D5-C2   (hex)		Espressif Systems (Singapore) Pte. Ltd
 20D5C2     (base 16)		Espressif Systems (Singapore) Pte. Ltd
@@ -95081,47 +95123,11 @@ B0FC4B     (base 16)		Shenzhen Phaten Tech. LTD
 				Shenzhen    518108
 				CN
 
-5C-C7-86   (hex)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
-5CC786     (base 16)		ShenZhen Tengxin Electronics Manufacturing Co.,Ltd.
-				3rd Floor, Building A1, Chuangxin Industrial Park, Songfu Avenue, Shasan Community, Shajing Subdistrict
-				Shenzhen  Guangdong  518104
-				CN
-
-F4-BD-AE   (hex)		Shenzhen V-Link Technology CO., LTD.
-F4BDAE     (base 16)		Shenzhen V-Link Technology CO., LTD.
-				Room 1803, BaiRuiDa Building, Bantian Sub-district, LongGang District
-				Shenzhen  GuangDong  518000
-				CN
-
 6C-DA-1D   (hex)		SUNTON TECHNOLOGY (M) SDN. BHD
 6CDA1D     (base 16)		SUNTON TECHNOLOGY (M) SDN. BHD
 				No. 20, Jalan BS7/1C, Taman Perindustrian Bukit Serdang, Seksyen 7
 				Seri Kembangan  Selangor  43300
 				MY
-
-A4-42-80   (hex)		Apple, Inc.
-A44280     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D0-92-82   (hex)		Apple, Inc.
-D09282     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-50-3B-70   (hex)		Apple, Inc.
-503B70     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-74-0B-12   (hex)		Silicon Laboratories
-740B12     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
 
 50-41-B9   (hex)		I-O DATA, INC.
 5041B9     (base 16)		I-O DATA, INC.
@@ -95135,11 +95141,29 @@ D09282     (base 16)		Apple, Inc.
 				Kulim  Kedah  09000
 				MY
 
+A4-42-80   (hex)		Apple, Inc.
+A44280     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 7C-B0-3E   (hex)		Inventronics GmbH
 7CB03E     (base 16)		Inventronics GmbH
 				Parkring 31-33
 				Garching    85748 
 				DE
+
+E0-B6-13   (hex)		Arista Networks
+E0B613     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+14-78-30   (hex)		NVIDIA Corporation
+147830     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -141284,36 +141308,6 @@ A05D0E     (base 16)		ALPSALPINE CO.,LTD.
 				Beijing  Beijing  100085
 				CN
 
-FC-66-37   (hex)		Sagemcom Broadband SAS
-FC6637     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-64-FD-96   (hex)		Sagemcom Broadband SAS
-64FD96     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-E4-C0-E2   (hex)		Sagemcom Broadband SAS
-E4C0E2     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-3C-58-36   (hex)		Sagemcom Broadband SAS
-3C5836     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-70-23-93   (hex)		Polytech A/S
-702393     (base 16)		Polytech A/S
-				Thalkirchner Str. 210, Geb. 6
-				81371 München       0
-				DE
-
 6C-A6-13   (hex)		AltoBeam Inc.
 6CA613     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
@@ -141326,10 +141320,40 @@ E4C0E2     (base 16)		Sagemcom Broadband SAS
 				Shenzhen  Guangdong  518000
 				CN
 
-D0-0C-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
-D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
-				No.18, Ningshuang Road
-				 Nanjing  Jiangsu  210012
+70-23-93   (hex)		Polytech A/S
+702393     (base 16)		Polytech A/S
+				Thalkirchner Str. 210, Geb. 6
+				81371 München       0
+				DE
+
+E4-C0-E2   (hex)		Sagemcom Broadband SAS
+E4C0E2     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-FD-96   (hex)		Sagemcom Broadband SAS
+64FD96     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+3C-58-36   (hex)		Sagemcom Broadband SAS
+3C5836     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+FC-66-37   (hex)		Sagemcom Broadband SAS
+FC6637     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+7C-90-E9   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+7C90E9     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
 38-14-A1   (hex)		LG Innotek
@@ -141343,24 +141367,6 @@ D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
 				KYOTO  KYOTO  601-8501
 				JP
-
-7C-90-E9   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-7C90E9     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
-
-00-05-21   (hex)		Schneider Electric
-000521     (base 16)		Schneider Electric
-				35 Rue Joseph Monier
-				Rueil-Malmaison    92500
-				CA
-
-C4-42-68   (hex)		CRESTRON ELECTRONICS, INC.
-C44268     (base 16)		CRESTRON ELECTRONICS, INC.
-				88 Ramland Road
-				Orangeburg  NJ  10962
-				US
 
 30-09-16   (hex)		Apple, Inc.
 300916     (base 16)		Apple, Inc.
@@ -141392,29 +141398,11 @@ F4A1A6     (base 16)		Apple, Inc.
 				Brooklyn  NY  11205
 				US
 
-FC-B9-48   (hex)		McScience Inc.
-FCB948     (base 16)		McScience Inc.
-				B-1102, Digital Empire Bldg. 1556-16 Deogyeong Blvd., Yeongtong
-				Suwon    16690
-				KR
-
-44-1D-E5   (hex)		XCENA Inc.
-441DE5     (base 16)		XCENA Inc.
-				8F, 20, Pangyoyeok-ro 241 beon-gil, Bundang-gu
-				Seongnam-si  Gyeonggi-do  13494
-				KR
-
-58-F6-58   (hex)		Edifier International
-58F658     (base 16)		Edifier International
-				Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway
-				Hong Kong    070
+D0-0C-5E   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
 				CN
-
-E0-D2-39   (hex)		TECHNOLID, LLC
-E0D239     (base 16)		TECHNOLID, LLC
-				Nobelya, 7
-				Moscow    121205
-				RU
 
 A0-87-BE   (hex)		Apple, Inc.
 A087BE     (base 16)		Apple, Inc.
@@ -141440,6 +141428,54 @@ A087BE     (base 16)		Apple, Inc.
 				Reno  NV  89507
 				US
 
+00-05-21   (hex)		Schneider Electric
+000521     (base 16)		Schneider Electric
+				35 Rue Joseph Monier
+				Rueil-Malmaison    92500
+				CA
+
+C4-42-68   (hex)		CRESTRON ELECTRONICS, INC.
+C44268     (base 16)		CRESTRON ELECTRONICS, INC.
+				88 Ramland Road
+				Orangeburg  NJ  10962
+				US
+
+FC-B9-48   (hex)		McScience Inc.
+FCB948     (base 16)		McScience Inc.
+				B-1102, Digital Empire Bldg. 1556-16 Deogyeong Blvd., Yeongtong
+				Suwon    16690
+				KR
+
+44-1D-E5   (hex)		XCENA Inc.
+441DE5     (base 16)		XCENA Inc.
+				8F, 20, Pangyoyeok-ro 241 beon-gil, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13494
+				KR
+
+58-F6-58   (hex)		Edifier International
+58F658     (base 16)		Edifier International
+				Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway
+				Hong Kong    070
+				CN
+
+E0-D2-39   (hex)		TECHNOLID, LLC
+E0D239     (base 16)		TECHNOLID, LLC
+				Nobelya, 7
+				Moscow    121205
+				RU
+
+AC-23-6E   (hex)		Apismoon Electric Pte. Ltd.
+AC236E     (base 16)		Apismoon Electric Pte. Ltd.
+				Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG
+				SINGAPORE    533757
+				SG
+
+FC-11-19   (hex)		Silicon Laboratories
+FC1119     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 94-0F-3B   (hex)		ASKEY COMPUTER CORP
 940F3B     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
@@ -141452,29 +141488,23 @@ A087BE     (base 16)		Apple, Inc.
 				Santa Clara  CA  95054
 				US
 
+E4-D4-36   (hex)		Nokia Solutions and Networks India Private Limited
+E4D436     (base 16)		Nokia Solutions and Networks India Private Limited
+				Plot 45, Fathima NagarNemilicherry,Chrompet
+				Chennai  Taminadu  600044
+				IN
+
 7C-A0-5E   (hex)		Motorola Mobility LLC, a Lenovo Company
 7CA05E     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
 
-AC-23-6E   (hex)		Apismoon Electric Pte. Ltd.
-AC236E     (base 16)		Apismoon Electric Pte. Ltd.
-				Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG
-				SINGAPORE    533757
-				SG
-
 30-FD-34   (hex)		COMMANDO Networks Pvt Ltd.
 30FD34     (base 16)		COMMANDO Networks Pvt Ltd.
 				Millennium Business Park - IT Park
 				Navi Mumbai  MH  400710
 				IN
-
-FC-11-19   (hex)		Silicon Laboratories
-FC1119     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
 
 F0-C7-1F   (hex)		Arista Networks
 F0C71F     (base 16)		Arista Networks
@@ -141488,11 +141518,47 @@ F0C71F     (base 16)		Arista Networks
 				Cary,  NC  27513
 				US
 
-E4-D4-36   (hex)		Nokia Solutions and Networks India Private Limited
-E4D436     (base 16)		Nokia Solutions and Networks India Private Limited
-				Plot 45, Fathima NagarNemilicherry,Chrompet
-				Chennai  Taminadu  600044
-				IN
+5C-8D-FD   (hex)		Clariphotonics CO., Ltd
+5C8DFD     (base 16)		Clariphotonics CO., Ltd
+				7F-2, No. 20, Fuxing 1st Rd., Zhubei 
+				Zhubei     30256
+				TW
+
+64-79-99   (hex)		Sagemcom Broadband SAS
+647999     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+68-AB-A9   (hex)		Sagemcom Broadband SAS
+68ABA9     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+CC-FA-F1   (hex)		Sagemcom Broadband SAS
+CCFAF1     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+A0-3C-20   (hex)		Sagemcom Broadband SAS
+A03C20     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+18-6A-81   (hex)		Sagemcom Broadband SAS
+186A81     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+A0-7F-8A   (hex)		Sagemcom Broadband SAS
+A07F8A     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 60-3F-FB   (hex)		Telink Micro LLC
 603FFB     (base 16)		Telink Micro LLC
@@ -141505,6 +141571,66 @@ B0D616     (base 16)		Super Micro Computer, Inc.
 				980 Rock Ave
 				San Jose    95131
 				US
+
+C4-EB-43   (hex)		Sagemcom Broadband SAS
+C4EB43     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+C4-EB-41   (hex)		Sagemcom Broadband SAS
+C4EB41     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+94-3C-96   (hex)		Sagemcom Broadband SAS
+943C96     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+2C-F2-A5   (hex)		Sagemcom Broadband SAS
+2CF2A5     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+C4-EB-39   (hex)		Sagemcom Broadband SAS
+C4EB39     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+54-64-D9   (hex)		Sagemcom Broadband SAS
+5464D9     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+18-62-2C   (hex)		Sagemcom Broadband SAS
+18622C     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+3C-81-D8   (hex)		Sagemcom Broadband SAS
+3C81D8     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+40-F2-01   (hex)		Sagemcom Broadband SAS
+40F201     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+D0-84-B0   (hex)		Sagemcom Broadband SAS
+D084B0     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 24-7F-20   (hex)		Sagemcom Broadband SAS
 247F20     (base 16)		Sagemcom Broadband SAS
@@ -141530,12 +141656,6 @@ B0D616     (base 16)		Super Micro Computer, Inc.
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-00-1E-74   (hex)		Sagemcom Broadband SAS
-001E74     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
 B8-66-85   (hex)		Sagemcom Broadband SAS
 B86685     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
@@ -141550,60 +141670,6 @@ B86685     (base 16)		Sagemcom Broadband SAS
 
 D8-A7-56   (hex)		Sagemcom Broadband SAS
 D8A756     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-70-0B-01   (hex)		Sagemcom Broadband SAS
-700B01     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-5C-8D-FD   (hex)		Clariphotonics CO., Ltd
-5C8DFD     (base 16)		Clariphotonics CO., Ltd
-				7F-2, No. 20, Fuxing 1st Rd., Zhubei 
-				Zhubei     30256
-				TW
-
-64-79-99   (hex)		Sagemcom Broadband SAS
-647999     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-94-3C-96   (hex)		Sagemcom Broadband SAS
-943C96     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-2C-F2-A5   (hex)		Sagemcom Broadband SAS
-2CF2A5     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-C4-EB-39   (hex)		Sagemcom Broadband SAS
-C4EB39     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-68-AB-A9   (hex)		Sagemcom Broadband SAS
-68ABA9     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-CC-FA-F1   (hex)		Sagemcom Broadband SAS
-CCFAF1     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-A0-3C-20   (hex)		Sagemcom Broadband SAS
-A03C20     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -141626,26 +141692,8 @@ D4F829     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-18-6A-81   (hex)		Sagemcom Broadband SAS
-186A81     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-A0-7F-8A   (hex)		Sagemcom Broadband SAS
-A07F8A     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-C4-EB-43   (hex)		Sagemcom Broadband SAS
-C4EB43     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-C4-EB-41   (hex)		Sagemcom Broadband SAS
-C4EB41     (base 16)		Sagemcom Broadband SAS
+70-0B-01   (hex)		Sagemcom Broadband SAS
+700B01     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -141656,113 +141704,35 @@ A08E78     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-D8-F1-5B   (hex)		Espressif Inc.
-D8F15B     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-E0-98-06   (hex)		Espressif Inc.
-E09806     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-F4-CF-A2   (hex)		Espressif Inc.
-F4CFA2     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-10-52-1C   (hex)		Espressif Inc.
-10521C     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-3C-81-D8   (hex)		Sagemcom Broadband SAS
-3C81D8     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-40-F2-01   (hex)		Sagemcom Broadband SAS
-40F201     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D0-84-B0   (hex)		Sagemcom Broadband SAS
-D084B0     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
 00-37-B7   (hex)		Sagemcom Broadband SAS
 0037B7     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-F4-2D-C9   (hex)		Espressif Inc.
-F42DC9     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-B0-CB-D8   (hex)		Espressif Inc.
-B0CBD8     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-44-BD-8D   (hex)		Espressif Inc.
-44BD8D     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-C8-85-41   (hex)		Espressif Inc.
-C88541     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-54-64-D9   (hex)		Sagemcom Broadband SAS
-5464D9     (base 16)		Sagemcom Broadband SAS
+00-1E-74   (hex)		Sagemcom Broadband SAS
+001E74     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
-
-18-62-2C   (hex)		Sagemcom Broadband SAS
-18622C     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-E8-F6-0A   (hex)		Espressif Inc.
-E8F60A     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-90-64-9B   (hex)		Espressif Inc.
-90649B     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-30-AE-A4   (hex)		Espressif Inc.
-30AEA4     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
 
 FC-4A-47   (hex)		Nokia
 FC4A47     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+08-3A-F2   (hex)		Espressif Inc.
+083AF2     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+94-B9-7E   (hex)		Espressif Inc.
+94B97E     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 4C-75-25   (hex)		Espressif Inc.
 4C7525     (base 16)		Espressif Inc.
@@ -141778,90 +141748,6 @@ FC4A47     (base 16)		Nokia
 
 98-CD-AC   (hex)		Espressif Inc.
 98CDAC     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-34-86-5D   (hex)		Espressif Inc.
-34865D     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-84-F7-03   (hex)		Espressif Inc.
-84F703     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-5C-01-3B   (hex)		Espressif Inc.
-5C013B     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-28-37-2F   (hex)		Espressif Inc.
-28372F     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-14-33-5C   (hex)		Espressif Inc.
-14335C     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-98-88-E0   (hex)		Espressif Inc.
-9888E0     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-98-A3-16   (hex)		Espressif Inc.
-98A316     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-1C-9D-C2   (hex)		Espressif Inc.
-1C9DC2     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-4C-EB-D6   (hex)		Espressif Inc.
-4CEBD6     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-D4-F9-8D   (hex)		Espressif Inc.
-D4F98D     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-E8-31-CD   (hex)		Espressif Inc.
-E831CD     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-D8-BC-38   (hex)		Espressif Inc.
-D8BC38     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-CC-7B-5C   (hex)		Espressif Inc.
-CC7B5C     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-FC-E8-C0   (hex)		Espressif Inc.
-FCE8C0     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -141884,6 +141770,174 @@ FCB467     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+D8-BC-38   (hex)		Espressif Inc.
+D8BC38     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+E0-98-06   (hex)		Espressif Inc.
+E09806     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+F4-CF-A2   (hex)		Espressif Inc.
+F4CFA2     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+10-52-1C   (hex)		Espressif Inc.
+10521C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+40-F5-20   (hex)		Espressif Inc.
+40F520     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+34-86-5D   (hex)		Espressif Inc.
+34865D     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+84-F7-03   (hex)		Espressif Inc.
+84F703     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+1C-9D-C2   (hex)		Espressif Inc.
+1C9DC2     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+4C-EB-D6   (hex)		Espressif Inc.
+4CEBD6     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+44-BD-8D   (hex)		Espressif Inc.
+44BD8D     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+C8-85-41   (hex)		Espressif Inc.
+C88541     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+90-64-9B   (hex)		Espressif Inc.
+90649B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+F4-2D-C9   (hex)		Espressif Inc.
+F42DC9     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+B0-CB-D8   (hex)		Espressif Inc.
+B0CBD8     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+E8-F6-0A   (hex)		Espressif Inc.
+E8F60A     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+D4-F9-8D   (hex)		Espressif Inc.
+D4F98D     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+E8-31-CD   (hex)		Espressif Inc.
+E831CD     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+D8-F1-5B   (hex)		Espressif Inc.
+D8F15B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+30-AE-A4   (hex)		Espressif Inc.
+30AEA4     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+74-8B-23   (hex)		Samsung Electronics Co.,Ltd
+748B23     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+20-0D-3D   (hex)		Quectel Wireless Solutions Co.,Ltd.
+200D3D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
+				Shanghai    200233
+				CN
+
+94-54-C5   (hex)		Espressif Inc.
+9454C5     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+78-42-1C   (hex)		Espressif Inc.
+78421C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+5C-01-3B   (hex)		Espressif Inc.
+5C013B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+28-37-2F   (hex)		Espressif Inc.
+28372F     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+CC-7B-5C   (hex)		Espressif Inc.
+CC7B5C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+FC-E8-C0   (hex)		Espressif Inc.
+FCE8C0     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+14-2B-2F   (hex)		Espressif Inc.
+142B2F     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 88-57-21   (hex)		Espressif Inc.
 885721     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -141902,12 +141956,6 @@ B81F3F     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-14-2B-2F   (hex)		Espressif Inc.
-142B2F     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 48-CA-43   (hex)		Espressif Inc.
 48CA43     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -141920,59 +141968,29 @@ E80690     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-40-F5-20   (hex)		Espressif Inc.
-40F520     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-08-3A-F2   (hex)		Espressif Inc.
-083AF2     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-94-B9-7E   (hex)		Espressif Inc.
-94B97E     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 34-CD-B0   (hex)		Espressif Inc.
 34CDB0     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-94-54-C5   (hex)		Espressif Inc.
-9454C5     (base 16)		Espressif Inc.
+14-33-5C   (hex)		Espressif Inc.
+14335C     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-78-42-1C   (hex)		Espressif Inc.
-78421C     (base 16)		Espressif Inc.
+98-88-E0   (hex)		Espressif Inc.
+9888E0     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-74-8B-23   (hex)		Samsung Electronics Co.,Ltd
-748B23     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  16677
-				KR
-
-20-0D-3D   (hex)		Quectel Wireless Solutions Co.,Ltd.
-200D3D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District
-				Shanghai    200233
-				CN
-
-4C-80-FB   (hex)		Google, Inc.
-4C80FB     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
-				US
+98-A3-16   (hex)		Espressif Inc.
+98A316     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 98-F1-99   (hex)		NEC Platforms, Ltd.
 98F199     (base 16)		NEC Platforms, Ltd.
@@ -141980,11 +141998,29 @@ E80690     (base 16)		Espressif Inc.
 				Minato-ku  Tokyo  108-8556
 				JP
 
-1C-7C-98   (hex)		NEC Platforms, Ltd.
-1C7C98     (base 16)		NEC Platforms, Ltd.
-				14-1, Shiba 4-chome
-				Minato-ku  Tokyo  108-8556
-				JP
+4C-80-FB   (hex)		Google, Inc.
+4C80FB     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+3C-33-00   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+3C3300     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO 268，Fuqian Rd,Jutang Community,Guanlan town , LongHua new district
+				Shenzhen  Guangdong  518110
+				CN
+
+AC-A2-13   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+ACA213     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO 268，Fuqian Rd,Jutang Community
+				shenzhen  guangdong  518110
+				CN
+
+44-33-4C   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+44334C     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO 268
+				Shenzhen  Guangdong  518110
+				CN
 
 44-5E-82   (hex)		Zyxel Communications Corporation
 445E82     (base 16)		Zyxel Communications Corporation
@@ -141992,11 +142028,23 @@ E80690     (base 16)		Espressif Inc.
 				Hsichu  Taiwan  300
 				TW
 
+F4-B1-9C   (hex)		AltoBeam Inc.
+F4B19C     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
 A0-CA-4A   (hex)		AltoBeam Inc.
 A0CA4A     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
 				CN
+
+1C-7C-98   (hex)		NEC Platforms, Ltd.
+1C7C98     (base 16)		NEC Platforms, Ltd.
+				14-1, Shiba 4-chome
+				Minato-ku  Tokyo  108-8556
+				JP
 
 1C-4A-3B   (hex)		ACCTON TECHNOLOGY CORPORATION
 1C4A3B     (base 16)		ACCTON TECHNOLOGY CORPORATION
@@ -142009,12 +142057,6 @@ A0CA4A     (base 16)		AltoBeam Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-78-44-FD   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-7844FD     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
 
 F4-84-8D   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 F4848D     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -142030,6 +142072,24 @@ F4848D     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 
 40-3F-8C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 403F8C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+4C-10-D5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+4C10D5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+60-29-2B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+60292B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+78-44-FD   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7844FD     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
 				Hangzhou City  Zhejiang Province,  310000
 				CN
@@ -142052,32 +142112,14 @@ B006EC     (base 16)		Nexquome Pte Limited
 				Hangzhou City  Zhejiang Province,  310000
 				CN
 
-3C-33-00   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-3C3300     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				NO 268，Fuqian Rd,Jutang Community,Guanlan town , LongHua new district
-				Shenzhen  Guangdong  518110
-				CN
-
-AC-A2-13   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-ACA213     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				NO 268，Fuqian Rd,Jutang Community
-				shenzhen  guangdong  518110
-				CN
-
-44-33-4C   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-44334C     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				NO 268
-				Shenzhen  Guangdong  518110
-				CN
-
-4C-10-D5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-4C10D5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+80-EA-07   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+80EA07     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
 				Hangzhou City  Zhejiang Province,  310000
 				CN
 
-60-29-2B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-60292B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+50-D4-F7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+50D4F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
 				Hangzhou City  Zhejiang Province,  310000
 				CN
@@ -142088,29 +142130,23 @@ ACA213     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				San Jose  CA  95002
 				US
 
-98-2A-C3   (hex)		Silicon Laboratories
-982AC3     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-80-EA-07   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-80EA07     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-F4-B1-9C   (hex)		AltoBeam Inc.
-F4B19C     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
 28-80-6E   (hex)		Pirelli Tyre S.p.A.
 28806E     (base 16)		Pirelli Tyre S.p.A.
 				Via Piero e Alberto Pirelli 25
 				Milan  Lombardia  20126
 				IT
+
+68-2E-3C   (hex)		Ubiquiti Inc
+682E3C     (base 16)		Ubiquiti Inc
+				685 Third Avenue, 27th Floor
+				New York  NY  New York NY 10017
+				US
+
+98-2A-C3   (hex)		Silicon Laboratories
+982AC3     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 B4-7E-9F   (hex)		Xiaomi Communications Co Ltd
 B47E9F     (base 16)		Xiaomi Communications Co Ltd
@@ -142123,6 +142159,36 @@ C0C7B5     (base 16)		Infinix mobility limited
 				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
 				HongKong  HongKong  999077
 				HK
+
+D0-82-E8   (hex)		Tuya Smart Inc.
+D082E8     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
+
+6C-3D-D8   (hex)		Espressif Systems (Singapore) Pte. Ltd
+6C3DD8     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+4C-D0-12   (hex)		Apple, Inc.
+4CD012     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-E6-4B   (hex)		Apple, Inc.
+08E64B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-C2-46   (hex)		Apple, Inc.
+8CC246     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 F4-B2-4E   (hex)		Huawei Device Co., Ltd.
 F4B24E     (base 16)		Huawei Device Co., Ltd.
@@ -142148,47 +142214,11 @@ F406A3     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
-6C-3D-D8   (hex)		Espressif Systems (Singapore) Pte. Ltd
-6C3DD8     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
-
-4C-D0-12   (hex)		Apple, Inc.
-4CD012     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-08-E6-4B   (hex)		Apple, Inc.
-08E64B     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D0-82-E8   (hex)		Tuya Smart Inc.
-D082E8     (base 16)		Tuya Smart Inc.
-				160 Greentree Drive, Suite 101
-				Dover  DE  19904
-				US
-
-80-D1-75   (hex)		iPanel.TV Inc.
-80D175     (base 16)		iPanel.TV Inc.
-				6th Floor, Building B, Jinfengcheng Mansion, Shennan East Road No. 5015, Luohu District
-				Shenzhen  Guangdong  518004
+20-68-AA   (hex)		Potron Technology Co.,Ltd.,
+2068AA     (base 16)		Potron Technology Co.,Ltd.,
+				708 Bldg.B, Qian wan Key&Core Technology Industrial Park, Shenzhen,China 518126
+				Shenzhen  Guangdong  518000
 				CN
-
-50-D4-F7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-50D4F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-8C-C2-46   (hex)		Apple, Inc.
-8CC246     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
 
 5C-23-C2   (hex)		Apple, Inc.
 5C23C2     (base 16)		Apple, Inc.
@@ -142208,59 +142238,17 @@ D082E8     (base 16)		Tuya Smart Inc.
 				Cupertino  CA  95014
 				US
 
+80-D1-75   (hex)		iPanel.TV Inc.
+80D175     (base 16)		iPanel.TV Inc.
+				6th Floor, Building B, Jinfengcheng Mansion, Shennan East Road No. 5015, Luohu District
+				Shenzhen  Guangdong  518004
+				CN
+
 84-C7-BB   (hex)		Espressif Inc.
 84C7BB     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
-
-68-2E-3C   (hex)		Ubiquiti Inc
-682E3C     (base 16)		Ubiquiti Inc
-				685 Third Avenue, 27th Floor
-				New York  NY  New York NY 10017
-				US
-
-58-8F-A7   (hex)		LG Innotek
-588FA7     (base 16)		LG Innotek
-				26, HANAMSANDAN 5BEON-RO
-				Gwangju  Gwangsan-gu  506-731
-				KR
-
-F0-2F-50   (hex)		Shenzhen SEI Robotics Co.,Ltd
-F02F50     (base 16)		Shenzhen SEI Robotics Co.,Ltd
-				11th Floor, Kangtai Group Building, No. 222 Kefa Road, Science and Technology Park Community, Yuehai Street, Nanshan District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
-74-4F-80   (hex)		shenzhen Amos Electronics Co.,Ltd
-744F80     (base 16)		shenzhen Amos Electronics Co.,Ltd
-				1st floor,building 4,zhiheng industrialpark,No.15,guankou raod,nanshan district
-				shenzhen  Guangdong  518052
-				CN
-
-20-68-AA   (hex)		Potron Technology Co.,Ltd.,
-2068AA     (base 16)		Potron Technology Co.,Ltd.,
-				708 Bldg.B, Qian wan Key&Core Technology Industrial Park, Shenzhen,China 518126
-				Shenzhen  Guangdong  518000
-				CN
-
-A4-EA-8E   (hex)		Extreme Networks, Inc.
-A4EA8E     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-94-9B-2C   (hex)		Extreme Networks, Inc.
-949B2C     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-B8-50-01   (hex)		Extreme Networks, Inc.
-B85001     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
 
 34-54-EF   (hex)		Cisco Systems, Inc
 3454EF     (base 16)		Cisco Systems, Inc
@@ -142268,11 +142256,11 @@ B85001     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  94568
 				US
 
-34-85-84   (hex)		Extreme Networks, Inc.
-348584     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
+58-8F-A7   (hex)		LG Innotek
+588FA7     (base 16)		LG Innotek
+				26, HANAMSANDAN 5BEON-RO
+				Gwangju  Gwangsan-gu  506-731
+				KR
 
 88-5B-DD   (hex)		Extreme Networks, Inc.
 885BDD     (base 16)		Extreme Networks, Inc.
@@ -142298,6 +142286,48 @@ B85001     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
+E4-44-E5   (hex)		Extreme Networks, Inc.
+E444E5     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+F0-2F-50   (hex)		Shenzhen SEI Robotics Co.,Ltd
+F02F50     (base 16)		Shenzhen SEI Robotics Co.,Ltd
+				11th Floor, Kangtai Group Building, No. 222 Kefa Road, Science and Technology Park Community, Yuehai Street, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
+B8-50-01   (hex)		Extreme Networks, Inc.
+B85001     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+A4-EA-8E   (hex)		Extreme Networks, Inc.
+A4EA8E     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+94-9B-2C   (hex)		Extreme Networks, Inc.
+949B2C     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+74-4F-80   (hex)		shenzhen Amos Electronics Co.,Ltd
+744F80     (base 16)		shenzhen Amos Electronics Co.,Ltd
+				1st floor,building 4,zhiheng industrialpark,No.15,guankou raod,nanshan district
+				shenzhen  Guangdong  518052
+				CN
+
+34-85-84   (hex)		Extreme Networks, Inc.
+348584     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 B8-1B-CB   (hex)		Shanghai Sunmi Technology Co.,Ltd.
 B81BCB     (base 16)		Shanghai Sunmi Technology Co.,Ltd.
 				Room 505, No.388 Song Hu Road, Yang Pu District, Shanghai, China
@@ -142308,12 +142338,6 @@ B81BCB     (base 16)		Shanghai Sunmi Technology Co.,Ltd.
 74D59C     (base 16)		fluidiQ by Magnalytix
 				424 Harding Industrial Drive
 				Nashville  TN  37211
-				US
-
-E4-44-E5   (hex)		Extreme Networks, Inc.
-E444E5     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
 				US
 
 24-1F-BD   (hex)		Extreme Networks, Inc.
@@ -142340,24 +142364,6 @@ DCE650     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
-AC-7F-8D   (hex)		Extreme Networks, Inc.
-AC7F8D     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-E4-FD-8C   (hex)		Extreme Networks, Inc.
-E4FD8C     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-4C-0A-4E   (hex)		Extreme Networks, Inc.
-4C0A4E     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
 00-E6-0E   (hex)		Extreme Networks, Inc.
 00E60E     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
@@ -142376,8 +142382,32 @@ B4A3BD     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
+AC-7F-8D   (hex)		Extreme Networks, Inc.
+AC7F8D     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+E4-FD-8C   (hex)		Extreme Networks, Inc.
+E4FD8C     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+4C-0A-4E   (hex)		Extreme Networks, Inc.
+4C0A4E     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 D4-12-6E   (hex)		Apple, Inc.
 D4126E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+EC-D5-08   (hex)		Apple, Inc.
+ECD508     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -142394,28 +142424,28 @@ E02A25     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
 				Austin  TX  78735
 				US
 
-6C-A0-AF   (hex)		CM PARTNER INC.
-6CA0AF     (base 16)		CM PARTNER INC.
-				479-11 Gyeonggidong-ro Namsa-eup Cheoin-gu
-				Yongin-si  Gyeonggi-do  17121
-				KR
-
 28-E9-71   (hex)		EM Microelectronic
 28E971     (base 16)		EM Microelectronic
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
+6C-A0-AF   (hex)		CM PARTNER INC.
+6CA0AF     (base 16)		CM PARTNER INC.
+				479-11 Gyeonggidong-ro Namsa-eup Cheoin-gu
+				Yongin-si  Gyeonggi-do  17121
+				KR
+
+64-C9-F1   (hex)		Amazon Technologies Inc.
+64C9F1     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
 0C-1B-7B   (hex)		Microsoft Corporation
 0C1B7B     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
-				US
-
-EC-D5-08   (hex)		Apple, Inc.
-ECD508     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
 				US
 
 10-A4-C9   (hex)		Apple, Inc.
@@ -142435,12 +142465,6 @@ ECD508     (base 16)		Apple, Inc.
 				3-10, SAKURADA-MACHI
 				KANAZAWA  ISHIKAWA  920-8512
 				JP
-
-64-C9-F1   (hex)		Amazon Technologies Inc.
-64C9F1     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
 
 9C-96-1B   (hex)		IFTER Jerzy Taczalski
 9C961B     (base 16)		IFTER Jerzy Taczalski
@@ -142471,6 +142495,18 @@ ECD508     (base 16)		Apple, Inc.
 				Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen
 				Shenzhen    518000
 				CN
+
+E0-6A-1B   (hex)		Shenzhen Zidoo Technology Co., Ltd.
+E06A1B     (base 16)		Shenzhen Zidoo Technology Co., Ltd.
+				Floor 14, Building C, Huizhi R&D Center, Xixiang Street, Bao'an District
+				Shenzhen  Guangdong  518100
+				CN
+
+28-F7-9A   (hex)		LX Semicon co.,Ltd.
+28F79A     (base 16)		LX Semicon co.,Ltd.
+				222 Techno 2-ro
+				Yuseong-gu, Daejeon  -  34027
+				KR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -189389,30 +189425,6 @@ DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
 				San Francisco  CA  94107
 				US
 
-2C-06-13   (hex)		China Mobile Group Device Co.,Ltd.
-2C0613     (base 16)		China Mobile Group Device Co.,Ltd.
-				32 Xuanwumen West Street,Xicheng District 
-				Beijing    100053
-				CN
-
-64-18-DF   (hex)		Sagemcom Broadband SAS
-6418DF     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-D0-6E-DE   (hex)		Sagemcom Broadband SAS
-D06EDE     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
-64-7B-1E   (hex)		Sagemcom Broadband SAS
-647B1E     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
 A8-29-DC   (hex)		TP-Link Systems Inc.
 A829DC     (base 16)		TP-Link Systems Inc.
 				10 Mauchly
@@ -189425,23 +189437,47 @@ A829DC     (base 16)		TP-Link Systems Inc.
 				 Irvine  CA  92618
 				US
 
+2C-06-13   (hex)		China Mobile Group Device Co.,Ltd.
+2C0613     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District 
+				Beijing    100053
+				CN
+
+C8-D7-78   (hex)		BSH Hausgeräte GmbH
+C8D778     (base 16)		BSH Hausgeräte GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
+
+64-18-DF   (hex)		Sagemcom Broadband SAS
+6418DF     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+64-7B-1E   (hex)		Sagemcom Broadband SAS
+647B1E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
+D0-6E-DE   (hex)		Sagemcom Broadband SAS
+D06EDE     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
+
 F0-4D-D4   (hex)		Sagemcom Broadband SAS
 F04DD4     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
 
-F4-16-E7   (hex)		Skyverse Limited
-F416E7     (base 16)		Skyverse Limited
-				Room 101、102 No.1301-14,Guanguang Road,Xinlan community,Guanlan street,Longhua district, Shenzhen,PRC
-				Shenzhen  Guangdong  518100
-				CN
-
-B4-9A-7D   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-B49A7D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
+54-73-70   (hex)		The LEGO Group
+547370     (base 16)		The LEGO Group
+				Åstvej 17190 BillundDenmark
+				Billund  Jylland  7190
+				DK
 
 58-0F-A5   (hex)		Apple, Inc.
 580FA5     (base 16)		Apple, Inc.
@@ -189455,11 +189491,23 @@ B49A7D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Hangzhou  Zhejiang  310052
 				CN
 
-C8-D7-78   (hex)		BSH Hausgeräte GmbH
-C8D778     (base 16)		BSH Hausgeräte GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
+B8-0E-1D   (hex)		PAX Computer Technology(Shenzhen) Ltd.
+B80E1D     (base 16)		PAX Computer Technology(Shenzhen) Ltd.
+				Room 701, PAX Technology Building, Shanxia Community, Pinghu Sub-district, Longgang District, Shenzhen, China
+				shenzhen  GuangDong  518057
+				CN
+
+F4-16-E7   (hex)		Skyverse Limited
+F416E7     (base 16)		Skyverse Limited
+				Room 101、102 No.1301-14,Guanguang Road,Xinlan community,Guanlan street,Longhua district, Shenzhen,PRC
+				Shenzhen  Guangdong  518100
+				CN
+
+B4-9A-7D   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+B49A7D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 48-0A-28   (hex)		Apple, Inc.
 480A28     (base 16)		Apple, Inc.
@@ -189478,12 +189526,6 @@ BC89C1     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-54-73-70   (hex)		The LEGO Group
-547370     (base 16)		The LEGO Group
-				Åstvej 17190 BillundDenmark
-				Billund  Jylland  7190
-				DK
 
 08-7B-0F   (hex)		Amazon Technologies Inc.
 087B0F     (base 16)		Amazon Technologies Inc.
@@ -189509,11 +189551,11 @@ A04E8D     (base 16)		Cisco Meraki
 				Hsinchu City  Hsinchu  30071
 				TW
 
-B8-0E-1D   (hex)		PAX Computer Technology(Shenzhen) Ltd.
-B80E1D     (base 16)		PAX Computer Technology(Shenzhen) Ltd.
-				Room 701, PAX Technology Building, Shanxia Community, Pinghu Sub-district, Longgang District, Shenzhen, China
-				shenzhen  GuangDong  518057
-				CN
+C0-FD-6F   (hex)		Sagemcom Broadband SAS
+C0FD6F     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
 
 04-5A-3D   (hex)		Nothing Technology Limited
 045A3D     (base 16)		Nothing Technology Limited
@@ -189526,6 +189568,12 @@ B80E1D     (base 16)		PAX Computer Technology(Shenzhen) Ltd.
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
+
+DC-2D-DE   (hex)		Illucere Srl
+DC2DDE     (base 16)		Illucere Srl
+				Via Primo Maggio 1
+				Mestrino   PD  35035 
+				IT
 
 44-8A-7F   (hex)		Murata Manufacturing Co., Ltd.
 448A7F     (base 16)		Murata Manufacturing Co., Ltd.
@@ -189545,17 +189593,11 @@ E8D5A1     (base 16)		Earda Technologies co Ltd
 				FOSHAN  GUANGDONG  528511
 				CN
 
-C0-FD-6F   (hex)		Sagemcom Broadband SAS
-C0FD6F     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
+D4-50-39   (hex)		Sagemcom Broadband SAS
+D45039     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
 				FR
-
-DC-2D-DE   (hex)		Illucere Srl
-DC2DDE     (base 16)		Illucere Srl
-				Via Primo Maggio 1
-				Mestrino   PD  35035 
-				IT
 
 C0-CA-A2   (hex)		ESSYS
 C0CAA2     (base 16)		ESSYS
@@ -189563,38 +189605,20 @@ C0CAA2     (base 16)		ESSYS
 				Incheon    21999
 				KR
 
-B0-1F-F4   (hex)		Sagemcom Broadband SAS
-B01FF4     (base 16)		Sagemcom Broadband SAS
+A8-9A-93   (hex)		Sagemcom Broadband SAS
+A89A93     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-D4-27-FF   (hex)		Sagemcom Broadband SAS
-D427FF     (base 16)		Sagemcom Broadband SAS
+28-9E-FC   (hex)		Sagemcom Broadband SAS
+289EFC     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-44-15-24   (hex)		Sagemcom Broadband SAS
-441524     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-F4-05-95   (hex)		Sagemcom Broadband SAS
-F40595     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-0C-AC-8A   (hex)		Sagemcom Broadband SAS
-0CAC8A     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-6C-FF-CE   (hex)		Sagemcom Broadband SAS
-6CFFCE     (base 16)		Sagemcom Broadband SAS
+3C-17-10   (hex)		Sagemcom Broadband SAS
+3C1710     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -189617,32 +189641,32 @@ F40595     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-98-1E-19   (hex)		Sagemcom Broadband SAS
-981E19     (base 16)		Sagemcom Broadband SAS
+B0-1F-F4   (hex)		Sagemcom Broadband SAS
+B01FF4     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-A8-9A-93   (hex)		Sagemcom Broadband SAS
-A89A93     (base 16)		Sagemcom Broadband SAS
+D4-27-FF   (hex)		Sagemcom Broadband SAS
+D427FF     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-28-9E-FC   (hex)		Sagemcom Broadband SAS
-289EFC     (base 16)		Sagemcom Broadband SAS
+F4-05-95   (hex)		Sagemcom Broadband SAS
+F40595     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-3C-17-10   (hex)		Sagemcom Broadband SAS
-3C1710     (base 16)		Sagemcom Broadband SAS
+0C-AC-8A   (hex)		Sagemcom Broadband SAS
+0CAC8A     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-D4-50-39   (hex)		Sagemcom Broadband SAS
-D45039     (base 16)		Sagemcom Broadband SAS
+6C-FF-CE   (hex)		Sagemcom Broadband SAS
+6CFFCE     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -189653,8 +189677,32 @@ D45039     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
+98-1E-19   (hex)		Sagemcom Broadband SAS
+981E19     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+44-15-24   (hex)		Sagemcom Broadband SAS
+441524     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
 44-05-3F   (hex)		Sagemcom Broadband SAS
 44053F     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+00-1F-95   (hex)		Sagemcom Broadband SAS
+001F95     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+00-23-48   (hex)		Sagemcom Broadband SAS
+002348     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -189695,6 +189743,30 @@ D45039     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
+38-44-BE   (hex)		Espressif Inc.
+3844BE     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+30-76-F5   (hex)		Espressif Inc.
+3076F5     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+3C-0F-02   (hex)		Espressif Inc.
+3C0F02     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+28-05-A5   (hex)		Espressif Inc.
+2805A5     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 40-C7-29   (hex)		Sagemcom Broadband SAS
 40C729     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
@@ -189713,18 +189785,6 @@ D45039     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-00-1F-95   (hex)		Sagemcom Broadband SAS
-001F95     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-00-23-48   (hex)		Sagemcom Broadband SAS
-002348     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
 B8-7B-4D   (hex)		Espressif Inc.
 B87B4D     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -189739,6 +189799,12 @@ D40592     (base 16)		Espressif Inc.
 
 08-AD-0A   (hex)		Espressif Inc.
 08AD0A     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+18-FE-34   (hex)		Espressif Inc.
+18FE34     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -189767,30 +189833,6 @@ F0161D     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-38-44-BE   (hex)		Espressif Inc.
-3844BE     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-30-76-F5   (hex)		Espressif Inc.
-3076F5     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-3C-0F-02   (hex)		Espressif Inc.
-3C0F02     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-28-05-A5   (hex)		Espressif Inc.
-2805A5     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 14-63-93   (hex)		Espressif Inc.
 146393     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -189803,20 +189845,50 @@ F0161D     (base 16)		Espressif Inc.
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-18-FE-34   (hex)		Espressif Inc.
-18FE34     (base 16)		Espressif Inc.
+30-30-F9   (hex)		Espressif Inc.
+3030F9     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-08-B6-1F   (hex)		Espressif Inc.
-08B61F     (base 16)		Espressif Inc.
+7C-73-98   (hex)		Espressif Inc.
+7C7398     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-E0-5A-1B   (hex)		Espressif Inc.
-E05A1B     (base 16)		Espressif Inc.
+6C-B4-56   (hex)		Espressif Inc.
+6CB456     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+24-58-7C   (hex)		Espressif Inc.
+24587C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+CC-8D-A2   (hex)		Espressif Inc.
+CC8DA2     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+A0-DD-6C   (hex)		Espressif Inc.
+A0DD6C     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+D0-EF-76   (hex)		Espressif Inc.
+D0EF76     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+C4-D8-D5   (hex)		Espressif Inc.
+C4D8D5     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -189845,32 +189917,74 @@ B0B21C     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-30-30-F9   (hex)		Espressif Inc.
-3030F9     (base 16)		Espressif Inc.
+A0-B7-65   (hex)		Espressif Inc.
+A0B765     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-7C-73-98   (hex)		Espressif Inc.
-7C7398     (base 16)		Espressif Inc.
+CC-DB-A7   (hex)		Espressif Inc.
+CCDBA7     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-6C-B4-56   (hex)		Espressif Inc.
-6CB456     (base 16)		Espressif Inc.
+08-B6-1F   (hex)		Espressif Inc.
+08B61F     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-24-58-7C   (hex)		Espressif Inc.
-24587C     (base 16)		Espressif Inc.
+E0-5A-1B   (hex)		Espressif Inc.
+E05A1B     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
 
-CC-8D-A2   (hex)		Espressif Inc.
-CC8DA2     (base 16)		Espressif Inc.
+04-83-08   (hex)		Espressif Inc.
+048308     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+EC-E3-34   (hex)		Espressif Inc.
+ECE334     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+10-51-DB   (hex)		Espressif Inc.
+1051DB     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+0C-4E-A0   (hex)		Espressif Inc.
+0C4EA0     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+48-3F-DA   (hex)		Espressif Inc.
+483FDA     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+F0-08-D1   (hex)		Espressif Inc.
+F008D1     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+7C-9E-BD   (hex)		Espressif Inc.
+7C9EBD     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+30-83-98   (hex)		Espressif Inc.
+308398     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -189905,50 +190019,8 @@ E89F6D     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-A0-DD-6C   (hex)		Espressif Inc.
-A0DD6C     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-D0-EF-76   (hex)		Espressif Inc.
-D0EF76     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-C4-D8-D5   (hex)		Espressif Inc.
-C4D8D5     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 24-EC-4A   (hex)		Espressif Inc.
 24EC4A     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-48-3F-DA   (hex)		Espressif Inc.
-483FDA     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-F0-08-D1   (hex)		Espressif Inc.
-F008D1     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-A0-B7-65   (hex)		Espressif Inc.
-A0B765     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-CC-DB-A7   (hex)		Espressif Inc.
-CCDBA7     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -189965,24 +190037,6 @@ CCBA97     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-7C-9E-BD   (hex)		Espressif Inc.
-7C9EBD     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-30-83-98   (hex)		Espressif Inc.
-308398     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-0C-4E-A0   (hex)		Espressif Inc.
-0C4EA0     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 84-1F-E8   (hex)		Espressif Inc.
 841FE8     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -189991,24 +190045,6 @@ CCBA97     (base 16)		Espressif Inc.
 
 B0-3F-D3   (hex)		Espressif Inc.
 B03FD3     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-04-83-08   (hex)		Espressif Inc.
-048308     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-EC-E3-34   (hex)		Espressif Inc.
-ECE334     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-10-51-DB   (hex)		Espressif Inc.
-1051DB     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -190049,18 +190085,6 @@ C05097     (base 16)		EG4 Electronics
 				Cupertino    95014
 				US
 
-DC-29-19   (hex)		AltoBeam(Xiamen)Technology Co., Ltd.
-DC2919     (base 16)		AltoBeam(Xiamen)Technology Co., Ltd.
-				South Building 203-38,Huoju Square ,No.56-58,Huoju Road, Huoju Park, Huoju High-tech District
-				Xiamen    361000
-				CN
-
-84-7A-B6   (hex)		AltoBeam Inc.
-847AB6     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
 F8-62-2A   (hex)		eero inc.
 F8622A     (base 16)		eero inc.
 				660 3rd Street 
@@ -190079,10 +190103,22 @@ F8622A     (base 16)		eero inc.
 				Chicago  IL  60654
 				US
 
+DC-29-19   (hex)		AltoBeam(Xiamen)Technology Co., Ltd.
+DC2919     (base 16)		AltoBeam(Xiamen)Technology Co., Ltd.
+				South Building 203-38,Huoju Square ,No.56-58,Huoju Road, Huoju Park, Huoju High-tech District
+				Xiamen    361000
+				CN
+
 20-F4-1B   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 20F41B     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				NO 268, Fuqian Rd,Jutang Community,Guanlan town,
 				ShenZhen  Guangdong  518110
+				CN
+
+84-7A-B6   (hex)		AltoBeam Inc.
+847AB6     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
 				CN
 
 50-40-35   (hex)		Vantiva USA LLC
@@ -190090,6 +190126,24 @@ F8622A     (base 16)		eero inc.
 				4855 Peachtree Industrial Blvd, Suite 200
 				Norcross  GA  30902
 				US
+
+80-AE-54   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+80AE54     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+78-60-5B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+78605B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
+
+04-F9-F8   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+04F9F8     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
+				Hangzhou City  Zhejiang Province,  310000
+				CN
 
 48-0E-EC   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 480EEC     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -190127,12 +190181,6 @@ F46D2F     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Hangzhou City  Zhejiang Province,  310000
 				CN
 
-FC-0F-76   (hex)		Amazon Technologies Inc.
-FC0F76     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
-
 AC-E4-D8   (hex)		Xiaomi Communications Co Ltd
 ACE4D8     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
@@ -190145,38 +190193,26 @@ ACE4D8     (base 16)		Xiaomi Communications Co Ltd
 				HEFEI  ANHUI  230601
 				CN
 
-80-AE-54   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-80AE54     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-78-60-5B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-78605B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
-04-F9-F8   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-04F9F8     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
-				Hangzhou City  Zhejiang Province,  310000
-				CN
-
 B0-95-75   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 B09575     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
 				Hangzhou City  Zhejiang Province,  310000
 				CN
 
-20-52-1D   (hex)		Apple, Inc.
-20521D     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
+FC-0F-76   (hex)		Amazon Technologies Inc.
+FC0F76     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
 				US
 
 F0-40-D9   (hex)		Apple, Inc.
 F040D9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+20-52-1D   (hex)		Apple, Inc.
+20521D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -190211,12 +190247,6 @@ C03E75     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-90-74-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-9074F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 40-67-68   (hex)		Huawei Device Co., Ltd.
 406768     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -190234,6 +190264,12 @@ C03E75     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+90-74-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9074F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 70-9F-EC   (hex)		CU Velocity
 709FEC     (base 16)		CU Velocity
@@ -190253,12 +190289,6 @@ C8C992     (base 16)		Beijing Roborock Technology Co., Ltd.
 				Beijing  Beijing  100085
 				CN
 
-90-B8-32   (hex)		Extreme Networks, Inc.
-90B832     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
 C4-13-E2   (hex)		Extreme Networks, Inc.
 C413E2     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
@@ -190267,24 +190297,6 @@ C413E2     (base 16)		Extreme Networks, Inc.
 
 C8-67-5E   (hex)		Extreme Networks, Inc.
 C8675E     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-AC-4D-D9   (hex)		Extreme Networks, Inc.
-AC4DD9     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-40-E3-17   (hex)		Extreme Networks, Inc.
-40E317     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-44-E4-E6   (hex)		Extreme Networks, Inc.
-44E4E6     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
@@ -190301,6 +190313,12 @@ F4CE48     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
+B4-C7-99   (hex)		Extreme Networks, Inc.
+B4C799     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 F0-9C-E9   (hex)		Extreme Networks, Inc.
 F09CE9     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
@@ -190313,8 +190331,14 @@ F09CE9     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
-B4-C7-99   (hex)		Extreme Networks, Inc.
-B4C799     (base 16)		Extreme Networks, Inc.
+90-B8-32   (hex)		Extreme Networks, Inc.
+90B832     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+AC-4D-D9   (hex)		Extreme Networks, Inc.
+AC4DD9     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
@@ -190324,12 +190348,6 @@ C47A5D     (base 16)		Panmnesia Inc.
 				1, Expo-ro, Yuseong-gu
 				Daejeon    34126
 				KR
-
-40-B2-15   (hex)		Extreme Networks, Inc.
-40B215     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
 
 D8-E0-16   (hex)		Extreme Networks, Inc.
 D8E016     (base 16)		Extreme Networks, Inc.
@@ -190345,6 +190363,18 @@ E41613     (base 16)		Extreme Networks, Inc.
 
 1C-98-4B   (hex)		Extreme Networks, Inc.
 1C984B     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+24-81-85   (hex)		Extreme Networks, Inc.
+248185     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville    27560
+				US
+
+00-B8-1D   (hex)		Extreme Networks, Inc.
+00B81D     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
@@ -190367,32 +190397,38 @@ E4C0FE     (base 16)		Apple, Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+40-E3-17   (hex)		Extreme Networks, Inc.
+40E317     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+44-E4-E6   (hex)		Extreme Networks, Inc.
+44E4E6     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+40-B2-15   (hex)		Extreme Networks, Inc.
+40B215     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 8C-E8-07   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
 8CE807     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
 				Nanjing  Jiangsu  211800
 				CN
 
-24-81-85   (hex)		Extreme Networks, Inc.
-248185     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville    27560
-				US
-
-00-B8-1D   (hex)		Extreme Networks, Inc.
-00B81D     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-FC-9D-D2   (hex)		Apple, Inc.
-FC9DD2     (base 16)		Apple, Inc.
+48-35-AB   (hex)		Apple, Inc.
+4835AB     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-48-35-AB   (hex)		Apple, Inc.
-4835AB     (base 16)		Apple, Inc.
+FC-9D-D2   (hex)		Apple, Inc.
+FC9DD2     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -190432,6 +190468,18 @@ CC1966     (base 16)		EM Microelectronic
 				SW707, 7th Floor, Building 2, Sanya Taiping Financial Industry Port, No. 198 Yingbin Road, Jiyang District
 				Sanya  572022  Hainan
 				CN
+
+6C-CB-7F   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+6CCB7F     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+10-E8-64   (hex)		Nucode Co., Ltd.
+10E864     (base 16)		Nucode Co., Ltd.
+				3F, Zenith Tower, 557 Yeoksam-ro
+				Seoul    06182
+				KR
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -236666,18 +236714,6 @@ A8DDEC     (base 16)		Hangzhou BroadLink Technology Co., Ltd
 				Shandong  Jinan  250014
 				CN
 
-E0-A4-47   (hex)		zte corporation
-E0A447     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
-80-E8-A4   (hex)		zte corporation
-80E8A4     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
 20-AE-B6   (hex)		Huawei Device Co., Ltd.
 20AEB6     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -236688,6 +236724,12 @@ E0A447     (base 16)		zte corporation
 7C162A     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+E0-A4-47   (hex)		zte corporation
+E0A447     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
 				CN
 
 B0-DE-31   (hex)		Samsung Electronics Co.,Ltd
@@ -236701,6 +236743,12 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				 4 Allée des
 				Messageries  Bois Colombes  92270 
 				FR
+
+80-E8-A4   (hex)		zte corporation
+80E8A4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 DC-CB-35   (hex)		EM Microelectronic
 DCCB35     (base 16)		EM Microelectronic
@@ -236726,12 +236774,6 @@ DCCB35     (base 16)		EM Microelectronic
 				Orangeburg  NJ  10962
 				US
 
-54-B2-7E   (hex)		Sagemcom Broadband SAS
-54B27E     (base 16)		Sagemcom Broadband SAS
-				 4 Allée des
-				Messageries  Bois Colombes  92270 
-				FR
-
 10-7A-2A   (hex)		Microsoft Corporation
 107A2A     (base 16)		Microsoft Corporation
 				One Microsoft Way
@@ -236743,6 +236785,12 @@ DCCB35     (base 16)		EM Microelectronic
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
+
+54-B2-7E   (hex)		Sagemcom Broadband SAS
+54B27E     (base 16)		Sagemcom Broadband SAS
+				 4 Allée des
+				Messageries  Bois Colombes  92270 
+				FR
 
 50-22-C9   (hex)		Bel Power Solutions, Inc.
 5022C9     (base 16)		Bel Power Solutions, Inc.
@@ -236786,12 +236834,6 @@ B8DC7D     (base 16)		VusionGroup
 				Fernitz-Mellach  Steiermark  8072
 				AT
 
-8C-65-EC   (hex)		TUBITAK MAM
-8C65EC     (base 16)		TUBITAK MAM
-				Gebze Yerleskesi Marmara Arastirma Merkezi 
-				KOCAELI  TR  41470
-				TR
-
 20-1F-55   (hex)		DJI Osmo Technology Co., Ltd.
 201F55     (base 16)		DJI Osmo Technology Co., Ltd.
 				Tower 1, DJI Sky City, No. 55 Xianyuan Road, Xili Community, Xili Subdistrict, Nanshan District
@@ -236804,14 +236846,14 @@ B8DC7D     (base 16)		VusionGroup
 				Cupertino  CA  95014
 				US
 
-08-24-0B   (hex)		Apple, Inc.
-08240B     (base 16)		Apple, Inc.
+EC-DC-AA   (hex)		Apple, Inc.
+ECDCAA     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-EC-DC-AA   (hex)		Apple, Inc.
-ECDCAA     (base 16)		Apple, Inc.
+08-24-0B   (hex)		Apple, Inc.
+08240B     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -236821,6 +236863,12 @@ ECDCAA     (base 16)		Apple, Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+8C-65-EC   (hex)		TUBITAK MAM
+8C65EC     (base 16)		TUBITAK MAM
+				Gebze Yerleskesi Marmara Arastirma Merkezi 
+				KOCAELI  TR  41470
+				TR
 
 10-19-88   (hex)		Mother Computer Inc.
 101988     (base 16)		Mother Computer Inc.
@@ -236832,6 +236880,24 @@ F8-B2-2C   (hex)		Roku, Inc
 F8B22C     (base 16)		Roku, Inc
 				1173 Coleman Ave
 				San Jose  CA  95110
+				US
+
+04-B3-C9   (hex)		WNC Corporation
+04B3C9     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+84-DD-84   (hex)		Cisco Systems, Inc
+84DD84     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+A0-24-90   (hex)		IEEE Registration Authority
+A02490     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 00-90-1D   (hex)		Gallagher Group Limited
@@ -236858,30 +236924,6 @@ D0B0DF     (base 16)		Mimosa Networks
 				Calamba    Lot 1
 				PH
 
-64-9E-58   (hex)		MM Devices Pty. Ltd.
-649E58     (base 16)		MM Devices Pty. Ltd.
-				75 Lorimer Street, Unit 10
-				Southbank  Vic  3006
-				AU
-
-04-B3-C9   (hex)		WNC Corporation
-04B3C9     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
-84-DD-84   (hex)		Cisco Systems, Inc
-84DD84     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-A0-24-90   (hex)		IEEE Registration Authority
-A02490     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 60-DD-10   (hex)		Shenzhen Angxun Technology Co.,Ltd
 60DD10     (base 16)		Shenzhen Angxun Technology Co.,Ltd
 				4th# Huaguan Industrial Park, Guanlan Street,Longhua District, Shenzhen,Guangdong, China.
@@ -236894,71 +236936,17 @@ A8213A     (base 16)		Shenzhen Talent Technology Comapny Limited 深圳市泰霖
 				Shenzhen  Guangdong  518000
 				CN
 
-B8-6A-F1   (hex)		Sagemcom Broadband SAS
-B86AF1     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-CC-58-30   (hex)		Sagemcom Broadband SAS
-CC5830     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-54-47-CC   (hex)		Sagemcom Broadband SAS
-5447CC     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-3C-58-5D   (hex)		Sagemcom Broadband SAS
-3C585D     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
 30-07-5C   (hex)		Netis Technology Co., Ltd.
 30075C     (base 16)		Netis Technology Co., Ltd.
 				8 Floor, Bd B, information port, Langshan RD, Nanshan district, 
 				Shenzhen  Guangdong  518057
 				CN
 
-A0-2D-DB   (hex)		Sagemcom Broadband SAS
-A02DDB     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-A4-22-49   (hex)		Sagemcom Broadband SAS
-A42249     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-20-B8-2B   (hex)		Sagemcom Broadband SAS
-20B82B     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-30-F6-00   (hex)		Sagemcom Broadband SAS
-30F600     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D4-B5-CD   (hex)		Sagemcom Broadband SAS
-D4B5CD     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-4C-82-37   (hex)		Telink Micro LLC
-4C8237     (base 16)		Telink Micro LLC
-				2975 Scott Blvd #120
-				Santa Clara  CA  95054
-				US
+64-9E-58   (hex)		MM Devices Pty. Ltd.
+649E58     (base 16)		MM Devices Pty. Ltd.
+				75 Lorimer Street, Unit 10
+				Southbank  Vic  3006
+				AU
 
 C4-22-4E   (hex)		Telink Micro LLC
 C4224E     (base 16)		Telink Micro LLC
@@ -236966,11 +236954,11 @@ C4224E     (base 16)		Telink Micro LLC
 				Santa Clara  CA  95054
 				US
 
-A0-39-F9   (hex)		Sagemcom Broadband SAS
-A039F9     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
+4C-82-37   (hex)		Telink Micro LLC
+4C8237     (base 16)		Telink Micro LLC
+				2975 Scott Blvd #120
+				Santa Clara  CA  95054
+				US
 
 24-FA-D6   (hex)		EMSTONE
 24FAD6     (base 16)		EMSTONE
@@ -236983,6 +236971,18 @@ A039F9     (base 16)		Sagemcom Broadband SAS
 				11601 Willows Rd NE, Suite 101
 				Redmond  WA  98052
 				US
+
+F8-AB-05   (hex)		Sagemcom Broadband SAS
+F8AB05     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+A4-08-F5   (hex)		Sagemcom Broadband SAS
+A408F5     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 24-20-C7   (hex)		Sagemcom Broadband SAS
 2420C7     (base 16)		Sagemcom Broadband SAS
@@ -237008,32 +237008,56 @@ F4EB38     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-00-1B-BF   (hex)		Sagemcom Broadband SAS
-001BBF     (base 16)		Sagemcom Broadband SAS
+A4-22-49   (hex)		Sagemcom Broadband SAS
+A42249     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-A0-39-EE   (hex)		Sagemcom Broadband SAS
-A039EE     (base 16)		Sagemcom Broadband SAS
+20-B8-2B   (hex)		Sagemcom Broadband SAS
+20B82B     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-B8-EE-0E   (hex)		Sagemcom Broadband SAS
-B8EE0E     (base 16)		Sagemcom Broadband SAS
+B8-6A-F1   (hex)		Sagemcom Broadband SAS
+B86AF1     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-F8-AB-05   (hex)		Sagemcom Broadband SAS
-F8AB05     (base 16)		Sagemcom Broadband SAS
+CC-58-30   (hex)		Sagemcom Broadband SAS
+CC5830     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-A4-08-F5   (hex)		Sagemcom Broadband SAS
-A408F5     (base 16)		Sagemcom Broadband SAS
+54-47-CC   (hex)		Sagemcom Broadband SAS
+5447CC     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+3C-58-5D   (hex)		Sagemcom Broadband SAS
+3C585D     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+30-F6-00   (hex)		Sagemcom Broadband SAS
+30F600     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+D4-B5-CD   (hex)		Sagemcom Broadband SAS
+D4B5CD     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+A0-2D-DB   (hex)		Sagemcom Broadband SAS
+A02DDB     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -237056,44 +237080,32 @@ F08175     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
+A0-39-EE   (hex)		Sagemcom Broadband SAS
+A039EE     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+B8-EE-0E   (hex)		Sagemcom Broadband SAS
+B8EE0E     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
 5C-B1-3E   (hex)		Sagemcom Broadband SAS
 5CB13E     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-00-25-69   (hex)		Sagemcom Broadband SAS
-002569     (base 16)		Sagemcom Broadband SAS
+34-6B-46   (hex)		Sagemcom Broadband SAS
+346B46     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-00-78-9E   (hex)		Sagemcom Broadband SAS
-00789E     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-E8-BE-81   (hex)		Sagemcom Broadband SAS
-E8BE81     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-68-15-90   (hex)		Sagemcom Broadband SAS
-681590     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-2C-E4-12   (hex)		Sagemcom Broadband SAS
-2CE412     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-E0-4F-95   (hex)		Sagemcom Broadband SAS
-E04F95     (base 16)		Sagemcom Broadband SAS
+A0-39-F9   (hex)		Sagemcom Broadband SAS
+A039F9     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
@@ -237109,72 +237121,6 @@ E04F95     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
-
-34-6B-46   (hex)		Sagemcom Broadband SAS
-346B46     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
-
-D4-B6-C9   (hex)		Nokia
-D4B6C9     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-58-BF-25   (hex)		Espressif Inc.
-58BF25     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-24-D7-EB   (hex)		Espressif Inc.
-24D7EB     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-30-C6-F7   (hex)		Espressif Inc.
-30C6F7     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-10-97-BD   (hex)		Espressif Inc.
-1097BD     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-78-21-84   (hex)		Espressif Inc.
-782184     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-EC-62-60   (hex)		Espressif Inc.
-EC6260     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-C8-F0-9E   (hex)		Espressif Inc.
-C8F09E     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-DC-54-75   (hex)		Espressif Inc.
-DC5475     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-48-27-E2   (hex)		Espressif Inc.
-4827E2     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
 
 2C-3A-E8   (hex)		Espressif Inc.
 2C3AE8     (base 16)		Espressif Inc.
@@ -237194,29 +237140,23 @@ DC4F22     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-3C-71-BF   (hex)		Espressif Inc.
-3C71BF     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+E8-BE-81   (hex)		Sagemcom Broadband SAS
+E8BE81     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
-60-55-F9   (hex)		Espressif Inc.
-6055F9     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+68-15-90   (hex)		Sagemcom Broadband SAS
+681590     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
-94-3C-C6   (hex)		Espressif Inc.
-943CC6     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-7C-87-CE   (hex)		Espressif Inc.
-7C87CE     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+2C-E4-12   (hex)		Sagemcom Broadband SAS
+2CE412     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 44-B1-76   (hex)		Espressif Inc.
 44B176     (base 16)		Espressif Inc.
@@ -237230,17 +237170,29 @@ DC4F22     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-24-A1-60   (hex)		Espressif Inc.
-24A160     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+00-1B-BF   (hex)		Sagemcom Broadband SAS
+001BBF     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
-A8-03-2A   (hex)		Espressif Inc.
-A8032A     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+00-25-69   (hex)		Sagemcom Broadband SAS
+002569     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+00-78-9E   (hex)		Sagemcom Broadband SAS
+00789E     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+E0-4F-95   (hex)		Sagemcom Broadband SAS
+E04F95     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 A4-CB-8F   (hex)		Espressif Inc.
 A4CB8F     (base 16)		Espressif Inc.
@@ -237259,6 +237211,12 @@ A4CB8F     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+D4-B6-C9   (hex)		Nokia
+D4B6C9     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 18-8B-0E   (hex)		Espressif Inc.
 188B0E     (base 16)		Espressif Inc.
@@ -237308,6 +237266,12 @@ E4B063     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+C0-5D-89   (hex)		Espressif Inc.
+C05D89     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 DC-DA-0C   (hex)		Espressif Inc.
 DCDA0C     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -237338,6 +237302,126 @@ F0F5BD     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+EC-62-60   (hex)		Espressif Inc.
+EC6260     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+C8-F0-9E   (hex)		Espressif Inc.
+C8F09E     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+DC-54-75   (hex)		Espressif Inc.
+DC5475     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+48-27-E2   (hex)		Espressif Inc.
+4827E2     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+A8-03-2A   (hex)		Espressif Inc.
+A8032A     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+60-55-F9   (hex)		Espressif Inc.
+6055F9     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+94-3C-C6   (hex)		Espressif Inc.
+943CC6     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+30-C6-F7   (hex)		Espressif Inc.
+30C6F7     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+10-97-BD   (hex)		Espressif Inc.
+1097BD     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+78-21-84   (hex)		Espressif Inc.
+782184     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+7C-87-CE   (hex)		Espressif Inc.
+7C87CE     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+58-BF-25   (hex)		Espressif Inc.
+58BF25     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+24-D7-EB   (hex)		Espressif Inc.
+24D7EB     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+64-E8-33   (hex)		Espressif Inc.
+64E833     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+64-B7-08   (hex)		Espressif Inc.
+64B708     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+3C-71-BF   (hex)		Espressif Inc.
+3C71BF     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+24-A1-60   (hex)		Espressif Inc.
+24A160     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+FC-93-4E   (hex)		REALTEK SEMICONDUCTOR CORP.
+FC934E     (base 16)		REALTEK SEMICONDUCTOR CORP.
+				1F, NO. 11, INDUSTRY E. RD. IX
+				HSINCHU 300    
+				TW
+
+B4-3A-45   (hex)		Espressif Inc.
+B43A45     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+68-25-DD   (hex)		Espressif Inc.
+6825DD     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 6C-C8-40   (hex)		Espressif Inc.
 6CC840     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -237346,18 +237430,6 @@ F0F5BD     (base 16)		Espressif Inc.
 
 28-56-2F   (hex)		Espressif Inc.
 28562F     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-D0-CF-13   (hex)		Espressif Inc.
-D0CF13     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-C0-5D-89   (hex)		Espressif Inc.
-C05D89     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
@@ -237380,18 +237452,6 @@ DC1ED5     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-B4-3A-45   (hex)		Espressif Inc.
-B43A45     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-68-25-DD   (hex)		Espressif Inc.
-6825DD     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 38-32-7A   (hex)		Routerboard.com
 38327A     (base 16)		Routerboard.com
 				Mikrotikls SIA
@@ -237404,35 +237464,23 @@ B43A45     (base 16)		Espressif Inc.
 				KYOTO  KYOTO  601-8501
 				JP
 
-64-E8-33   (hex)		Espressif Inc.
-64E833     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-64-B7-08   (hex)		Espressif Inc.
-64B708     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 30-62-22   (hex)		Samsung Electronics Co.,Ltd
 306222     (base 16)		Samsung Electronics Co.,Ltd
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
 
-FC-93-4E   (hex)		REALTEK SEMICONDUCTOR CORP.
-FC934E     (base 16)		REALTEK SEMICONDUCTOR CORP.
-				1F, NO. 11, INDUSTRY E. RD. IX
-				HSINCHU 300    
-				TW
+D0-CF-13   (hex)		Espressif Inc.
+D0CF13     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
-4C-45-53   (hex)		Silicon Laboratories
-4C4553     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
+54-9B-49   (hex)		NEC Platforms, Ltd.
+549B49     (base 16)		NEC Platforms, Ltd.
+				14-1, Shiba 4-chome
+				Minato-ku  Tokyo  108-8556
+				JP
 
 C0-25-A2   (hex)		NEC Platforms, Ltd.
 C025A2     (base 16)		NEC Platforms, Ltd.
@@ -237440,11 +237488,11 @@ C025A2     (base 16)		NEC Platforms, Ltd.
 				Minato-ku  Tokyo  108-8556
 				JP
 
-54-9B-49   (hex)		NEC Platforms, Ltd.
-549B49     (base 16)		NEC Platforms, Ltd.
-				14-1, Shiba 4-chome
-				Minato-ku  Tokyo  108-8556
-				JP
+4C-45-53   (hex)		Silicon Laboratories
+4C4553     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 38-BE-AB   (hex)		AltoBeam Inc.
 38BEAB     (base 16)		AltoBeam Inc.
@@ -237469,6 +237517,12 @@ AC2BA2     (base 16)		The Chamberlain Group, Inc
 				300 Windsor Drive
 				Oak Brook    60523
 				US
+
+E0-DF-B7   (hex)		Zeica Labs Pte Ltd
+E0DFB7     (base 16)		Zeica Labs Pte Ltd
+				380 Jalan Besar, #06-06, ARC 380
+				Singapore    209000
+				SG
 
 3C-84-6A   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 3C846A     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -237506,6 +237560,18 @@ F86FB0     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Hangzhou City  Zhejiang Province,  310000
 				CN
 
+C4-BB-89   (hex)		Shanghai High-Flying Electronics Technology Co.,Ltd
+C4BB89     (base 16)		Shanghai High-Flying Electronics Technology Co.,Ltd
+				#17 Building, No.1500 Zu Chongzhi Road, Pudong District, 201203, Shanghai, China
+				SHANGHAI  SHANGHAI  201200
+				CN
+
+E4-70-10   (hex)		Apple, Inc.
+E47010     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 EC-60-73   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 EC6073     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District
@@ -237540,24 +237606,6 @@ D8-C2-62   (hex)		Ubiquiti Inc
 D8C262     (base 16)		Ubiquiti Inc
 				685 Third Avenue, 27th Floor
 				New York  NY  New York NY 10017
-				US
-
-E0-DF-B7   (hex)		Zeica Labs Pte Ltd
-E0DFB7     (base 16)		Zeica Labs Pte Ltd
-				380 Jalan Besar, #06-06, ARC 380
-				Singapore    209000
-				SG
-
-C4-BB-89   (hex)		Shanghai High-Flying Electronics Technology Co.,Ltd
-C4BB89     (base 16)		Shanghai High-Flying Electronics Technology Co.,Ltd
-				#17 Building, No.1500 Zu Chongzhi Road, Pudong District, 201203, Shanghai, China
-				SHANGHAI  SHANGHAI  201200
-				CN
-
-E4-70-10   (hex)		Apple, Inc.
-E47010     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
 				US
 
 A0-9C-19   (hex)		CIG SHANGHAI CO LTD
@@ -237614,11 +237662,29 @@ D032E7     (base 16)		Tuya Smart Inc.
 				Dover  DE  19904
 				US
 
+48-90-F0   (hex)		Dell Inc.
+4890F0     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
+				US
+
 6C-70-28   (hex)		Landis+Gyr S.A.
 6C7028     (base 16)		Landis+Gyr S.A.
 				78th km Old National Road Athens-Corinth
 				Corinth    20100
 				GR
+
+88-82-25   (hex)		Telink Micro LLC
+888225     (base 16)		Telink Micro LLC
+				2975 Scott Blvd #120
+				Santa Clara  CA  95054
+				US
+
+70-24-6E   (hex)		Zhejiang Laibao Display Technology Co., Ltd.
+70246E     (base 16)		Zhejiang Laibao Display Technology Co., Ltd.
+				No. 2366 Xiangyang West Road, Dongqian Street, Nanxun District, Huzhou City, Zhejiang Province
+				Huzhou  Zhejiang  313000
+				CN
 
 F4-54-24   (hex)		Extreme Networks, Inc.
 F45424     (base 16)		Extreme Networks, Inc.
@@ -237637,6 +237703,12 @@ F02B7C     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
+
+58-0E-85   (hex)		Sagemcom Broadband SAS
+580E85     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 5C-0E-8B   (hex)		Extreme Networks, Inc.
 5C0E8B     (base 16)		Extreme Networks, Inc.
@@ -237662,35 +237734,41 @@ D88466     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
-88-82-25   (hex)		Telink Micro LLC
-888225     (base 16)		Telink Micro LLC
-				2975 Scott Blvd #120
-				Santa Clara  CA  95054
+20-9E-F7   (hex)		Extreme Networks, Inc.
+209EF7     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
 				US
 
-58-0E-85   (hex)		Sagemcom Broadband SAS
-580E85     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
+78-7D-53   (hex)		Extreme Networks, Inc.
+787D53     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
 
-70-24-6E   (hex)		Zhejiang Laibao Display Technology Co., Ltd.
-70246E     (base 16)		Zhejiang Laibao Display Technology Co., Ltd.
-				No. 2366 Xiangyang West Road, Dongqian Street, Nanxun District, Huzhou City, Zhejiang Province
-				Huzhou  Zhejiang  313000
-				CN
+58-59-C2   (hex)		Extreme Networks, Inc.
+5859C2     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+7C-95-B1   (hex)		Extreme Networks, Inc.
+7C95B1     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+F0-64-26   (hex)		Extreme Networks, Inc.
+F06426     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
 
 2C-E7-A7   (hex)		SJIT Co., Ltd.
 2CE7A7     (base 16)		SJIT Co., Ltd.
 				54-33 Dongtanhana 1-gil
 				Hwaseong-si  Gyeonggi-do  18423
 				KR
-
-48-90-F0   (hex)		Dell Inc.
-4890F0     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock   TX  78682
-				US
 
 C8-BE-35   (hex)		Extreme Networks, Inc.
 C8BE35     (base 16)		Extreme Networks, Inc.
@@ -237716,10 +237794,52 @@ DCDCC3     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95119
 				US
 
+80-95-62   (hex)		Extreme Networks, Inc.
+809562     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+18-49-F8   (hex)		Extreme Networks, Inc.
+1849F8     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+D8-02-C0   (hex)		Extreme Networks, Inc.
+D802C0     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 60-2D-74   (hex)		Extreme Networks, Inc.
 602D74     (base 16)		Extreme Networks, Inc.
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
+				US
+
+88-F2-CE   (hex)		Apple, Inc.
+88F2CE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+88-10-32   (hex)		Apple, Inc.
+881032     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-C3-86   (hex)		Apple, Inc.
+34C386     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+AC-E6-FB   (hex)		Apple, Inc.
+ACE6FB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 40-3F-43   (hex)		Extreme Networks, Inc.
@@ -237740,54 +237860,6 @@ DCDCC3     (base 16)		Extreme Networks, Inc.
 				Morrisville    27560
 				US
 
-58-59-C2   (hex)		Extreme Networks, Inc.
-5859C2     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-7C-95-B1   (hex)		Extreme Networks, Inc.
-7C95B1     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-F0-64-26   (hex)		Extreme Networks, Inc.
-F06426     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-80-95-62   (hex)		Extreme Networks, Inc.
-809562     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-18-49-F8   (hex)		Extreme Networks, Inc.
-1849F8     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-D8-02-C0   (hex)		Extreme Networks, Inc.
-D802C0     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-20-9E-F7   (hex)		Extreme Networks, Inc.
-209EF7     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-78-7D-53   (hex)		Extreme Networks, Inc.
-787D53     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
 74-DD-F0   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 74DDF0     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
@@ -237798,6 +237870,12 @@ CC-79-B8   (hex)		Lunar Energy
 CC79B8     (base 16)		Lunar Energy
 				755 Ravendale Dr
 				Mountain View  CA  94043
+				US
+
+80-3F-D4   (hex)		Apple, Inc.
+803FD4     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 44-E8-53   (hex)		Apple, Inc.
@@ -237824,53 +237902,17 @@ B42802     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-88-10-32   (hex)		Apple, Inc.
-881032     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-34-C3-86   (hex)		Apple, Inc.
-34C386     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-AC-E6-FB   (hex)		Apple, Inc.
-ACE6FB     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-80-3F-D4   (hex)		Apple, Inc.
-803FD4     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 F8-29-80   (hex)		Dongguan Ruilian Xiangtong Technology Co., Ltd
 F82980     (base 16)		Dongguan Ruilian Xiangtong Technology Co., Ltd
 				 Room 203, Building 3, No.5-1 Gaoyuan Road, Tangxia Town
 				Dongguan City   Guangdong Province  523710
 				CN
 
-D8-A3-12   (hex)		Taicang T&W Electronics
-D8A312     (base 16)		Taicang T&W Electronics
-				89# Jiang Nan RD
-				Suzhou  Jiangsu  215412
+10-1E-F4   (hex)		kiwimoore (Quzhou) Semiconductor Co.,Ltd
+101EF4     (base 16)		kiwimoore (Quzhou) Semiconductor Co.,Ltd
+				Room 349, Zone A, Building 1, No. 6 Kaixuan South Road, Kecheng District
+				Quzhou  Zhejiang  324000
 				CN
-
-88-F2-CE   (hex)		Apple, Inc.
-88F2CE     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-08-25-32   (hex)		IEEE Registration Authority
-082532     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
 
 EC-B1-57   (hex)		Sagemcom Broadband SAS
 ECB157     (base 16)		Sagemcom Broadband SAS
@@ -237884,8 +237926,14 @@ ECB157     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
-10-1E-F4   (hex)		kiwimoore (Quzhou) Semiconductor Co.,Ltd
-101EF4     (base 16)		kiwimoore (Quzhou) Semiconductor Co.,Ltd
-				Room 349, Zone A, Building 1, No. 6 Kaixuan South Road, Kecheng District
-				Quzhou  Zhejiang  324000
+D8-A3-12   (hex)		Taicang T&W Electronics
+D8A312     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
 				CN
+
+08-25-32   (hex)		IEEE Registration Authority
+082532     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
