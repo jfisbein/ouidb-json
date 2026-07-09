@@ -206207,6 +206207,17 @@
     }
   },
   {
+    "prefix": "387035",
+    "organization": {
+      "name": "Nintendo Ltd",
+      "address": {
+        "line1": "11-1 Hokotate-cho Kamitoba, Minami-ku",
+        "line2": "Kyoto Kyoto 601-8501",
+        "countryCode": "JP"
+      }
+    }
+  },
+  {
     "prefix": "3870F2",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -206962,6 +206973,17 @@
         "line1": "A-1902, 583, Yangcheon-ro, Gangseo-gu",
         "line2": "Seoul 07547",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "389F77",
+    "organization": {
+      "name": "Suzhou Retronic Interconnect Technologies Ltd",
+      "address": {
+        "line1": "No, 998 Songjiard, Wuzhong District",
+        "line2": "Suzhou Jiangsu 215124",
+        "countryCode": "CN"
       }
     }
   },
@@ -249290,7 +249312,11 @@
     "prefix": "5CE753",
     "organization": {
       "name": "Shenzhen Intellirocks Tech. Ltd",
-      "address": {}
+      "address": {
+        "line1": "No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue, Xili Community, Xili Street, Nanshan District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
     }
   },
   {
@@ -251551,6 +251577,17 @@
       "address": {
         "line1": "8365 Quay Drive",
         "line2": "Arvada CO 80003",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "60629A",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
         "countryCode": "US"
       }
     }
@@ -288614,6 +288651,17 @@
     }
   },
   {
+    "prefix": "801A23",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "801D0D",
     "organization": {
       "name": "Ieee Registration Authority",
@@ -295045,6 +295093,17 @@
       "address": {
         "line1": "4f, Block A, Skyworth?building",
         "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "848832",
+    "organization": {
+      "name": "Guangzhou Shiyuan Electronic Technology Company Limited",
+      "address": {
+        "line1": "No.6, 4th Yunpu Road, Yunpu Industry District",
+        "line2": "Guangzhou Guangdong 510530",
         "countryCode": "CN"
       }
     }
@@ -325319,6 +325378,17 @@
         "line1": "Seligenstaedter Str. 100",
         "line2": "Karlstein Germany 63791",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "9CF9A1",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
       }
     }
   },
@@ -389756,6 +389826,17 @@
         "line1": "167-169 Great Portland Street",
         "line2": "London Surrey W1w 5pf",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "D8025F",
+    "organization": {
+      "name": "Guangzhou Shiyuan Electronic Technology Company Limited",
+      "address": {
+        "line1": "No.6, 4th Yunpu Road, Yunpu Industry District",
+        "line2": "Guangzhou Guangdong 510530",
+        "countryCode": "CN"
       }
     }
   },

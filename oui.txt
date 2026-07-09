@@ -47690,12 +47690,6 @@ A4EF15     (base 16)		AltoBeam Inc.
 				New York  NY  New York NY 10017
 				US
 
-5C-E7-53   (hex)		Shenzhen Intellirocks Tech. Co. Ltd.
-5CE753     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
-				
-				    
-				
-
 38-6F-F4   (hex)		Amazon Technologies Inc.
 386FF4     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102 
@@ -47960,22 +47954,22 @@ A426CA     (base 16)		Intel Corporate
 				Austin  TX  78701
 				US
 
-00-A0-B0   (hex)		I-O DATA, INC.
-00A0B0     (base 16)		I-O DATA, INC.
-				24-1, SAKURADA-MACHI
-				KANAZAWA, ISHIKAWA 920    na
-				JP
+7C-8A-3C   (hex)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+7C8A3C     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+				No.218 Qianwangang Road
+				Qingdao  Shangdong  266510
+				CN
 
-BC-C8-CC   (hex)		Seiko Epson Corporation
-BCC8CC     (base 16)		Seiko Epson Corporation
-				2070 Kotobuki Koaka
-				Matsumoto-shi  Nagano-ken  399-8702
-				JP
+18-D3-CF   (hex)		Hewlett Packard Enterprise
+18D3CF     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
 
-90-B1-41   (hex)		Motorola Mobility LLC, a Lenovo Company
-90B141     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
+58-D4-69   (hex)		Arista Networks
+58D469     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
 				US
 
 B8-FE-96   (hex)		Amazon Technologies Inc.
@@ -47990,22 +47984,34 @@ B8FE96     (base 16)		Amazon Technologies Inc.
 				Indianapolis  IN  46202
 				US
 
-7C-8A-3C   (hex)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
-7C8A3C     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
-				No.218 Qianwangang Road
-				Qingdao  Shangdong  266510
-				CN
-
-58-D4-69   (hex)		Arista Networks
-58D469     (base 16)		Arista Networks
-				5453 Great America Parkway
-				Santa Clara  CA  95054
+90-B1-41   (hex)		Motorola Mobility LLC, a Lenovo Company
+90B141     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
 				US
 
-18-D3-CF   (hex)		Hewlett Packard Enterprise
-18D3CF     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
+BC-C8-CC   (hex)		Seiko Epson Corporation
+BCC8CC     (base 16)		Seiko Epson Corporation
+				2070 Kotobuki Koaka
+				Matsumoto-shi  Nagano-ken  399-8702
+				JP
+
+00-A0-B0   (hex)		I-O DATA, INC.
+00A0B0     (base 16)		I-O DATA, INC.
+				24-1, SAKURADA-MACHI
+				KANAZAWA, ISHIKAWA 920    na
+				JP
+
+5C-E7-53   (hex)		Shenzhen Intellirocks Tech. Co. Ltd.
+5CE753     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
+				No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue,Xili Community, Xili Street, Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
+60-62-9A   (hex)		Juniper Networks
+60629A     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
 				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
@@ -95163,6 +95169,18 @@ E0B613     (base 16)		Arista Networks
 147830     (base 16)		NVIDIA Corporation
 				2701 San Tomas Expressway
 				Santa Clara  CA  95050
+				US
+
+38-9F-77   (hex)		Suzhou Retronic Interconnect  Technologies Co.,Ltd
+389F77     (base 16)		Suzhou Retronic Interconnect  Technologies Co.,Ltd
+				NO,998 SONGJIARD,WUZHONG DISTRICT
+				SUZHOU  Jiangsu  215124
+				CN
+
+9C-F9-A1   (hex)		Juniper Networks
+9CF9A1     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -142466,24 +142484,6 @@ E02A25     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
 				KANAZAWA  ISHIKAWA  920-8512
 				JP
 
-9C-96-1B   (hex)		IFTER Jerzy Taczalski
-9C961B     (base 16)		IFTER Jerzy Taczalski
-				Wola Niemiecka 78C
-				Niemce    21-025
-				PL
-
-50-F8-AD   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
-50F8AD     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
-				No.18, Ningshuang Road
-				 Nanjing  Jiangsu  210012
-				CN
-
-80-43-5E   (hex)		Luminys Systems Corporation
-80435E     (base 16)		Luminys Systems Corporation
-				15245 Alton PkwySTE100
-				Irvine  CA  92618
-				US
-
 4C-83-FE   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 4C83FE     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				TP-LINK Building (Middle Tower, Room 402), No. 56, Xianyuan Rd, Yuncheng Comm., Xili S.D.O.
@@ -142507,6 +142507,30 @@ E06A1B     (base 16)		Shenzhen Zidoo Technology Co., Ltd.
 				222 Techno 2-ro
 				Yuseong-gu, Daejeon  -  34027
 				KR
+
+50-F8-AD   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+50F8AD     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+80-43-5E   (hex)		Luminys Systems Corporation
+80435E     (base 16)		Luminys Systems Corporation
+				15245 Alton PkwySTE100
+				Irvine  CA  92618
+				US
+
+38-70-35   (hex)		Nintendo Co.,Ltd
+387035     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+9C-96-1B   (hex)		IFTER Jerzy Taczalski
+9C961B     (base 16)		IFTER Jerzy Taczalski
+				Wola Niemiecka 78C
+				Niemce    21-025
+				PL
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -237937,3 +237961,21 @@ D8A312     (base 16)		Taicang T&W Electronics
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+80-1A-23   (hex)		AltoBeam Inc.
+801A23     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+84-88-32   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+848832     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+D8-02-5F   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+D8025F     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
