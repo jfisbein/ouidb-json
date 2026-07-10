@@ -171602,6 +171602,17 @@
     }
   },
   {
+    "prefix": "18F3C2",
+    "organization": {
+      "name": "Ebot Digital Technoloy Co., Limited",
+      "address": {
+        "line1": "Room 701-704, 7f, Huizhi R\u0026d Center, Baoan District",
+        "line2": "Shenzhen Guangdong 518126",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "18F46A",
     "organization": {
       "name": "Hon Hai Precision Ind. Ltd",
@@ -216306,6 +216317,17 @@
         "line1": "P.O Box 8102",
         "line2": "Reno NV 89507",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "40A2E5",
+    "organization": {
+      "name": "3onedata Technology Ltd",
+      "address": {
+        "line1": "3/F, B/2, Jiuxiangling Industrial District, Xili Town, Nanshan District",
+        "line2": "Shenzhen Guangdong 518055",
+        "countryCode": "CN"
       }
     }
   },
@@ -323153,6 +323175,17 @@
     }
   },
   {
+    "prefix": "9C7C1E",
+    "organization": {
+      "name": "Cloud Network Technology Singapore PTE. Ltd",
+      "address": {
+        "line1": "B22 Building, NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China",
+        "line2": "Nanning Guangxi 530007",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "9C7DA3",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -334244,6 +334277,17 @@
         "line1": "Telefonvägen 26",
         "line2": "Stockholm 12626",
         "countryCode": "SE"
+      }
+    }
+  },
+  {
+    "prefix": "A4D9C6",
+    "organization": {
+      "name": "Airpro Technology Ltd",
+      "address": {
+        "line1": "824 Shepherd Place",
+        "line2": "Milton ON L9t6l8",
+        "countryCode": "CA"
       }
     }
   },
@@ -376873,6 +376917,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "CC3953",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },
@@ -427579,6 +427634,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F85333",
+    "organization": {
+      "name": "Tashang Semiconductor(shanghai) Ltd",
+      "address": {
+        "line1": "Room 701, Building 1, Minggu Science Park, No. 7001, Zhong Chun Road, Minhang District, Shanghai",
+        "line2": "Shanghai Shanghai 201101",
         "countryCode": "CN"
       }
     }
