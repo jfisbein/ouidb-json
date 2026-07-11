@@ -95195,6 +95195,12 @@ CC3953     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+64-B2-E4   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+64B2E4     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
+				4F,Block A, Skyworth?Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -142554,6 +142560,12 @@ A4D9C6     (base 16)		Airpro Technology Ltd
 9C7C1E     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
 				Nanning  Guangxi  530007
+				CN
+
+88-1E-C8   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+881EC8     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -190541,6 +190553,18 @@ F85333     (base 16)		Tashang Semiconductor(Shanghai) Co., Ltd.
 				Shenzhen  Guangdong  518126
 				CN
 
+0C-BC-35   (hex)		Netis Technology Co., Ltd.
+0CBC35     (base 16)		Netis Technology Co., Ltd.
+				8 Floor, Bd B, information port, Langshan RD, Nanshan district, 
+				Shenzhen  Guangdong  518057
+				CN
+
+84-E5-9E   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+84E59E     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238014,4 +238038,10 @@ D8-02-5F   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
 D8025F     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
 				No.6, 4th Yunpu Road, Yunpu industry District
 				Guangzhou  Guangdong  510530
+				CN
+
+60-EB-B4   (hex)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+60EBB4     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+				No.168, Middle Road Of East Gate
+				Xiaobian Community  Chang'an Town  523851
 				CN

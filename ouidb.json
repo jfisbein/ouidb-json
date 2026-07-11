@@ -156559,6 +156559,17 @@
     }
   },
   {
+    "prefix": "0CBC35",
+    "organization": {
+      "name": "Netis Technology Ltd",
+      "address": {
+        "line1": "8 Floor, Bd B, Information Port, Langshan Rd, Nanshan District",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "0CBC9F",
     "organization": {
       "name": "Apple",
@@ -254201,6 +254212,17 @@
     }
   },
   {
+    "prefix": "60EBB4",
+    "organization": {
+      "name": "Guangdong Genius Technology Ltd",
+      "address": {
+        "line1": "No.168, Middle Road Of East Gate",
+        "line2": "Xiaobian Community Chang\u0027an Town 523851",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "60EE5C",
     "organization": {
       "name": "Shenzhen Fast Technologies Ltd",
@@ -257710,6 +257732,17 @@
       "address": {
         "line1": "No.5 Dongxin Road",
         "line2": "Wuhan Hubei 430074",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "64B2E4",
+    "organization": {
+      "name": "Shenzhen Skyworth Digital Technology Ltd",
+      "address": {
+        "line1": "4f, Block A, Skyworth?building",
+        "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
       }
     }
@@ -296890,6 +296923,17 @@
     }
   },
   {
+    "prefix": "84E59E",
+    "organization": {
+      "name": "Shenzhen Youhua Technology Ltd",
+      "address": {
+        "line1": "Room 407 Shenzhen University-town Business Park, Lishan Road, Taoyuan Street, Nanshan District",
+        "line2": "Shenzhen Guangdong 518055",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "84E5D8",
     "organization": {
       "name": "Guangdong Unipoe IoT Technology Ltd",
@@ -297942,6 +297986,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "881EC8",
+    "organization": {
+      "name": "Bouffalo Lab (nanjing) Ltd",
+      "address": {
+        "line1": "5f, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China",
+        "line2": "Nanjing Jiangsu 211800",
+        "countryCode": "CN"
       }
     }
   },
