@@ -48014,6 +48014,30 @@ BCC8CC     (base 16)		Seiko Epson Corporation
 				Sunnyvale  CA  94089
 				US
 
+C0-0A-CA   (hex)		SafeSquare GmbH
+C00ACA     (base 16)		SafeSquare GmbH
+				Am Graben 2-6
+				Radevormwald    42477
+				DE
+
+F0-F8-32   (hex)		Google, Inc.
+F0F832     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+90-B3-39   (hex)		Espressif Inc.
+90B339     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+88-0A-BD   (hex)		Wuhan Nexphoton Technology Co.,Ltd
+880ABD     (base 16)		Wuhan Nexphoton Technology Co.,Ltd
+				Room 312, 3rd Floor, Area C, Guanggu Innovation Industrial Park (Yunke Town),No. 22, Gaoxin 4th Road, East Lake High-Tech Development Zone,Wuhan City, Hubei Province, P.R.China
+				Wuhan  Hubei  430070
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95199,6 +95223,30 @@ CC3953     (base 16)		IEEE Registration Authority
 64B2E4     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				4F,Block A, Skyworth?Building,
 				Shenzhen  Guangdong  518057
+				CN
+
+78-AF-B8   (hex)		Shenzhen SDMC Technology CP,.LTD
+78AFB8     (base 16)		Shenzhen SDMC Technology CP,.LTD
+				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
+				Shenzhen  China  518000
+				CN
+
+70-4C-C1   (hex)		Tokyo Electron Miyagi Limited
+704CC1     (base 16)		Tokyo Electron Miyagi Limited
+				1 Techno-Hills
+				Taiwa-cho, Kurokawa-gun  Miyagi  981-3629
+				JP
+
+C4-9E-7E   (hex)		Espressif Inc.
+C49E7E     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+34-15-30   (hex)		vivo Mobile Communication Co., Ltd.
+341530     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
 				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -142566,6 +142614,24 @@ A4D9C6     (base 16)		Airpro Technology Ltd
 881EC8     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
 				Nanjing  Jiangsu  211800
+				CN
+
+7C-19-E3   (hex)		Google, Inc.
+7C19E3     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+0C-A2-80   (hex)		FN-LINK TECHNOLOGY Ltd.
+0CA280     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
+74-78-DE   (hex)		vivo Mobile Communication Co., Ltd.
+7478DE     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -190565,6 +190631,12 @@ CC1966     (base 16)		EM Microelectronic
 				Shenzhen  Guangdong  518055
 				CN
 
+9C-8F-A9   (hex)		Genexis B.V.
+9C8FA9     (base 16)		Genexis B.V.
+				Lodewijkstraat 1A
+				Eindhoven    5652AC
+				NL
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238040,8 +238112,26 @@ D8025F     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
 				Guangzhou  Guangdong  510530
 				CN
 
+48-AF-F3   (hex)		Espressif Inc.
+48AFF3     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+CC-68-C7   (hex)		Espressif Inc.
+CC68C7     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 60-EB-B4   (hex)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
 60EBB4     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
 				No.168, Middle Road Of East Gate
 				Xiaobian Community  Chang'an Town  523851
 				CN
+
+78-48-FC   (hex)		System Loco Ltd
+7848FC     (base 16)		System Loco Ltd
+				3-2-6 Storey House
+				Lancaster    LA1 4XQ
+				GB

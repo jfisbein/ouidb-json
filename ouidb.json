@@ -156152,6 +156152,17 @@
     }
   },
   {
+    "prefix": "0CA280",
+    "organization": {
+      "name": "Fn-link Technology Ltd",
+      "address": {
+        "line1": "No.8, Litong Road, Liuyang Economic \u0026 Technical Development Zone, Changsha, Hunan, China",
+        "line2": "Changsha Hunan 410329",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "0CA2F4",
     "organization": {
       "name": "Chameleon Technology (uk) Limited",
@@ -199603,6 +199614,17 @@
     }
   },
   {
+    "prefix": "341530",
+    "organization": {
+      "name": "Vivo Mobile Communication Ltd",
+      "address": {
+        "line1": "No.1, Vivo Road, Chang\u0027an",
+        "line2": "Dongguan Guangdong 523860",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "341593",
     "organization": {
       "name": "Ruckus Wireless",
@@ -225824,6 +225846,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "48AFF3",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -269763,6 +269796,17 @@
     }
   },
   {
+    "prefix": "704CC1",
+    "organization": {
+      "name": "Tokyo Electron Miyagi Limited",
+      "address": {
+        "line1": "1 Techno-hills",
+        "line2": "Taiwa-cho, Kurokawa-gun Miyagi 981-3629",
+        "countryCode": "JP"
+      }
+    }
+  },
+  {
     "prefix": "704CED",
     "organization": {
       "name": "Tmrg Inc",
@@ -275457,6 +275501,17 @@
     }
   },
   {
+    "prefix": "7478DE",
+    "organization": {
+      "name": "Vivo Mobile Communication Ltd",
+      "address": {
+        "line1": "No.1, Vivo Road, Chang\u0027an",
+        "line2": "Dongguan Guangdong 523860",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "747A90",
     "organization": {
       "name": "Murata Manufacturing Ltd",
@@ -279743,6 +279798,17 @@
     }
   },
   {
+    "prefix": "7848FC",
+    "organization": {
+      "name": "System Loco Ltd",
+      "address": {
+        "line1": "3-2-6 Storey House",
+        "line2": "Lancaster La1 4xq",
+        "countryCode": "GB"
+      }
+    }
+  },
+  {
     "prefix": "78491D",
     "organization": {
       "name": "The Will-burt Company",
@@ -281778,6 +281844,17 @@
     }
   },
   {
+    "prefix": "78AFB8",
+    "organization": {
+      "name": "Shenzhen Sdmc Technology CP. Ltd",
+      "address": {
+        "line1": "19/F, Changhong Science \u0026technology Mansion, No.18, Keji South 12th Road High-tech Industrialpark Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen China 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "78AFE4",
     "organization": {
       "name": "Comau S.p.A",
@@ -283782,6 +283859,17 @@
         "line1": "66-11, Nonhyeon 2-dong, Gangnam-gu",
         "line2": "Seoul 06049",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "7C19E3",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
@@ -297649,6 +297737,17 @@
     }
   },
   {
+    "prefix": "880ABD",
+    "organization": {
+      "name": "Wuhan Nexphoton Technology Ltd",
+      "address": {
+        "line1": "Room 312, 3rd Floor, Area C, Guanggu Innovation Industrial Park (yunke Town), No. 22, Gaoxin 4th Road, East Lake High-tech Development Zone, Wuhan City, Hubei Province, P.R.China",
+        "line2": "Wuhan Hubei 430070",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "880CE0",
     "organization": {
       "name": "Texas Instruments",
@@ -310417,6 +310516,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "90B339",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -323600,6 +323710,17 @@
         "line1": "123456",
         "line2": "Noida Uttar Pradesh 201301",
         "countryCode": "IN"
+      }
+    }
+  },
+  {
+    "prefix": "9C8FA9",
+    "organization": {
+      "name": "Genexis B.V",
+      "address": {
+        "line1": "Lodewijkstraat 1A",
+        "line2": "Eindhoven 5652ac",
+        "countryCode": "NL"
       }
     }
   },
@@ -362433,6 +362554,17 @@
     }
   },
   {
+    "prefix": "C00ACA",
+    "organization": {
+      "name": "Safesquare GmbH",
+      "address": {
+        "line1": "Am Graben 2-6",
+        "line2": "Radevormwald 42477",
+        "countryCode": "DE"
+      }
+    }
+  },
+  {
     "prefix": "C00D7E",
     "organization": {
       "name": "Additech Inc",
@@ -369629,6 +369761,17 @@
         "line1": "South Lake Drive",
         "line2": "Newport Gwent Np10 8as",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "C49E7E",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -377918,6 +378061,17 @@
         "line1": "5 Peters Canyon Rd Suit 300",
         "line2": "Irvine CA 92606",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "CC68C7",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -421238,6 +421392,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F0F832",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
