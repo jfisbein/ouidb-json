@@ -188240,6 +188240,17 @@
     }
   },
   {
+    "prefix": "28AFE5",
+    "organization": {
+      "name": "Shenzhen C-data Technology Ltd",
+      "address": {
+        "line1": "#201, Building A4, Nanshan Zhiyuan, No.1001, Xueyuan Avenue, Changyuan Community, Taoyuan, Nanshan",
+        "line2": "Shenzhen Guangdong 518055",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "28AFFD",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -232129,6 +232140,17 @@
     }
   },
   {
+    "prefix": "500E5B",
+    "organization": {
+      "name": "Quectel Wireless Solutions Ltd",
+      "address": {
+        "line1": "7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District",
+        "line2": "Shanghai 200233",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "500E6D",
     "organization": {
       "name": "Trafficcast International",
@@ -232191,6 +232213,17 @@
         "line1": "16 Cocran Close",
         "line2": "Milton Keynes Bucks Mk8 0aj",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "50125C",
+    "organization": {
+      "name": "Sony Corporation",
+      "address": {
+        "line1": "Sony City Osaki 2-10-1",
+        "line2": "Shinagawa-ku Tokyo 141-8610",
+        "countryCode": "JP"
       }
     }
   },
@@ -235788,6 +235821,17 @@
         "line1": "169 Madison Avenue, Suite 15233",
         "line2": "New York NY 10016",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "50D1D7",
+    "organization": {
+      "name": "ALL Winner (hong Kong) Limited",
+      "address": {
+        "line1": "Unit No.1301, 13f, Sunbeam Plaza, 1155 Canton Road, Mongkok, Kowloon, Hong Kong",
+        "line2": "Hong Kong 999077",
+        "countryCode": "CN"
       }
     }
   },
@@ -261743,6 +261787,17 @@
         "line1": "5453 Great America Parkway",
         "line2": "Santa Clara CA 95054",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "688D2B",
+    "organization": {
+      "name": "GSD Viet NAM Technology Company Limited",
+      "address": {
+        "line1": "Part OF Factory 2, Lot C2.10, D1 Street, Dong AN 2 Industrial Park, Binhduong Ward",
+        "line2": "HO Chi Minh City HO Chi Minh 820000",
+        "countryCode": "VN"
       }
     }
   },
@@ -291180,6 +291235,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "809B31",
+    "organization": {
+      "name": "XIN Link Internaitonal CO Limited",
+      "address": {
+        "line1": "Room 902, 9/F, One Midtown, 11 Hoi Shing Road, Tsuen Wan, New Territories, Hong Kong",
+        "line2": "Hongkong 999077",
+        "countryCode": "CN"
       }
     }
   },

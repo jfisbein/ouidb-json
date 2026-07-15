@@ -48002,11 +48002,41 @@ BCC8CC     (base 16)		Seiko Epson Corporation
 				KANAZAWA, ISHIKAWA 920    na
 				JP
 
+88-0A-BD   (hex)		Wuhan Nexphoton Technology Co.,Ltd
+880ABD     (base 16)		Wuhan Nexphoton Technology Co.,Ltd
+				Room 312, 3rd Floor, Area C, Guanggu Innovation Industrial Park (Yunke Town),No. 22, Gaoxin 4th Road, East Lake High-Tech Development Zone,Wuhan City, Hubei Province, P.R.China
+				Wuhan  Hubei  430070
+				CN
+
 5C-E7-53   (hex)		Shenzhen Intellirocks Tech. Co. Ltd.
 5CE753     (base 16)		Shenzhen Intellirocks Tech. Co. Ltd.
 				No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue,Xili Community, Xili Street, Nanshan District
 				Shenzhen  Guangdong  518000
 				CN
+
+80-9B-31   (hex)		XIN LINK INTERNAITONAL CO LIMITED
+809B31     (base 16)		XIN LINK INTERNAITONAL CO LIMITED
+				Room 902, 9/F, ONE MIDTOWN, 11 Hoi Shing Road, Tsuen Wan, New Territories, Hong Kong
+				HONGKONG    999077
+				CN
+
+90-B3-39   (hex)		Espressif Inc.
+90B339     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+50-12-5C   (hex)		Sony Corporation
+50125C     (base 16)		Sony Corporation
+				Sony City Osaki 2-10-1
+				Shinagawa-ku   Tokyo  141-8610
+				JP
+
+F0-F8-32   (hex)		Google, Inc.
+F0F832     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
 
 60-62-9A   (hex)		Juniper Networks
 60629A     (base 16)		Juniper Networks
@@ -48019,24 +48049,6 @@ C00ACA     (base 16)		SafeSquare GmbH
 				Am Graben 2-6
 				Radevormwald    42477
 				DE
-
-F0-F8-32   (hex)		Google, Inc.
-F0F832     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
-				US
-
-90-B3-39   (hex)		Espressif Inc.
-90B339     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-88-0A-BD   (hex)		Wuhan Nexphoton Technology Co.,Ltd
-880ABD     (base 16)		Wuhan Nexphoton Technology Co.,Ltd
-				Room 312, 3rd Floor, Area C, Guanggu Innovation Industrial Park (Yunke Town),No. 22, Gaoxin 4th Road, East Lake High-Tech Development Zone,Wuhan City, Hubei Province, P.R.China
-				Wuhan  Hubei  430070
-				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -142632,6 +142644,18 @@ A4D9C6     (base 16)		Airpro Technology Ltd
 7478DE     (base 16)		vivo Mobile Communication Co., Ltd.
 				No.1, vivo Road, Chang'an
 				Dongguan  Guangdong  523860
+				CN
+
+50-0E-5B   (hex)		Quectel Wireless Solutions Co.,Ltd.
+500E5B     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+50-D1-D7   (hex)		ALL Winner (Hong Kong) Limited
+50D1D7     (base 16)		ALL Winner (Hong Kong) Limited
+				Unit No.1301,13F,Sunbeam Plaza,1155 Canton Road,Mongkok,Kowloon,Hong Kong
+				Hong Kong    999077
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -238135,3 +238159,15 @@ CC68C7     (base 16)		Espressif Inc.
 				3-2-6 Storey House
 				Lancaster    LA1 4XQ
 				GB
+
+68-8D-2B   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+688D2B     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
+28-AF-E5   (hex)		Shenzhen C-Data Technology Co., Ltd.
+28AFE5     (base 16)		Shenzhen C-Data Technology Co., Ltd.
+				#201, Building A4, Nanshan Zhiyuan, No.1001, Xueyuan Avenue, Changyuan Community,Taoyuan,Nanshan
+				Shenzhen  Guangdong  518055
+				CN
