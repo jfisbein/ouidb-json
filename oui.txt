@@ -48050,6 +48050,24 @@ C00ACA     (base 16)		SafeSquare GmbH
 				Radevormwald    42477
 				DE
 
+F8-F6-B7   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+F8F6B7     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
+
+8C-39-57   (hex)		Telink Micro LLC
+8C3957     (base 16)		Telink Micro LLC
+				2975 Scott Blvd #120
+				Santa Clara  CA  95054
+				US
+
+34-47-63   (hex)		Comtrend Corporation
+344763     (base 16)		Comtrend Corporation
+				3F-1,10 Lane 609, Chung Hsin Road, Section 5 Taipei Hsien  TW 241 
+				New Taipei City    241
+				TW
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -188423,12 +188441,6 @@ CC7645     (base 16)		Microsoft Corporation
 				Gumi  Gyeongbuk  730-350
 				KR
 
-34-56-ED   (hex)		Goerdyna Group Co., Ltd
-3456ED     (base 16)		Goerdyna Group Co., Ltd
-				B-726, 14th Floor, No. 30 Qutangxia Road, Shinan District
-				Qingdao City  Shandong Province  266000
-				CN
-
 C0-CF-64   (hex)		Hangzhou Zenith Electron Co.,Ltd
 C0CF64     (base 16)		Hangzhou Zenith Electron Co.,Ltd
 				Room 1702, No.888, Zhongxin Road, Beigan Street. Xiaoshan District, Hangzhou City, Zhejiang
@@ -190660,6 +190672,12 @@ CC1966     (base 16)		EM Microelectronic
 				Lodewijkstraat 1A
 				Eindhoven    5652AC
 				NL
+
+34-56-ED   (hex)		Goerdyna Group Co., Ltd.
+3456ED     (base 16)		Goerdyna Group Co., Ltd.
+				B-726, 14th Floor, No. 30 Qutangxia Road, Shinan District
+				Qingdao City  Shandong Province  266000
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority

@@ -200494,6 +200494,17 @@
     }
   },
   {
+    "prefix": "344763",
+    "organization": {
+      "name": "Comtrend Corporation",
+      "address": {
+        "line1": "3f-1, 10 Lane 609, Chung Hsin Road, Section 5 Taipei Hsien TW 241",
+        "line2": "New Taipei City 241",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "34479A",
     "organization": {
       "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
@@ -303239,6 +303250,17 @@
         "line1": "Rm 2501, Bldg 2, Shenzhen Next Generation Industrial Park, No.136 Zhongkang Rd, Futian Dist",
         "line2": "Shenzhen 518000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "8C3957",
+    "organization": {
+      "name": "Telink Micro LLC",
+      "address": {
+        "line1": "2975 Scott Blvd #120",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
       }
     }
   },
@@ -431177,6 +431199,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F8F6B7",
+    "organization": {
+      "name": "Shenzhen Bilian Electronic CO.，LTD",
+      "address": {
+        "line1": "NO.268， Fuqian Rd, Jutang Community, Guanlan Town, Longhua New District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
       }
     }
   },
