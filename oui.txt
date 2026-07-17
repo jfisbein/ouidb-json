@@ -142628,40 +142628,10 @@ E06A1B     (base 16)		Shenzhen Zidoo Technology Co., Ltd.
 				Niemce    21-025
 				PL
 
-A4-D9-C6   (hex)		Airpro Technology Ltd
-A4D9C6     (base 16)		Airpro Technology Ltd
-				824 Shepherd Place
-				Milton  ON  L9T6L8
-				CA
-
 9C-7C-1E   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 9C7C1E     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
 				Nanning  Guangxi  530007
-				CN
-
-88-1E-C8   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
-881EC8     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
-				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
-				Nanjing  Jiangsu  211800
-				CN
-
-7C-19-E3   (hex)		Google, Inc.
-7C19E3     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
-				US
-
-0C-A2-80   (hex)		FN-LINK TECHNOLOGY Ltd.
-0CA280     (base 16)		FN-LINK TECHNOLOGY Ltd.
-				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
-				Changsha  Hunan  410329
-				CN
-
-74-78-DE   (hex)		vivo Mobile Communication Co., Ltd.
-7478DE     (base 16)		vivo Mobile Communication Co., Ltd.
-				No.1, vivo Road, Chang'an
-				Dongguan  Guangdong  523860
 				CN
 
 50-0E-5B   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -142675,6 +142645,36 @@ A4D9C6     (base 16)		Airpro Technology Ltd
 				Unit No.1301,13F,Sunbeam Plaza,1155 Canton Road,Mongkok,Kowloon,Hong Kong
 				Hong Kong    999077
 				CN
+
+0C-A2-80   (hex)		FN-LINK TECHNOLOGY Ltd.
+0CA280     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
+88-1E-C8   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+881EC8     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
+74-78-DE   (hex)		vivo Mobile Communication Co., Ltd.
+7478DE     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+A4-D9-C6   (hex)		Airpro Technology Ltd
+A4D9C6     (base 16)		Airpro Technology Ltd
+				824 Shepherd Place
+				Milton  ON  L9T6L8
+				CA
+
+7C-19-E3   (hex)		Google, Inc.
+7C19E3     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -190655,16 +190655,22 @@ CC1966     (base 16)		EM Microelectronic
 				Kulim  Kedah  09000
 				MY
 
-0C-BC-35   (hex)		Netis Technology Co., Ltd.
-0CBC35     (base 16)		Netis Technology Co., Ltd.
-				8 Floor, Bd B, information port, Langshan RD, Nanshan district, 
-				Shenzhen  Guangdong  518057
-				CN
-
 84-E5-9E   (hex)		Shenzhen YOUHUA Technology Co., Ltd
 84E59E     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
+				CN
+
+34-56-ED   (hex)		Goerdyna Group Co., Ltd.
+3456ED     (base 16)		Goerdyna Group Co., Ltd.
+				B-726, 14th Floor, No. 30 Qutangxia Road, Shinan District
+				Qingdao City  Shandong Province  266000
+				CN
+
+0C-BC-35   (hex)		Netis Technology Co., Ltd.
+0CBC35     (base 16)		Netis Technology Co., Ltd.
+				8 Floor, Bd B, information port, Langshan RD, Nanshan district, 
+				Shenzhen  Guangdong  518057
 				CN
 
 9C-8F-A9   (hex)		Genexis B.V.
@@ -190673,11 +190679,11 @@ CC1966     (base 16)		EM Microelectronic
 				Eindhoven    5652AC
 				NL
 
-34-56-ED   (hex)		Goerdyna Group Co., Ltd.
-3456ED     (base 16)		Goerdyna Group Co., Ltd.
-				B-726, 14th Floor, No. 30 Qutangxia Road, Shinan District
-				Qingdao City  Shandong Province  266000
-				CN
+C8-DA-29   (hex)		Espressif Systems (Singapore) Pte. Ltd
+C8DA29     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority

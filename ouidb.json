@@ -375502,6 +375502,17 @@
     }
   },
   {
+    "prefix": "C8DA29",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "C8DB26",
     "organization": {
       "name": "Logitech",
