@@ -95309,6 +95309,24 @@ C49E7E     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+44-D7-B7   (hex)		eero inc.
+44D7B7     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+84-7D-7E   (hex)		Cisco Meraki
+847D7E     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+9C-4D-C2   (hex)		Cisco Meraki
+9C4DC2     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -142717,6 +142735,18 @@ ACA213     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
 				CN
+
+C4-3A-A5   (hex)		AzureWave Technology Inc.
+C43AA5     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
+68-58-92   (hex)		NXP Semiconductors Taiwan Ltd.
+685892     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -190751,6 +190781,12 @@ E443CF     (base 16)		TP-Link Systems Inc.
 				Hong Kong  KOWLOON  999077
 				HK
 
+F4-B4-9E   (hex)		eero inc.
+F4B49E     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238273,3 +238309,27 @@ EC3DFD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
+
+88-B9-B8   (hex)		NXP Semiconductors Taiwan Ltd.
+88B9B8     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
+1C-84-A6   (hex)		Cisco Meraki
+1C84A6     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+1C-22-26   (hex)		Cisco Meraki
+1C2226     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+54-A3-56   (hex)		Annapurna labs
+54A356     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL

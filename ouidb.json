@@ -172416,6 +172416,17 @@
     }
   },
   {
+    "prefix": "1C2226",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "1C2285",
     "organization": {
       "name": "Serrature Meroni SpA",
@@ -174315,6 +174326,17 @@
         "line1": "11F., No.3-2, Yuanqu St., Nangang Dist.",
         "line2": "Taipei City 115",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "1C84A6",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
+        "countryCode": "US"
       }
     }
   },
@@ -222162,6 +222184,17 @@
     }
   },
   {
+    "prefix": "44D7B7",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "44D832",
     "organization": {
       "name": "Azurewave Technology Inc",
@@ -239725,6 +239758,17 @@
         "line1": "Room 667-675, Sixth Floor",
         "line2": "Shenzhen Guangdong 518055",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "54A356",
+    "organization": {
+      "name": "Annapurna Labs",
+      "address": {
+        "line1": "Matam Scientific Industries Center, Building 8.2",
+        "line2": "Mail Box 15123 Haifa 3508409",
+        "countryCode": "IL"
       }
     }
   },
@@ -260995,6 +261039,17 @@
         "line1": "No.5 Dongxin Road",
         "line2": "Wuhan Hubei 430074",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "685892",
+    "organization": {
+      "name": "NXP Semiconductors Taiwan Ltd",
+      "address": {
+        "line1": "No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan",
+        "line2": "Nanzi Dist. Kaohsiung 811643",
+        "countryCode": "TW"
       }
     }
   },
@@ -295186,6 +295241,17 @@
     }
   },
   {
+    "prefix": "847D7E",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "847E40",
     "organization": {
       "name": "Texas Instruments",
@@ -301153,6 +301219,17 @@
         "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
         "line2": "Beijing Haidian District 100085",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "88B9B8",
+    "organization": {
+      "name": "NXP Semiconductors Taiwan Ltd",
+      "address": {
+        "line1": "No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan",
+        "line2": "Nanzi Dist. Kaohsiung 811643",
+        "countryCode": "TW"
       }
     }
   },
@@ -322499,6 +322576,17 @@
       "address": {
         "line1": "10 Evergreen Dr",
         "line2": "Bozeman MT 59715",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "9C4DC2",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
         "countryCode": "US"
       }
     }
@@ -368002,6 +368090,17 @@
         "line1": "#28, 2333 18th Ave NE",
         "line2": "Calgary Alberta T2e 8t6",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "C43AA5",
+    "organization": {
+      "name": "Azurewave Technology Inc",
+      "address": {
+        "line1": "8F., No. 94, Baozhong Rd.",
+        "line2": "New Taipei City Taiwan 231",
+        "countryCode": "TW"
       }
     }
   },
@@ -424940,6 +425039,17 @@
       "address": {
         "line1": "400 West Cesar Chavez Street",
         "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F4B49E",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
         "countryCode": "US"
       }
     }
