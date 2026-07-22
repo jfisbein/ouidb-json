@@ -164941,6 +164941,17 @@
     }
   },
   {
+    "prefix": "147649",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "147740",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -218990,6 +219001,17 @@
         "line1": "No.1, Jen Ai Road Hsinchu Industrial Park, Hukou",
         "line2": "Hsinchu Taiwan ROC. 30352",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "442D49",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville NC 27560",
+        "countryCode": "US"
       }
     }
   },
@@ -287885,6 +287907,17 @@
     }
   },
   {
+    "prefix": "7CE4A1",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "7CE4AA",
     "organization": {
       "name": "Private",
@@ -311917,6 +311950,17 @@
     }
   },
   {
+    "prefix": "90F510",
+    "organization": {
+      "name": "Technologie Optic.ca Inc",
+      "address": {
+        "line1": "1-2871 Star",
+        "line2": "Saint-hubert Quebec J3y3w5",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "90F644",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -325333,6 +325377,17 @@
       "address": {
         "line1": "8000 Foothills Blvd.",
         "line2": "Roseville CA 95747",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "9CDC99",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville NC 27560",
         "countryCode": "US"
       }
     }
