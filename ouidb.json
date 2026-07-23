@@ -223665,6 +223665,17 @@
     }
   },
   {
+    "prefix": "483106",
+    "organization": {
+      "name": "Nvidia Corporation",
+      "address": {
+        "line1": "2701 San Tomas Expressway",
+        "line2": "Santa Clara CA 95050",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "483133",
     "organization": {
       "name": "Robert Bosch Elektronika Kft",
@@ -331723,6 +331734,17 @@
     }
   },
   {
+    "prefix": "A437E6",
+    "organization": {
+      "name": "Murata Manufacturing Ltd",
+      "address": {
+        "line1": "1-10-1, Higashikotari",
+        "line2": "Nagaokakyo-shi Kyoto 617-8555",
+        "countryCode": "JP"
+      }
+    }
+  },
+  {
     "prefix": "A43831",
     "organization": {
       "name": "RF Elements s.r.o",
@@ -377042,6 +377064,17 @@
     }
   },
   {
+    "prefix": "CC219D",
+    "organization": {
+      "name": "Shenzhen Wangliantong Intelligent Technology Co., Lte",
+      "address": {
+        "line1": "Building B4, Haosan No.1 Industrial Zone, Nanpu Road, Xinqiao Subdistrict, Bao\u0027an District, Shenzhen City",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "CC2218",
     "organization": {
       "name": "Innodigital Ltd",
@@ -416135,6 +416168,17 @@
     }
   },
   {
+    "prefix": "ECA854",
+    "organization": {
+      "name": "Efoce Technology Ltd",
+      "address": {
+        "line1": "Room 1116, Building 2, R\u0026d Building, Yanxiang Zhigu, No. 1801 Jufeng Road, Guangming District",
+        "line2": "Shenzhen Guangdong 518107",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "ECA86B",
     "organization": {
       "name": "Elitegroup Computer Systems Ltd",
@@ -421314,7 +421358,7 @@
   {
     "prefix": "F0DB30",
     "organization": {
-      "name": "Yottabyte",
+      "name": "Verge.io",
       "address": {
         "line1": "1750 S. Telegraph Road",
         "line2": "Bloomfield Twp. MI 48302",
@@ -421843,6 +421887,17 @@
         "line1": "Darmcher Grund 22",
         "line2": "Meinerzhagen 58540",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "F0FABA",
+    "organization": {
+      "name": "Nvidia Corporation",
+      "address": {
+        "line1": "2701 San Tomas Expressway",
+        "line2": "Santa Clara CA 95050",
+        "countryCode": "US"
       }
     }
   },

@@ -48098,6 +48098,12 @@ CC641A     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Morrisville  NC  27560
 				US
 
+F0-FA-BA   (hex)		NVIDIA Corporation
+F0FABA     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95339,6 +95345,12 @@ C49E7E     (base 16)		Espressif Inc.
 				Saint-Hubert  Quebec  J3Y3W5
 				CA
 
+EC-A8-54   (hex)		EFOCE Technology Co., Ltd.
+ECA854     (base 16)		EFOCE Technology Co., Ltd.
+				Room 1116, Building 2, R&D Building, Yanxiang Zhigu, No. 1801 Jufeng Road, Guangming District
+				Shenzhen  Guangdong  518107
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -119450,12 +119462,6 @@ F43D80     (base 16)		FAG Industrial Services GmbH
 				Oulu    90570
 				FI
 
-F0-DB-30   (hex)		Yottabyte
-F0DB30     (base 16)		Yottabyte
-				1750 S. Telegraph Road
-				Bloomfield Twp.  MI  48302
-				US
-
 9C-31-B6   (hex)		Kulite Semiconductor Products Inc
 9C31B6     (base 16)		Kulite Semiconductor Products Inc
 				1 Willow Tree Rd
@@ -142758,6 +142764,18 @@ C43AA5     (base 16)		AzureWave Technology Inc.
 980818     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
+				CN
+
+F0-DB-30   (hex)		Verge.io
+F0DB30     (base 16)		Verge.io
+				1750 S. Telegraph Road
+				Bloomfield Twp.  MI  48302
+				US
+
+CC-21-9D   (hex)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
+CC219D     (base 16)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
+				Building B4, Haosan No.1 Industrial Zone, Nanpu Road, Xinqiao Subdistrict, Bao'an District, Shenzhen City
+				ShenZhen  GuangDong  518000
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -238363,3 +238381,15 @@ EC3DFD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				2121 RDU Center Drive 
 				Morrisville  NC  27560
 				US
+
+48-31-06   (hex)		NVIDIA Corporation
+483106     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
+
+A4-37-E6   (hex)		Murata Manufacturing Co., Ltd.
+A437E6     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
