@@ -159129,6 +159129,17 @@
     }
   },
   {
+    "prefix": "103B54",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "103B59",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -162885,6 +162896,17 @@
         "line1": "8000 Foothills Blvd.",
         "line2": "Roseville CA 95747",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "140338",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -188702,6 +188724,17 @@
     }
   },
   {
+    "prefix": "28C039",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "28C0DA",
     "organization": {
       "name": "Juniper Networks",
@@ -202045,6 +202078,17 @@
     }
   },
   {
+    "prefix": "3491F0",
+    "organization": {
+      "name": "DJI Baiwang Technology Ltd",
+      "address": {
+        "line1": "Room 101, Building 12, Baiwangxin Industrial Park, 1002 Songbai Road, Sunshine Community, Xili Street",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "3492C2",
     "organization": {
       "name": "Square Route Ltd",
@@ -202452,6 +202496,17 @@
     }
   },
   {
+    "prefix": "34A8A0",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "34A8DB",
     "organization": {
       "name": "Senarch ApS",
@@ -202546,6 +202601,17 @@
       "address": {
         "line1": "32 Xuanwumen West Street, Xicheng District",
         "line2": "Beijing 100053",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "34AC2F",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
       }
     }
@@ -203921,6 +203987,17 @@
         "line1": "1 Creation RD 3.",
         "line2": "Hsinchu 30077",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "34EFD7",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -207908,6 +207985,17 @@
         "line1": "1325 N Fiesta Blvd., #101",
         "line2": "Gilbert AZ 85233",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "38C9B1",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
       }
     }
   },
@@ -222294,6 +222382,17 @@
     }
   },
   {
+    "prefix": "44DBBE",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "44DBD2",
     "organization": {
       "name": "Yealink(xiamen) Network Technology Ltd",
@@ -227510,6 +227609,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "4C0573",
+    "organization": {
+      "name": "Moka Global Limited",
+      "address": {
+        "line1": "5th Floor Building 22e 22 Science Park East Avenue Hong Kong Science Park Shatin NT",
+        "line2": "Hong Kong 999077",
+        "countryCode": "HK"
       }
     }
   },
@@ -234567,6 +234677,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "507C90",
+    "organization": {
+      "name": "Huami (shenzhen) Information Technology Ltd",
+      "address": {
+        "line1": "401, Building B, Phase Ii, Science And Technology Building, No. 1057 Nanhai Avenue, Shekou, Yanshan Community, Zhaoshang Street",
+        "line2": "Nanshan District Shenzhen 51867",
+        "countryCode": "CN"
       }
     }
   },
@@ -250691,6 +250812,17 @@
         "line1": "5F., No. 20, Guanqian Road, Zhongzheng District",
         "line2": "Taipei City 100007",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "601F56",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -279457,6 +279589,17 @@
     }
   },
   {
+    "prefix": "782F02",
+    "organization": {
+      "name": "Honor Device Ltd",
+      "address": {
+        "line1": "Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District",
+        "line2": "Shenzhen Guangdong 518040",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "782F17",
     "organization": {
       "name": "Xlab Ltd",
@@ -294269,6 +294412,17 @@
       "address": {
         "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "843CFC",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
         "countryCode": "CN"
       }
     }
@@ -311114,6 +311268,17 @@
     }
   },
   {
+    "prefix": "90C97E",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "90C99B",
     "organization": {
       "name": "Tesorion Nederland B.V",
@@ -314332,6 +314497,17 @@
       "address": {
         "line1": "7470 SW Bridgeport Rd",
         "line2": "Durham OR 97224",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "9482B2",
+    "organization": {
+      "name": "GL Intelligence",
+      "address": {
+        "line1": "10400 Eaton Pl, Ste 215",
+        "line2": "Fairfax VA 22030",
         "countryCode": "US"
       }
     }
@@ -352688,6 +352864,17 @@
     }
   },
   {
+    "prefix": "B4D1F6",
+    "organization": {
+      "name": "Huawei Technologies Ltd",
+      "address": {
+        "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
+        "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B4D286",
     "organization": {
       "name": "Telechips Inc",
@@ -353724,6 +353911,17 @@
       "address": {
         "line1": "Midea Global Innovation Center, Beijiao Town, Shunde",
         "line2": "Foshan Guangdong 528311",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B80C68",
+    "organization": {
+      "name": "Honor Device Ltd",
+      "address": {
+        "line1": "Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District",
+        "line2": "Shenzhen Guangdong 518040",
         "countryCode": "CN"
       }
     }
@@ -380066,6 +380264,17 @@
     }
   },
   {
+    "prefix": "CCC253",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "CCC261",
     "organization": {
       "name": "Ieee Registration Authority",
@@ -381327,6 +381536,17 @@
         "line1": "1500 Liberty Ridge Drive, Suite 100",
         "line2": "Wayne PA 19087",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D00674",
+    "organization": {
+      "name": "Siemens Industrial Automation Products Ltd., Chengdu",
+      "address": {
+        "line1": "Tianyuan Road No.99, High Tech Zone West",
+        "line2": "Chengdu Sichuan Province 611731",
+        "countryCode": "CN"
       }
     }
   },
@@ -398898,6 +399118,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "DCD9A8",
+    "organization": {
+      "name": "Guang Zhou Xradio Technology Ltd",
+      "address": {
+        "line1": "Room 405, Buildingb, No. 18 Science Avenue, Guangzhou Science City, Huangpu District",
+        "line2": "Guangzhou Guangdong 510700",
         "countryCode": "CN"
       }
     }
@@ -421484,6 +421715,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "F0EAE1",
+    "organization": {
+      "name": "Nanjing Risc-v Institute Ltd",
+      "address": {
+        "line1": "Room 303, Building C, 18 Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210000",
+        "countryCode": "CN"
       }
     }
   },
