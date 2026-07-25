@@ -177131,6 +177131,17 @@
     }
   },
   {
+    "prefix": "202C05",
+    "organization": {
+      "name": "Zhejiang Dahua Zhilian Ltd",
+      "address": {
+        "line1": "No.28, Dongqiao Road, Dongzhou Street, Fuyang District, Hangzhou, P.R. China",
+        "line2": "Hangzhou 311400",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "202CB7",
     "organization": {
       "name": "Kong Yue Electronics \u0026 Information Industry (xinhui) Ltd",
@@ -296176,6 +296187,17 @@
     }
   },
   {
+    "prefix": "84A34B",
+    "organization": {
+      "name": "Barrot Technology Ltd",
+      "address": {
+        "line1": "A1009, Block A, Jia Hua Building, No.9 Shangdi 3rd Street, Haidian District, Beijing",
+        "line2": "Beijing Beijing 100000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "84A3B5",
     "organization": {
       "name": "Propulsion Systems",
@@ -301648,6 +301670,17 @@
         "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
         "line2": "Beijing Beijing 100085",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "88C3B2",
+    "organization": {
+      "name": "Rotek LLC",
+      "address": {
+        "line1": "Room B 16/F Eubank Plaza 9 Chiu Lung Street, Central Hong Kong",
+        "line2": "Hong Kong 999077",
+        "countryCode": "HK"
       }
     }
   },
@@ -314062,6 +314095,17 @@
     }
   },
   {
+    "prefix": "945DBF",
+    "organization": {
+      "name": "Nokia Solutions and Networks India Private Limited",
+      "address": {
+        "line1": "Plot 45, Fathima Nagar, Nemilicherry",
+        "line2": "Chennai Tamilnadu 600044",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "945F34",
     "organization": {
       "name": "Renesas Electronics (penang) Sdn. Bhd",
@@ -323907,6 +323951,17 @@
       "address": {
         "line1": "Room 202, Building No.5, Section 30, No.2 of Kefa Road, Nanshan District, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "9C803D",
+    "organization": {
+      "name": "TCT Mobile Ltd",
+      "address": {
+        "line1": "No.86 Hechang 7th Road, Zhongkai, Hi-tech District",
+        "line2": "Hui Zhou Guang Dong 516006",
         "countryCode": "CN"
       }
     }
