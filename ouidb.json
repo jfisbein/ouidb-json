@@ -172581,6 +172581,17 @@
     }
   },
   {
+    "prefix": "1C2904",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "1C2A8B",
     "organization": {
       "name": "Nokia",
@@ -177006,6 +177017,17 @@
         "line1": "5F No. 76, Ligong St., Beitou District",
         "line2": "Taipei City Taiwan 112",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "202565",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -211241,6 +211263,17 @@
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "3C75DE",
+    "organization": {
+      "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
+      "address": {
+        "line1": "NO.18 Haibin Road",
+        "line2": "Dong Guan Guang Dong 523860",
+        "countryCode": "CN"
       }
     }
   },
@@ -254817,6 +254850,17 @@
     }
   },
   {
+    "prefix": "60F91C",
+    "organization": {
+      "name": "China Dragon Technology Limited",
+      "address": {
+        "line1": "B4 Building, No.3 First Industrial Zone, Nanpu Road, Lao Community, Xinqian Street, Baoan District, Shenzhen, City",
+        "line2": "Shenzhen 518100",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "60FA9D",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -256095,6 +256139,17 @@
         "line1": "Solothurnerstrasse 19",
         "line2": "Olten 4600",
         "countryCode": "CH"
+      }
+    }
+  },
+  {
+    "prefix": "6442C2",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -290176,6 +290231,17 @@
     }
   },
   {
+    "prefix": "8053E0",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "80542D",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -291070,6 +291136,17 @@
         "line1": "Jinhua Road No.309, Beibei",
         "line2": "Chongqing 400700",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "807DF9",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -293346,6 +293423,17 @@
         "line1": "4-12-3 Higashi – Shinagawa",
         "line2": "Shinagawa-ku Tokyo 140-0002",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "8400EC",
+    "organization": {
+      "name": "Shelly Europe Ltd",
+      "address": {
+        "line1": "51 Cherni Vrah Blvd",
+        "line2": "Sofia 1407",
+        "countryCode": "BG"
       }
     }
   },
@@ -317347,6 +317435,17 @@
         "line1": "129, Samsung-ro, Youngtongl-gu",
         "line2": "Suwon Gyeonggi-do 16677",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "9806A3",
+    "organization": {
+      "name": "GSD Viet NAM Technology Company Limited",
+      "address": {
+        "line1": "Part OF Factory 2, Lot C2.10, D1 Street, Dong AN 2 Industrial Park, Binhduong Ward",
+        "line2": "HO Chi Minh City HO Chi Minh 820000",
+        "countryCode": "VN"
       }
     }
   },
@@ -344820,6 +344919,17 @@
     }
   },
   {
+    "prefix": "ACF896",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "ACF8CC",
     "organization": {
       "name": "Commscope",
@@ -348072,6 +348182,17 @@
         "line1": "Pod Skarpa 51a",
         "line2": "Bydgoszcz Kujawsko-pomorskie 85-796",
         "countryCode": "PL"
+      }
+    }
+  },
+  {
+    "prefix": "B0BE45",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -352875,6 +352996,17 @@
     }
   },
   {
+    "prefix": "B4CF49",
+    "organization": {
+      "name": "WNC Corporation",
+      "address": {
+        "line1": "No.20, Park Avenue Ii, Hsinchu Science Park",
+        "line2": "Hsin-chu R.O.C. 308",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "B4CFDB",
     "organization": {
       "name": "Shenzhen Jiuzhou Electric Ltd",
@@ -357032,6 +357164,17 @@
         "line1": "10 Cite Rougemont",
         "line2": "Paris 75009",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "B8BB11",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -376316,6 +376459,17 @@
     }
   },
   {
+    "prefix": "C8E8AF",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "C8EAF8",
     "organization": {
       "name": "zte Corporation",
@@ -379176,6 +379330,17 @@
     }
   },
   {
+    "prefix": "CC7E1F",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "CC7EE7",
     "organization": {
       "name": "Panasonic Corporation AVC Networks Company",
@@ -379623,6 +379788,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "CC98EF",
+    "organization": {
+      "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
+      "address": {
+        "line1": "NO.18 Haibin Road",
+        "line2": "Dong Guan Guang Dong 523860",
+        "countryCode": "CN"
       }
     }
   },
@@ -390156,6 +390332,17 @@
         "line1": "Xinwei Xili, Nanshan District, Shenzhen City Industrial Zone, Shiling 8, 3rd Floor, North",
         "line2": "Shenzhen Guangdong 518055",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "D4E13C",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
