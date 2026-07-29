@@ -146276,6 +146276,17 @@
     }
   },
   {
+    "prefix": "04CED8",
+    "organization": {
+      "name": "NXP Semiconductors Germany GmbH",
+      "address": {
+        "line1": "Beiersdorfstraße 12",
+        "line2": "Hamburg Hamburg 22529",
+        "countryCode": "DE"
+      }
+    }
+  },
+  {
     "prefix": "04CF25",
     "organization": {
       "name": "Manycolors Inc",
@@ -202386,6 +202397,17 @@
     }
   },
   {
+    "prefix": "34A27D",
+    "organization": {
+      "name": "Unisyue Technologies Co;ltd",
+      "address": {
+        "line1": "Room 402, No. 2 Building, NO.1ZhongGuancun East Rd, Haidian District, Beijing, People’s Republic of Chinabeijing",
+        "line2": "Beijing 100190",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "34A2A2",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -229736,6 +229758,17 @@
     }
   },
   {
+    "prefix": "4C7A88",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "4C7B35",
     "organization": {
       "name": "Unionman Technology Ltd",
@@ -245745,6 +245778,17 @@
     }
   },
   {
+    "prefix": "5C0A11",
+    "organization": {
+      "name": "Dongguan Liesheng Electronic Ltd",
+      "address": {
+        "line1": "F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci",
+        "line2": "Dongguan Guangdong 523000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "5C0A5B",
     "organization": {
       "name": "Samsung Electro Mechanics Ltd",
@@ -254037,6 +254081,17 @@
     }
   },
   {
+    "prefix": "60D178",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "60D1AA",
     "organization": {
       "name": "Vishal Telecommunications Pvt Ltd",
@@ -254790,6 +254845,17 @@
       "address": {
         "line1": "1000 SE Tech Center Drive",
         "line2": "Vancouver WA 98683",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "60F620",
+    "organization": {
+      "name": "Sonos Inc",
+      "address": {
+        "line1": "301 Coromar Drive",
+        "line2": "Goleta CA 93117",
         "countryCode": "US"
       }
     }
@@ -260104,6 +260170,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "681C52",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -345410,6 +345487,17 @@
         "line1": ", Le Shi Building, No.105 Yaojiayuan Road, Chaoyang District, Beijing, China",
         "line2": "Beijing Beijing 100025",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B01BFC",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },

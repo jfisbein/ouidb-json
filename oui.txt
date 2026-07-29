@@ -48140,6 +48140,18 @@ CCC253     (base 16)		zte corporation
 				Sofia    1407
 				BG
 
+60-F6-20   (hex)		Sonos Inc.
+60F620     (base 16)		Sonos Inc.
+				301 Coromar Drive
+				Goleta  CA  93117
+				US
+
+B0-1B-FC   (hex)		Cisco Systems, Inc
+B01BFC     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95446,6 +95458,12 @@ CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+4C-7A-88   (hex)		Cisco Systems, Inc
+4C7A88     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -142908,6 +142926,18 @@ D4-E1-3C   (hex)		Mellanox Technologies, Inc.
 D4E13C     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
+				US
+
+04-CE-D8   (hex)		NXP Semiconductors Germany GmbH
+04CED8     (base 16)		NXP Semiconductors Germany GmbH
+				Beiersdorfstraße 12
+				Hamburg  Hamburg  22529
+				DE
+
+60-D1-78   (hex)		Cisco Systems, Inc
+60D178     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -191026,6 +191056,24 @@ B0BE45     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
 				US
+
+34-A2-7D   (hex)		Unisyue Technologies Co;LTD
+34A27D     (base 16)		Unisyue Technologies Co;LTD
+				Room 402, No. 2 Building, NO.1ZhongGuancun East Rd, HaiDian District,Beijing, People’s Republic of ChinaBeijing,
+				Beijing    100190
+				CN
+
+68-1C-52   (hex)		Cisco Systems, Inc
+681C52     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+5C-0A-11   (hex)		Dongguan Liesheng Electronic Co., Ltd.
+5C0A11     (base 16)		Dongguan Liesheng Electronic Co., Ltd.
+				F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci
+				dongguan   guangdong  523000
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
