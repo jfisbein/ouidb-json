@@ -48152,6 +48152,30 @@ B01BFC     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+18-B8-3D   (hex)		Samsung Electronics Co.,Ltd
+18B83D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D4-2C-A6   (hex)		Samsung Electronics Co.,Ltd
+D42CA6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+80-89-43   (hex)		Samsung Electronics Co.,Ltd
+808943     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+64-56-B5   (hex)		Samsung Electronics Co.,Ltd
+6456B5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95458,6 +95482,30 @@ CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+B4-DF-43   (hex)		IEEE Registration Authority
+B4DF43     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+80-AE-AD   (hex)		Beijing Langren Technology co., Ltd.
+80AEAD     (base 16)		Beijing Langren Technology co., Ltd.
+				Building 15, Floor 1 to 2, Fangguyuan Community, Fengtai District, Beijing, China
+				Beijing    100078
+				CN
+
+F4-66-39   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+F46639     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+44-55-2B   (hex)		Samsung Electronics Co.,Ltd
+44552B     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 4C-7A-88   (hex)		Cisco Systems, Inc
 4C7A88     (base 16)		Cisco Systems, Inc
@@ -142916,16 +142964,16 @@ F0DB30     (base 16)		Verge.io
 				Bloomfield Twp.  MI  48302
 				US
 
-AC-F8-96   (hex)		eero inc.
-ACF896     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
-
 D4-E1-3C   (hex)		Mellanox Technologies, Inc.
 D4E13C     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
+				US
+
+AC-F8-96   (hex)		eero inc.
+ACF896     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
 				US
 
 04-CE-D8   (hex)		NXP Semiconductors Germany GmbH
@@ -142934,11 +142982,41 @@ D4E13C     (base 16)		Mellanox Technologies, Inc.
 				Hamburg  Hamburg  22529
 				DE
 
+48-3F-72   (hex)		Samsung Electronics Co.,Ltd
+483F72     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+F8-C3-62   (hex)		Silicon Laboratories
+F8C362     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 60-D1-78   (hex)		Cisco Systems, Inc
 60D178     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+64-C7-F1   (hex)		Premier-D LLC
+64C7F1     (base 16)		Premier-D LLC
+				SHABOLOVKA STREET, 19, ROOM. 1/1
+				Moscow    119049
+				RU
+
+F0-EC-80   (hex)		Zero Boundary Singularity Technology(Shenzhen)
+F0EC80     (base 16)		Zero Boundary Singularity Technology(Shenzhen)
+				Room 1605,Bay Area Industrial Investment Buiding,No.2100 Harxiu Road,Haibin Community,Xin'an Street,Bao'an Distrit,Shenzhen,GuangdongProvince,P.R.China
+				Shenzhen  Guangdong  518000
+				CN
+
+18-B4-FE   (hex)		Tozed Kangwei Tech Co., Ltd
+18B4FE     (base 16)		Tozed Kangwei Tech Co., Ltd
+				Room 1301, NO. 37 Jinlong , Nansha Street, Xiangjiang Financial Business Center, Nansha District
+				Guangzhou  Guangdong  511458
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -191033,18 +191111,6 @@ D00674     (base 16)		Siemens Industrial Automation Products Ltd., Chengdu
 				Piscataway  NJ  08554
 				US
 
-84-A3-4B   (hex)		Barrot Technology Co.,Ltd.
-84A34B     (base 16)		Barrot Technology Co.,Ltd.
-				A1009,Block A,Jia Hua Building,No.9 Shangdi 3rd Street,Haidian District,Beijing
-				beijing  beijing  100000
-				CN
-
-9C-80-3D   (hex)		TCT mobile ltd
-9C803D     (base 16)		TCT mobile ltd
-				No.86 hechang 7th road, zhongkai, Hi-Tech District
-				Hui Zhou  Guang Dong  516006
-				CN
-
 80-7D-F9   (hex)		Mellanox Technologies, Inc.
 807DF9     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -191057,11 +191123,35 @@ B0BE45     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
+5C-0A-11   (hex)		Dongguan Liesheng Electronic Co., Ltd.
+5C0A11     (base 16)		Dongguan Liesheng Electronic Co., Ltd.
+				F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci
+				dongguan   guangdong  523000
+				CN
+
+84-A3-4B   (hex)		Barrot Technology Co.,Ltd.
+84A34B     (base 16)		Barrot Technology Co.,Ltd.
+				A1009,Block A,Jia Hua Building,No.9 Shangdi 3rd Street,Haidian District,Beijing
+				beijing  beijing  100000
+				CN
+
 34-A2-7D   (hex)		Unisyue Technologies Co;LTD
 34A27D     (base 16)		Unisyue Technologies Co;LTD
 				Room 402, No. 2 Building, NO.1ZhongGuancun East Rd, HaiDian District,Beijing, People’s Republic of ChinaBeijing,
 				Beijing    100190
 				CN
+
+9C-80-3D   (hex)		TCT mobile ltd
+9C803D     (base 16)		TCT mobile ltd
+				No.86 hechang 7th road, zhongkai, Hi-Tech District
+				Hui Zhou  Guang Dong  516006
+				CN
+
+B0-61-EB   (hex)		Silicon Laboratories
+B061EB     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 68-1C-52   (hex)		Cisco Systems, Inc
 681C52     (base 16)		Cisco Systems, Inc
@@ -191069,10 +191159,28 @@ B0BE45     (base 16)		Mellanox Technologies, Inc.
 				San Jose  CA  94568
 				US
 
-5C-0A-11   (hex)		Dongguan Liesheng Electronic Co., Ltd.
-5C0A11     (base 16)		Dongguan Liesheng Electronic Co., Ltd.
-				F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci
-				dongguan   guangdong  523000
+48-9A-58   (hex)		Samsung Electronics Co.,Ltd
+489A58     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+FC-E5-F0   (hex)		Samsung Electronics Co.,Ltd
+FCE5F0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+44-E2-13   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+44E213     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+44-57-9F   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+44579F     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -238646,6 +238754,48 @@ A437E6     (base 16)		Murata Manufacturing Co., Ltd.
 				Dongguan    523808
 				CN
 
+78-49-D7   (hex)		Samsung Electronics Co.,Ltd
+7849D7     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+90-F8-0C   (hex)		Samsung Electronics Co.,Ltd
+90F80C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+80-53-E0   (hex)		Espressif Inc.
+8053E0     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+1C-29-04   (hex)		Espressif Inc.
+1C2904     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+20-25-65   (hex)		Espressif Inc.
+202565     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+C8-E8-AF   (hex)		eero inc.
+C8E8AF     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+3C-75-DE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+3C75DE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 10-3B-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 103B54     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -238676,32 +238826,14 @@ B4CF49     (base 16)		WNC Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
-80-53-E0   (hex)		Espressif Inc.
-8053E0     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+AC-87-3F   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+AC873F     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
 
-1C-29-04   (hex)		Espressif Inc.
-1C2904     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-20-25-65   (hex)		Espressif Inc.
-202565     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-C8-E8-AF   (hex)		eero inc.
-C8E8AF     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
-
-3C-75-DE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-3C75DE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
+08-76-83   (hex)		AltoBeam Inc.
+087683     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
 				CN

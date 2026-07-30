@@ -151008,6 +151008,17 @@
     }
   },
   {
+    "prefix": "087683",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "087695",
     "organization": {
       "name": "Auto Industrial Ltd",
@@ -170579,6 +170590,17 @@
     }
   },
   {
+    "prefix": "18B4FE",
+    "organization": {
+      "name": "Tozed Kangwei Tech Ltd",
+      "address": {
+        "line1": "Room 1301, NO. 37 Jinlong, Nansha Street, Xiangjiang Financial Business Center, Nansha District",
+        "line2": "Guangzhou Guangdong 511458",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "18B591",
     "organization": {
       "name": "I-storm",
@@ -170641,6 +170663,17 @@
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "18B83D",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -219929,6 +219962,17 @@
     }
   },
   {
+    "prefix": "44552B",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "4455B1",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -219979,6 +220023,17 @@
       "address": {
         "line1": "No.198, First Section, Snow Mountain Avenue, Jinyuan Town, Dayi County",
         "line2": "Chengdu Sichuan 611330",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "44579F",
+    "organization": {
+      "name": "Beijing Xiaomi Mobile Software Ltd",
+      "address": {
+        "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
+        "line2": "Beijing Beijing 100085",
         "countryCode": "CN"
       }
     }
@@ -222536,6 +222591,17 @@
     }
   },
   {
+    "prefix": "44E213",
+    "organization": {
+      "name": "Beijing Xiaomi Mobile Software Ltd",
+      "address": {
+        "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
+        "line2": "Beijing Beijing 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "44E2F1",
     "organization": {
       "name": "Newradio Technologies Ltd",
@@ -224057,6 +224123,17 @@
         "line1": "NO.8 Tangzhuang Road, Suzhou Industrial Park, Su Zhoucity, Jiangsu Province, China",
         "line2": "Suzhou 215021",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "483F72",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -225714,6 +225791,17 @@
         "line1": "Unit 11 Nobel Road",
         "line2": "London N18 3bh",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "489A58",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -256561,6 +256649,17 @@
     }
   },
   {
+    "prefix": "6456B5",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "645725",
     "organization": {
       "name": "Hui Zhou Gaoshengda Technology Ltd",
@@ -258631,6 +258730,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "64C7F1",
+    "organization": {
+      "name": "Premier-d LLC",
+      "address": {
+        "line1": "Shabolovka Street, 19, ROOM. 1/1",
+        "line2": "Moscow 119049",
+        "countryCode": "RU"
       }
     }
   },
@@ -280326,6 +280436,17 @@
     }
   },
   {
+    "prefix": "7849D7",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "784B08",
     "organization": {
       "name": "f.robotics Acquisitions Ltd",
@@ -291415,6 +291536,17 @@
     }
   },
   {
+    "prefix": "808943",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "808A8B",
     "organization": {
       "name": "Vivo Mobile Communication Ltd",
@@ -292026,6 +292158,17 @@
       "address": {
         "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
         "line2": "Hangzhou City Zhejiang Province, 310000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "80AEAD",
+    "organization": {
+      "name": "Beijing Langren Technology Ltd",
+      "address": {
+        "line1": "Building 15, Floor 1 to 2, Fangguyuan Community, Fengtai District, Beijing, China",
+        "line2": "Beijing 100078",
         "countryCode": "CN"
       }
     }
@@ -312386,6 +312529,17 @@
         "line1": "466 Changhe Road, Binjiang District",
         "line2": "Hangzhou Zhejiang 310052",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "90F80C",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -342855,6 +343009,17 @@
     }
   },
   {
+    "prefix": "AC873F",
+    "organization": {
+      "name": "Bouffalo Lab (nanjing) Ltd",
+      "address": {
+        "line1": "5f, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China",
+        "line2": "Nanjing Jiangsu 211800",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "AC8746",
     "organization": {
       "name": "Huizhou BYD Electronic Ltd",
@@ -346653,6 +346818,17 @@
         "line1": "77, Heungan-daro 81beon-gil",
         "line2": "Anyang Gyeonggi 431-749",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "B061EB",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
       }
     }
   },
@@ -353333,6 +353509,17 @@
         "line1": "19 av. Gabriel Faure",
         "line2": "Thorigne Fouillard 35235",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "B4DF43",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },
@@ -386856,6 +387043,17 @@
         "line1": "Akamondori Bld., 30-20, Ohsu 3-chome, Naka-ku",
         "line2": "Nagoya Aichi Pref. 460-8315",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "D42CA6",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -422082,6 +422280,17 @@
     }
   },
   {
+    "prefix": "F0EC80",
+    "organization": {
+      "name": "Zero Boundary Singularity Technology(shenzhen)",
+      "address": {
+        "line1": "Room 1605, Bay Area Industrial Investment Buiding, No.2100 Harxiu Road, Haibin Community, Xin\u0027an Street, Bao\u0027an Distrit, Shenzhen, Guangdongprovince, P.R.China",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "F0ED19",
     "organization": {
       "name": "zte Corporation",
@@ -424527,6 +424736,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F46639",
+    "organization": {
+      "name": "GD Midea Air-conditioning Equipment Ltd",
+      "address": {
+        "line1": "Midea Global Innovation Center, Beijiao Town, Shunde",
+        "line2": "Foshan Guangdong 528311",
+        "countryCode": "CN"
       }
     }
   },
@@ -431060,6 +431280,17 @@
     }
   },
   {
+    "prefix": "F8C362",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "F8C372",
     "organization": {
       "name": "Tsuzuki Denki",
@@ -436468,6 +436699,17 @@
         "line1": "Elektroniikkatie 10",
         "line2": "Oulu Ou 90590",
         "countryCode": "FI"
+      }
+    }
+  },
+  {
+    "prefix": "FCE5F0",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
