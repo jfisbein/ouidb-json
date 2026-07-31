@@ -121492,6 +121492,17 @@
     }
   },
   {
+    "prefix": "006168",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "006171",
     "organization": {
       "name": "Apple",
@@ -161819,6 +161830,17 @@
     }
   },
   {
+    "prefix": "10C5FA",
+    "organization": {
+      "name": "Zyxel Communications Corporation",
+      "address": {
+        "line1": "No. 6 Innovation Road Ii, Science Park",
+        "line2": "Hsichu Taiwan 300",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "10C60C",
     "organization": {
       "name": "Domino UK Ltd",
@@ -166642,6 +166664,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "14D1D4",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -205603,6 +205636,17 @@
     }
   },
   {
+    "prefix": "3839DD",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "383A21",
     "organization": {
       "name": "Ieee Registration Authority",
@@ -214504,6 +214548,17 @@
         "line1": "Markerkant 13-76",
         "line2": "Almere Flevoland 1314an",
         "countryCode": "NL"
+      }
+    }
+  },
+  {
+    "prefix": "402A6C",
+    "organization": {
+      "name": "Zhejiang Hyxi Technology Ltd",
+      "address": {
+        "line1": "Room 216, Area A, Building 1, No.57, Jianger Road, Changhe Street, Binjiang District, Hangzhou City",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
       }
     }
   },
@@ -225377,6 +225432,17 @@
     }
   },
   {
+    "prefix": "4882DF",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "4882F2",
     "organization": {
       "name": "Appel Elektronik GmbH",
@@ -228697,6 +228763,17 @@
       "address": {
         "line1": "3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District",
         "line2": "Shenzhen 518071",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "4C3CE2",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
       }
     }
@@ -290363,6 +290440,17 @@
     }
   },
   {
+    "prefix": "804DCB",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "804E70",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -295819,6 +295907,17 @@
       "address": {
         "line1": "No.5 Dongxin Road",
         "line2": "Wuhan Hubei 430074",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "8481EA",
+    "organization": {
+      "name": "Shanghai Baud Data Communication Ltd",
+      "address": {
+        "line1": "NO.123 Juli RD",
+        "line2": "Pudong Zhangjiang High-tech Park Shanghai 201203",
         "countryCode": "CN"
       }
     }
@@ -303639,6 +303738,17 @@
     }
   },
   {
+    "prefix": "8C2114",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "8C22D2",
     "organization": {
       "name": "Hangzhou Hikvision Digital Technology Ltd",
@@ -306119,6 +306229,17 @@
       "address": {
         "line1": "309, Intergration Building Olympic Center, No.1 An Ding Road, Chao Yang District,",
         "line2": "Beijing 100029",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "8CA2F5",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
       }
     }
@@ -354213,6 +354334,17 @@
     }
   },
   {
+    "prefix": "B8005B",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B8011F",
     "organization": {
       "name": "Apple",
@@ -365113,6 +365245,17 @@
         "line1": "17301 W. Colfax Avenue, Suite 152",
         "line2": "Golden CO 80401",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "C06194",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -379957,6 +380100,17 @@
     }
   },
   {
+    "prefix": "CC915B",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "CC934A",
     "organization": {
       "name": "Sierra Wireless, ULC",
@@ -385716,6 +385870,17 @@
     }
   },
   {
+    "prefix": "D0DA24",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "D0DAD7",
     "organization": {
       "name": "Apple",
@@ -386471,6 +386636,17 @@
         "line1": "Oostwijk 18",
         "line2": "Uden Noord Brabant 5406 XT",
         "countryCode": "NL"
+      }
+    }
+  },
+  {
+    "prefix": "D40C9D",
+    "organization": {
+      "name": "Sifly Aviation Inc",
+      "address": {
+        "line1": "3350 Scott Blvdbuilding 39-01",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
       }
     }
   },
@@ -422903,6 +423079,17 @@
     }
   },
   {
+    "prefix": "F40393",
+    "organization": {
+      "name": "Nanjing Qinheng Microelectronics Ltd",
+      "address": {
+        "line1": "No.18, Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210012",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "F4044C",
     "organization": {
       "name": "Valencetech Limited",
@@ -433256,6 +433443,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "FC2640",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
