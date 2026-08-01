@@ -128354,6 +128354,17 @@
     }
   },
   {
+    "prefix": "009C57",
+    "organization": {
+      "name": "Hextronics",
+      "address": {
+        "line1": "12194 SW 128th St",
+        "line2": "Miami FL 33186",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "009CC0",
     "organization": {
       "name": "Vivo Mobile Communication Ltd",
@@ -222855,6 +222866,17 @@
     }
   },
   {
+    "prefix": "44EA54",
+    "organization": {
+      "name": "Udisense DBA Nanit",
+      "address": {
+        "line1": "244 5th Ave #2702",
+        "line2": "New York NY 10001",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "44EAD8",
     "organization": {
       "name": "Texas Instruments",
@@ -285425,6 +285447,17 @@
     }
   },
   {
+    "prefix": "7C4D4A",
+    "organization": {
+      "name": "Zhiyue Xingchen(shanghai) Intelligent Terminal Ltd",
+      "address": {
+        "line1": "Room 101 And 102, Building 25, No. 1388 Zhangdong Road, China (shanghai) Pilot Free Trade Zone",
+        "line2": "Shanghai Shanghai 201210",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "7C4D8F",
     "organization": {
       "name": "HP Inc",
@@ -292246,17 +292279,6 @@
       "address": {
         "line1": "2-7th Floors of South Building And 3-11th Floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District",
         "line2": "Hangzhou City Zhejiang Province, 310000",
-        "countryCode": "CN"
-      }
-    }
-  },
-  {
-    "prefix": "80AEAD",
-    "organization": {
-      "name": "Beijing Langren Technology Ltd",
-      "address": {
-        "line1": "Building 15, Floor 1 to 2, Fangguyuan Community, Fengtai District, Beijing, China",
-        "line2": "Beijing 100078",
         "countryCode": "CN"
       }
     }
@@ -320909,6 +320931,17 @@
     }
   },
   {
+    "prefix": "98C5B3",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "98C5DB",
     "organization": {
       "name": "Ericsson AB",
@@ -339798,6 +339831,17 @@
     }
   },
   {
+    "prefix": "A8D6D9",
+    "organization": {
+      "name": "Cloud Network Technology Singapore PTE. Ltd",
+      "address": {
+        "line1": "B22 Building, NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China",
+        "line2": "Nanning Guangxi 530007",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "A8D828",
     "organization": {
       "name": "Ascensia Diabetes Care",
@@ -349834,6 +349878,17 @@
       "address": {
         "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
         "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B0FF0D",
+    "organization": {
+      "name": "Hangzhou Hikvision Digital Technology Ltd",
+      "address": {
+        "line1": "No.555 Qianmo Road",
+        "line2": "Hangzhou Zhejiang 310052",
         "countryCode": "CN"
       }
     }
@@ -406801,6 +406856,17 @@
     }
   },
   {
+    "prefix": "E463FE",
+    "organization": {
+      "name": "Fujian Star-net Communication Ltd",
+      "address": {
+        "line1": "19-22# Building, Star-net Science Plaza, Juyuanzhou",
+        "line2": "Fuzhou Fujian 350002",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "E46447",
     "organization": {
       "name": "EM Microelectronic",
@@ -409858,6 +409924,17 @@
         "line1": "Joensuunkatu 7",
         "line2": "Salo N.A. 24101",
         "countryCode": "FI"
+      }
+    }
+  },
+  {
+    "prefix": "E815FE",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
       }
     }
   },
@@ -428647,6 +428724,17 @@
         "line1": "The Quadrant, Stonehill Green",
         "line2": "Swindon Sn5 7dj",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "F83125",
+    "organization": {
+      "name": "Xiamen Uink Technology Ltd",
+      "address": {
+        "line1": "Unit 401-10, Floor 4, Building C12, Software Park Phase Iii, Xiamen 361024, Fujian, China",
+        "line2": "Xiamen Fujian Porvince 361024",
+        "countryCode": "CN"
       }
     }
   },
