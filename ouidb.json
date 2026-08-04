@@ -81927,7 +81927,7 @@
   {
     "prefix": "001D66",
     "organization": {
-      "name": "Hyundai Telecom",
+      "name": "Hyundai HT Ltd",
       "address": {
         "line1": "Hyundai Telecom Bldg., 4273-12, Shingil-dong, Youngdungpo-gu",
         "line2": "Seoul 150-859",
@@ -259163,6 +259163,17 @@
     }
   },
   {
+    "prefix": "64D608",
+    "organization": {
+      "name": "Shenzhen Ailyworld Technology Ltd",
+      "address": {
+        "line1": "Room 2112, 21/F, South Tower, Tongye Mansion, No.7008 North Ring Boulevard, Meijing Community, Meilin Sub-district, Futian District, Shenzhen, Guangdong, China",
+        "line2": "Shenzhen Guangdong 518101",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "64D667",
     "organization": {
       "name": "Shanghai Ikotek Technology Ltd",
@@ -275639,6 +275650,17 @@
       "address": {
         "line1": "1-1 Shin-ogura",
         "line2": "Kawasaki-shi Kanagawa Prefecture 2120031",
+        "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "745EB4",
+    "organization": {
+      "name": "Yokowo Ltd",
+      "address": {
+        "line1": "5-11, Takinogawa 7-chome",
+        "line2": "Kita-ku Tokyo 114-8515",
         "countryCode": "JP"
       }
     }
@@ -292673,8 +292695,8 @@
     "organization": {
       "name": "Sonova Consumer Hearing GmbH",
       "address": {
-        "line1": "Am Labor 1",
-        "line2": "Wedemark Niedersachsen 30900",
+        "line1": "Im Heidkampe",
+        "line2": "9 Hannover 30659",
         "countryCode": "DE"
       }
     }
@@ -310751,6 +310773,17 @@
     }
   },
   {
+    "prefix": "90916E",
+    "organization": {
+      "name": "Nfore Technology Ltd",
+      "address": {
+        "line1": "5f, No.31, Ln. 258, Ruiguang Rd., Neihu Dist.",
+        "line2": "Taipei City 114",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "90922C",
     "organization": {
       "name": "Changzhi City Zhouyi Hengtong Information Security Ltd",
@@ -311968,6 +312001,17 @@
         "line1": "No.1, Vivo Road, Chang\u0027an",
         "line2": "Dongguan Guangdong 523860",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "90D529",
+    "organization": {
+      "name": "Accton Technology Corporation",
+      "address": {
+        "line1": "No.1, Creation Road 3, Hsinchu Science Park",
+        "line2": "Hsinchu 30077",
+        "countryCode": "TW"
       }
     }
   },
@@ -341755,6 +341799,17 @@
     }
   },
   {
+    "prefix": "AC40B5",
+    "organization": {
+      "name": "Lumiva Inc",
+      "address": {
+        "line1": "20085 Stevens Creek Boulevard",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "AC40EA",
     "organization": {
       "name": "C\u0026T Solution Inc",
@@ -347548,6 +347603,17 @@
     }
   },
   {
+    "prefix": "B082AB",
+    "organization": {
+      "name": "Guangdong Welland Technology Ltd",
+      "address": {
+        "line1": "No. 7 Minke East Road, Minying Science \u0026 Technology Park, Shiqi",
+        "line2": "Zhongshan Guangdong 528400",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B082E2",
     "organization": {
       "name": "Asustek Computer Inc",
@@ -351793,6 +351859,17 @@
         "line1": "90 W Wieuca Rd, Suite 110",
         "line2": "Atlanta GA 30342",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B46F78",
+    "organization": {
+      "name": "Accton Technology Corporation",
+      "address": {
+        "line1": "No.1, Creation Road 3, Hsinchu Science Park",
+        "line2": "Hsinchu 30077",
+        "countryCode": "TW"
       }
     }
   },
@@ -356504,6 +356581,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B88268",
+    "organization": {
+      "name": "Shenzhen Hopestar Technology Ltd",
+      "address": {
+        "line1": "Room 210-211, Block A, Huafeng Internet Creative Park, No.107 Gonghe Industrial Road, Xixiang Subdistrict",
+        "line2": "Shenzhen Guangdong 518102",
+        "countryCode": "CN"
       }
     }
   },
@@ -380540,6 +380628,17 @@
     }
   },
   {
+    "prefix": "CCAA00",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "CCAB2C",
     "organization": {
       "name": "Humax Ltd",
@@ -386163,6 +386262,17 @@
         "line1": "Room 2206, No 1079, A, Zhantao Technology Building, Minzhi Street, Longhua District",
         "line2": "Tortoal British Virgin Island, Hong Kong Shenzhen, Guang Dong 518131",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "D0EB1A",
+    "organization": {
+      "name": "Siemens AG",
+      "address": {
+        "line1": "Frauenauracher Str.80",
+        "line2": "Erlangen 91056",
+        "countryCode": "DE"
       }
     }
   },
@@ -423250,6 +423360,17 @@
       "address": {
         "line1": "Blockc，2f，building B，paradise Software Park",
         "line2": "Hangzhou Zhejiang 310012",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F40855",
+    "organization": {
+      "name": "Qingdao Haier Technology Co.Ltd",
+      "address": {
+        "line1": "Building C01, Haier Information Park, No.1 Haier Road",
+        "line2": "Qingdao 266101",
         "countryCode": "CN"
       }
     }
