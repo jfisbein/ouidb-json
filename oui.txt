@@ -191369,6 +191369,12 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				9  Hannover  30659 
 				DE
 
+34-B4-F0   (hex)		Hasselblad (Shenzhen) Trading CompanyLimited
+34B4F0     (base 16)		Hasselblad (Shenzhen) Trading CompanyLimited
+				C3-13F-B120C3-13F-B120,BuildingC, KexingScience Park,No.15 KeyyuanRoad，Science andTechnologyPark Community, YuehaiStreet,Nanshan District,Shenzhen,Guangdong, China
+				shenzhen  guangdong  518057
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -239058,4 +239064,10 @@ F83125     (base 16)		Xiamen uink Technology Co., Ltd
 009C57     (base 16)		Hextronics
 				12194 SW 128th St
 				Miami  FL  33186
+				US
+
+5C-50-D3   (hex)		Knit Sound Company
+5C50D3     (base 16)		Knit Sound Company
+				496 Ada Dr SE Ste 201
+				Ada    49301
 				US

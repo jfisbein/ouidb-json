@@ -202859,6 +202859,17 @@
     }
   },
   {
+    "prefix": "34B4F0",
+    "organization": {
+      "name": "Hasselblad (shenzhen) Trading Companylimited",
+      "address": {
+        "line1": "C3-13f-b120c3-13f-b120, Buildingc, Kexingscience Park, No.15 Keyyuanroad，science Andtechnologypark Community, Yuehaistreet, Nanshan District, Shenzhen, Guangdong, China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "34B571",
     "organization": {
       "name": "Plds",
@@ -247126,6 +247137,17 @@
       "address": {
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "5C50D3",
+    "organization": {
+      "name": "Knit Sound Company",
+      "address": {
+        "line1": "496 Ada Dr SE Ste 201",
+        "line2": "Ada 49301",
         "countryCode": "US"
       }
     }
