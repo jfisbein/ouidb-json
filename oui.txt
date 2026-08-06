@@ -48230,6 +48230,12 @@ AC40B5     (base 16)		Lumiva Inc.
 				Cupertino  CA  95014
 				US
 
+DC-EB-5D   (hex)		Shandong Sinochip Semiconductors Co.,Ltd.
+DCEB5D     (base 16)		Shandong Sinochip Semiconductors Co.,Ltd.
+				210A, Building A2-3, HanYu Finance Valley, No.7000, Jingshi East Road, High Tech District, Jinan, Shandong Province, P.R.C
+				Jinan  Shandong  250101
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95584,6 +95590,12 @@ CCAA00     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
+
+D0-79-2F   (hex)		New H3C Intelligence Terminal Co., Ltd.
+D0792F     (base 16)		New H3C Intelligence Terminal Co., Ltd.
+				Room 406-100, 1 Yichuang Street, China-Singapore Guangzhou Knowledge City, Huangpu District, Guangzhou.
+				Guangzhou   Guangdong  510030
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -191351,17 +191363,23 @@ D0DA24     (base 16)		IEEE Registration Authority
 				Kanata  Ontario  K2K 2E6
 				CA
 
+34-B4-F0   (hex)		Hasselblad (Shenzhen) Trading CompanyLimited
+34B4F0     (base 16)		Hasselblad (Shenzhen) Trading CompanyLimited
+				C3-13F-B120C3-13F-B120,BuildingC, KexingScience Park,No.15 KeyyuanRoad，Science andTechnologyPark Community, YuehaiStreet,Nanshan District,Shenzhen,Guangdong, China
+				shenzhen  guangdong  518057
+				CN
+
 B8-82-68   (hex)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				Room 210-211, Block A, Huafeng Internet Creative Park, No.107 Gonghe Industrial Road, Xixiang Subdistrict
 				Shenzhen  Guangdong  518102
 				CN
 
-00-1D-66   (hex)		HYUNDAI HT Co., Ltd.
-001D66     (base 16)		HYUNDAI HT Co., Ltd.
-				Hyundai Telecom Bldg., 4273-12, Shingil-Dong, Youngdungpo-Gu,
-				Seoul    150-859
-				KR
+D0-9A-AF   (hex)		Espressif Systems (Singapore) Pte. Ltd
+D09AAF     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
 
 80-C3-BA   (hex)		Sonova Consumer Hearing GmbH
 80C3BA     (base 16)		Sonova Consumer Hearing GmbH
@@ -191369,11 +191387,11 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				9  Hannover  30659 
 				DE
 
-34-B4-F0   (hex)		Hasselblad (Shenzhen) Trading CompanyLimited
-34B4F0     (base 16)		Hasselblad (Shenzhen) Trading CompanyLimited
-				C3-13F-B120C3-13F-B120,BuildingC, KexingScience Park,No.15 KeyyuanRoad，Science andTechnologyPark Community, YuehaiStreet,Nanshan District,Shenzhen,Guangdong, China
-				shenzhen  guangdong  518057
-				CN
+00-1D-66   (hex)		HYUNDAI HT Co., Ltd.
+001D66     (base 16)		HYUNDAI HT Co., Ltd.
+				Hyundai Telecom Bldg., 4273-12, Shingil-Dong, Youngdungpo-Gu,
+				Seoul    150-859
+				KR
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -239071,3 +239089,9 @@ F83125     (base 16)		Xiamen uink Technology Co., Ltd
 				496 Ada Dr SE Ste 201
 				Ada    49301
 				US
+
+AC-04-E6   (hex)		NTX Electronics YangZhou co.,LTD
+AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
+				No.8,Wuzhou West Road,Economic and technological Development Zone,Yangzhou,Jiangsu Province,PRC,225009
+				Yangzhou  Jiangsu  225009
+				CN

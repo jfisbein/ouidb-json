@@ -340722,6 +340722,17 @@
     }
   },
   {
+    "prefix": "AC04E6",
+    "organization": {
+      "name": "NTX Electronics Yangzhou Ltd",
+      "address": {
+        "line1": "No.8, Wuzhou West Road, Economic And Technological Development Zone, Yangzhou, Jiangsu Province, Prc, 225009",
+        "line2": "Yangzhou Jiangsu 225009",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "AC05C7",
     "organization": {
       "name": "Intel Corporate",
@@ -384422,6 +384433,17 @@
     }
   },
   {
+    "prefix": "D0792F",
+    "organization": {
+      "name": "New H3C Intelligence Terminal Ltd",
+      "address": {
+        "line1": "Room 406-100, 1 Yichuang Street, China-singapore Guangzhou Knowledge City, Huangpu District, Guangzhou.",
+        "line2": "Guangzhou Guangdong 510030",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "D07AB5",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -384957,6 +384979,17 @@
         "line1": "777 East Middlefield Road",
         "line2": "Mountain View CA 94043",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D09AAF",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -400383,6 +400416,17 @@
       "address": {
         "line1": "Guanggu Xinzhongxin, No.303 of Guanggu Road, East Lake Development Zone",
         "line2": "Wuhan Hubei 430000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "DCEB5D",
+    "organization": {
+      "name": "Shandong Sinochip Semiconductors Ltd",
+      "address": {
+        "line1": "210a, Building A2-3, Hanyu Finance Valley, No.7000, Jingshi East Road, High Tech District, Jinan, Shandong Province, P.R.C",
+        "line2": "Jinan Shandong 250101",
         "countryCode": "CN"
       }
     }
