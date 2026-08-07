@@ -270049,6 +270049,17 @@
     }
   },
   {
+    "prefix": "70320C",
+    "organization": {
+      "name": "Ruckus Wireless",
+      "address": {
+        "line1": "350 West Java Drive",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "703217",
     "organization": {
       "name": "Intel Corporate",
@@ -313486,6 +313497,17 @@
         "line1": "Ebbe Lieberathsgatan 23b",
         "line2": "Gothenburg 41265",
         "countryCode": "SE"
+      }
+    }
+  },
+  {
+    "prefix": "941DD4",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
@@ -410980,6 +411002,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "E84EBA",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
