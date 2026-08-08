@@ -166976,6 +166976,17 @@
     }
   },
   {
+    "prefix": "14E602",
+    "organization": {
+      "name": "Shenzhen Emtek Storage Technology Ltd",
+      "address": {
+        "line1": "#601, Block A, Building 11, No.1819 Shahe West Road, Shenzhen Bay Eco-technology Park, Nanshan District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "14E6E4",
     "organization": {
       "name": "Tp-link Technologies Ltd",
@@ -183636,6 +183647,17 @@
     }
   },
   {
+    "prefix": "24A02D",
+    "organization": {
+      "name": "Shenzhen Worldelite Electronics Ltd",
+      "address": {
+        "line1": "Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "24A074",
     "organization": {
       "name": "Apple",
@@ -183847,10 +183869,10 @@
   {
     "prefix": "24A937",
     "organization": {
-      "name": "Pure Storage",
+      "name": "Everpure Inc",
       "address": {
-        "line1": "650 Castro Street",
-        "line2": "Mt. View CA 94041",
+        "line1": "2555 Augustine Drive",
+        "line2": "Santa Clara CA 95054",
         "countryCode": "US"
       }
     }
@@ -265647,6 +265669,17 @@
     }
   },
   {
+    "prefix": "6C3D7D",
+    "organization": {
+      "name": "Vantiva USA LLC",
+      "address": {
+        "line1": "4855 Peachtree Industrial Blvd, Suite 200",
+        "line2": "Norcross GA 30902",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "6C3DD8",
     "organization": {
       "name": "Espressif Systems (singapore) Pte. Ltd",
@@ -286191,6 +286224,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "7C6E47",
+    "organization": {
+      "name": "Huizhou Guangshijia Communication Technology Ltd",
+      "address": {
+        "line1": "3rd Floor, Xingyuan Factory, Longchundu, East Side, Niutouzhou Section, Yongshi Avenue, Shiwan Town, Boluo County",
+        "line2": "Huizhou City 516100",
+        "countryCode": "CN"
       }
     }
   },
@@ -393881,6 +393925,17 @@
     }
   },
   {
+    "prefix": "D87602",
+    "organization": {
+      "name": "NXJ Inc",
+      "address": {
+        "line1": "1111b S Governors Ave, Suite 54141",
+        "line2": "Dover DE 19904",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "D8760A",
     "organization": {
       "name": "Escort Inc",
@@ -415318,6 +415373,17 @@
     }
   },
   {
+    "prefix": "EC33CC",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "EC34E2",
     "organization": {
       "name": "Yasmina Labs Trading FZE",
@@ -423119,6 +423185,17 @@
         "line1": "12500 TI Blvd",
         "line2": "Dallas TX 75243",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F0F95D",
+    "organization": {
+      "name": "Aditya Infotech Ltd",
+      "address": {
+        "line1": "Khemka Square, A-12, Sector-4",
+        "line2": "Noida Uttar Pradesh 201301",
+        "countryCode": "IN"
       }
     }
   },
