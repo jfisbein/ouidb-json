@@ -198096,6 +198096,17 @@
     }
   },
   {
+    "prefix": "30BB28",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "30BB43",
     "organization": {
       "name": "Sixi Networks Ltd",
@@ -199478,6 +199489,17 @@
         "line1": "No.289, Sinhu 3rd Rd., Neihu District",
         "line2": "Taipei City 114",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "34033D",
+    "organization": {
+      "name": "HP Inc",
+      "address": {
+        "line1": "10300 Energy Dr",
+        "line2": "Spring TX 77389",
+        "countryCode": "US"
       }
     }
   },
@@ -300366,6 +300388,17 @@
     }
   },
   {
+    "prefix": "8864A8",
+    "organization": {
+      "name": "Teranxt Global India Pvt Ltd",
+      "address": {
+        "line1": "7A/61 W.E.A Karol Bagh",
+        "line2": "Delhi Delhi 110005",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "88659F",
     "organization": {
       "name": "Fiberhome Telecommunication Technologies Ltd",
@@ -316115,6 +316148,17 @@
         "line1": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area",
         "line2": "Shanghai Shanghai 201203",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "94B5AD",
+    "organization": {
+      "name": "ERM Electronic Systems Ltd",
+      "address": {
+        "line1": "16 Hasar Moshe Shapira",
+        "line2": "Rishon Le-zion 7570419",
+        "countryCode": "IL"
       }
     }
   },
