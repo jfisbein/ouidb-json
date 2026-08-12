@@ -178645,6 +178645,17 @@
     }
   },
   {
+    "prefix": "2074DD",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "207600",
     "organization": {
       "name": "Actiontec Electronics Inc",
@@ -187279,6 +187290,17 @@
         "line1": "Červený Kříž 250",
         "line2": "Jihlava 586 01",
         "countryCode": "CZ"
+      }
+    }
+  },
+  {
+    "prefix": "2869DA",
+    "organization": {
+      "name": "Moultrie Mobile",
+      "address": {
+        "line1": "5724 Highway 280 East",
+        "line2": "Birmingham AL 35242",
+        "countryCode": "US"
       }
     }
   },
@@ -198956,7 +198978,7 @@
   {
     "prefix": "30EB5A",
     "organization": {
-      "name": "Landis+gyr S.A",
+      "name": "Eykon Solutions S.A",
       "address": {
         "line1": "78th km Old National Road Athens-corinth",
         "line2": "Corinth 20100",
@@ -201876,6 +201898,17 @@
         "line1": "Jj-building, 20, Deongmyeong-ro 71beon-gil1, Yuseong-gu",
         "line2": "Daejeon 34155",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "347F63",
+    "organization": {
+      "name": "Concept Pro Surveillance",
+      "address": {
+        "line1": "54 Thomas Street, Lees",
+        "line2": "Oldham Greater Manchester Ol4 5bt",
+        "countryCode": "GB"
       }
     }
   },
@@ -215354,6 +215387,17 @@
     }
   },
   {
+    "prefix": "40538C",
+    "organization": {
+      "name": "LG Electronics",
+      "address": {
+        "line1": "222 Lg-ro, Jinwi-myeon",
+        "line2": "Pyeongtaek-si Gyeonggi-do 451-713",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "405493",
     "organization": {
       "name": "zte Corporation",
@@ -218825,6 +218869,17 @@
         "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "441404",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
       }
     }
   },
@@ -266661,7 +266716,7 @@
   {
     "prefix": "6C7028",
     "organization": {
-      "name": "Landis+gyr S.A",
+      "name": "Eykon Solutions S.A",
       "address": {
         "line1": "78th km Old National Road Athens-corinth",
         "line2": "Corinth 20100",
@@ -320856,7 +320911,7 @@
   {
     "prefix": "98B177",
     "organization": {
-      "name": "Landis+gyr S.A",
+      "name": "Eykon Solutions S.A",
       "address": {
         "line1": "78th km Old National Road Athens-corinth",
         "line2": "Corinth 20100",
@@ -436875,6 +436930,17 @@
         "line1": "3f, Zone B, Building R1, High-tech Industrial Village, No.023 High-tech South 4 Road, Nanshan, Shenzhen",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "FCCA40",
+    "organization": {
+      "name": "Sony Interactive Entertainment Inc",
+      "address": {
+        "line1": "1-7-1 Konan",
+        "line2": "Minato-ku Tokyo 108-0075",
+        "countryCode": "JP"
       }
     }
   },
