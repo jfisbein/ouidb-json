@@ -146496,6 +146496,17 @@
     }
   },
   {
+    "prefix": "04D634",
+    "organization": {
+      "name": "Nanjing Risc-v Institute Ltd",
+      "address": {
+        "line1": "Room 303, Building C, 18 Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "04D688",
     "organization": {
       "name": "CIG Shanghai Ltd",
@@ -219203,6 +219214,17 @@
     }
   },
   {
+    "prefix": "4422BE",
+    "organization": {
+      "name": "Rescuetrack GmbH",
+      "address": {
+        "line1": "Gerhard-Kindler-Str. 17",
+        "line2": "Reutlingen Baden-wuerttemberg 72770",
+        "countryCode": "DE"
+      }
+    }
+  },
+  {
     "prefix": "4422F1",
     "organization": {
       "name": "S.FAC Inc",
@@ -221178,6 +221200,17 @@
       "address": {
         "line1": "Building 23, No. 18, Anning Zhuang East Road, Qinghe, Haidian District, Beijing",
         "line2": "Beijing 100083",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "448CEC",
+    "organization": {
+      "name": "Anhui Sunchip Semiconductor Technology Co;ltd",
+      "address": {
+        "line1": "No. 77 Jinguang Avenue, Economic And Technological Development Zone",
+        "line2": "Chizhou City Anhui Province 247100",
         "countryCode": "CN"
       }
     }
@@ -238760,6 +238793,17 @@
       "address": {
         "line1": "Room 401f, Building 5, No.3000 Long Dong Avenue, Pudong New District",
         "line2": "Shanghai 201203",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "544781",
+    "organization": {
+      "name": "Quectel Wireless Solutions Ltd",
+      "address": {
+        "line1": "Building 5, Shanghai Business Park Phase Iii (area B), No.1016 Tianlin Road, Minhang District",
+        "line2": "Shanghai 200233",
         "countryCode": "CN"
       }
     }
@@ -275540,6 +275584,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "74518F",
+    "organization": {
+      "name": "Jiangsu Hetai Intelligent Control Technology Ltd",
+      "address": {
+        "line1": "Building 11, Cheng Sheng Science And Technologypark, NO.2 Bosideng Avenue, Gaoyou City",
+        "line2": "Gaoyou Jiangsu 225600",
         "countryCode": "CN"
       }
     }
