@@ -48230,30 +48230,6 @@ AC40B5     (base 16)		Lumiva Inc.
 				Cupertino  CA  95014
 				US
 
-24-A9-37   (hex)		Everpure, Inc.
-24A937     (base 16)		Everpure, Inc.
-				2555 Augustine Drive
-				Santa Clara  CA  95054
-				US
-
-D8-76-02   (hex)		NXJ INC.
-D87602     (base 16)		NXJ INC.
-				1111B S Governors Ave, Suite 54141
-				Dover  DE  19904
-				US
-
-34-03-3D   (hex)		HP Inc.
-34033D     (base 16)		HP Inc.
-				10300 Energy Dr
-				Spring  TX  77389
-				US
-
-30-BB-28   (hex)		IEEE Registration Authority
-30BB28     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 28-69-DA   (hex)		Moultrie Mobile
 2869DA     (base 16)		Moultrie Mobile
 				5724 Highway 280 East
@@ -48277,6 +48253,42 @@ D87602     (base 16)		NXJ INC.
 				Room 303, Building C, 18 Ningshuang Road
 				Nanjing  Jiangsu  210000
 				CN
+
+D8-76-02   (hex)		NXJ INC.
+D87602     (base 16)		NXJ INC.
+				1111B S Governors Ave, Suite 54141
+				Dover  DE  19904
+				US
+
+30-BB-28   (hex)		IEEE Registration Authority
+30BB28     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+34-03-3D   (hex)		HP Inc.
+34033D     (base 16)		HP Inc.
+				10300 Energy Dr
+				Spring  TX  77389
+				US
+
+24-A9-37   (hex)		Everpure, Inc.
+24A937     (base 16)		Everpure, Inc.
+				2555 Augustine Drive
+				Santa Clara  CA  95054
+				US
+
+C4-4B-31   (hex)		Cisco Systems, Inc
+C44B31     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+50-44-72   (hex)		Motorola Mobility LLC, a Lenovo Company
+504472     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -143228,6 +143240,12 @@ B46F78     (base 16)		ACCTON TECHNOLOGY CORPORATION
 				Hsinchu    30077
 				TW
 
+20-74-DD   (hex)		eero inc.
+2074DD     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 F0-F9-5D   (hex)		Aditya Infotech Ltd.
 F0F95D     (base 16)		Aditya Infotech Ltd.
 				Khemka Square, A-12, Sector-4,
@@ -143240,17 +143258,29 @@ EC33CC     (base 16)		Hewlett Packard Enterprise
 				San Jose  CA  95002
 				US
 
-20-74-DD   (hex)		eero inc.
-2074DD     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
-
 44-22-BE   (hex)		rescuetrack GmbH
 4422BE     (base 16)		rescuetrack GmbH
 				Gerhard-Kindler-Str. 17
 				Reutlingen  Baden-Wuerttemberg  72770
 				DE
+
+50-BA-84   (hex)		Cisco Systems, Inc
+50BA84     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+FC-21-20   (hex)		Cisco Systems, Inc
+FC2120     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+A4-2D-F1   (hex)		Motorola Mobility LLC, a Lenovo Company
+A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -179456,12 +179486,6 @@ A06A00     (base 16)		Verilink Corporation
 				D-81614 MUNCHEN    
 				DE
 
-00-90-5B   (hex)		RAYMOND AND LAE ENGINEERING
-00905B     (base 16)		RAYMOND AND LAE ENGINEERING
-				208 COMMERCE DR.,  UNIT #3C
-				FORT COLLINS  CO  80524
-				US
-
 00-90-BC   (hex)		TELEMANN CO., LTD.
 0090BC     (base 16)		TELEMANN CO., LTD.
 				6F DONGSIN BLDG.
@@ -191512,6 +191536,12 @@ E84EBA     (base 16)		Google, Inc.
 				No. 77 Jinguang Avenue, Economic and Technological Development Zone,
 				Chizhou City  Anhui Province  247100
 				CN
+
+00-90-5B   (hex)		Parameter LLC
+00905B     (base 16)		Parameter LLC
+				208 COMMERCE DR.,  UNIT #3C
+				FORT COLLINS  CO  80524
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -239245,3 +239275,15 @@ AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
 				BUILDING 11, CHENG SHENG SCIENCE AND TECHNOLOGYPARK, NO.2 BOSIDENG AVENUE, GAOYOU CITY
 				Gaoyou  Jiangsu  225600
 				CN
+
+F4-89-74   (hex)		Cisco Systems, Inc
+F48974     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+F4-4E-35   (hex)		Meta Platforms, Inc.
+F44E35     (base 16)		Meta Platforms, Inc.
+				1601 Willow Rd
+				Menlo Park  CA  94052
+				US

@@ -126318,7 +126318,7 @@
   {
     "prefix": "00905B",
     "organization": {
-      "name": "Raymond AND LAE Engineering",
+      "name": "Parameter LLC",
       "address": {
         "line1": "208 Commerce DR., Unit #3c",
         "line2": "Fort Collins CO 80524",
@@ -233922,6 +233922,17 @@
     }
   },
   {
+    "prefix": "504472",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "504594",
     "organization": {
       "name": "Radisys",
@@ -236129,6 +236140,17 @@
         "line1": "No.218 Qianwangang Road",
         "line2": "Qingdao Shangdong 266510",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "50BA84",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -332603,6 +332625,17 @@
     }
   },
   {
+    "prefix": "A42DF1",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A4307A",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -369696,6 +369729,17 @@
         "line1": "3 Chemin DU Pre Carre",
         "line2": "Meylan 38240",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "C44B31",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -424982,6 +425026,17 @@
     }
   },
   {
+    "prefix": "F44E35",
+    "organization": {
+      "name": "Meta Platforms Inc",
+      "address": {
+        "line1": "1601 Willow Rd",
+        "line2": "Menlo Park CA 94052",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "F44E38",
     "organization": {
       "name": "Olibra LLC",
@@ -426034,6 +426089,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F48974",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -433894,6 +433960,17 @@
         "line1": "Bat 9 - Miniparc",
         "line2": "Les Ulis 91940",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "FC2120",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
