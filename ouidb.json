@@ -121921,6 +121921,17 @@
     }
   },
   {
+    "prefix": "007230",
+    "organization": {
+      "name": "Nordic Semiconductor ASA",
+      "address": {
+        "line1": "Otto Nielsens Veg 12",
+        "line2": "Trondheim No-7052",
+        "countryCode": "NO"
+      }
+    }
+  },
+  {
     "prefix": "007263",
     "organization": {
       "name": "Netis Technology Ltd",
@@ -171712,6 +171723,17 @@
     }
   },
   {
+    "prefix": "18F055",
+    "organization": {
+      "name": "Nanjing Qinheng Microelectronics Ltd",
+      "address": {
+        "line1": "No.18, Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210012",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "18F0E4",
     "organization": {
       "name": "Xiaomi Communications Ltd",
@@ -190791,6 +190813,17 @@
     }
   },
   {
+    "prefix": "2C1B8E",
+    "organization": {
+      "name": "BYD Semiconductor Co，ltd",
+      "address": {
+        "line1": "Byd Industrial Park, Yan \u0027an Road, Kuichong Town, Longgang District, Shenzhen City",
+        "line2": "深圳 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "2C1BC8",
     "organization": {
       "name": "Hunan Topview Network System Ltd",
@@ -208891,6 +208924,17 @@
     }
   },
   {
+    "prefix": "38F25D",
+    "organization": {
+      "name": "Hangzhou Ezviz Software Ltd",
+      "address": {
+        "line1": "17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310051",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "38F32E",
     "organization": {
       "name": "Skullcandy",
@@ -218044,6 +218088,17 @@
         "line1": "3333 Scott Blvd",
         "line2": "6280 America Center Dr CA 95002",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "40E4C6",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
       }
     }
   },
@@ -274335,6 +274390,17 @@
     }
   },
   {
+    "prefix": "7411A0",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "7411B2",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -308744,6 +308810,17 @@
       "address": {
         "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "901DFF",
+    "organization": {
+      "name": "Zowee TECHNOLOGY(HEYUAN)Co. Ltd",
+      "address": {
+        "line1": "Runye Precision Manufacturing Industrial Park, Among The North of Xiangjing Road, The West of Xinpi Road And The South of Yangzi Road, Located in The High-tech Zone, Heyuan City, Guangdong Province",
+        "line2": "Heyuan City Guangdong Province 518100",
         "countryCode": "CN"
       }
     }
@@ -370008,6 +370085,17 @@
     }
   },
   {
+    "prefix": "C45878",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "C458C2",
     "organization": {
       "name": "Shenzhen Tatfook Technology Ltd",
@@ -416942,6 +417030,17 @@
     }
   },
   {
+    "prefix": "EC8306",
+    "organization": {
+      "name": "Goowi Wireless Technology Co., Limited",
+      "address": {
+        "line1": "Rm1601 East Creativetech Plaza Ii, Tianan Digital Tech, Futian District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "EC8350",
     "organization": {
       "name": "Microsoft Corporation",
@@ -437490,6 +437589,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "FCE33D",
+    "organization": {
+      "name": "Cloud Network Technology Singapore PTE. Ltd",
+      "address": {
+        "line1": "B22 Building, NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China",
+        "line2": "Nanning Guangxi 530007",
         "countryCode": "CN"
       }
     }
