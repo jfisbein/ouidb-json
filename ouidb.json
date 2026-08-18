@@ -151668,6 +151668,17 @@
     }
   },
   {
+    "prefix": "0898EF",
+    "organization": {
+      "name": "Shenzhen Taichi Technology Limited",
+      "address": {
+        "line1": "A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District",
+        "line2": "Shenzhen Guangdong Province 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "0899E8",
     "organization": {
       "name": "Kemas GmbH",
@@ -206955,6 +206966,17 @@
     }
   },
   {
+    "prefix": "3885BB",
+    "organization": {
+      "name": "Commodore International Corporation",
+      "address": {
+        "line1": "8 The Green, Ste A",
+        "line2": "Dover DE 19901",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "388602",
     "organization": {
       "name": "Flexoptix GmbH",
@@ -211850,6 +211872,17 @@
     }
   },
   {
+    "prefix": "3C87CF",
+    "organization": {
+      "name": "Quanta Computer Inc",
+      "address": {
+        "line1": "No. 211, Wenhua 2nd Rd., Guishan Dist.",
+        "line2": "Taoyuan City Taiwan 33377",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "3C894D",
     "organization": {
       "name": "Dr. Ing. h.c. F. Porsche AG",
@@ -214075,6 +214108,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3CFFE4",
+    "organization": {
+      "name": "Siemens AG",
+      "address": {
+        "line1": "Werner-von-Siemens-Str. 50",
+        "line2": "Amberg 92224",
+        "countryCode": "DE"
       }
     }
   },
@@ -222169,6 +222213,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "44BE23",
+    "organization": {
+      "name": "Pegatron Corporation",
+      "address": {
+        "line1": "No. 76, Ligong St., Beitou, Taipei, Taiwan",
+        "line2": "Taipei 112",
+        "countryCode": "TW"
       }
     }
   },
@@ -324330,6 +324385,17 @@
     }
   },
   {
+    "prefix": "9C64A1",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "9C65B0",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -381008,6 +381074,17 @@
       "address": {
         "line1": "1600 Amphitheatre Parkway",
         "line2": "Mountain View CA 94043",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "CCA823",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
         "countryCode": "US"
       }
     }
