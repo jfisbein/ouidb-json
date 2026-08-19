@@ -146979,6 +146979,17 @@
     }
   },
   {
+    "prefix": "04ECA9",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "04ECBB",
     "organization": {
       "name": "Fiberhome Telecommunication Technologies Ltd",
@@ -237742,6 +237753,17 @@
     }
   },
   {
+    "prefix": "5408F1",
+    "organization": {
+      "name": "Shenzhenlingdechuangtechnology Ltd",
+      "address": {
+        "line1": "706, Building A, Ruziniu Building Bantian Street, Longgang District Shenzhen, China",
+        "line2": "Shenzhen, China Guangdong 518129",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "540910",
     "organization": {
       "name": "Apple",
@@ -254565,6 +254587,17 @@
     }
   },
   {
+    "prefix": "60D15F",
+    "organization": {
+      "name": "Futurepath Technology(Shenzhen)Co. Ltd",
+      "address": {
+        "line1": "Building E, Zhongke Valley, Zhonghuan Avenueshanxia Community, Pinghu Street, Longgang District",
+        "line2": "Shenzhen Guangdong 518111",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "60D178",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -260874,6 +260907,17 @@
         "line1": "7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District",
         "line2": "Shanghai 200233",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "6824F9",
+    "organization": {
+      "name": "Violet Audio PTE. Ltd",
+      "address": {
+        "line1": "68 Circular Road, #02-01",
+        "line2": "Singapore Singapore 049422",
+        "countryCode": "SG"
       }
     }
   },
@@ -322229,6 +322273,17 @@
     }
   },
   {
+    "prefix": "98F364",
+    "organization": {
+      "name": "Yantai Dongfang Wisdom Elrctic Ltd",
+      "address": {
+        "line1": "6 Jindu Road Yantai, Shandong",
+        "line2": "Yantai Shandong 264000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "98F3F6",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -361619,6 +361674,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "BC6C96",
+    "organization": {
+      "name": "Shen Zhen Tenda Technology Ltd",
+      "address": {
+        "line1": "6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen 518052",
+        "countryCode": "CN"
       }
     }
   },
