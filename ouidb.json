@@ -167713,6 +167713,17 @@
     }
   },
   {
+    "prefix": "1814F4",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "181628",
     "organization": {
       "name": "Sharkninja Operating LLC",
@@ -187349,17 +187360,6 @@
     }
   },
   {
-    "prefix": "2869DA",
-    "organization": {
-      "name": "Moultrie Mobile",
-      "address": {
-        "line1": "5724 Highway 280 East",
-        "line2": "Birmingham AL 35242",
-        "countryCode": "US"
-      }
-    }
-  },
-  {
     "prefix": "286AB8",
     "organization": {
       "name": "Apple",
@@ -189472,6 +189472,17 @@
     }
   },
   {
+    "prefix": "28D555",
+    "organization": {
+      "name": "Vivo Mobile Communication Ltd",
+      "address": {
+        "line1": "No.1, Vivo Road, Chang\u0027an",
+        "line2": "Dongguan Guangdong 523860",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "28D576",
     "organization": {
       "name": "Premier Wireless Inc",
@@ -189820,6 +189831,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "28E888",
+    "organization": {
+      "name": "Lingban Technology (hangzhou) Ltd",
+      "address": {
+        "line1": "101, Building 8, No.1288, Liangmu Road, Cangqian Street, Yuhang District",
+        "line2": "Hangzhou Zhejiang 311100",
+        "countryCode": "CN"
       }
     }
   },
@@ -237203,6 +237225,17 @@
     }
   },
   {
+    "prefix": "50EEB5",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "50F003",
     "organization": {
       "name": "Open Stack Inc",
@@ -248964,6 +248997,17 @@
         "line1": "6f, Building 8, No 2388, Chenhang Rd, Shanghai",
         "line2": "Shanghai 201114",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "5CA2A2",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
       }
     }
   },
@@ -314150,6 +314194,17 @@
     }
   },
   {
+    "prefix": "942AD6",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "942B68",
     "organization": {
       "name": "Apple",
@@ -320927,6 +320982,17 @@
         "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
         "line2": "Road Town Tortola Vg1110",
         "countryCode": "VG"
+      }
+    }
+  },
+  {
+    "prefix": "98A33C",
+    "organization": {
+      "name": "Shenzhen Cultraview Digital Technology Ltd",
+      "address": {
+        "line1": "F6, M6, Maqueling, High-tech Park, Nanshan District",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
       }
     }
   },
@@ -344087,6 +344153,17 @@
     }
   },
   {
+    "prefix": "AC9A3F",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "AC9A96",
     "organization": {
       "name": "Maxlinear Inc",
@@ -348710,6 +348787,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B0A5B3",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
       }
     }
   },
@@ -392613,6 +392701,17 @@
     }
   },
   {
+    "prefix": "D81BF4",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "D81BFE",
     "organization": {
       "name": "Twinlinx Corporation",
@@ -396616,6 +396715,17 @@
         "line1": "Werinherstrasse 91",
         "line2": "München Bavaria D-81541",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "D8F02F",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
       }
     }
   },
@@ -403838,6 +403948,17 @@
         "line1": "75 Queen Street, Suite 3300",
         "line2": "Montreal Quebec H3c 2n6",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "E095B3",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
       }
     }
   },
@@ -429582,6 +429703,17 @@
         "line1": "No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C",
         "line2": "Hsin-chu Taiwan 300",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "F834E5",
+    "organization": {
+      "name": "Vivo Mobile Communication Ltd",
+      "address": {
+        "line1": "No.1, Vivo Road, Chang\u0027an",
+        "line2": "Dongguan Guangdong 523860",
+        "countryCode": "CN"
       }
     }
   },
