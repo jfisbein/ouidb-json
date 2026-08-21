@@ -221007,6 +221007,17 @@
     }
   },
   {
+    "prefix": "447B30",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "447B45",
     "organization": {
       "name": "Amazon Technologies Inc",
@@ -223990,6 +224001,17 @@
       "address": {
         "line1": "Building D3, No.8 Yangliu North Road, Yubei District",
         "line2": "Chongqing Chongqing 401121",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "4821B8",
+    "organization": {
+      "name": "Guangzhou V-solution Telecommunication Technology Ltd",
+      "address": {
+        "line1": "13/F, Building 1, No.13 Bohua 4th Road, Huangpu District",
+        "line2": "Guangzhou Guangdong 510663",
         "countryCode": "CN"
       }
     }
@@ -240385,6 +240407,17 @@
         "line1": "3154 Le Corbusier Blvd",
         "line2": "Laval Quebec H7l 4s8",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "549DEA",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -258118,6 +258151,17 @@
         "line1": "35 East Mianxing Road, High-tech Park",
         "line2": "Mianyang Sichuan 621000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "648914",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -276546,6 +276590,17 @@
     }
   },
   {
+    "prefix": "747563",
+    "organization": {
+      "name": "Duke Manufacturing",
+      "address": {
+        "line1": "601 Duke Dr, Sedalia, Mo, 65301",
+        "line2": "Sedalia MO 65301",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "7475DF",
     "organization": {
       "name": "Teclink",
@@ -286806,6 +286861,17 @@
       "address": {
         "line1": "4030 Lake Washington Boulevard NE",
         "line2": "Kirkland WA 98033",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "7C79D4",
+    "organization": {
+      "name": "Network Optix Inc",
+      "address": {
+        "line1": "975 Ygnacio Valley Rd",
+        "line2": "Walnut Creek CA 94596",
         "countryCode": "US"
       }
     }
@@ -331581,6 +331647,17 @@
     }
   },
   {
+    "prefix": "A0E922",
+    "organization": {
+      "name": "Optiemus Electronics Limited",
+      "address": {
+        "line1": "A-7, Sector-65",
+        "line2": "Noida Gautam Buddha Nagar 201309",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "A0E9DB",
     "organization": {
       "name": "Ningbo Freewings Technologies Ltd",
@@ -341206,6 +341283,17 @@
     }
   },
   {
+    "prefix": "AC0416",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "AC0425",
     "organization": {
       "name": "Ball-b Gmbh Co KG",
@@ -349722,6 +349810,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B0D587",
+    "organization": {
+      "name": "Silex Technology Inc",
+      "address": {
+        "line1": "2-3-1 Hikaridai, Seika-cho, Souraku-gun",
+        "line2": "Kyoto 619-0237",
+        "countryCode": "JP"
       }
     }
   },
@@ -376547,6 +376646,17 @@
     }
   },
   {
+    "prefix": "C8B0B2",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "C8B1CD",
     "organization": {
       "name": "Apple",
@@ -397797,6 +397907,17 @@
     }
   },
   {
+    "prefix": "DC3052",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "DC309C",
     "organization": {
       "name": "Heyrex Limited",
@@ -398453,6 +398574,17 @@
         "line1": "NO.18 Haibin Road",
         "line2": "Dong Guan Guang Dong 523860",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "DC55B1",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -399636,6 +399768,17 @@
         "line1": "No. 1-10, Tieshan Road, Biquan Street, Bishan District, Chongqing",
         "line2": "Chongqing 402760",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "DC9F1F",
+    "organization": {
+      "name": "Aseko, spol. s r.o",
+      "address": {
+        "line1": "Videnska 340",
+        "line2": "Vestec u Prahy 25250",
+        "countryCode": "CZ"
       }
     }
   },
