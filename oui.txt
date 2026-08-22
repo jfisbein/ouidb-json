@@ -143486,6 +143486,18 @@ B0D587     (base 16)		silex technology, Inc.
 				SEDALIA  MO  65301
 				US
 
+54-23-E3   (hex)		Ruijie Networks Co.,LTD
+5423E3     (base 16)		Ruijie Networks Co.,LTD
+				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
+				Fuzhou    35000
+				CN
+
+B0-B0-A1   (hex)		Hon Hai Precision Industry Co.,LTD
+B0B0A1     (base 16)		Hon Hai Precision Industry Co.,LTD
+				66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA 
+				TAIPEI  66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI   33859
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -239516,11 +239528,23 @@ F44E35     (base 16)		Meta Platforms, Inc.
 				Corinth    20100
 				GR
 
-FC-E3-3D   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
-				Nanning  Guangxi  530007
+C8-B0-B2   (hex)		zte corporation
+C8B0B2     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
 				CN
+
+AC-F8-78   (hex)		Tuya Smart Inc.
+ACF878     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
+
+A8-DD-BC   (hex)		Tuya Smart Inc.
+A8DDBC     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
 
 3C-FF-E4   (hex)		Siemens AG
 3CFFE4     (base 16)		Siemens AG
@@ -239533,24 +239557,6 @@ FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				No. 211, Wenhua 2nd Rd., Guishan Dist.
 				Taoyuan City  Taiwan  33377
 				TW
-
-98-F3-64   (hex)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
-98F364     (base 16)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
-				6 Jindu Road Yantai, Shandong
-				Yantai  Shandong  264000
-				CN
-
-28-E8-88   (hex)		Lingban Technology (Hangzhou) Co., Ltd
-28E888     (base 16)		Lingban Technology (Hangzhou) Co., Ltd
-				 101, Building 8, No.1288, Liangmu Road, Cangqian Street,Yuhang District
-				Hangzhou   Zhejiang  311100
-				CN
-
-AC-9A-3F   (hex)		Texas Instruments
-AC9A3F     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
 
 DC-55-B1   (hex)		Espressif Inc.
 DC55B1     (base 16)		Espressif Inc.
@@ -239570,8 +239576,32 @@ DC55B1     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-C8-B0-B2   (hex)		zte corporation
-C8B0B2     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
+FC-E3-3D   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
 				CN
+
+28-E8-88   (hex)		Lingban Technology (Hangzhou) Co., Ltd
+28E888     (base 16)		Lingban Technology (Hangzhou) Co., Ltd
+				 101, Building 8, No.1288, Liangmu Road, Cangqian Street,Yuhang District
+				Hangzhou   Zhejiang  311100
+				CN
+
+98-F3-64   (hex)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
+98F364     (base 16)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
+				6 Jindu Road Yantai, Shandong
+				Yantai  Shandong  264000
+				CN
+
+AC-9A-3F   (hex)		Texas Instruments
+AC9A3F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+48-F7-3C   (hex)		ELECOM CO.,LTD
+48F73C     (base 16)		ELECOM CO.,LTD
+				2-6 Kinkocho, Kanagawa-ku, Yokohama Plaza Building 4F
+				Yokohama  Kanagawa  221-0056
+				JP

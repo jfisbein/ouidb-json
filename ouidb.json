@@ -227910,6 +227910,17 @@
     }
   },
   {
+    "prefix": "48F73C",
+    "organization": {
+      "name": "Elecom Ltd",
+      "address": {
+        "line1": "2-6 Kinkocho, Kanagawa-ku, Yokohama Plaza Building 4F",
+        "line2": "Yokohama Kanagawa 221-0056",
+        "countryCode": "JP"
+      }
+    }
+  },
+  {
     "prefix": "48F7BC",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -238364,6 +238375,17 @@
       "address": {
         "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "5423E3",
+    "organization": {
+      "name": "Ruijie Networks Ltd",
+      "address": {
+        "line1": "Building 19, Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District",
+        "line2": "Fuzhou 35000",
         "countryCode": "CN"
       }
     }
@@ -340590,6 +340612,17 @@
     }
   },
   {
+    "prefix": "A8DDBC",
+    "organization": {
+      "name": "Tuya Smart Inc",
+      "address": {
+        "line1": "160 Greentree Drive, Suite 101",
+        "line2": "Dover DE 19904",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A8DDEC",
     "organization": {
       "name": "Hangzhou Broadlink Technology Ltd",
@@ -346030,6 +346063,17 @@
     }
   },
   {
+    "prefix": "ACF878",
+    "organization": {
+      "name": "Tuya Smart Inc",
+      "address": {
+        "line1": "160 Greentree Drive, Suite 101",
+        "line2": "Dover DE 19904",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "ACF896",
     "organization": {
       "name": "Eero Inc",
@@ -349083,6 +349127,17 @@
       "address": {
         "line1": "21 / F, Kangjia R \u0026 D Building, No.28, Keji South 12th Road, Nanshan District, Shenzhen City, Guangdong Province, China",
         "line2": "Shenzhen Nanshan District 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B0B0A1",
+    "organization": {
+      "name": "Hon Hai Precision Industry Ltd",
+      "address": {
+        "line1": "66.Chung Shan Rd, Tu-cheng Industrial, District New Taipei City, 23678, Taiwan China",
+        "line2": "Taipei 66.Chung Shan Rd, Tu-cheng Industrial, District New Taipei 33859",
         "countryCode": "CN"
       }
     }
