@@ -48326,6 +48326,24 @@ DC9F1F     (base 16)		Aseko, spol. s r.o.
 				Vestec u Prahy    25250
 				CZ
 
+6C-02-8C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+6C028C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+40-EE-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+40EE6D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+7C-96-A0   (hex)		Ningbo Shunyun Electronics Co.,Ltd.
+7C96A0     (base 16)		Ningbo Shunyun Electronics Co.,Ltd.
+				96 Sihai Avenue, Simen Town Industrial Park, Yuyao City, Zhejiang Province
+				Yuyao  Zhejiang  315470
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95723,16 +95741,28 @@ CCA823     (base 16)		Silicon Laboratories
 				Trondheim    NO-7052
 				NO
 
+AC-04-16   (hex)		zte corporation
+AC0416     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 BC-6C-96   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 BC6C96     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
 				Shenzhen    518052
 				CN
 
-94-2A-D6   (hex)		Texas Instruments
-942AD6     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
+1C-8B-84   (hex)		Espressif Systems (Singapore) Pte. Ltd
+1C8B84     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+7C-79-D4   (hex)		Network Optix, Inc.
+7C79D4     (base 16)		Network Optix, Inc.
+				975 Ygnacio Valley Rd
+				Walnut Creek  CA  94596
 				US
 
 E0-95-B3   (hex)		Texas Instruments
@@ -95741,16 +95771,28 @@ E095B3     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-7C-79-D4   (hex)		Network Optix, Inc.
-7C79D4     (base 16)		Network Optix, Inc.
-				975 Ygnacio Valley Rd
-				Walnut Creek  CA  94596
+94-2A-D6   (hex)		Texas Instruments
+942AD6     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
-AC-04-16   (hex)		zte corporation
-AC0416     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
+78-AD-DA   (hex)		Sonova Consumer Hearing GmbH
+78ADDA     (base 16)		Sonova Consumer Hearing GmbH
+				Im Heidkampe
+				9  Hannover  30659 
+				DE
+
+74-5E-A5   (hex)		shenzhen trolink  Technology Co.,Ltd
+745EA5     (base 16)		shenzhen trolink  Technology Co.,Ltd
+				F/5 Building -E ,Fenda Hight Technology Park,Sanwei Hangcheng Street,Bao'an ,Shenzhen 
+				shenzhen  gangdong  518101
+				CN
+
+24-EA-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24EA9B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -143426,35 +143468,23 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				San Jose   CA  94568
 				US
 
-B0-A5-B3   (hex)		Hewlett Packard Enterprise
-B0A5B3     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
-				US
+54-23-E3   (hex)		Ruijie Networks Co.,LTD
+5423E3     (base 16)		Ruijie Networks Co.,LTD
+				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
+				Fuzhou    35000
+				CN
 
-50-EE-B5   (hex)		Texas Instruments
-50EEB5     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+B0-B0-A1   (hex)		Hon Hai Precision Industry Co.,LTD
+B0B0A1     (base 16)		Hon Hai Precision Industry Co.,LTD
+				66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA 
+				TAIPEI  66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI   33859
+				CN
 
-D8-F0-2F   (hex)		Texas Instruments
-D8F02F     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-D8-1B-F4   (hex)		Texas Instruments
-D81BF4     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-18-14-F4   (hex)		Texas Instruments
-1814F4     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+44-7B-30   (hex)		Espressif Inc.
+447B30     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 A0-E9-22   (hex)		Optiemus Electronics Limited
 A0E922     (base 16)		Optiemus Electronics Limited
@@ -143474,11 +143504,29 @@ B0D587     (base 16)		silex technology, Inc.
 				Guangzhou  Guangdong  510663
 				CN
 
-44-7B-30   (hex)		Espressif Inc.
-447B30     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+D8-F0-2F   (hex)		Texas Instruments
+D8F02F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+D8-1B-F4   (hex)		Texas Instruments
+D81BF4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+18-14-F4   (hex)		Texas Instruments
+1814F4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+B0-A5-B3   (hex)		Hewlett Packard Enterprise
+B0A5B3     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
 
 74-75-63   (hex)		Duke Manufacturing
 747563     (base 16)		Duke Manufacturing
@@ -143486,16 +143534,58 @@ B0D587     (base 16)		silex technology, Inc.
 				SEDALIA  MO  65301
 				US
 
-54-23-E3   (hex)		Ruijie Networks Co.,LTD
-5423E3     (base 16)		Ruijie Networks Co.,LTD
-				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
-				Fuzhou    35000
+50-EE-B5   (hex)		Texas Instruments
+50EEB5     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+C8-19-D8   (hex)		Blink by Amazon 
+C819D8     (base 16)		Blink by Amazon 
+				100 Riverpark Drive
+				North Reading   MA  01864
+				US
+
+C8-C9-B2   (hex)		Amazon Technologies Inc.
+C8C9B2     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+C0-01-95   (hex)		Amazon Technologies Inc.
+C00195     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+10-9A-93   (hex)		Telink Micro LLC
+109A93     (base 16)		Telink Micro LLC
+				2975 Scott Blvd #120
+				Santa Clara  CA  95054
+				US
+
+00-D9-8B   (hex)		Hangzhou Huacheng Network Technology Co.,Ltd
+00D98B     (base 16)		Hangzhou Huacheng Network Technology Co.,Ltd
+				13th Floor, Building 3, No. 582, Liye Road, Changhe Street, Binjiang District
+				Hangzhou  (Zhejiang) Pilot Free Trade Zone  311200
 				CN
 
-B0-B0-A1   (hex)		Hon Hai Precision Industry Co.,LTD
-B0B0A1     (base 16)		Hon Hai Precision Industry Co.,LTD
-				66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA 
-				TAIPEI  66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI   33859
+0C-B7-EC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0CB7EC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A4-38-28   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A43828     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+28-A9-AE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28A9AE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -191753,18 +191843,6 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				Rishon Le-Zion    7570419
 				IL
 
-00-90-5B   (hex)		Parameter LLC
-00905B     (base 16)		Parameter LLC
-				208 COMMERCE DR.,  UNIT #3C
-				FORT COLLINS  CO  80524
-				US
-
-04-EC-A9   (hex)		IEEE Registration Authority
-04ECA9     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 28-D5-55   (hex)		vivo Mobile Communication Co., Ltd.
 28D555     (base 16)		vivo Mobile Communication Co., Ltd.
 				No.1, vivo Road, Chang'an
@@ -191776,6 +191854,48 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				F6,M6,Maqueling, High-tech park, Nanshan district
 				Shenzhen  Guangdong  518057
 				CN
+
+54-23-69   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+542369     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+64-87-6C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+64876C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+78-F1-3B   (hex)		AltoBeam Inc.
+78F13B     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+3C-13-67   (hex)		CxTEK Innovations India Pvt Ltd
+3C1367     (base 16)		CxTEK Innovations India Pvt Ltd
+				5th Floor, Tower-C, The Iconic Corenthum, Sector-62
+				Noida  Uttar Pradesh  201301
+				IN
+
+9C-96-D5   (hex)		Espressif Systems (Singapore) Pte. Ltd
+9C96D5     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+04-EC-A9   (hex)		IEEE Registration Authority
+04ECA9     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-90-5B   (hex)		Parameter LLC
+00905B     (base 16)		Parameter LLC
+				208 COMMERCE DR.,  UNIT #3C
+				FORT COLLINS  CO  80524
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -239605,3 +239725,21 @@ AC9A3F     (base 16)		Texas Instruments
 				2-6 Kinkocho, Kanagawa-ku, Yokohama Plaza Building 4F
 				Yokohama  Kanagawa  221-0056
 				JP
+
+BC-51-6C   (hex)		Tiandy Technologies Co.,LTD
+BC516C     (base 16)		Tiandy Technologies Co.,LTD
+				Tiandy Technologies CO.,LTD
+				tianjin  tianjin  300384
+				CN
+
+D8-93-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D89333     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+7C-19-60   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C1960     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
