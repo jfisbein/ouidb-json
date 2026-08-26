@@ -161842,6 +161842,17 @@
     }
   },
   {
+    "prefix": "10C283",
+    "organization": {
+      "name": "Suzhou Pairlink Network Technology",
+      "address": {
+        "line1": "Room304, Building 4, No.209, Zhu Yuan Road, Suzhou New District",
+        "line2": "Suzhou Jiangsu 215011",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "10C2BA",
     "organization": {
       "name": "UTT Ltd",
@@ -337533,6 +337544,17 @@
     }
   },
   {
+    "prefix": "A81C36",
+    "organization": {
+      "name": "Smartsens Technology (shanghai) Ltd",
+      "address": {
+        "line1": "Building 8, Phase 4, Technology Oasis, No. 889 Tianlin Road, Minhang District",
+        "line2": "Shanghai 201101",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "A81D16",
     "organization": {
       "name": "Azurewave Technology Inc",
@@ -418837,6 +418859,17 @@
         "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
         "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "ECBA34",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },

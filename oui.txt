@@ -95795,6 +95795,12 @@ E095B3     (base 16)		Texas Instruments
 				Dongguan    523808
 				CN
 
+EC-BA-34   (hex)		IEEE Registration Authority
+ECBA34     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -143586,6 +143592,12 @@ A43828     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 28A9AE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+A8-1C-36   (hex)		SmartSens Technology (Shanghai) Co., Ltd.
+A81C36     (base 16)		SmartSens Technology (Shanghai) Co., Ltd.
+				Building 8, Phase 4, Technology Oasis, No. 889 Tianlin Road, Minhang District
+				Shanghai    201101
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -239742,4 +239754,10 @@ D89333     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 7C1960     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+10-C2-83   (hex)		Suzhou Pairlink Network Technology
+10C283     (base 16)		Suzhou Pairlink Network Technology
+				Room304, Building 4, No.209, Zhu Yuan Road, Suzhou new district
+				Suzhou  Jiangsu  215011
 				CN
