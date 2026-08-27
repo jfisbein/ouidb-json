@@ -95801,6 +95801,12 @@ ECBA34     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+14-BA-88   (hex)		Zhejiang Uniview Technologies Co.,Ltd.
+14BA88     (base 16)		Zhejiang Uniview Technologies Co.,Ltd.
+				No.88,Jiangling Road
+				Hangzhou  Zhejiang,P.R.China  310051
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -143598,6 +143604,12 @@ A8-1C-36   (hex)		SmartSens Technology (Shanghai) Co., Ltd.
 A81C36     (base 16)		SmartSens Technology (Shanghai) Co., Ltd.
 				Building 8, Phase 4, Technology Oasis, No. 889 Tianlin Road, Minhang District
 				Shanghai    201101
+				CN
+
+50-61-3C   (hex)		ShenZhen XinZhongXin Technology Co.， Ltd
+50613C     (base 16)		ShenZhen XinZhongXin Technology Co.， Ltd
+				Building A2,Donghuan Industrial Zone,No.293,Nanpu Road,Xinqiao Sub-district,Bao'an District,Shenzhen City,Guangdong Province
+				ShenZhen    518104
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.

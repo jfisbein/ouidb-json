@@ -166349,6 +166349,17 @@
     }
   },
   {
+    "prefix": "14BA88",
+    "organization": {
+      "name": "Zhejiang Uniview Technologies Ltd",
+      "address": {
+        "line1": "No.88, Jiangling Road",
+        "line2": "Hangzhou Zhejiang, P.R.China 310051",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "14BAAF",
     "organization": {
       "name": "BKS GmbH",
@@ -234776,6 +234787,17 @@
         "line1": "2101 Corporate Center DR",
         "line2": "Thousand Oaks California 91320",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "50613C",
+    "organization": {
+      "name": "Shenzhen Xinzhongxin Technology Co.， Ltd",
+      "address": {
+        "line1": "Building A2, Donghuan Industrial Zone, No.293, Nanpu Road, Xinqiao Sub-district, Bao\u0027an District, Shenzhen City, Guangdong Province",
+        "line2": "Shenzhen 518104",
+        "countryCode": "CN"
       }
     }
   },
