@@ -256935,6 +256935,17 @@
     }
   },
   {
+    "prefix": "6441FF",
+    "organization": {
+      "name": "Shenzhen Wolf Technology Ltd",
+      "address": {
+        "line1": "Room 201, Block C1, Zhu\u0027ao Intelligent Manufacturing Park, Guxing Community, Xixiang Subdistrict, Bao\u0027an District",
+        "line2": "Shenzhen City 51800",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "644212",
     "organization": {
       "name": "Shenzhen Water World Information Ltd",
@@ -314673,6 +314684,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "94368B",
+    "organization": {
+      "name": "GD Midea Air-conditioning Equipment Ltd",
+      "address": {
+        "line1": "Midea Global Innovation Center, Beijiao Town, Shunde",
+        "line2": "Foshan Guangdong 528311",
         "countryCode": "CN"
       }
     }
@@ -410790,6 +410812,17 @@
     }
   },
   {
+    "prefix": "E4FED4",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "E4FED9",
     "organization": {
       "name": "Edmi Europe Ltd",
@@ -432464,6 +432497,17 @@
         "line1": "NO. 15, The 3rd Street Kunshan Export Processing Zone",
         "line2": "Kunshan Suzhou 215300",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F8A986",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
       }
     }
   },
