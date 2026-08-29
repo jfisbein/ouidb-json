@@ -185744,6 +185744,17 @@
     }
   },
   {
+    "prefix": "2803E6",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "28047A",
     "organization": {
       "name": "WNC Corporation",
@@ -331318,6 +331329,17 @@
     }
   },
   {
+    "prefix": "A0C773",
+    "organization": {
+      "name": "Chipsea Technologies (shenzhen) Corp",
+      "address": {
+        "line1": "3 / F, Block A, Building 2, Shenzhen Bay Innovation Technology Center, No.3156 Keyuan South Road, Yuehai Street, Nanshan District, Shenzhen",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "A0C7D2",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -372229,6 +372251,17 @@
     }
   },
   {
+    "prefix": "C4A3EF",
+    "organization": {
+      "name": "UEI Electronics Private Ltd",
+      "address": {
+        "line1": "#49, 1 st Floor, East Wing, Khanjabhavan, Racecourse Road.",
+        "line2": "Bengaluru Karnataka 560001",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "C4A402",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -404652,6 +404685,17 @@
         "line1": "1st Section of Industrial Pack, Wan\u0027an County, Ji\u0027an City, Jiangxi Province",
         "line2": "Wanan China/jiangxi 343800",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E09E2D",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
       }
     }
   },
