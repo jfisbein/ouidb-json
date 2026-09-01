@@ -112639,6 +112639,17 @@
     }
   },
   {
+    "prefix": "003EC4",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "003EE1",
     "organization": {
       "name": "Apple",
@@ -163758,6 +163769,17 @@
     }
   },
   {
+    "prefix": "142720",
+    "organization": {
+      "name": "Bosch Rexroth (changzhou) Ltd",
+      "address": {
+        "line1": "No 17 Longmen Road, Wujin Hi-tech Industrial Zone",
+        "line2": "Changzhou Jiangsu 213164",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "142876",
     "organization": {
       "name": "Apple",
@@ -176068,6 +176090,17 @@
     }
   },
   {
+    "prefix": "1CE4CB",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "1CE4DD",
     "organization": {
       "name": "Technicolor (china) Technology Ltd",
@@ -183218,6 +183251,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "247755",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -209771,6 +209815,17 @@
     }
   },
   {
+    "prefix": "3C0D0D",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "3C0D2C",
     "organization": {
       "name": "Liquid-markets GmbH",
@@ -222437,6 +222492,17 @@
     }
   },
   {
+    "prefix": "44C277",
+    "organization": {
+      "name": "Shenzhen Kingspec Electronics Technology Ltd",
+      "address": {
+        "line1": "20th/F, Block C, Digital Innovation Center, No. 328 Mintang Road, Minzhi Street, Longhua District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "44C306",
     "organization": {
       "name": "Sifrom Inc",
@@ -224145,6 +224211,17 @@
         "line1": "21 / F, Kangjia R \u0026 D Building, No.28, Keji South 12th Road, Nanshan District, Shenzhen City, Guangdong Province, China",
         "line2": "Shenzhen Nanshan District 518000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "48221D",
+    "organization": {
+      "name": "Bose Corporation",
+      "address": {
+        "line1": "The Mountain",
+        "line2": "Framingham MA 01701-9168",
+        "countryCode": "US"
       }
     }
   },
@@ -231794,6 +231871,17 @@
   },
   {
     "prefix": "4CCA95",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "4CCBEA",
     "organization": {
       "name": "Huawei Device Ltd",
       "address": {
@@ -240565,6 +240653,17 @@
     }
   },
   {
+    "prefix": "549C6A",
+    "organization": {
+      "name": "Shenzhen Bilian Electronic Ltd",
+      "address": {
+        "line1": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District",
+        "line2": "Shenzhen City Guangdong Province 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "549D85",
     "organization": {
       "name": "Eneraccess Inc",
@@ -241155,6 +241254,17 @@
         "line1": "5F No. 76, Ligong St., Beitou District",
         "line2": "Taipei City Taiwan 112",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "54BF55",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
       }
     }
   },
@@ -244920,6 +245030,17 @@
         "line1": "P.O Box 8102",
         "line2": "Reno NV 89507",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "58ABFB",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -258899,6 +259020,17 @@
         "line1": "E603 Bundang Techno-park 151",
         "line2": "Seongnam Gyeonggi 463-760",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "64A963",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -275589,6 +275721,17 @@
     }
   },
   {
+    "prefix": "743675",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "74372F",
     "organization": {
       "name": "Tongfang Shenzhen Cloudcomputing Technology Ltd",
@@ -280168,6 +280311,17 @@
         "line1": "1133 Innovation Way",
         "line2": "Sunnyvale CA 94089",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "781A32",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -317274,6 +317428,17 @@
     }
   },
   {
+    "prefix": "94C9F3",
+    "organization": {
+      "name": "Bouffalo Lab (nanjing) Ltd",
+      "address": {
+        "line1": "5f, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China",
+        "line2": "Nanjing Jiangsu 211800",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "94CA0F",
     "organization": {
       "name": "Honeywell Analytics",
@@ -320084,6 +320249,17 @@
         "line1": "2 Ivovaya Street, Floor 4, Office 1, Room 45",
         "line2": "Moscow 2 Ivovaya Street, Floor 4, Office 1, Room 45 129329",
         "countryCode": "RU"
+      }
+    }
+  },
+  {
+    "prefix": "9851FC",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -326027,6 +326203,17 @@
         "line1": "Parc Des Aygalades – Bât 10",
         "line2": "Marseille Paca 13014",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "9CA118",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -360457,6 +360644,17 @@
     }
   },
   {
+    "prefix": "BC122F",
+    "organization": {
+      "name": "Lcfc(hefei) Electronics Technology Ltd",
+      "address": {
+        "line1": "No. 3188-1 Yungu Road (comprehensive Bonded Zone), Hefei Economic \u0026 Technological Development Area，anhui",
+        "line2": "Hefei Anhui 230601",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "BC125E",
     "organization": {
       "name": "Beijing Wisvideo Inc",
@@ -362906,6 +363104,17 @@
         "line1": "400 West Cesar Chavez",
         "line2": "Austin TX 78701",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "BC9388",
+    "organization": {
+      "name": "Nokia Solutions (shanghai) Ltd",
+      "address": {
+        "line1": "No.388 Ning Qiao Road, Jin Qiao Pudong Shanghai 201206, P.R.China",
+        "line2": "Shanghai Pudong New Area 201206",
+        "countryCode": "CN"
       }
     }
   },
@@ -369729,6 +369938,17 @@
         "line1": "5 Floor, Suite 2, 233 Hsin Yi Road, Section 4",
         "line2": "Taipei 10681",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "C42155",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -438007,6 +438227,17 @@
       "address": {
         "line1": "Room 12302, Building 1, Greenland Territorial Sea, No. 6, Jinye Road, High Tech Zone, Xi\u0027an, Shaanxi",
         "line2": "Xi\u0027an Shaanxi 710076",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "FCC766",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
       }
     }
