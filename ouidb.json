@@ -208330,6 +208330,17 @@
     }
   },
   {
+    "prefix": "38C1ED",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "38C22D",
     "organization": {
       "name": "Mellanox Technologies Inc",
@@ -253635,6 +253646,17 @@
     }
   },
   {
+    "prefix": "608625",
+    "organization": {
+      "name": "Fn-link Technology Ltd",
+      "address": {
+        "line1": "No.8, Litong Road, Liuyang Economic \u0026 Technical Development Zone, Changsha, Hunan, China",
+        "line2": "Changsha Hunan 410329",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "608645",
     "organization": {
       "name": "Avery Weigh-tronix, LLC",
@@ -260708,6 +260730,17 @@
       "address": {
         "line1": "6176 E Molloy Rd",
         "line2": "East Syracuse NY 13057",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "64FBCE",
+    "organization": {
+      "name": "Amplitech Group Inc",
+      "address": {
+        "line1": "155 Plant Avenue",
+        "line2": "Hauppauge NY 11788",
         "countryCode": "US"
       }
     }
@@ -410387,6 +410420,17 @@
     }
   },
   {
+    "prefix": "E4D398",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "E4D3AA",
     "organization": {
       "name": "Fcnt LLC",
@@ -438161,6 +438205,17 @@
       "address": {
         "line1": "Digital Technology Plaza, NO.9 Shangdi 9th Street, Haidian District, Beijing, China",
         "line2": "Beijing 100080",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "FCC17D",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
         "countryCode": "CN"
       }
     }
