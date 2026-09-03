@@ -138492,6 +138492,17 @@
     }
   },
   {
+    "prefix": "00D18C",
+    "organization": {
+      "name": "Guang Zhou Xradio Technology Ltd",
+      "address": {
+        "line1": "Room 405, Buildingb, No. 18 Science Avenue, Guangzhou Science City, Huangpu District",
+        "line2": "Guangzhou Guangdong 510700",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "00D279",
     "organization": {
       "name": "Vingroup Joint Stock Company",
@@ -157610,6 +157621,17 @@
       "address": {
         "line1": "685 Third Avenue, 27th Floor",
         "line2": "New York NY New York NY 10017",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "0CEABF",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
         "countryCode": "US"
       }
     }
@@ -204617,6 +204639,17 @@
     }
   },
   {
+    "prefix": "34F890",
+    "organization": {
+      "name": "Nanjing Risc-v Institute Ltd",
+      "address": {
+        "line1": "Room 303, Building C, 18 Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "34F8DD",
     "organization": {
       "name": "Apple",
@@ -225645,6 +225678,17 @@
     }
   },
   {
+    "prefix": "4870D4",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "487119",
     "organization": {
       "name": "SGB Group Ltd",
@@ -232460,6 +232504,17 @@
     }
   },
   {
+    "prefix": "4CEA27",
+    "organization": {
+      "name": "Shenzhen Skyworth Digital Technology Ltd",
+      "address": {
+        "line1": "4f, Block A, Skyworth?building",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "4CEA41",
     "organization": {
       "name": "Ieee Registration Authority",
@@ -233621,6 +233676,17 @@
         "line1": "2-21 Nishiohjicho",
         "line2": "Kusatsu Shiga 525-0037",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "5027E4",
+    "organization": {
+      "name": "Marvell Semiconductors",
+      "address": {
+        "line1": "15485 Sand Canyon Ave",
+        "line2": "Irvine CA 92618",
+        "countryCode": "US"
       }
     }
   },
@@ -242614,6 +242680,17 @@
         "line1": "4 Allée Des Messageries",
         "line2": "Bois-colombes Haut de Seine 92270",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "580EE6",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -276421,6 +276498,17 @@
         "line1": "445 Hoes Lane",
         "line2": "Piscataway NJ 08554",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "745C2E",
+    "organization": {
+      "name": "Honor Device Ltd",
+      "address": {
+        "line1": "Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District",
+        "line2": "Shenzhen Guangdong 518040",
+        "countryCode": "CN"
       }
     }
   },
@@ -313160,6 +313248,17 @@
     }
   },
   {
+    "prefix": "90DF46",
+    "organization": {
+      "name": "Shanghai Tosun Technology Ltd",
+      "address": {
+        "line1": "Room 207-1, No. 4801 Cao\u0027an Road, Anting Town, Jiading District",
+        "line2": "Shanghai Shanghai 201800",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "90DF7D",
     "organization": {
       "name": "Realme Chongqing Mobile Telecommunications Corp. Ltd",
@@ -337115,6 +337214,17 @@
         "line1": "3-3-5 Owa",
         "line2": "Suwa-shi Nagano-ken 392-8502",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "A4EF0C",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -400971,6 +401081,17 @@
     }
   },
   {
+    "prefix": "DCBBFA",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "DCBD7A",
     "organization": {
       "name": "Guangzhou shiyuan electronic technology company limited",
@@ -405169,6 +405290,17 @@
         "line1": "NO.6 Paneng Road, Nanjing High-tech Zone, Jiang Su, China",
         "line2": "Nanjing 210061",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E0ABC3",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -427801,6 +427933,17 @@
         "line1": "30-2 Shimomaruko 3-chome",
         "line2": "Ohta-ku Tokyo 146-8501",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "F4A9A7",
+    "organization": {
+      "name": "Honor Device Ltd",
+      "address": {
+        "line1": "Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District",
+        "line2": "Shenzhen Guangdong 518040",
+        "countryCode": "CN"
       }
     }
   },
