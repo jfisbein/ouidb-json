@@ -125319,6 +125319,17 @@
     }
   },
   {
+    "prefix": "008E16",
+    "organization": {
+      "name": "Milwaukee Tool",
+      "address": {
+        "line1": "433 W Van Buren St, Suite 310s",
+        "line2": "Chicago IL 60607",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "008E73",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -162391,6 +162402,17 @@
     }
   },
   {
+    "prefix": "10DBA2",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "10DC4A",
     "organization": {
       "name": "Fiberhome Telecommunication Technologies Ltd",
@@ -166052,6 +166074,17 @@
     }
   },
   {
+    "prefix": "14A6B9",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "129, Samsung-ro, Youngtongl-gu",
+        "line2": "Suwon Gyeonggi-do 16677",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "14A72B",
     "organization": {
       "name": "Currentoptronics Pvt.Ltd",
@@ -166422,6 +166455,17 @@
         "line1": "129, Samsung-ro, Youngtongl-gu",
         "line2": "Suwon Gyeonggi-do 16677",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "14BBCC",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
       }
     }
   },
@@ -173028,6 +173072,17 @@
         "line1": "400 West Cesar Chavez Street",
         "line2": "Austin TX 78701",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "1C3576",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "129, Samsung-ro, Youngtongl-gu",
+        "line2": "Suwon Gyeonggi-do 16677",
+        "countryCode": "KR"
       }
     }
   },
@@ -181671,6 +181726,17 @@
       "address": {
         "line1": "2700 Augustine Drive, Ste145",
         "line2": "Santa Clara California 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "241F3A",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
         "countryCode": "US"
       }
     }
@@ -196289,6 +196355,17 @@
         "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3040FA",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
       }
     }
   },
@@ -219302,6 +219379,17 @@
     }
   },
   {
+    "prefix": "44177A",
+    "organization": {
+      "name": "IZT Cloud Inc",
+      "address": {
+        "line1": "1111b S Governors Aveste 7460",
+        "line2": "Dover 19904",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "441793",
     "organization": {
       "name": "Espressif Inc",
@@ -226594,6 +226682,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "48A17A",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
       }
     }
   },
@@ -252561,6 +252660,17 @@
     }
   },
   {
+    "prefix": "6046D4",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "60470A",
     "organization": {
       "name": "Shenzhen Zenith Intelligent Technology Ltd",
@@ -258892,6 +259002,17 @@
     }
   },
   {
+    "prefix": "649EF1",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "649EF3",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -264796,6 +264917,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "68E5D9",
+    "organization": {
+      "name": "Fiberhome Telecommunication Technologies Ltd",
+      "address": {
+        "line1": "No.5 Dongxin Road",
+        "line2": "Wuhan Hubei 430074",
+        "countryCode": "CN"
       }
     }
   },
@@ -315338,6 +315470,17 @@
     }
   },
   {
+    "prefix": "9447EE",
+    "organization": {
+      "name": "Fiberhome Telecommunication Technologies Ltd",
+      "address": {
+        "line1": "No.5 Dongxin Road",
+        "line2": "Wuhan Hubei 430074",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "944996",
     "organization": {
       "name": "Wisilica Inc",
@@ -316005,6 +316148,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "9476C3",
+    "organization": {
+      "name": "Fritz! Technology GmbH",
+      "address": {
+        "line1": "Alt-moabit 95",
+        "line2": "Berlin Berlin 10559",
+        "countryCode": "DE"
       }
     }
   },
@@ -356336,6 +356490,17 @@
     }
   },
   {
+    "prefix": "B82227",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "B8224F",
     "organization": {
       "name": "Sichuan Tianyi Comheart Telecom Ltd",
@@ -360948,6 +361113,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "BC192F",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
       }
     }
   },
@@ -368230,6 +368406,17 @@
     }
   },
   {
+    "prefix": "C0B5DD",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "C0B658",
     "organization": {
       "name": "Apple",
@@ -369135,6 +369322,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "C0E8EA",
+    "organization": {
+      "name": "Fiberhome Telecommunication Technologies Ltd",
+      "address": {
+        "line1": "No.5 Dongxin Road",
+        "line2": "Wuhan Hubei 430074",
+        "countryCode": "CN"
       }
     }
   },
@@ -370910,6 +371108,17 @@
     }
   },
   {
+    "prefix": "C44E5D",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "C44EAC",
     "organization": {
       "name": "Shenzhen Shiningworth Technology Ltd",
@@ -371289,6 +371498,17 @@
       "address": {
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "C4619A",
+    "organization": {
+      "name": "Texas Instruments",
+      "address": {
+        "line1": "12500 TI Blvd",
+        "line2": "Dallas TX 75243",
         "countryCode": "US"
       }
     }
@@ -414482,6 +414702,17 @@
     }
   },
   {
+    "prefix": "E8B7F0",
+    "organization": {
+      "name": "Noctel",
+      "address": {
+        "line1": "PO Box 35",
+        "line2": "Washougal WA 98671",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "E8B853",
     "organization": {
       "name": "GSD Viet NAM Technology Company Limited",
@@ -415083,6 +415314,17 @@
         "line1": "8F., No. 94, Baozhong Rd.",
         "line2": "New Taipei City Taiwan 231",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "E8D81C",
+    "organization": {
+      "name": "Quectel Wireless Solutions Ltd",
+      "address": {
+        "line1": "7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District",
+        "line2": "Shanghai 200233",
+        "countryCode": "CN"
       }
     }
   },
