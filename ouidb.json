@@ -145037,6 +145037,17 @@
     }
   },
   {
+    "prefix": "04896D",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "048A15",
     "organization": {
       "name": "Avaya Inc",
@@ -207511,6 +207522,17 @@
       "address": {
         "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3890FE",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
         "countryCode": "CN"
       }
     }
@@ -275336,6 +275358,17 @@
     }
   },
   {
+    "prefix": "741B13",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "741B39",
     "organization": {
       "name": "Convey India Private Limited",
@@ -285707,6 +285740,17 @@
         "line1": "Rue Des Sors 3",
         "line2": "Marin-epagnier Neuchatel 2074",
         "countryCode": "CH"
+      }
+    }
+  },
+  {
+    "prefix": "7C1795",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
       }
     }
   },
@@ -348281,6 +348325,17 @@
         "line1": "Building D21, No.1, East Zone 1st Road",
         "line2": "Chongqing Chongqing 401332",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B0521F",
+    "organization": {
+      "name": "Dyson Limited",
+      "address": {
+        "line1": "Tetbury Hill",
+        "line2": "Malmesbury Wiltshire Sn16 0rp",
+        "countryCode": "GB"
       }
     }
   },
