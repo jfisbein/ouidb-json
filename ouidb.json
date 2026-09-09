@@ -132155,6 +132155,17 @@
     }
   },
   {
+    "prefix": "00B5C7",
+    "organization": {
+      "name": "Vusiongroup",
+      "address": {
+        "line1": "Kalsdorfer Straße 12",
+        "line2": "Fernitz-mellach Steiermark 8072",
+        "countryCode": "AT"
+      }
+    }
+  },
+  {
     "prefix": "00B5D0",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -166448,6 +166459,17 @@
     }
   },
   {
+    "prefix": "14BAA2",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville 27560",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "14BAAF",
     "organization": {
       "name": "BKS GmbH",
@@ -173362,6 +173384,17 @@
     }
   },
   {
+    "prefix": "1C42B8",
+    "organization": {
+      "name": "Taicang T\u0026W Electronics",
+      "address": {
+        "line1": "89# Jiang Nan RD",
+        "line2": "Suzhou Jiangsu 215412",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "1C42C2",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -177417,6 +177450,17 @@
     }
   },
   {
+    "prefix": "202680",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "202681",
     "organization": {
       "name": "Tecno Mobile Limited",
@@ -180235,6 +180279,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "20CC73",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -193537,6 +193592,17 @@
     }
   },
   {
+    "prefix": "2CA2E5",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "2CA30E",
     "organization": {
       "name": "Power Dragon Development Limited",
@@ -199038,6 +199104,17 @@
         "line1": "Room 901, 9/F.New East Ocean Centre, 9 Science Museum Road",
         "line2": "Tsim Sha Tsui Kowloon 999077",
         "countryCode": "HK"
+      }
+    }
+  },
+  {
+    "prefix": "30DE52",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -216234,6 +216311,17 @@
     }
   },
   {
+    "prefix": "406792",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "40679B",
     "organization": {
       "name": "Shenzhen Skyworth Digital Technology Ltd",
@@ -217054,6 +217142,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "4098E1",
+    "organization": {
+      "name": "Vusiongroup",
+      "address": {
+        "line1": "Kalsdorfer Straße 12",
+        "line2": "Fernitz-mellach Steiermark 8072",
+        "countryCode": "AT"
       }
     }
   },
@@ -218516,6 +218615,17 @@
       "address": {
         "line1": "2777 Orchard Parkway",
         "line2": "San Jose CA 95131",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "40E767",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville 27560",
         "countryCode": "US"
       }
     }
@@ -237295,6 +237405,17 @@
     }
   },
   {
+    "prefix": "50DDAB",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "50DE06",
     "organization": {
       "name": "Apple",
@@ -239757,6 +239878,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "5459A8",
+    "organization": {
+      "name": "Wuhan Jingchen Intelligent Identification Technology Ltd",
+      "address": {
+        "line1": "No. 5, Creative Workshop, Creative World, Yezhihu West Road, Hongshandistrict",
+        "line2": "Wuhan Hubei 530070",
         "countryCode": "CN"
       }
     }
@@ -250481,6 +250613,17 @@
       "address": {
         "line1": "2440 Kiowa Blvd. N. #102",
         "line2": "Lake Havasu City AZ 86403",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "5CD19C",
+    "organization": {
+      "name": "Fantasia Trading LLC",
+      "address": {
+        "line1": "5350 Ontario Mills Pkwy, Suite 100",
+        "line2": "Ontario CA 91764",
         "countryCode": "US"
       }
     }
@@ -263155,6 +263298,17 @@
     }
   },
   {
+    "prefix": "687DAC",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "687DB4",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -275123,6 +275277,17 @@
         "line1": "Stuttgarter Straße 45-51",
         "line2": "Neckartenzlingen D-72654",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "740C2E",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -287786,6 +287951,17 @@
         "line1": "600 March Road",
         "line2": "Kanata Ontario K2k 2e6",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "7C8657",
+    "organization": {
+      "name": "Gtwave",
+      "address": {
+        "line1": "#804-2 Bdong, 723, Pangyo-ro, Bundang-gu, Seongnam-si, Gyeonggi-dorepublic of Korea",
+        "line2": "Seongnam Gyeonggi-do 13511",
+        "countryCode": "KR"
       }
     }
   },
@@ -311158,6 +311334,17 @@
     }
   },
   {
+    "prefix": "906989",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "906A94",
     "organization": {
       "name": "Hangzhou Huacheng Network Technology Ltd",
@@ -317314,6 +317501,17 @@
         "line1": "3333 Scott Blvd",
         "line2": "6280 America Center Dr CA 95002",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "94B43A",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -323721,6 +323919,17 @@
         "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
         "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "9C0AB3",
+    "organization": {
+      "name": "Vantiva USA LLC",
+      "address": {
+        "line1": "4855 Peachtree Industrial Blvd, Suite 200",
+        "line2": "Norcross GA 30902",
+        "countryCode": "US"
       }
     }
   },
@@ -354756,6 +354965,17 @@
     }
   },
   {
+    "prefix": "B4BE56",
+    "organization": {
+      "name": "Camnex Innovations Private Limited",
+      "address": {
+        "line1": "8th Floor, Platina Heights, C24, Sector 62",
+        "line2": "Noida Uttar Pradesh 201301",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "B4BFE9",
     "organization": {
       "name": "Espressif Inc",
@@ -365014,6 +365234,17 @@
         "line1": "A-15, Huaqiao Economic Development Zone, Shuangyang, Luojiang",
         "line2": "Quanzhou Fujian 362000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "BCEBE8",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -381739,6 +381970,17 @@
     }
   },
   {
+    "prefix": "CC827B",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "CC827F",
     "organization": {
       "name": "Advantech Technology (china) Ltd",
@@ -393951,6 +394193,17 @@
     }
   },
   {
+    "prefix": "D81F99",
+    "organization": {
+      "name": "Hitron Technologies. Inc",
+      "address": {
+        "line1": "No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C",
+        "line2": "Hsin-chu Taiwan 300",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "D81FCC",
     "organization": {
       "name": "Brocade Communications Systems LLC",
@@ -396308,6 +396561,17 @@
         "line1": "1800 Arch Street",
         "line2": "Philadelphia PA 19103",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D89D13",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
@@ -399707,6 +399971,17 @@
         "line1": "RM B3 \u0026 B4 Block B, KO Fai Industrial Building NO.7 KO Fai Road, Yau Tong, Kln, H.K",
         "line2": "Hong Kong Kowloon 999077",
         "countryCode": "HK"
+      }
+    }
+  },
+  {
+    "prefix": "DC5D89",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -424564,6 +424839,17 @@
         "line1": "3rd Khoroshevskaya st - 20",
         "line2": "Moscow 123298",
         "countryCode": "RU"
+      }
+    }
+  },
+  {
+    "prefix": "F0E426",
+    "organization": {
+      "name": "Samsung Electronics Ltd",
+      "address": {
+        "line1": "#94-1, Imsoo-dong",
+        "line2": "Gumi Gyeongbuk 730-350",
+        "countryCode": "KR"
       }
     }
   },
