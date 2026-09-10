@@ -142403,6 +142403,17 @@
     }
   },
   {
+    "prefix": "00FB4A",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "00FBF9",
     "organization": {
       "name": "Axiado Corporation",
@@ -321584,6 +321595,17 @@
     }
   },
   {
+    "prefix": "9887CC",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "98886C",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -342152,6 +342174,17 @@
     }
   },
   {
+    "prefix": "A8FD07",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "A8FE9D",
     "organization": {
       "name": "Apple",
@@ -353487,6 +353520,17 @@
         "line1": "Via Monte Grappa, 25",
         "line2": "Lancenigo di Villorba Italy 31020",
         "countryCode": "IT"
+      }
+    }
+  },
+  {
+    "prefix": "B4673F",
+    "organization": {
+      "name": "Shenzhen Shokz Ltd",
+      "address": {
+        "line1": "Baoan District Shiyan Street Shancheng Industrial Zone 26 Building",
+        "line2": "Shenzhen Guangdong 518108",
+        "countryCode": "CN"
       }
     }
   },
@@ -420315,6 +420359,17 @@
     }
   },
   {
+    "prefix": "ECD61B",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "ECD68A",
     "organization": {
       "name": "Shenzhen Jmicron Intelligent Technology Developmen",
@@ -431518,6 +431573,17 @@
         "line1": "1-11-1",
         "line2": "Minato-ku Tokyo 105-0022",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "F843EE",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },

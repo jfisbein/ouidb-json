@@ -48440,11 +48440,11 @@ F4A9A7     (base 16)		Honor Device Co., Ltd.
 				chicago  IL  60607
 				US
 
-C4-61-9A   (hex)		Texas Instruments
-C4619A     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+B4-BE-56   (hex)		Camnex Innovations Private Limited
+B4BE56     (base 16)		Camnex Innovations Private Limited
+				8th Floor, Platina Heights, C24, Sector 62
+				Noida  UTTAR PRADESH  201301
+				IN
 
 74-1B-13   (hex)		New H3C Technologies Co., Ltd
 741B13     (base 16)		New H3C Technologies Co., Ltd
@@ -48458,16 +48458,22 @@ C4619A     (base 16)		Texas Instruments
 				Gumi  Gyeongbuk  730-350
 				KR
 
-B4-BE-56   (hex)		Camnex Innovations Private Limited
-B4BE56     (base 16)		Camnex Innovations Private Limited
-				8th Floor, Platina Heights, C24, Sector 62
-				Noida  UTTAR PRADESH  201301
-				IN
+98-87-CC   (hex)		AltoBeam Inc.
+9887CC     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
 
 2C-A2-E5   (hex)		Cisco Systems, Inc
 2CA2E5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose   CA  94568
+				US
+
+C4-61-9A   (hex)		Texas Instruments
+C4619A     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
@@ -96022,6 +96028,24 @@ CC827B     (base 16)		IEEE Registration Authority
 				No. 5, Creative Workshop, Creative World, Yezhihu West Road, HongshanDistrict
 				WUHAN  HUBEI  530070
 				CN
+
+A8-FD-07   (hex)		Espressif Inc.
+A8FD07     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+F8-43-EE   (hex)		Espressif Inc.
+F843EE     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+00-FB-4A   (hex)		Espressif Inc.
+00FB4A     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -192418,6 +192442,18 @@ D81F99     (base 16)		Hitron Technologies. Inc
 				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
 				Hsin-chu  Taiwan  300
 				TW
+
+B4-67-3F   (hex)		Shenzhen Shokz Co., Ltd.
+B4673F     (base 16)		Shenzhen Shokz Co., Ltd.
+				Baoan District Shiyan street Shancheng Industrial zone 26 building
+				Shenzhen  Guangdong  518108
+				CN
+
+EC-D6-1B   (hex)		Espressif Inc.
+ECD61B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
