@@ -143966,6 +143966,12 @@ D89D13     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+C4-0E-B7   (hex)		IoTronix Technologies Sdn. Bhd.
+C40EB7     (base 16)		IoTronix Technologies Sdn. Bhd.
+				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
+				Bayan Lepas  Penang  11900
+				MY
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -192455,6 +192461,18 @@ ECD61B     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+6C-06-99   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+6C0699     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+FC-07-CD   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+FC07CD     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
+				Chongqing   China  401120
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -240409,3 +240427,21 @@ F0E426     (base 16)		Samsung Electronics Co.,Ltd
 				89# Jiang Nan RD
 				Suzhou  Jiangsu  215412
 				CN
+
+7C-0C-F1   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+7C0CF1     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+80-2A-13   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+802A13     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
+				Chongqing   China  401120
+				CN
+
+30-96-4C   (hex)		EGYM SE
+30964C     (base 16)		EGYM SE
+				Einsteinstraße 172
+				München  Bayern  81677
+				DE

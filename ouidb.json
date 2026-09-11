@@ -197965,6 +197965,17 @@
     }
   },
   {
+    "prefix": "30964C",
+    "organization": {
+      "name": "Egym SE",
+      "address": {
+        "line1": "Einsteinstraße 172",
+        "line2": "München Bayern 81677",
+        "countryCode": "DE"
+      }
+    }
+  },
+  {
     "prefix": "3096FB",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -265768,6 +265779,17 @@
     }
   },
   {
+    "prefix": "6C0699",
+    "organization": {
+      "name": "Beijing Xiaomi Mobile Software Ltd",
+      "address": {
+        "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
+        "line2": "Beijing Beijing 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "6C06D6",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -285756,6 +285778,17 @@
     }
   },
   {
+    "prefix": "7C0CF1",
+    "organization": {
+      "name": "Beijing Xiaomi Mobile Software Ltd",
+      "address": {
+        "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
+        "line2": "Beijing Beijing 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "7C0CF6",
     "organization": {
       "name": "Guangdong Huiwei High-tech Ltd",
@@ -291188,6 +291221,17 @@
         "line1": "5030 Sugarloaf Parkway Bldg 6",
         "line2": "Lawrenceville GA 30044",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "802A13",
+    "organization": {
+      "name": "Realme Chongqing Mobile Telecommunications Corp. Ltd",
+      "address": {
+        "line1": "No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.",
+        "line2": "Chongqing China 401120",
+        "countryCode": "CN"
       }
     }
   },
@@ -370294,6 +370338,17 @@
     }
   },
   {
+    "prefix": "C40EB7",
+    "organization": {
+      "name": "Iotronix Technologies Sdn. Bhd",
+      "address": {
+        "line1": "No. 85a, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.",
+        "line2": "Bayan Lepas Penang 11900",
+        "countryCode": "MY"
+      }
+    }
+  },
+  {
     "prefix": "C40F08",
     "organization": {
       "name": "Intel Corporate",
@@ -435489,6 +435544,17 @@
         "line1": "Hofer Strasse 5",
         "line2": "Noerdlingen Bavaria 86720",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "FC07CD",
+    "organization": {
+      "name": "Realme Chongqing Mobile Telecommunications Corp. Ltd",
+      "address": {
+        "line1": "No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.",
+        "line2": "Chongqing China 401120",
+        "countryCode": "CN"
       }
     }
   },
