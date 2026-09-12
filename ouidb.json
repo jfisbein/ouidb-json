@@ -161395,6 +161395,17 @@
     }
   },
   {
+    "prefix": "10A71A",
+    "organization": {
+      "name": "Nanjing Qinheng Microelectronics Ltd",
+      "address": {
+        "line1": "No.18, Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210012",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "10A743",
     "organization": {
       "name": "SK Mtek Limited",
@@ -234654,6 +234665,17 @@
       "address": {
         "line1": "8900 NE Walker Road, Suite 130",
         "line2": "Hillsboro OR 97006",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "5045D7",
+    "organization": {
+      "name": "Arista Networks",
+      "address": {
+        "line1": "5453 Great America Parkway",
+        "line2": "Santa Clara CA 95054",
         "countryCode": "US"
       }
     }
@@ -315503,6 +315525,17 @@
     }
   },
   {
+    "prefix": "943B31",
+    "organization": {
+      "name": "Arista Networks",
+      "address": {
+        "line1": "5453 Great America Parkway",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "943BB0",
     "organization": {
       "name": "New H3C Technologies Ltd",
@@ -392212,6 +392245,17 @@
       "address": {
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D4AB9F",
+    "organization": {
+      "name": "Vizio Inc",
+      "address": {
+        "line1": "39 Tesla",
+        "line2": "Irvine CA 92618",
         "countryCode": "US"
       }
     }
