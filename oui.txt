@@ -96059,6 +96059,12 @@ F843EE     (base 16)		Espressif Inc.
 				 Nanjing  Jiangsu  210012
 				CN
 
+68-73-1E   (hex)		Mega Multimedia AI Inc
+68731E     (base 16)		Mega Multimedia AI Inc
+				6565 W Sunset BlvdOfc 402
+				Los Angeles  CA  90028-7206
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -143988,6 +143994,12 @@ B0521F     (base 16)		Dyson Limited
 10DBA2     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+54-05-46   (hex)		Spintly Inc
+540546     (base 16)		Spintly Inc
+				691 S Milpitas Blvd Suite 217
+				Milpitas  CA  95035
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.

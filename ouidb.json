@@ -238292,6 +238292,17 @@
     }
   },
   {
+    "prefix": "540546",
+    "organization": {
+      "name": "Spintly Inc",
+      "address": {
+        "line1": "691 S Milpitas Blvd Suite 217",
+        "line2": "Milpitas CA 95035",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "54055F",
     "organization": {
       "name": "Alcatel Lucent",
@@ -263140,6 +263151,17 @@
         "line1": "Building C-1601, Tiley Central Plaza",
         "line2": "Shenzhen Guangdong 518054",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "68731E",
+    "organization": {
+      "name": "Mega Multimedia AI Inc",
+      "address": {
+        "line1": "6565 W Sunset Blvdofc 402",
+        "line2": "Los Angeles CA 90028-7206",
+        "countryCode": "US"
       }
     }
   },
