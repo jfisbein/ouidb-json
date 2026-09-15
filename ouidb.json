@@ -197217,6 +197217,17 @@
     }
   },
   {
+    "prefix": "306A4F",
+    "organization": {
+      "name": "Roku Inc",
+      "address": {
+        "line1": "1173 Coleman Ave",
+        "line2": "San Jose CA 95110",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "306A85",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -357172,6 +357183,17 @@
     }
   },
   {
+    "prefix": "B83250",
+    "organization": {
+      "name": "Suzhou Comay Information Technology Ltd",
+      "address": {
+        "line1": "3f, Zhujiawan Street",
+        "line2": "Suzhou Jiangsu 215008",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B8328F",
     "organization": {
       "name": "Eero Inc",
@@ -417062,6 +417084,17 @@
       "address": {
         "line1": "East Area, 4th Floor, No.5, Shangdi 5th Street Haidian District, Beijing",
         "line2": "Beijing Beijing 100000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "EC15FE",
+    "organization": {
+      "name": "Hangzhou Hikstorage Technology Ltd",
+      "address": {
+        "line1": "No.399 Danfeng Road, Binjiang District",
+        "line2": "Hangzhou 310051",
         "countryCode": "CN"
       }
     }
