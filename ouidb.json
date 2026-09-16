@@ -160581,6 +160581,17 @@
     }
   },
   {
+    "prefix": "107E59",
+    "organization": {
+      "name": "Calix Inc",
+      "address": {
+        "line1": "2777 Orchard Parkway",
+        "line2": "San Jose CA 95131",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "1081B4",
     "organization": {
       "name": "Hunan Greatwall Galaxy Science and Technology Ltd",
@@ -200857,6 +200868,17 @@
     }
   },
   {
+    "prefix": "342D0F",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "342DA3",
     "organization": {
       "name": "Fiberhome Telecommunication Technologies Ltd",
@@ -203680,6 +203702,17 @@
         "line1": "Mustafa Kemal District, Martyr Teacher Senay Aybuke Yalcin Street, 2120. St. No:13/A",
         "line2": "Ankara 06530",
         "countryCode": "TR"
+      }
+    }
+  },
+  {
+    "prefix": "34C229",
+    "organization": {
+      "name": "Calix Inc",
+      "address": {
+        "line1": "2777 Orchard Parkway",
+        "line2": "San Jose CA 95131",
+        "countryCode": "US"
       }
     }
   },
@@ -339007,6 +339040,17 @@
     }
   },
   {
+    "prefix": "A84021",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "A84025",
     "organization": {
       "name": "Oxide Computer Company",
@@ -413477,6 +413521,17 @@
         "line1": "No. 2, Alley 9, Lane 45, Baoxing Rd., Xiadian Dist.",
         "line2": "New Taipei City 231",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "E8567A",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
       }
     }
   },
