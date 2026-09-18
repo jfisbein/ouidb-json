@@ -175848,6 +175848,17 @@
     }
   },
   {
+    "prefix": "1CC212",
+    "organization": {
+      "name": "Fortinet Inc",
+      "address": {
+        "line1": "899 Kifer Road",
+        "line2": "Sunnyvale 94086",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "1CC316",
     "organization": {
       "name": "Xiamen Milesight IoT Ltd",
@@ -238908,6 +238919,17 @@
     }
   },
   {
+    "prefix": "5416A5",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "5419C8",
     "organization": {
       "name": "Vivo Mobile Communication Ltd",
@@ -286492,6 +286514,17 @@
     }
   },
   {
+    "prefix": "7C25A3",
+    "organization": {
+      "name": "Fortinet Inc",
+      "address": {
+        "line1": "899 Kifer Road",
+        "line2": "Sunnyvale 94086",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "7C25DA",
     "organization": {
       "name": "Fn-link Technology Limited",
@@ -299768,6 +299801,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "84EC14",
+    "organization": {
+      "name": "Qingdao Goertek Horizons Technology Ltd",
+      "address": {
+        "line1": "Building 1, 2, Qingdao Virtual Reality Industrial Park, No.159 Zhuzhou Road, Laoshan District, Qingdao, Shandong, P.R. China",
+        "line2": "Qingdao 266100",
+        "countryCode": "CN"
       }
     }
   },
@@ -345755,6 +345799,17 @@
         "line1": "10 Nazareth Ave",
         "line2": "Christchurch Canterbury 8024",
         "countryCode": "NZ"
+      }
+    }
+  },
+  {
+    "prefix": "ACA26A",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
