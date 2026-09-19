@@ -165953,6 +165953,17 @@
     }
   },
   {
+    "prefix": "149DB0",
+    "organization": {
+      "name": "Cloud Network Technology Singapore PTE. Ltd",
+      "address": {
+        "line1": "B22 Building, NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China",
+        "line2": "Nanning Guangxi 530007",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "149E5D",
     "organization": {
       "name": "JSC IB Reform",
@@ -198767,6 +198778,17 @@
     }
   },
   {
+    "prefix": "30C695",
+    "organization": {
+      "name": "Overview Corporation",
+      "address": {
+        "line1": "1700 Montgomery St",
+        "line2": "San Francisco CA 94111",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "30C6AB",
     "organization": {
       "name": "zte Corporation",
@@ -210647,6 +210669,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "3C2319",
+    "organization": {
+      "name": "Final Inc",
+      "address": {
+        "line1": "4-44-1, Nakasaiwai-cho, Saiwai-ku",
+        "line2": "Kawasaki Kanagawa 212-0012",
+        "countryCode": "JP"
       }
     }
   },
@@ -243828,6 +243861,17 @@
     }
   },
   {
+    "prefix": "5836DE",
+    "organization": {
+      "name": "HZC Skyverse(chongqing)microelectronics Ltd",
+      "address": {
+        "line1": "Building 19, No.105, Yunhan Road, Beibeidistrict, Chongqing, China",
+        "line2": "Chongqing 400707",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "583879",
     "organization": {
       "name": "Ricoh Company Ltd",
@@ -260138,6 +260182,17 @@
         "line1": "77 Twickenham Avenue",
         "line2": "Auckland Park Gauteng 2006",
         "countryCode": "ZA"
+      }
+    }
+  },
+  {
+    "prefix": "64C5F9",
+    "organization": {
+      "name": "Shenzhen Tecno Technology",
+      "address": {
+        "line1": "101, Building 24, Waijing Industrial Park, Fumin Community, Fucheng Street, Longhua District, Shenzhen City, P.R.China",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
       }
     }
   },
@@ -301400,6 +301455,17 @@
     }
   },
   {
+    "prefix": "88415F",
+    "organization": {
+      "name": "Mitrastar Technology Corp",
+      "address": {
+        "line1": "No. 6, Innovation Road II",
+        "line2": "Hsinchu 300",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "8841C1",
     "organization": {
       "name": "Orbisat DA Amazonia IND E Aerol SA",
@@ -330984,6 +331050,17 @@
         "line1": "110-1 Ongjeong-ri, Tongjin-eup",
         "line2": "Gimpo-si Gyounggi-do 415-865",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "A07D42",
+    "organization": {
+      "name": "Compal Information (kunshan) Ltd",
+      "address": {
+        "line1": "NO. 25, The 3rd Street Kunshan Export Processing Zone",
+        "line2": "Kunshan Suzhou 215300",
+        "countryCode": "CN"
       }
     }
   },
@@ -371086,6 +371163,17 @@
     }
   },
   {
+    "prefix": "C423E2",
+    "organization": {
+      "name": "WNC Corporation",
+      "address": {
+        "line1": "No.20, Park Avenue Ii, Hsinchu Science Park",
+        "line2": "Hsin-chu R.O.C. 308",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "C4242E",
     "organization": {
       "name": "Galvanic Applied Sciences Inc",
@@ -380888,6 +380976,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "CC37A9",
+    "organization": {
+      "name": "Askey Computer Corp",
+      "address": {
+        "line1": "10f, No.119, Jiankang Rd, Zhonghe Dist",
+        "line2": "New Taipei Taiwan 23585",
+        "countryCode": "TW"
       }
     }
   },
@@ -422870,6 +422969,17 @@
         "line1": "4 Allée Des",
         "line2": "Messageries Bois Colombes 92270",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "F04E35",
+    "organization": {
+      "name": "Pica8 Software Inc",
+      "address": {
+        "line1": "1032 Elwell Ct",
+        "line2": "Palo Alto 94303",
+        "countryCode": "US"
       }
     }
   },

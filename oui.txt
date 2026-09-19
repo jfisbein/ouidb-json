@@ -48542,6 +48542,18 @@ E0150B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Sunnyvale    94086
 				US
 
+C4-23-E2   (hex)		WNC Corporation
+C423E2     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+CC-37-A9   (hex)		ASKEY COMPUTER CORP
+CC37A9     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96119,23 +96131,29 @@ CC827B     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-68-73-1E   (hex)		Mega Multimedia AI Inc
-68731E     (base 16)		Mega Multimedia AI Inc
-				6565 W Sunset BlvdOfc 402
-				Los Angeles  CA  90028-7206
-				US
-
-30-6A-4F   (hex)		Roku, Inc
-306A4F     (base 16)		Roku, Inc
-				1173 Coleman Ave
-				San Jose  CA  95110
-				US
-
 E8-56-7A   (hex)		zte corporation
 E8567A     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen   guangdong  518057
 				CN
+
+A0-7D-42   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+A07D42     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
+
+30-C6-95   (hex)		Overview Corporation
+30C695     (base 16)		Overview Corporation
+				1700 Montgomery St
+				San Francisco  CA  94111
+				US
+
+68-73-1E   (hex)		Mega Multimedia AI Inc
+68731E     (base 16)		Mega Multimedia AI Inc
+				6565 W Sunset BlvdOfc 402
+				Los Angeles  CA  90028-7206
+				US
 
 F0-5D-88   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 F05D88     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -96149,17 +96167,35 @@ F05D88     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+AC-A2-6A   (hex)		Espressif Systems (Singapore) Pte. Ltd
+ACA26A     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+30-6A-4F   (hex)		Roku, Inc
+306A4F     (base 16)		Roku, Inc
+				1173 Coleman Ave
+				San Jose  CA  95110
+				US
+
 7C-25-A3   (hex)		Fortinet, Inc.
 7C25A3     (base 16)		Fortinet, Inc.
 				899 Kifer Road
 				Sunnyvale    94086
 				US
 
-AC-A2-6A   (hex)		Espressif Systems (Singapore) Pte. Ltd
-ACA26A     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
+64-C5-F9   (hex)		SHENZHEN TECNO TECHNOLOGY 
+64C5F9     (base 16)		SHENZHEN TECNO TECHNOLOGY 
+				101,Building 24,Waijing Industrial Park,Fumin Community,Fucheng Street,Longhua District,Shenzhen City,P.R.China
+				Shenzhen  guangdong  518000
+				CN
+
+3C-23-19   (hex)		final Inc.
+3C2319     (base 16)		final Inc.
+				4-44-1, Nakasaiwai-cho, Saiwai-Ku
+				Kawasaki  Kanagawa  212-0012
+				JP
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144092,16 +144128,28 @@ B0521F     (base 16)		Dyson Limited
 				Malmesbury  Wiltshire  SN16 0RP
 				GB
 
-54-05-46   (hex)		Spintly Inc
-540546     (base 16)		Spintly Inc
-				691 S Milpitas Blvd Suite 217
-				Milpitas  CA  95035
-				US
-
 EC-15-FE   (hex)		Hangzhou Hikstorage Technology Co.,Ltd.
 EC15FE     (base 16)		Hangzhou Hikstorage Technology Co.,Ltd.
 				No.399 Danfeng Road, Binjiang District,
 				Hangzhou    310051
+				CN
+
+84-EC-14   (hex)		Qingdao Goertek Horizons  Technology Co.,LTD
+84EC14     (base 16)		Qingdao Goertek Horizons  Technology Co.,LTD
+				Building 1 ,2, Qingdao Virtual Reality Industrial Park,No.159 Zhuzhou Road, Laoshan District, Qingdao,Shandong, P.R. China
+				Qingdao    266100
+				CN
+
+14-92-AA   (hex)		Earda Technologies co Ltd
+1492AA     (base 16)		Earda Technologies co Ltd
+				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
+				Guangzhou  Guangdong  511455
+				CN
+
+58-36-DE   (hex)		HZC Skyverse(Chongqing)Microelectronics Co., Ltd
+5836DE     (base 16)		HZC Skyverse(Chongqing)Microelectronics Co., Ltd
+				Building 19, No.105,Yunhan Road, BeibeiDistrict, Chongqing, China
+				Chongqing    400707
 				CN
 
 68-7B-DC   (hex)		Juniper Networks
@@ -144116,17 +144164,11 @@ EC15FE     (base 16)		Hangzhou Hikstorage Technology Co.,Ltd.
 				Sunnyvale  CA  94089
 				US
 
-14-92-AA   (hex)		Earda Technologies co Ltd
-1492AA     (base 16)		Earda Technologies co Ltd
-				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
-				Guangzhou  Guangdong  511455
-				CN
-
-84-EC-14   (hex)		Qingdao Goertek Horizons  Technology Co.,LTD
-84EC14     (base 16)		Qingdao Goertek Horizons  Technology Co.,LTD
-				Building 1 ,2, Qingdao Virtual Reality Industrial Park,No.159 Zhuzhou Road, Laoshan District, Qingdao,Shandong, P.R. China
-				Qingdao    266100
-				CN
+54-05-46   (hex)		Spintly Inc
+540546     (base 16)		Spintly Inc
+				691 S Milpitas Blvd Suite 217
+				Milpitas  CA  95035
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -192635,6 +192677,30 @@ D4AB9F     (base 16)		Vizio, Inc
 				Irvine  CA  92618
 				US
 
+14-9D-B0   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+149DB0     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
+88-41-5F   (hex)		MitraStar Technology Corp.
+88415F     (base 16)		MitraStar Technology Corp.
+				No. 6, Innovation Road II,
+				Hsinchu    300
+				TW
+
+60-BB-EB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60BBEB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+20-FF-0C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20FF0C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 4C-90-2D   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 4C902D     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 				19-22# Building, Star-net Science Plaza, Juyuanzhou,
@@ -192647,29 +192713,17 @@ D4AB9F     (base 16)		Vizio, Inc
 				Hamburg  Hamburg  22529
 				DE
 
-78-C0-5A   (hex)		TP-Link Systems Inc.
-78C05A     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
-
-20-FF-0C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-20FF0C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-60-BB-EB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-60BBEB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 54-16-A5   (hex)		Espressif Systems (Singapore) Pte. Ltd
 5416A5     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
 				Singapore    138577
 				SG
+
+78-C0-5A   (hex)		TP-Link Systems Inc.
+78C05A     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -240678,4 +240732,10 @@ F8293A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 3C1F52     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
+				US
+
+F0-4E-35   (hex)		Pica8 Software Inc
+F04E35     (base 16)		Pica8 Software Inc
+				1032 Elwell Ct
+				Palo Alto    94303
 				US
