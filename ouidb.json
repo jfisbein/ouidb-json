@@ -50021,10 +50021,11 @@
   {
     "prefix": "00120F",
     "organization": {
-      "name": "Ieee 802.3",
+      "name": "Ieee 802.3 Working Group",
       "address": {
-        "line2": "Oban Pa34 5ej",
-        "countryCode": "GB"
+        "line1": "Ieee 802.3 Chair, c/o Rac Administrator, Ieee",
+        "line2": "Piscataway NJ 08854",
+        "countryCode": "US"
       }
     }
   },
@@ -272678,6 +272679,17 @@
     }
   },
   {
+    "prefix": "706A25",
+    "organization": {
+      "name": "Ningbo Sanxing Smart Electric Co.，Ltd",
+      "address": {
+        "line1": "No.16 Fengwan Road, Cicheng Town, Jiangbei District, Ningbo City, Zhejiang Province, 315034, China",
+        "line2": "Ningbo Zhejiang Province 315031",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "706AC9",
     "organization": {
       "name": "zte Corporation",
@@ -348314,6 +348326,17 @@
         "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
         "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B02F20",
+    "organization": {
+      "name": "VIM Technology Ltd",
+      "address": {
+        "line1": "8f-3, No. 872, Zhongzheng Rd., Zhonghe Dist.",
+        "line2": "New Taipei City 235015",
+        "countryCode": "TW"
       }
     }
   },
@@ -436501,6 +436524,17 @@
         "line1": "600 March Road",
         "line2": "Kanata Ontario K2k 2e6",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "FC1CE6",
+    "organization": {
+      "name": "PSG Germany GmbH",
+      "address": {
+        "line1": "Hochstraße 150-152",
+        "line2": "Duisburg North Rhine-westphalia 47228",
+        "countryCode": "DE"
       }
     }
   },

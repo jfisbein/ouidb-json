@@ -48554,6 +48554,12 @@ CC37A9     (base 16)		ASKEY COMPUTER CORP
 				NEW TAIPEI  TAIWAN  23585
 				TW
 
+FC-1C-E6   (hex)		PSG Germany GmbH
+FC1CE6     (base 16)		PSG Germany GmbH
+				Hochstraße 150-152 
+				Duisburg  North Rhine-Westphalia  47228
+				DE
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96196,6 +96202,12 @@ ACA26A     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				4-44-1, Nakasaiwai-cho, Saiwai-Ku
 				Kawasaki  Kanagawa  212-0012
 				JP
+
+70-6A-25   (hex)		Ningbo Sanxing Smart Electric Co.，Ltd
+706A25     (base 16)		Ningbo Sanxing Smart Electric Co.，Ltd
+				No.16 Fengwan Road,Cicheng Town,Jiangbei District,Ningbo City, Zhejiang Province,315034,China
+				Ningbo  Zhejiang Province  315031
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -175058,12 +175070,6 @@ A07332     (base 16)		Cashmaster International Limited
 				Wuerzburg  Bavaria  97080
 				DE
 
-00-12-0F   (hex)		IEEE 802.3
-00120F     (base 16)		IEEE 802.3
-				
-				Oban     PA34 5EJ
-				GB
-
 00-12-0C   (hex)		CE-Infosys Pte Ltd
 00120C     (base 16)		CE-Infosys Pte Ltd
 				390 Havelock Road
@@ -192724,6 +192730,18 @@ D4AB9F     (base 16)		Vizio, Inc
 				10 Mauchly
 				 Irvine  CA  92618
 				US
+
+00-12-0F   (hex)		 IEEE 802.3 Working Group 
+00120F     (base 16)		 IEEE 802.3 Working Group 
+				IEEE 802.3 Chair, c/o RAC Administrator, IEEE
+				Piscataway  NJ  08854
+				US
+
+B0-2F-20   (hex)		VIM technology CO., LTD.
+B02F20     (base 16)		VIM technology CO., LTD.
+				8F-3, No. 872, Zhongzheng Rd., Zhonghe Dist.
+				New Taipei City    235015
+				TW
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
