@@ -85063,9 +85063,9 @@
   {
     "prefix": "001E83",
     "organization": {
-      "name": "LAN/MAN Standards Association (lmsc)",
+      "name": "Ieee 802.1 Working Group",
       "address": {
-        "line1": "Ieee 802.1 Chair, c/o Rac Administrator Ieee",
+        "line1": "Ieee 802.1 Chair, c/o Rac Administrator, Ieee",
         "line2": "Piscataway NJ 08854",
         "countryCode": "US"
       }
@@ -124345,9 +124345,9 @@
   {
     "prefix": "0080C2",
     "organization": {
-      "name": "Ieee 802.1 Chair",
+      "name": "Ieee 802.1 Working Group",
       "address": {
-        "line1": "c/o Rac Administrator, Ieee",
+        "line1": "Ieee 802.1 Chair, c/o Rac Administrator, Ieee",
         "line2": "Piscataway NJ 08554",
         "countryCode": "US"
       }
@@ -163176,6 +163176,17 @@
     }
   },
   {
+    "prefix": "140498",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "140589",
     "organization": {
       "name": "Motorola Mobility Llc, a Lenovo Company",
@@ -166438,6 +166449,17 @@
     }
   },
   {
+    "prefix": "14B653",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "14B6EB",
     "organization": {
       "name": "CJ Intelligent Technology Ltd",
@@ -166994,6 +167016,17 @@
       "address": {
         "line1": "19 Morris Avenue, Building 128, Cumberland Gate",
         "line2": "Brooklyn NY 11205",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "14D55C",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
         "countryCode": "US"
       }
     }
@@ -168414,6 +168447,17 @@
         "line1": "#1212 Ho, Biz Center, Skn Technopark",
         "line2": "Seongnam Kyounggi DO 462-721",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "1832DE",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -179368,6 +179412,17 @@
         "line1": "No.15 Xinghua Avenue, Xiqing Economic Development Area",
         "line2": "Tianjin 300385",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "208C0A",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -198262,6 +198317,17 @@
     }
   },
   {
+    "prefix": "30A7F5",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "30A889",
     "organization": {
       "name": "Decimator Design",
@@ -202504,6 +202570,17 @@
         "line1": "5f, No. 5, Industry E Rd. Vii",
         "line2": "Hsin Chu, Taiwan 30077",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "348296",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -210857,6 +210934,17 @@
         "line1": "Xiaomi Campus",
         "line2": "Beijing Beijing 100085",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3C2CCD",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -220024,6 +220112,17 @@
       "address": {
         "line1": "179 South Street",
         "line2": "Boston MA 02111",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "4425F4",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
         "countryCode": "US"
       }
     }
@@ -236057,6 +236156,17 @@
     }
   },
   {
+    "prefix": "508114",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "508140",
     "organization": {
       "name": "HP Inc",
@@ -244214,6 +244324,17 @@
     }
   },
   {
+    "prefix": "5851A3",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "58528A",
     "organization": {
       "name": "Mitsubishi Electric Corporation",
@@ -249526,6 +249647,17 @@
         "line1": "Building 24 (floors 1, 3, 4, 5) And 28 (floors1-4) ",
         "line2": "Shennan Rd, Nanshan Shenzhen, Guangdong Province 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "5C89BC",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -255475,6 +255607,17 @@
         "line1": "600 March Road",
         "line2": "Kanata Ontario K2k 2e6",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "60CA3A",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -301082,6 +301225,17 @@
     }
   },
   {
+    "prefix": "882C31",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "882D53",
     "organization": {
       "name": "Baidu Online Network Technology (beijing) Ltd",
@@ -319827,6 +319981,17 @@
     }
   },
   {
+    "prefix": "98076A",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "980802",
     "organization": {
       "name": "Orbis BV",
@@ -320911,6 +321076,17 @@
         "line1": "Lautrupbjerg 7",
         "line2": "Ballerup 2750",
         "countryCode": "DK"
+      }
+    }
+  },
+  {
+    "prefix": "9842F5",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -323056,6 +323232,17 @@
   },
   {
     "prefix": "98CA33",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "98CAB5",
     "organization": {
       "name": "Apple",
       "address": {
@@ -361899,6 +362086,17 @@
     }
   },
   {
+    "prefix": "BC1827",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "BC1896",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -375020,6 +375218,17 @@
         "line1": "Kalsdorfer Straße 12",
         "line2": "Fernitz-mellach Steiermark 8072",
         "countryCode": "AT"
+      }
+    }
+  },
+  {
+    "prefix": "C4EB81",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
+        "countryCode": "US"
       }
     }
   },
@@ -408084,6 +408293,17 @@
       "address": {
         "line1": "6540 Central Avenue",
         "line2": "Newark California 94560",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "E4013B",
+    "organization": {
+      "name": "Apple",
+      "address": {
+        "line1": "1 Infinite Loop",
+        "line2": "Cupertino CA 95014",
         "countryCode": "US"
       }
     }
