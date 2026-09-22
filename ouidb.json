@@ -121680,6 +121680,17 @@
     }
   },
   {
+    "prefix": "0068FE",
+    "organization": {
+      "name": "Uninet Ltd",
+      "address": {
+        "line1": "#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu",
+        "line2": "Anyang-si Gyunggi-do 14057",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "00692D",
     "organization": {
       "name": "Sunnovo International Limited",
@@ -147163,6 +147174,17 @@
         "line1": "1-245 Kyo-machi",
         "line2": "Fushimi, Kyoto Kyoto 6128083",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "04EF61",
+    "organization": {
+      "name": "Dell Inc",
+      "address": {
+        "line1": "One Dell Way",
+        "line2": "Round Rock TX 78682",
+        "countryCode": "US"
       }
     }
   },
@@ -215488,6 +215510,17 @@
     }
   },
   {
+    "prefix": "402BD6",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "402C76",
     "organization": {
       "name": "Ieee Registration Authority",
@@ -243781,6 +243814,17 @@
         "line1": "12500 TI Blvd",
         "line2": "Dallas TX 75243",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "582BD3",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -278292,6 +278336,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "748927",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -312809,6 +312864,17 @@
     }
   },
   {
+    "prefix": "909412",
+    "organization": {
+      "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
+      "address": {
+        "line1": "NO.18 Haibin Road",
+        "line2": "Dong Guan Guang Dong 523860",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "909497",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -329321,6 +329387,17 @@
     }
   },
   {
+    "prefix": "A01217",
+    "organization": {
+      "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
+      "address": {
+        "line1": "NO.18 Haibin Road",
+        "line2": "Dong Guan Guang Dong 523860",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "A01290",
     "organization": {
       "name": "Avaya Inc",
@@ -342776,6 +342853,17 @@
         "line1": "Werinherstrasse 91",
         "line2": "München Bavaria D-81541",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "A8FB45",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
@@ -379804,6 +379892,17 @@
     }
   },
   {
+    "prefix": "C8ED8B",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "C8EDFC",
     "organization": {
       "name": "Shenzhen Ideaform Industrial Product Design Ltd",
@@ -379888,6 +379987,17 @@
         "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
         "line2": "Road Town Tortola Vg1110",
         "countryCode": "VG"
+      }
+    }
+  },
+  {
+    "prefix": "C8F10A",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },
@@ -388991,6 +389101,17 @@
         "line1": "1-10-1, Higashikotari",
         "line2": "Nagaokakyo-shi Kyoto 617-8555",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "D0E48C",
+    "organization": {
+      "name": "Wits Ltd",
+      "address": {
+        "line1": "10f, Techtree Yeongtong Industry Center, 55, Sinwon-ro, Yeongtong-gu",
+        "line2": "Suwon-si Gyeonggi-do 16677",
+        "countryCode": "KR"
       }
     }
   },
@@ -428741,6 +428862,17 @@
         "line1": "416, Maetan 3dong, Yeongtong-gu",
         "line2": "Suwon Gyeonggi-do 443742",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "F47D8F",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
