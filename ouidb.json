@@ -251400,6 +251400,17 @@
     }
   },
   {
+    "prefix": "5CE674",
+    "organization": {
+      "name": "NXP Semiconductors Taiwan Ltd",
+      "address": {
+        "line1": "No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan",
+        "line2": "Nanzi Dist. Kaohsiung 811643",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "5CE688",
     "organization": {
       "name": "Vecos Europe B.V",
@@ -263944,6 +263955,17 @@
         "line1": "170 West Tasman Drive",
         "line2": "San Jose CA 95134",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "6886E0",
+    "organization": {
+      "name": "NXP Semiconductors Taiwan Ltd",
+      "address": {
+        "line1": "No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan",
+        "line2": "Nanzi Dist. Kaohsiung 811643",
+        "countryCode": "TW"
       }
     }
   },
@@ -309652,6 +309674,17 @@
     }
   },
   {
+    "prefix": "8CF67D",
+    "organization": {
+      "name": "Netgear",
+      "address": {
+        "line1": "3553 N. First Street",
+        "line2": "San Jose CA 95134",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "8CF681",
     "organization": {
       "name": "Silicon Laboratories",
@@ -317535,6 +317568,17 @@
         "line1": "1600 Amphitheatre Parkway",
         "line2": "Mountain View CA 94043",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "949722",
+    "organization": {
+      "name": "Azurewave Technology Inc",
+      "address": {
+        "line1": "8F., No. 94, Baozhong Rd.",
+        "line2": "New Taipei City Taiwan 231",
+        "countryCode": "TW"
       }
     }
   },
@@ -366308,10 +366352,10 @@
   {
     "prefix": "BCF9F2",
     "organization": {
-      "name": "Teko",
+      "name": "Cjsc STC Teko",
       "address": {
-        "line1": "Prospect Pobedy, 19",
-        "line2": "Kazan Republic of Tatarstan 420138",
+        "line1": "73 M. Gafuri Street",
+        "line2": "Kazan Republic of Tatarstan 420108",
         "countryCode": "RU"
       }
     }
@@ -399349,6 +399393,17 @@
     }
   },
   {
+    "prefix": "DC0179",
+    "organization": {
+      "name": "SKY UK Limited",
+      "address": {
+        "line1": "Grant Way",
+        "line2": "Isleworth Middlesex Tw7 5qd",
+        "countryCode": "GB"
+      }
+    }
+  },
+  {
     "prefix": "DC0265",
     "organization": {
       "name": "Meditech Kft",
@@ -411462,6 +411517,17 @@
         "line1": "5800 St-denis, #222",
         "line2": "Montreal Quebec H2s3l5",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "E4ADCA",
+    "organization": {
+      "name": "Murata Manufacturing Ltd",
+      "address": {
+        "line1": "1-10-1, Higashikotari",
+        "line2": "Nagaokakyo-shi Kyoto 617-8555",
+        "countryCode": "JP"
       }
     }
   },
