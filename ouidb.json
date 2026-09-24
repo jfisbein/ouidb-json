@@ -153759,6 +153759,17 @@
     }
   },
   {
+    "prefix": "0C12AD",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "0C130B",
     "organization": {
       "name": "Uniqoteq Ltd",
@@ -180555,6 +180566,17 @@
     }
   },
   {
+    "prefix": "20D476",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "20D5AB",
     "organization": {
       "name": "Korea Infocom Ltd",
@@ -203069,6 +203091,17 @@
     }
   },
   {
+    "prefix": "34987C",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "3498B5",
     "organization": {
       "name": "Netgear",
@@ -217758,6 +217791,17 @@
       "address": {
         "line1": "170 West Tasman Drive",
         "line2": "San Jose CA 95134",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "40A746",
+    "organization": {
+      "name": "Broadcom Limited",
+      "address": {
+        "line1": "15191 Alton Parkway",
+        "line2": "Irvine CA 92618",
         "countryCode": "US"
       }
     }
@@ -247858,6 +247902,17 @@
     }
   },
   {
+    "prefix": "5C23D6",
+    "organization": {
+      "name": "China Electronics Cloud Computing Technology Ltd",
+      "address": {
+        "line1": "N3013, 3f, N R\u0026d Building, A.I. Technology Park, Economic And Technological Development Zone",
+        "line2": "Wuhan Hubei 430090",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "5C241F",
     "organization": {
       "name": "Qingdao Haier Technology Ltd",
@@ -252364,6 +252419,17 @@
         "line1": "63065 NE 18th St",
         "line2": "Bend OR 97701",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "6016F3",
+    "organization": {
+      "name": "Huaqin Technology Ltd",
+      "address": {
+        "line1": "No.699, Lvke Road",
+        "line2": "Shanghai Pudong New Area 201204",
+        "countryCode": "CN"
       }
     }
   },
@@ -261645,6 +261711,17 @@
         "line1": "No.20, Park Avenue Ii, Hsinchu Science Park",
         "line2": "Hsin-chu R.O.C. 308",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "680125",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
+        "countryCode": "US"
       }
     }
   },
@@ -316204,6 +316281,17 @@
         "line1": "Lodewijkstraat 1A",
         "line2": "Eindhoven 5652ac",
         "countryCode": "NL"
+      }
+    }
+  },
+  {
+    "prefix": "943F68",
+    "organization": {
+      "name": "Nanjing Risc-v Institute Ltd",
+      "address": {
+        "line1": "Room 303, Building C, 18 Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210000",
+        "countryCode": "CN"
       }
     }
   },
@@ -379261,6 +379349,17 @@
         "line1": "501, Gwangmyeong M-cluster 17, Deogan-ro 104beon-gil",
         "line2": "Gwangmyeong-si Gyeonggi-do 14353",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "C8C919",
+    "organization": {
+      "name": "Broadcom Limited",
+      "address": {
+        "line1": "15191 Alton Parkway",
+        "line2": "Irvine CA 92618",
+        "countryCode": "US"
       }
     }
   },

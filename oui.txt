@@ -48608,6 +48608,30 @@ C423E2     (base 16)		WNC Corporation
 				New Taipei City  Taiwan  231
 				TW
 
+20-D4-76   (hex)		Amazon Technologies Inc.
+20D476     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+40-A7-46   (hex)		Broadcom Limited
+40A746     (base 16)		Broadcom Limited
+				15191 Alton Parkway
+				Irvine  CA  92618
+				US
+
+94-3F-68   (hex)		Nanjing RISC-V Institute Co., Ltd.
+943F68     (base 16)		Nanjing RISC-V Institute Co., Ltd.
+				Room 303, Building C, 18 Ningshuang Road
+				Nanjing  Jiangsu  210000
+				CN
+
+0C-12-AD   (hex)		Hewlett Packard Enterprise
+0C12AD     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -144326,6 +144350,24 @@ BCF9F2     (base 16)		CJSC STC TEKO
 				Kazan  Republic of Tatarstan  420108
 				RU
 
+68-01-25   (hex)		Amazon Technologies Inc.
+680125     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+C8-C9-19   (hex)		Broadcom Limited
+C8C919     (base 16)		Broadcom Limited
+				15191 Alton Parkway
+				Irvine  CA  92618
+				US
+
+60-16-F3   (hex)		Huaqin Technology Co., Ltd.
+6016F3     (base 16)		Huaqin Technology Co., Ltd.
+				No.699, Lvke Road
+				Shanghai  Pudong New Area  201204
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -192935,6 +192977,12 @@ C8ED8B     (base 16)		Espressif Inc.
 				Nanzi Dist.  Kaohsiung  811643
 				TW
 
+34-98-7C   (hex)		AltoBeam Inc.
+34987C     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -240985,3 +241033,9 @@ C8F10A     (base 16)		IEEE Registration Authority
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+5C-23-D6   (hex)		China Electronics Cloud Computing Technology Co., Ltd
+5C23D6     (base 16)		China Electronics Cloud Computing Technology Co., Ltd
+				N3013,3F,N R&D building, A.I. Technology Park, Economic and Technological Development Zone
+				Wuhan  Hubei  430090
+				CN
