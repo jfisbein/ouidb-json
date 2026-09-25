@@ -143279,6 +143279,17 @@
     }
   },
   {
+    "prefix": "042336",
+    "organization": {
+      "name": "Zyxel Communications Corporation",
+      "address": {
+        "line1": "No. 6 Innovation Road Ii, Science Park",
+        "line2": "Hsichu Taiwan 300",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "0423A3",
     "organization": {
       "name": "Mellanox Technologies Inc",
@@ -144693,6 +144704,17 @@
         "line1": "NO.8 Tangzhuang Road, Suzhou Industrial Park, Su Zhoucity, Jiangsu Province, China",
         "line2": "Suzhou 215021",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "047179",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
       }
     }
   },
@@ -169778,6 +169800,17 @@
     }
   },
   {
+    "prefix": "186FA7",
+    "organization": {
+      "name": "Shen Zhen Tenda Technology Ltd",
+      "address": {
+        "line1": "6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen 518052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "18703B",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -179588,6 +179621,17 @@
         "line1": "K. Baršausko st. 66, Kaunas",
         "line2": "Kaunas Lt-51436",
         "countryCode": "LT"
+      }
+    }
+  },
+  {
+    "prefix": "209771",
+    "organization": {
+      "name": "GSD Viet NAM Technology Company Limited",
+      "address": {
+        "line1": "Part OF Factory 2, Lot C2.10, D1 Street, Dong AN 2 Industrial Park, Binhduong Ward",
+        "line2": "HO Chi Minh City HO Chi Minh 820000",
+        "countryCode": "VN"
       }
     }
   },
@@ -202565,7 +202609,7 @@
   {
     "prefix": "34800D",
     "organization": {
-      "name": "Cavium Inc",
+      "name": "Marvell Semiconductors",
       "address": {
         "line1": "15485 Sand Canyon Ave",
         "line2": "Irvine CA 92618",
@@ -214845,6 +214889,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3CFFDD",
+    "organization": {
+      "name": "Vivo Mobile Communication Ltd",
+      "address": {
+        "line1": "No.1, Vivo Road, Chang\u0027an",
+        "line2": "Dongguan Guangdong 523860",
         "countryCode": "CN"
       }
     }
@@ -301973,6 +302028,17 @@
     }
   },
   {
+    "prefix": "884DDE",
+    "organization": {
+      "name": "Nubia Technology Ltd",
+      "address": {
+        "line1": "Room 1801, Building 2, Chongwen Park, Nanshan Zhiyuan, No.3370, Liuxian Rd， Nanshan District, Shenzhen City",
+        "line2": "Shenzhen Guandong 518055",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "884F59",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -319794,6 +319860,17 @@
     }
   },
   {
+    "prefix": "94FA57",
+    "organization": {
+      "name": "Equalizer Technologies",
+      "address": {
+        "line1": "Room 6 2/F, One Vista Summit, 3 San Hop Lane, Tuen Mun",
+        "line2": "Hong Kong NA",
+        "countryCode": "HK"
+      }
+    }
+  },
+  {
     "prefix": "94FAE8",
     "organization": {
       "name": "Shenzhen Eycom Technology Ltd",
@@ -319833,6 +319910,17 @@
       "address": {
         "line1": "No.1, Songgang Avenue, Songgang Street, Bao’an District",
         "line2": "Shenzhen Guangdong 518105",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "94FC04",
+    "organization": {
+      "name": "Dongguan Amsamotion Automation Technology Ltd",
+      "address": {
+        "line1": "501f, Building 1, Yonglida Intelligent Manufacturing Park, No.1 Xinwen Third Street, Daojiao Town",
+        "line2": "Dongguan Guangdong 523000",
         "countryCode": "CN"
       }
     }
@@ -344660,6 +344748,17 @@
     }
   },
   {
+    "prefix": "AC4E74",
+    "organization": {
+      "name": "Shen Zhen Tenda Technology Ltd",
+      "address": {
+        "line1": "6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen 518052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "AC4E91",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -347240,6 +347339,17 @@
       "address": {
         "line1": "718 University Ave Suite 200",
         "line2": "Los Gatos 95032",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "ACD400",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
         "countryCode": "US"
       }
     }
@@ -362477,6 +362587,17 @@
       "address": {
         "line1": "No.3001, Bao He Road, Baolong Industrial, Longgang Street, Longgang Zone, Shenzhen",
         "line2": "Shenzhen 518116",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "BC239F",
+    "organization": {
+      "name": "Vivo Mobile Communication Ltd",
+      "address": {
+        "line1": "No.1, Vivo Road, Chang\u0027an",
+        "line2": "Dongguan Guangdong 523860",
         "countryCode": "CN"
       }
     }
@@ -409486,6 +409607,17 @@
     }
   },
   {
+    "prefix": "E43A85",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "E43BC9",
     "organization": {
       "name": "Hisense Visual Technology Ltd",
@@ -415842,6 +415974,17 @@
       "address": {
         "line1": "65 Sunban South Rd., Jimei North Industrial Zone",
         "line2": "Xiamen Fujian 361021",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E8A7B6",
+    "organization": {
+      "name": "Bouffalo Lab (nanjing) Ltd",
+      "address": {
+        "line1": "5f, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China",
+        "line2": "Nanjing Jiangsu 211800",
         "countryCode": "CN"
       }
     }
