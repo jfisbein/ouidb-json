@@ -1085,9 +1085,9 @@
   {
     "prefix": "000064",
     "organization": {
-      "name": "Yokogawa Digital Computer Corporation",
+      "name": "DTS Insight Corporation",
       "address": {
-        "line1": "Shinjuku Midwest Bldg.4-30-3",
+        "line1": "4-30-3 Yoyogi",
         "line2": "Yoyogi Shibuya-ku, Tokyo 151-0053",
         "countryCode": "JP"
       }
@@ -85646,7 +85646,7 @@
   {
     "prefix": "001EB8",
     "organization": {
-      "name": "Aloys Inc",
+      "name": "Atlas Link Inc",
       "address": {
         "line1": "#3f Hanwha Techwin R\u0026d BLDG. 4-5, Yanghyeon-ro 405 Beon-gil",
         "line2": "Jungwon-gu, Seongnam-si Gyeonggi-do 13438",
@@ -119395,7 +119395,7 @@
   {
     "prefix": "006041",
     "organization": {
-      "name": "Yokogawa Digital Computer Corporation",
+      "name": "DTS Insight Corporation",
       "address": {
         "line1": "Shinjuku Midwest Bldg.4-30-3",
         "line2": "Yoyogi Shibuya-ku, Tokyo 151-0053",
@@ -141865,6 +141865,17 @@
     }
   },
   {
+    "prefix": "00E1F8",
+    "organization": {
+      "name": "BK Technologies.com",
+      "address": {
+        "line1": "7100 Technology Drive",
+        "line2": "West Melbourne FL 32904",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "00E22C",
     "organization": {
       "name": "China Mobile Group Device Ltd",
@@ -153860,7 +153871,7 @@
   {
     "prefix": "0C166E",
     "organization": {
-      "name": "Wirelessmobility Engineering Centre SDN. BHD",
+      "name": "Eagle Wireless Engineering Centre SDN BHD",
       "address": {
         "line1": "Summerskye Square, NO. 1-2-13 \u0026 1-2, 13a, Jalan Sungai Tiram 8, 11900 Bayan Lepas",
         "line2": "Penang 11900",
@@ -161502,6 +161513,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "10A85B",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -206114,6 +206136,17 @@
     }
   },
   {
+    "prefix": "3823DA",
+    "organization": {
+      "name": "Even Realities Ltd",
+      "address": {
+        "line1": "Building West 2603, Lepu Tower, Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen Guangdong 518055",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "3824F1",
     "organization": {
       "name": "Private",
@@ -206971,8 +207004,8 @@
     "organization": {
       "name": "Peerbridge Health Inc",
       "address": {
-        "line1": "3 Columbus Circle 15th Fl",
-        "line2": "New York NY 10019",
+        "line1": "1000 Corporate Centre Dr Ste 390",
+        "line2": "Franklin TN 37067-6669",
         "countryCode": "US"
       }
     }
@@ -231354,6 +231387,17 @@
     }
   },
   {
+    "prefix": "4C8421",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "4C858A",
     "organization": {
       "name": "BUFFALO.INC",
@@ -250153,6 +250197,17 @@
         "line1": "403, Kosugi-cho 1-chome, Nakahara-ku",
         "line2": "Kawasaki Kanagawa 211-0063",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "5C9AE1",
+    "organization": {
+      "name": "Ericsson AB",
+      "address": {
+        "line1": "Torshamnsgatan 36",
+        "line2": "Stockholm Se-164 80",
+        "countryCode": "SE"
       }
     }
   },
@@ -270454,6 +270509,17 @@
         "line1": "5/F, Bldg 4 Tuosen Technology Park 351 Changhe Road, Binjiang District Hangzhou, Zhejiang, P.R.China",
         "line2": "Hangzhou Zhejiang 310052",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "6CE210",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -306500,6 +306566,17 @@
     }
   },
   {
+    "prefix": "8C4598",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "8C476E",
     "organization": {
       "name": "Ieee Registration Authority",
@@ -337835,6 +337912,17 @@
     }
   },
   {
+    "prefix": "A4CC37",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A4CCB3",
     "organization": {
       "name": "Xiaomi Communications Ltd",
@@ -354240,6 +354328,17 @@
     }
   },
   {
+    "prefix": "B456F3",
+    "organization": {
+      "name": "Westermo Network Technologies AB",
+      "address": {
+        "line1": "Metallverksgatan 6",
+        "line2": "Vasteras 721 30",
+        "countryCode": "SE"
+      }
+    }
+  },
+  {
     "prefix": "B456FA",
     "organization": {
       "name": "Iopsys Software Solutions",
@@ -360700,6 +360799,17 @@
     }
   },
   {
+    "prefix": "B8C1B5",
+    "organization": {
+      "name": "Hanshow Technology Ltd",
+      "address": {
+        "line1": "The 1st Floor Podium And Floor 4 of Building 1, Floor 7 of Building 5, Jiaxingphotovoltaic Technology Innovation Park, No.1288, Kanghe Road, Xiuzhou District, Jiaxing City, Zhejiang Prov, P.R.China",
+        "line2": "Jiaxing 314000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B8C227",
     "organization": {
       "name": "Pstec",
@@ -362434,6 +362544,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "BC1926",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -380134,6 +380255,17 @@
     }
   },
   {
+    "prefix": "C8EA71",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "C8EAF8",
     "organization": {
       "name": "zte Corporation",
@@ -385569,9 +385701,9 @@
   {
     "prefix": "D00AAB",
     "organization": {
-      "name": "Yokogawa Digital Computer Corporation",
+      "name": "DTS Insight Corporation",
       "address": {
-        "line1": "Shinjuku Midwest Bldg.4-30-3",
+        "line1": "4-30-3 Yoyogi",
         "line2": "Yoyogi Shibuya-ku, Tokyo 151-0053",
         "countryCode": "JP"
       }
@@ -407440,6 +407572,17 @@
     }
   },
   {
+    "prefix": "E0BF0B",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "E0BFB2",
     "organization": {
       "name": "Apple",
@@ -408954,6 +409097,17 @@
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "E415A0",
+    "organization": {
+      "name": "Schraml GmbH",
+      "address": {
+        "line1": "Herxheimer Str. 7",
+        "line2": "Vagen Bavaria 83620",
+        "countryCode": "DE"
       }
     }
   },
@@ -433252,7 +433406,7 @@
   {
     "prefix": "F8554B",
     "organization": {
-      "name": "Wirelessmobility Engineering Centre SDN. BHD",
+      "name": "Eagle Wireless Engineering Centre SDN BHD",
       "address": {
         "line1": "Summerskye Square, NO. 1-2-13 \u0026 1-2, 13a, Jalan Sungai Tiram 8, 11900 Bayan Lepas",
         "line2": "Penang 11900",
