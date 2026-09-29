@@ -145434,6 +145434,17 @@
     }
   },
   {
+    "prefix": "049E28",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
+      }
+    }
+  },
+  {
     "prefix": "049F06",
     "organization": {
       "name": "Smobile Ltd",
@@ -154316,6 +154327,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "0C2FD1",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -171742,6 +171764,17 @@
         "line1": "No. 30 Lane 76, Rei Kuang Rd",
         "line2": "Taipei 114",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "18DB88",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
       }
     }
   },
@@ -195268,6 +195301,17 @@
         "line1": "No.69, Lide St",
         "line2": "New Taipei City Taiwan 235",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "2CF06A",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -293781,6 +293825,17 @@
     }
   },
   {
+    "prefix": "808426",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "808489",
     "organization": {
       "name": "Intel Corporate",
@@ -297669,6 +297724,17 @@
         "line1": "110 Fulbourn Road",
         "line2": "Cambridge Cambridgeshire Cb19nj",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "8467E8",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -308529,6 +308595,17 @@
       "address": {
         "line1": "309, Intergration Building Olympic Center, No.1 An Ding Road, Chao Yang District,",
         "line2": "Beijing 100029",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "8CA229",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
       }
     }
@@ -342571,6 +342648,17 @@
     }
   },
   {
+    "prefix": "A8D601",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "A8D6D9",
     "organization": {
       "name": "Cloud Network Technology Singapore PTE. Ltd",
@@ -350768,6 +350856,17 @@
         "line1": "Building 24(floors 1, 3, 4, 5)and 28(floors 1-4)central Science And Technology Park, Shennan Road, Nanshan",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B09648",
+    "organization": {
+      "name": "Vantiva USA LLC",
+      "address": {
+        "line1": "4855 Peachtree Industrial Blvd, Suite 200",
+        "line2": "Norcross GA 30902",
+        "countryCode": "US"
       }
     }
   },
@@ -361389,6 +361488,17 @@
         "line1": "1600 Amphitheatre Parkway",
         "line2": "Mountain View CA 94043",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B8DB3D",
+    "organization": {
+      "name": "Simcom Wireless Solutions Limited",
+      "address": {
+        "line1": "Simcom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China",
+        "line2": "Shanghai 200335",
+        "countryCode": "CN"
       }
     }
   },
@@ -405471,6 +405581,17 @@
     }
   },
   {
+    "prefix": "E04123",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "E04136",
     "organization": {
       "name": "Mitrastar Technology Corp",
@@ -407594,6 +407715,17 @@
     }
   },
   {
+    "prefix": "E0C0B4",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "E0C0D1",
     "organization": {
       "name": "CK Telecom (shenzhen) Limited",
@@ -407689,6 +407821,17 @@
         "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E0C401",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
       }
     }
   },
@@ -422945,6 +423088,17 @@
     }
   },
   {
+    "prefix": "F0210E",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "F02178",
     "organization": {
       "name": "Unionman Technology Ltd",
@@ -425566,6 +425720,17 @@
         "line1": "5f-1, No.490 Bannan Rd.",
         "line2": "Jhonghe City 235",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "F0B715",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },

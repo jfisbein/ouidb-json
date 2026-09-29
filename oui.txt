@@ -48656,6 +48656,42 @@ ACD400     (base 16)		Cisco Systems, Inc
 				Hong Kong    NA
 				HK
 
+E0-C4-01   (hex)		EM Microelectronic
+E0C401     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+B0-96-48   (hex)		Vantiva USA LLC
+B09648     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+8C-A2-29   (hex)		Huawei Device Co., Ltd.
+8CA229     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+E0-C0-B4   (hex)		Huawei Device Co., Ltd.
+E0C0B4     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+0C-2F-D1   (hex)		Huawei Device Co., Ltd.
+0C2FD1     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+18-DB-88   (hex)		Hewlett Packard Enterprise
+18DB88     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96376,6 +96412,18 @@ D00AAB     (base 16)		DTS INSIGHT Corporation
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+04-9E-28   (hex)		EM Microelectronic
+049E28     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+B8-DB-3D   (hex)		SIMCom Wireless Solutions Limited
+B8DB3D     (base 16)		SIMCom Wireless Solutions Limited
+				SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China
+				Shanghai    200335
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144386,12 +144434,6 @@ DC0179     (base 16)		SKY UK LIMITED
 				Isleworth  Middlesex  TW7 5QD
 				GB
 
-BC-F9-F2   (hex)		CJSC STC TEKO
-BCF9F2     (base 16)		CJSC STC TEKO
-				73 M. Gafuri Street
-				Kazan  Republic of Tatarstan  420108
-				RU
-
 68-01-25   (hex)		Amazon Technologies Inc.
 680125     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102 
@@ -144422,12 +144464,6 @@ E43A85     (base 16)		Cisco Systems, Inc
 				San Jose  CA  95002
 				US
 
-00-E1-F8   (hex)		BK Technologies.com
-00E1F8     (base 16)		BK Technologies.com
-				7100 Technology Drive 
-				West Melbourne  FL  32904
-				US
-
 E4-15-A0   (hex)		SCHRAML GmbH
 E415A0     (base 16)		SCHRAML GmbH
 				Herxheimer Str. 7
@@ -144439,6 +144475,36 @@ C8EA71     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+F0-B7-15   (hex)		Huawei Device Co., Ltd.
+F0B715     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+2C-F0-6A   (hex)		Huawei Device Co., Ltd.
+2CF06A     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+A8-D6-01   (hex)		Huawei Device Co., Ltd.
+A8D601     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+BC-F9-F2   (hex)		CJSC STC TEKO
+BCF9F2     (base 16)		CJSC STC TEKO
+				73 M. Gafuri Street
+				Kazan  Republic of Tatarstan  420108
+				RU
+
+00-E1-F8   (hex)		BK Technologies.com
+00E1F8     (base 16)		BK Technologies.com
+				7100 Technology Drive 
+				West Melbourne  FL  32904
+				US
 
 B4-56-F3   (hex)		Westermo Network Technologies AB
 B456F3     (base 16)		Westermo Network Technologies AB
@@ -193043,24 +193109,6 @@ C8ED8B     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
-34-98-7C   (hex)		AltoBeam Inc.
-34987C     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
-04-23-36   (hex)		Zyxel Communications Corporation
-042336     (base 16)		Zyxel Communications Corporation
-				No. 6 Innovation Road II, Science Park
-				Hsichu  Taiwan  300
-				TW
-
-F8-55-4B   (hex)		Eagle Wireless Engineering Centre SDN BHD
-F8554B     (base 16)		Eagle Wireless Engineering Centre SDN BHD
-				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
-				Penang    11900
-				MY
-
 00-60-41   (hex)		DTS INSIGHT Corporation
 006041     (base 16)		DTS INSIGHT Corporation
 				Shinjuku MIDWEST Bldg.4-30-3
@@ -193085,10 +193133,46 @@ B8C1B5     (base 16)		HANSHOW TECHNOLOGY CO.,LTD.
 				JIAXING    314000
 				CN
 
+84-67-E8   (hex)		Huawei Device Co., Ltd.
+8467E8     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+F0-21-0E   (hex)		Huawei Device Co., Ltd.
+F0210E     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+F8-55-4B   (hex)		Eagle Wireless Engineering Centre SDN BHD
+F8554B     (base 16)		Eagle Wireless Engineering Centre SDN BHD
+				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
+				Penang    11900
+				MY
+
 38-23-DA   (hex)		Even Realities Ltd.
 3823DA     (base 16)		Even Realities Ltd.
 				Building West 2603, LEPU TOWER, Nanshan District, Shenzhen, China
 				Shenzhen  Guangdong  518055
+				CN
+
+04-23-36   (hex)		Zyxel Communications Corporation
+042336     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+34-98-7C   (hex)		AltoBeam Inc.
+34987C     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+E0-41-23   (hex)		Huawei Device Co., Ltd.
+E04123     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -241201,3 +241285,9 @@ E0BF0B     (base 16)		Silicon Laboratories
 				Torshamnsgatan 36
 				Stockholm    SE-164 80
 				SE
+
+80-84-26   (hex)		Huawei Device Co., Ltd.
+808426     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
