@@ -155387,6 +155387,17 @@
     }
   },
   {
+    "prefix": "0C72FB",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "0C7329",
     "organization": {
       "name": "Sercomm Corporation",
@@ -203663,6 +203674,17 @@
     }
   },
   {
+    "prefix": "34B126",
+    "organization": {
+      "name": "Tp-link Systems Inc",
+      "address": {
+        "line1": "10 Mauchly",
+        "line2": "Irvine CA 92618",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "34B1EB",
     "organization": {
       "name": "Apple",
@@ -215125,6 +215147,17 @@
     }
   },
   {
+    "prefix": "400999",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "400AE7",
     "organization": {
       "name": "BSH Hausgeräte GmbH",
@@ -225283,6 +225316,17 @@
     }
   },
   {
+    "prefix": "4832BF",
+    "organization": {
+      "name": "Rincom Tech India Private Limited",
+      "address": {
+        "line1": "Integrated Textile Park, Ichhapore, Bhatpore Hajira Road Surat -394510",
+        "line2": "Surat Gujarat 394510",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "4833DD",
     "organization": {
       "name": "Zennio Avance Y Tecnologia, S.L",
@@ -231361,6 +231405,17 @@
         "line1": "Runye Precision Manufacturing Industrial Park, Among The North of Xiangjing Road, The West of Xinpi Road And The South of Yangzi Road, Located in The High-tech Zone, Heyuan City, Guangdong Province",
         "line2": "Heyuan City Guangdong Province 518100",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "4C81BE",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },
@@ -260748,6 +260803,17 @@
     }
   },
   {
+    "prefix": "64CBA0",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville NC 27560",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "64CBA3",
     "organization": {
       "name": "Pointmobile",
@@ -262118,6 +262184,17 @@
         "line1": "ul. Traugutta 7",
         "line2": "Mielec 39-300",
         "countryCode": "PL"
+      }
+    }
+  },
+  {
+    "prefix": "6815E4",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -316329,6 +316406,17 @@
     }
   },
   {
+    "prefix": "94376C",
+    "organization": {
+      "name": "Iotronix Technologies Sdn. Bhd",
+      "address": {
+        "line1": "No. 85a, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.",
+        "line2": "Bayan Lepas Penang 11900",
+        "countryCode": "MY"
+      }
+    }
+  },
+  {
     "prefix": "9437F7",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -332371,6 +332459,17 @@
         "line1": "5th Floor, Building 8 No 2388 Chenhang Road",
         "line2": "Shanghai 201114",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "A09CC2",
+    "organization": {
+      "name": "Nokia Solutions and Networks India Private Limited",
+      "address": {
+        "line1": "Plot 45, Fathima Nagarnemilicherry, Chrompet",
+        "line2": "Chennai Taminadu 600044",
+        "countryCode": "IN"
       }
     }
   },
@@ -366284,6 +366383,17 @@
     }
   },
   {
+    "prefix": "BCD849",
+    "organization": {
+      "name": "Tp-link Systems Inc",
+      "address": {
+        "line1": "10 Mauchly",
+        "line2": "Irvine CA 92618",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "BCD940",
     "organization": {
       "name": "ASR Ltd",
@@ -367456,6 +367566,17 @@
       "address": {
         "line1": "4700 NW Camas Meadows Drive",
         "line2": "Camas WA 98607",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "C02897",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
         "countryCode": "US"
       }
     }
@@ -368842,6 +368963,17 @@
       "address": {
         "line1": "1297 Beacon Street",
         "line2": "Brookline MA 02446",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "C07640",
+    "organization": {
+      "name": "Trivedi Advanced Technologies LLC",
+      "address": {
+        "line1": "107 Otis st",
+        "line2": "Northborough MA 01532",
         "countryCode": "US"
       }
     }
@@ -386304,6 +386436,17 @@
     }
   },
   {
+    "prefix": "D02791",
+    "organization": {
+      "name": "Tp-link Systems Inc",
+      "address": {
+        "line1": "10 Mauchly",
+        "line2": "Irvine CA 92618",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "D028BA",
     "organization": {
       "name": "Realme Chongqing Mobiletelecommunications Corp Ltd",
@@ -387279,6 +387422,17 @@
         "line1": "Kuniscak 28",
         "line2": "Zagreb 10000",
         "countryCode": "HR"
+      }
+    }
+  },
+  {
+    "prefix": "D05D01",
+    "organization": {
+      "name": "Tp-link Systems Inc",
+      "address": {
+        "line1": "10 Mauchly",
+        "line2": "Irvine CA 92618",
+        "countryCode": "US"
       }
     }
   },
@@ -393270,6 +393424,17 @@
         "line1": "NO.6, 6 Road, Sci. \u0026 Tech. Region of Hust, East Lake Development Zone",
         "line2": "Wuhan Hubei 430223",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "D49EEC",
+    "organization": {
+      "name": "Topsun (vietnam) Company Limited",
+      "address": {
+        "line1": "Lô CN 04, Khu Công Nghiệp Đồng Văn Iv, Phường Kim Thanh, Tỉnh Ninh Bình, Việt Nam",
+        "line2": "Ninh Bình Phường Kim Thanh 30100",
+        "countryCode": "VN"
       }
     }
   },
@@ -400862,6 +401027,17 @@
       "address": {
         "line1": "280 Hope Street",
         "line2": "Mountain View CA 94041",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "DC39FD",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville NC 27560",
         "countryCode": "US"
       }
     }
@@ -414940,6 +415116,17 @@
       "address": {
         "line1": "No.8, Litong Road, Liuyang Economic \u0026 Technical Development Zone, Changsha, Hunan, China",
         "line2": "Changsha Hunan 410329",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E85CC1",
+    "organization": {
+      "name": "Qingdao Intelligent\u0026precise Electronics Ltd",
+      "address": {
+        "line1": "No.218 Qianwangang Road",
+        "line2": "Qingdao Shangdong 266510",
         "countryCode": "CN"
       }
     }
@@ -434456,6 +434643,17 @@
         "line1": "4215 Riverboat Road",
         "line2": "Salt Lake City UT 84123",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "F8828A",
+    "organization": {
+      "name": "Qingdao Haier Technology Co.Ltd",
+      "address": {
+        "line1": "Building C01, Haier Information Park, No.1 Haier Road",
+        "line2": "Qingdao 266101",
+        "countryCode": "CN"
       }
     }
   },

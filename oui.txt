@@ -48692,6 +48692,24 @@ E0C0B4     (base 16)		Huawei Device Co., Ltd.
 				San Jose  CA  95002
 				US
 
+D0-27-91   (hex)		TP-Link Systems Inc.
+D02791     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+34-B1-26   (hex)		TP-Link Systems Inc.
+34B126     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+68-15-E4   (hex)		Cisco Systems, Inc
+6815E4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96424,6 +96442,18 @@ B8DB3D     (base 16)		SIMCom Wireless Solutions Limited
 				SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China
 				Shanghai    200335
 				CN
+
+0C-72-FB   (hex)		Cisco Systems, Inc
+0C72FB     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+4C-81-BE   (hex)		IEEE Registration Authority
+4C81BE     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144511,6 +144541,42 @@ B456F3     (base 16)		Westermo Network Technologies AB
 				Metallverksgatan 6
 				Vasteras    721 30
 				SE
+
+DC-39-FD   (hex)		Extreme Networks, Inc.
+DC39FD     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+64-CB-A0   (hex)		Extreme Networks, Inc.
+64CBA0     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+BC-D8-49   (hex)		TP-Link Systems Inc.
+BCD849     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+D4-9E-EC   (hex)		TOPSUN (VIETNAM) COMPANY LIMITED
+D49EEC     (base 16)		TOPSUN (VIETNAM) COMPANY LIMITED
+				Lô CN 04, khu công nghiệp Đồng Văn IV, Phường Kim Thanh, Tỉnh Ninh Bình, Việt Nam
+				NINH BÌNH  PHƯỜNG KIM THANH  30100
+				VN
+
+48-32-BF   (hex)		RINCOM TECH INDIA PRIVATE LIMITED
+4832BF     (base 16)		RINCOM TECH INDIA PRIVATE LIMITED
+				INTEGRATED TEXTILE PARK,ICHHAPORE,BHATPORE HAJIRA ROAD SURAT -394510
+				Surat  Gujarat  394510
+				IN
+
+A0-9C-C2   (hex)		Nokia Solutions and Networks India Private Limited
+A09CC2     (base 16)		Nokia Solutions and Networks India Private Limited
+				Plot 45, Fathima NagarNemilicherry,Chrompet
+				Chennai  Taminadu  600044
+				IN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193175,6 +193241,42 @@ E04123     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
+F8-82-8A   (hex)		Qingdao Haier Technology Co.Ltd
+F8828A     (base 16)		Qingdao Haier Technology Co.Ltd
+				Building C01,Haier Information Park,No.1 Haier Road
+				Qingdao    266101
+				CN
+
+C0-76-40   (hex)		Trivedi Advanced Technologies LLC
+C07640     (base 16)		Trivedi Advanced Technologies LLC
+				107 Otis st
+				Northborough  MA  01532
+				US
+
+94-37-6C   (hex)		IoTronix Technologies Sdn. Bhd.
+94376C     (base 16)		IoTronix Technologies Sdn. Bhd.
+				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
+				Bayan Lepas  Penang  11900
+				MY
+
+E8-5C-C1   (hex)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+E85CC1     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+				No.218 Qianwangang Road
+				Qingdao  Shangdong  266510
+				CN
+
+40-09-99   (hex)		Cisco Systems, Inc
+400999     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+C0-28-97   (hex)		Cisco Systems, Inc
+C02897     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -241291,3 +241393,9 @@ E0BF0B     (base 16)		Silicon Laboratories
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
 				CN
+
+D0-5D-01   (hex)		TP-Link Systems Inc.
+D05D01     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
