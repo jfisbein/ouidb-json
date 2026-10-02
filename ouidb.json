@@ -145643,6 +145643,17 @@
     }
   },
   {
+    "prefix": "04AAB1",
+    "organization": {
+      "name": "Growatt Technology Co., Limited",
+      "address": {
+        "line1": "No. 291 Yunchang Road, Smart Green Energy Industrial Park, Sanwei Community, Hangcheng Street, Bao\u0027an District",
+        "line2": "Shenzhen Guangdong 518108",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "04AAE1",
     "organization": {
       "name": "Beijing Microvision Technology Ltd",
@@ -193512,6 +193523,17 @@
         "line1": "Alt-moabit 95",
         "line2": "Berlin Berlin 10559",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "2C91EF",
+    "organization": {
+      "name": "Golmar Sistemas de Comunicacion SA",
+      "address": {
+        "line1": "Silici 13",
+        "line2": "Cornella de Llobregat Barcelona 08940",
+        "countryCode": "ES"
       }
     }
   },
@@ -245163,6 +245185,17 @@
         "line1": "31, Takahata, Maesawa",
         "line2": "Oshu Iwate 029-4204",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "587803",
+    "organization": {
+      "name": "Unitek A/S",
+      "address": {
+        "line1": "Vaevervej 5",
+        "line2": "Viborg 8800",
+        "countryCode": "DK"
       }
     }
   },
@@ -365580,6 +365613,17 @@
         "line1": "Unit B2, Linhay Business Park",
         "line2": "Ashburton Devon Tq13 7up",
         "countryCode": "GB"
+      }
+    }
+  },
+  {
+    "prefix": "BCA9D2",
+    "organization": {
+      "name": "Quectel Wireless Solutions Ltd",
+      "address": {
+        "line1": "7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District",
+        "line2": "Shanghai 200233",
+        "countryCode": "CN"
       }
     }
   },
