@@ -194854,6 +194854,17 @@
     }
   },
   {
+    "prefix": "2CD748",
+    "organization": {
+      "name": "Itron Inc",
+      "address": {
+        "line1": "2111 N Molter Rd",
+        "line2": "Liberty Lake WA 99019",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "2CD7FF",
     "organization": {
       "name": "Lancom Systems GmbH",
@@ -195751,6 +195762,17 @@
       "address": {
         "line1": "4f, Block A, Skyworth?building",
         "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3007EB",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
         "countryCode": "CN"
       }
     }
@@ -201404,6 +201426,17 @@
         "line1": "1600 Amphitheatre Parkway",
         "line2": "Mountain View CA 94043",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "343932",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
       }
     }
   },
@@ -246945,6 +246978,17 @@
     }
   },
   {
+    "prefix": "58DFA5",
+    "organization": {
+      "name": "Ruiyi(hk)telecommunication Technologies Limited",
+      "address": {
+        "line1": "Room 2008, 20f, Landmark North, 39 Lung Sumavenue Sheung Shui",
+        "line2": "Hongkong 223900",
+        "countryCode": "HK"
+      }
+    }
+  },
+  {
     "prefix": "58E02C",
     "organization": {
       "name": "Micro Technic A/S",
@@ -257669,6 +257713,17 @@
         "line1": "4855 Peachtree Industrial Blvd, Suite 200",
         "line2": "Norcross GA 30902",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "641BB7",
+    "organization": {
+      "name": "Itel Mobile Limited",
+      "address": {
+        "line1": "RM B3 \u0026 B4 Block B, KO Fai Industrial Building NO.7 KO Fai Road, Yau Tong, Kln, H.K",
+        "line2": "Hong Kong Kowloon 999077",
+        "countryCode": "HK"
       }
     }
   },
@@ -270310,6 +270365,17 @@
       "address": {
         "line1": "Tianliaobuilding F14?new Materials Industrial Park, Xueyuan Blvd, Nanshan",
         "line2": "Shenzhen Guangdong 518055",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "6CCF36",
+    "organization": {
+      "name": "Visionox Technology Inc",
+      "address": {
+        "line1": "Room1801, NO.658 Xiadong Street",
+        "line2": "Kunshan Jiangsu 215300",
         "countryCode": "CN"
       }
     }
@@ -302761,6 +302827,17 @@
         "line1": "660 3rd Street",
         "line2": "San Francisco CA 94107",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "886770",
+    "organization": {
+      "name": "Huizhou Desay SV Automotive Ltd",
+      "address": {
+        "line1": "Hechang 5th Road West, Zhongkai National Hi-tech Industrial Development Zone",
+        "line2": "Huizhou Guangdong 516006",
+        "countryCode": "CN"
       }
     }
   },
@@ -348704,6 +348781,17 @@
     }
   },
   {
+    "prefix": "B00BE2",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B00C9D",
     "organization": {
       "name": "Quectel Wireless Solutions Ltd",
@@ -379100,6 +379188,17 @@
         "line1": "12500 TI Boulevard, MS 8723",
         "line2": "Dallas TX 75243",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "C8A162",
+    "organization": {
+      "name": "DJI Baiwang Technology Ltd",
+      "address": {
+        "line1": "Room 101, Building 12, Baiwangxin Industrial Park, 1002 Songbai Road, Sunshine Community, Xili Street",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
       }
     }
   },
