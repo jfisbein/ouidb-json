@@ -212203,6 +212203,17 @@
     }
   },
   {
+    "prefix": "3C6314",
+    "organization": {
+      "name": "Gespant",
+      "address": {
+        "line1": "Cumhuriyet Mahallesi, Ince Sokak No25/1 Çayırova/ Kocaeli Winenerji Binası",
+        "line2": "Çayırova Kocaeli 41400",
+        "countryCode": "TR"
+      }
+    }
+  },
+  {
     "prefix": "3C64CF",
     "organization": {
       "name": "Tp-link Systems Inc",
@@ -219650,6 +219661,17 @@
       "address": {
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "40FDA5",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
         "countryCode": "US"
       }
     }
@@ -255388,6 +255410,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "60A614",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -370101,6 +370134,17 @@
     }
   },
   {
+    "prefix": "C0AB19",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "C0AB2B",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -398564,6 +398608,17 @@
         "line1": "Section 37, Zhongkai Hi-tech Development Zone",
         "line2": "Huizhou Guangdong 516006",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "D8AC2D",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },

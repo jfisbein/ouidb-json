@@ -48716,6 +48716,12 @@ E0C401     (base 16)		EM Microelectronic
 				San Jose   CA  94568
 				US
 
+D8-AC-2D   (hex)		Mellanox Technologies, Inc.
+D8AC2D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96483,6 +96489,12 @@ C8A162     (base 16)		DJI BAIWANG TECHNOLOGY CO LTD
 2CD748     (base 16)		Itron Inc
 				2111 N Molter Rd
 				Liberty Lake  WA  99019
+				US
+
+C0-AB-19   (hex)		Mellanox Technologies, Inc.
+C0AB19     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -144572,23 +144584,11 @@ B456F3     (base 16)		Westermo Network Technologies AB
 				Vasteras    721 30
 				SE
 
-DC-39-FD   (hex)		Extreme Networks, Inc.
-DC39FD     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-64-CB-A0   (hex)		Extreme Networks, Inc.
-64CBA0     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville  NC  27560
-				US
-
-BC-D8-49   (hex)		TP-Link Systems Inc.
-BCD849     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
+BC-A9-D2   (hex)		Quectel Wireless Solutions Co.,Ltd.
+BCA9D2     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
 
 D4-9E-EC   (hex)		TOPSUN (VIETNAM) COMPANY LIMITED
 D49EEC     (base 16)		TOPSUN (VIETNAM) COMPANY LIMITED
@@ -144602,24 +144602,6 @@ D49EEC     (base 16)		TOPSUN (VIETNAM) COMPANY LIMITED
 				Surat  Gujarat  394510
 				IN
 
-A0-9C-C2   (hex)		Nokia Solutions and Networks India Private Limited
-A09CC2     (base 16)		Nokia Solutions and Networks India Private Limited
-				Plot 45, Fathima NagarNemilicherry,Chrompet
-				Chennai  Taminadu  600044
-				IN
-
-58-78-03   (hex)		Unitek A/S
-587803     (base 16)		Unitek A/S
-				Vaevervej 5
-				Viborg    8800
-				DK
-
-BC-A9-D2   (hex)		Quectel Wireless Solutions Co.,Ltd.
-BCA9D2     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
-				Shanghai    200233
-				CN
-
 B0-0B-E2   (hex)		Xiaomi Communications Co Ltd
 B00BE2     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
@@ -144631,6 +144613,54 @@ B00BE2     (base 16)		Xiaomi Communications Co Ltd
 				Hechang 5th Road West, Zhongkai National Hi-tech Industrial Development Zone
 				Huizhou  Guangdong  516006
 				CN
+
+DC-39-FD   (hex)		Extreme Networks, Inc.
+DC39FD     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+64-CB-A0   (hex)		Extreme Networks, Inc.
+64CBA0     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+60-A6-14   (hex)		Mellanox Technologies, Inc.
+60A614     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+A0-9C-C2   (hex)		Nokia Solutions and Networks India Private Limited
+A09CC2     (base 16)		Nokia Solutions and Networks India Private Limited
+				Plot 45, Fathima NagarNemilicherry,Chrompet
+				Chennai  Taminadu  600044
+				IN
+
+40-FD-A5   (hex)		Mellanox Technologies, Inc.
+40FDA5     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+BC-D8-49   (hex)		TP-Link Systems Inc.
+BCD849     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
+
+58-78-03   (hex)		Unitek A/S
+587803     (base 16)		Unitek A/S
+				Vaevervej 5
+				Viborg    8800
+				DK
+
+3C-63-14   (hex)		Gespant
+3C6314     (base 16)		Gespant
+				Cumhuriyet Mahallesi, Ince sokak No25/1 Çayırova/ Kocaeli  Winenerji binası
+				Çayırova  Kocaeli  41400
+				TR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -241454,18 +241484,6 @@ E0BF0B     (base 16)		Silicon Laboratories
 				Stockholm    SE-164 80
 				SE
 
-80-84-26   (hex)		Huawei Device Co., Ltd.
-808426     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
-D0-5D-01   (hex)		TP-Link Systems Inc.
-D05D01     (base 16)		TP-Link Systems Inc.
-				10 Mauchly
-				 Irvine  CA  92618
-				US
-
 04-AA-B1   (hex)		Growatt Technology Co.,Limited.
 04AAB1     (base 16)		Growatt Technology Co.,Limited.
 				No. 291 Yunchang Road, Smart Green Energy Industrial Park, Sanwei Community, Hangcheng Street, Bao'an District
@@ -241477,3 +241495,15 @@ D05D01     (base 16)		TP-Link Systems Inc.
 				Silici 13
 				Cornella de Llobregat  Barcelona  08940
 				ES
+
+80-84-26   (hex)		Huawei Device Co., Ltd.
+808426     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+D0-5D-01   (hex)		TP-Link Systems Inc.
+D05D01     (base 16)		TP-Link Systems Inc.
+				10 Mauchly
+				 Irvine  CA  92618
+				US
