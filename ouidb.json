@@ -125232,6 +125232,17 @@
     }
   },
   {
+    "prefix": "008A8F",
+    "organization": {
+      "name": "Siemens Power Automation Ltd",
+      "address": {
+        "line1": "Building E1, Jiyin Industrial Park, 2999 Jiyin Avenue",
+        "line2": "Jiangning District Nanjing 211100",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "008A96",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -152963,6 +152974,17 @@
         "line1": "6f, Takei Bldg. 2-19-6, Taito",
         "line2": "Taito-ku Tokyo 110-0016",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "08E491",
+    "organization": {
+      "name": "Shenzhen Jingxun Technology Ltd",
+      "address": {
+        "line1": "3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District",
+        "line2": "Shenzhen 518071",
+        "countryCode": "CN"
       }
     }
   },
@@ -191997,6 +192019,17 @@
       "address": {
         "line1": "Ingdao High-tech Park Haier Road 1",
         "line2": "Qingdao Shandong 266101",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "2C37FB",
+    "organization": {
+      "name": "Nanjing Qinheng Microelectronics Ltd",
+      "address": {
+        "line1": "No.18, Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210012",
         "countryCode": "CN"
       }
     }
@@ -303886,6 +303919,17 @@
     }
   },
   {
+    "prefix": "889E9A",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "889F6F",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -346486,6 +346530,17 @@
     }
   },
   {
+    "prefix": "AC8E63",
+    "organization": {
+      "name": "China Dragon Technology Limited",
+      "address": {
+        "line1": "B4 Building, No.3 First Industrial Zone, Nanpu Road, Lao Community, Xinqian Street, Baoan District, Shenzhen, City",
+        "line2": "Shenzhen 518100",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "AC8EBD",
     "organization": {
       "name": "Microsoft Corporation",
@@ -381824,6 +381879,17 @@
         "line1": "9466 Meridian Way",
         "line2": "West Chester OH 45069",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "CC268F",
+    "organization": {
+      "name": "Oraimo Technology Limited",
+      "address": {
+        "line1": "Rms 05-15，13A/F South Tower World Finance Ctr Harbour City 17 Canton RD Tst Kln Hong Kong",
+        "line2": "Hong Kong Hong Kong 999077",
+        "countryCode": "HK"
       }
     }
   },
