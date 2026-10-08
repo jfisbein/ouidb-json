@@ -121933,6 +121933,17 @@
     }
   },
   {
+    "prefix": "0071EA",
+    "organization": {
+      "name": "Qisda Corporation",
+      "address": {
+        "line1": "No. 157, Shanying Rd., Gueishan Dist., Taoyuan City 33341, Taiwan",
+        "line2": "Taoyuan 33341",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "007204",
     "organization": {
       "name": "Samsung Electronics Co., Ltd. Artik",
@@ -127798,9 +127809,10 @@
   {
     "prefix": "0090DD",
     "organization": {
-      "name": "Miharu Communications Inc",
+      "name": "Furukawa Miharu Solutions Corporation",
       "address": {
-        "line2": "Kanagawa",
+        "line1": "1285 Iwase, Kamakura-city",
+        "line2": "Kanagawa 247-8538",
         "countryCode": "JP"
       }
     }
@@ -153429,6 +153441,17 @@
     }
   },
   {
+    "prefix": "08F78C",
+    "organization": {
+      "name": "Nintendo Ltd",
+      "address": {
+        "line1": "11-1 Hokotate-cho Kamitoba, Minami-ku",
+        "line2": "Kyoto Kyoto 601-8501",
+        "countryCode": "JP"
+      }
+    }
+  },
+  {
     "prefix": "08F7E9",
     "organization": {
       "name": "Hrcp Research and Development Partnership",
@@ -154492,6 +154515,17 @@
         "line1": "Building 17, Nangang Industrial Park, Tangtou 3nd Industrial Estate, Shiyan Baoan District",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "0C37F7",
+    "organization": {
+      "name": "HP Inc",
+      "address": {
+        "line1": "10300 Energy Dr",
+        "line2": "Spring TX 77389",
+        "countryCode": "US"
       }
     }
   },
@@ -175174,6 +175208,17 @@
         "line1": "Block 01 23-24/F Tat Ping Industrial Centre 57 Ting Kok Road Tai Pont",
         "line2": "Dong Guan Guang Zhou 52300",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "1C8F0C",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
       }
     }
   },
@@ -280694,6 +280739,17 @@
     }
   },
   {
+    "prefix": "74E517",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "74E537",
     "organization": {
       "name": "Radspin",
@@ -318899,6 +318955,17 @@
         "line1": "Rainbow Bldg., North, Hi-tech Industrial Park",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "94BA9A",
+    "organization": {
+      "name": "Flextronics Technologies Mexico",
+      "address": {
+        "line1": "Carretera Base Aerea 5850 Int 13. Colonia la Mora",
+        "line2": "Zapopan Jalisco 45136",
+        "countryCode": "MX"
       }
     }
   },
@@ -383027,6 +383094,17 @@
     }
   },
   {
+    "prefix": "CC5EFF",
+    "organization": {
+      "name": "Nokia Solutions and Network India Private Limited",
+      "address": {
+        "line1": "Plot 45, Fathima Nagar Nemilicherry, Chrompetchennai, Taminadu 600044in",
+        "line2": "Chennai Tamilnadu 600044",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "CC5FBF",
     "organization": {
       "name": "Topwise 3G Communication Ltd",
@@ -384211,6 +384289,17 @@
         "line1": "Bertel Jungin Aukio 9",
         "line2": "Espoo Espoo 02600",
         "countryCode": "FI"
+      }
+    }
+  },
+  {
+    "prefix": "CC9EEB",
+    "organization": {
+      "name": "Elentec",
+      "address": {
+        "line1": "64-3, Dongtangiheung-ro",
+        "line2": "Hwaseong-si Gyeonggi-do 18487",
+        "countryCode": "KR"
       }
     }
   },
@@ -385816,6 +385905,17 @@
         "line1": "Pob 3059",
         "line2": "Hod Hasharon 45130",
         "countryCode": "IL"
+      }
+    }
+  },
+  {
+    "prefix": "CCF722",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },
