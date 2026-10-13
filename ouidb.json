@@ -85648,8 +85648,8 @@
     "organization": {
       "name": "Atlas Link Inc",
       "address": {
-        "line1": "#3f Hanwha Techwin R\u0026d BLDG. 4-5, Yanghyeon-ro 405 Beon-gil",
-        "line2": "Jungwon-gu, Seongnam-si Gyeonggi-do 13438",
+        "line1": "#11f, 31, Hwangsaeul-ro 205beon-gil",
+        "line2": "Seongnam-si Gyeonggi-do 13595",
         "countryCode": "KR"
       }
     }
@@ -112349,6 +112349,17 @@
       "address": {
         "line1": "1020 Owen Loop South",
         "line2": "Eugene Oregon 97402",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "0035A9",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
         "countryCode": "US"
       }
     }
@@ -208937,6 +208948,17 @@
     }
   },
   {
+    "prefix": "38B9B2",
+    "organization": {
+      "name": "GD Midea Air-conditioning Equipment Ltd",
+      "address": {
+        "line1": "Midea Global Innovation Center, Beijiao Town, Shunde",
+        "line2": "Foshan Guangdong 528311",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "38BAB0",
     "organization": {
       "name": "Broadcom",
@@ -283793,6 +283815,17 @@
     }
   },
   {
+    "prefix": "7871BA",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "78725D",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -289378,11 +289411,11 @@
   {
     "prefix": "7C9763",
     "organization": {
-      "name": "Openmatics s.r.o",
+      "name": "ZF Friedrichshafen AG",
       "address": {
-        "line1": "Poděbradova 2842/1",
-        "line2": "Pilsen Tschechien 30100",
-        "countryCode": "CZ"
+        "line1": "ZF Aftermarket",
+        "line2": "Obere Weiden 12 Schweinfurt 97424",
+        "countryCode": "DE"
       }
     }
   },
@@ -309693,6 +309726,17 @@
         "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
         "line2": "Beijing Beijing 100085",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "8CD121",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
       }
     }
   },
@@ -412915,6 +412959,17 @@
         "line1": "10f, Block D, 5th Building, Shenzhen Software Industrial Base, Haitian 2nd Rd, Nanshan District",
         "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E4C218",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
       }
     }
   },
