@@ -96521,24 +96521,6 @@ C0AB19     (base 16)		Mellanox Technologies, Inc.
 				Jiangning District  NANJING  211100 
 				CN
 
-CC-F7-22   (hex)		IEEE Registration Authority
-CCF722     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-1C-8F-0C   (hex)		Microsoft Corporation
-1C8F0C     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND  WA  98052
-				US
-
-78-71-BA   (hex)		Silicon Laboratories
-7871BA     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
 00-35-A9   (hex)		Juniper Networks
 0035A9     (base 16)		Juniper Networks
 				1133 Innovation Way
@@ -96549,6 +96531,24 @@ CCF722     (base 16)		IEEE Registration Authority
 8CD121     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
+				US
+
+78-71-BA   (hex)		Silicon Laboratories
+7871BA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+1C-8F-0C   (hex)		Microsoft Corporation
+1C8F0C     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+CC-F7-22   (hex)		IEEE Registration Authority
+CCF722     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -193457,17 +193457,23 @@ F8828A     (base 16)		Qingdao Haier Technology Co.Ltd
 				Qingdao    266101
 				CN
 
+D0-43-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
+D04341     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou, Industrial Park
+				Mianyang  Sichuan  622650
+				CN
+
 AC-8E-63   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
 AC8E63     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
 				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
 				ShenZhen    518100
 				CN
 
-0C-37-F7   (hex)		HP Inc.
-0C37F7     (base 16)		HP Inc.
-				10300 Energy Dr
-				Spring  TX  77389
-				US
+08-F7-8C   (hex)		Nintendo Co.,Ltd
+08F78C     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
 
 74-E5-17   (hex)		Microsoft Corporation
 74E517     (base 16)		Microsoft Corporation
@@ -193475,11 +193481,11 @@ AC8E63     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
 				REDMOND  WA  98052
 				US
 
-08-F7-8C   (hex)		Nintendo Co.,Ltd
-08F78C     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
+0C-37-F7   (hex)		HP Inc.
+0C37F7     (base 16)		HP Inc.
+				10300 Energy Dr
+				Spring  TX  77389
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -241627,3 +241633,21 @@ CC9EEB     (base 16)		Elentec
 				1285 Iwase,Kamakura-CITY
 				KANAGAWA    247-8538
 				JP
+
+14-CC-E7   (hex)		Vizio, Inc
+14CCE7     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
+				US
+
+F4-3E-46   (hex)		Xenox IT & Kommunikations GmbH
+F43E46     (base 16)		Xenox IT & Kommunikations GmbH
+				Blumengasse 9
+				Lanzenkirchen    2821
+				AT
+
+10-12-01   (hex)		AMD
+101201     (base 16)		AMD
+				2485 Augustine Dr.
+				Santa Clara  CA  95054
+				US

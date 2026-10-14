@@ -158669,6 +158669,17 @@
     }
   },
   {
+    "prefix": "101201",
+    "organization": {
+      "name": "AMD",
+      "address": {
+        "line1": "2485 Augustine Dr.",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "101212",
     "organization": {
       "name": "Vivo International Corporation Pty Ltd",
@@ -167084,6 +167095,17 @@
         "line1": "Kamenshiki B. str., 4",
         "line2": "Moscow 115172",
         "countryCode": "RU"
+      }
+    }
+  },
+  {
+    "prefix": "14CCE7",
+    "organization": {
+      "name": "Vizio Inc",
+      "address": {
+        "line1": "39 Tesla",
+        "line2": "Irvine CA 92618",
+        "countryCode": "US"
       }
     }
   },
@@ -387218,6 +387240,17 @@
     }
   },
   {
+    "prefix": "D04341",
+    "organization": {
+      "name": "Sichuan Ai-link Technology Ltd",
+      "address": {
+        "line1": "Anzhou, Industrial Park",
+        "line2": "Mianyang Sichuan 622650",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "D04433",
     "organization": {
       "name": "Clourney Semiconductor",
@@ -428885,6 +428918,17 @@
         "line1": "Kaiserstrasse 100",
         "line2": "Herzogenrath Nrw 52134",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "F43E46",
+    "organization": {
+      "name": "Xenox IT \u0026 Kommunikations GmbH",
+      "address": {
+        "line1": "Blumengasse 9",
+        "line2": "Lanzenkirchen 2821",
+        "countryCode": "AT"
       }
     }
   },
