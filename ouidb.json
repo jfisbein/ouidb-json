@@ -174420,6 +174420,17 @@
     }
   },
   {
+    "prefix": "1C6465",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "1C6499",
     "organization": {
       "name": "Comtrend Corporation",
@@ -181102,6 +181113,17 @@
         "line1": "1578-5, Uegawa-chou",
         "line2": "Matsusaka Mie 5150041",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "20E5A4",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -214649,6 +214671,17 @@
         "line1": "141, Lane 351, Taiping Road, Sec.1, Tsao Tuen",
         "line2": "Nan-tou Taiwan 54261",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "3CE255",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -263597,6 +263630,17 @@
     }
   },
   {
+    "prefix": "68520E",
+    "organization": {
+      "name": "Sichuan Tianyi Comheart Telecom Ltd",
+      "address": {
+        "line1": "No.198, First Section, Snow Mountain Avenue, Jinyuan Town, Dayi County",
+        "line2": "Chengdu Sichuan 611330",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "685210",
     "organization": {
       "name": "MCS Logic",
@@ -270433,6 +270477,17 @@
         "line1": "3333 Scott Blvd",
         "line2": "Santa Clara CA 95054",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "6CC4AF",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -339046,6 +339101,17 @@
     }
   },
   {
+    "prefix": "A4E972",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
+      }
+    }
+  },
+  {
     "prefix": "A4E975",
     "organization": {
       "name": "Apple",
@@ -349779,6 +349845,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B03F70",
+    "organization": {
+      "name": "Sichuan Tianyi Comheart Telecom Ltd",
+      "address": {
+        "line1": "No.198, First Section, Snow Mountain Avenue, Jinyuan Town, Dayi County",
+        "line2": "Chengdu Sichuan 611330",
+        "countryCode": "CN"
       }
     }
   },
@@ -418352,6 +418429,17 @@
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "E8EDBD",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
