@@ -141637,11 +141637,11 @@
   {
     "prefix": "00E0EC",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -154785,11 +154785,11 @@
   {
     "prefix": "0C48C6",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -166450,6 +166450,17 @@
     }
   },
   {
+    "prefix": "14AB7E",
+    "organization": {
+      "name": "Ciena Corporation",
+      "address": {
+        "line1": "7035 Ridge Road",
+        "line2": "Hanover MD 21076",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "14ABC5",
     "organization": {
       "name": "Intel Corporate",
@@ -176290,6 +176301,17 @@
     }
   },
   {
+    "prefix": "1CCCCD",
+    "organization": {
+      "name": "Tecno Mobile Limited",
+      "address": {
+        "line1": "Rooms 05-15, 13A/F., South Tower, World Finance Centre, Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+        "line2": "Hong Kong Hong Kong 999077",
+        "countryCode": "HK"
+      }
+    }
+  },
+  {
     "prefix": "1CCCD6",
     "organization": {
       "name": "Xiaomi Communications Ltd",
@@ -178658,6 +178680,17 @@
         "line1": "3f, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou",
         "line2": "Hsinchu Hsinchu, Taiwan R.O.C. 30352",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "2051A5",
+    "organization": {
+      "name": "Netapp Inc",
+      "address": {
+        "line1": "3060 Olsen Dr.",
+        "line2": "San Jose CA 95128",
+        "countryCode": "US"
       }
     }
   },
@@ -184199,6 +184232,17 @@
         "line1": "1 Corporate Ave",
         "line2": "Rowville Victoria 3178",
         "countryCode": "AU"
+      }
+    }
+  },
+  {
+    "prefix": "249123",
+    "organization": {
+      "name": "SZ DJI Ronin Technology Ltd",
+      "address": {
+        "line1": "Skyworth Semiconductor Design Building18 Gaoxin South 4th Avenue, Nanshan District",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
       }
     }
   },
@@ -203809,11 +203853,11 @@
   {
     "prefix": "34AD61",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -216632,6 +216676,17 @@
     }
   },
   {
+    "prefix": "4053B3",
+    "organization": {
+      "name": "Sunitec Technology CO., Limited",
+      "address": {
+        "line1": "Floor 1-4, Building C, Weixlangtal Industrial Park, No, 725, Dasan Village、xingfu Community, Fucheng Street, Longhua District",
+        "line2": "Shenzhen 518110",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "405493",
     "organization": {
       "name": "zte Corporation",
@@ -225004,6 +225059,17 @@
       "address": {
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "481318",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
         "countryCode": "CN"
       }
     }
@@ -250798,11 +250864,11 @@
   {
     "prefix": "5CAAA2",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -261971,11 +262037,11 @@
   {
     "prefix": "64F64D",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -289211,6 +289277,17 @@
     }
   },
   {
+    "prefix": "7C86F3",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "7C8767",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -302812,11 +302889,11 @@
   {
     "prefix": "885A23",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -317630,11 +317707,11 @@
   {
     "prefix": "946442",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -323342,6 +323419,17 @@
         "line1": "No. 6, Innovation Road II",
         "line2": "Hsinchu 300",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "989891",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
       }
     }
   },
@@ -357180,7 +357268,7 @@
   {
     "prefix": "B4DB91",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
         "line1": "1900-5140 Yonge Street PO Box 42",
         "line2": "Toronto Ontario M2n 6l7",
@@ -397134,11 +397222,11 @@
   {
     "prefix": "D849BF",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -404297,11 +404385,11 @@
   {
     "prefix": "DCDA4D",
     "organization": {
-      "name": "Celestica Inc",
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
       "address": {
-        "line1": "1900-5140 Yonge Street PO Box 42",
-        "line2": "Toronto Ontario M2n 6l7",
-        "countryCode": "CA"
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -420248,6 +420336,17 @@
     }
   },
   {
+    "prefix": "EC502A",
+    "organization": {
+      "name": "Funshion Online Technologies Ltd",
+      "address": {
+        "line1": "2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing",
+        "line2": "Beijing 100029",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "EC50A6",
     "organization": {
       "name": "Sagemcom Broadband SAS",
@@ -432224,6 +432323,17 @@
         "line1": "3rd Fl, Bldg A3, No.1 Software Park Rd",
         "line2": "Zhuhai Guangdong 519085",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F4F032",
+    "organization": {
+      "name": "Ciena Corporation",
+      "address": {
+        "line1": "7035 Ridge Road",
+        "line2": "Hanover MD 21076",
+        "countryCode": "US"
       }
     }
   },

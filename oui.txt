@@ -2795,12 +2795,6 @@ C82ADD     (base 16)		Google, Inc.
 				Gumi  Gyeongbuk  730-350
 				KR
 
-B4-DB-91   (hex)		CELESTICA INC.
-B4DB91     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 C4-83-72   (hex)		IEEE Registration Authority
 C48372     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -48740,6 +48734,42 @@ E4C218     (base 16)		Silicon Laboratories
 				Seongnam-si  Gyeonggi-do  13595
 				KR
 
+F4-F0-32   (hex)		Ciena Corporation
+F4F032     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+14-AB-7E   (hex)		Ciena Corporation
+14AB7E     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+B4-DB-91   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+B4DB91     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				1900-5140 Yonge Street PO Box 42   
+				Toronto  Ontario  M2N 6L7
+				CA
+
+EC-50-2A   (hex)		Funshion Online Technologies Co.,Ltd
+EC502A     (base 16)		Funshion Online Technologies Co.,Ltd
+				2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing
+				Beijing     100029
+				CN
+
+24-91-23   (hex)		SZ DJI Ronin Technology Co., Ltd.
+249123     (base 16)		SZ DJI Ronin Technology Co., Ltd.
+				Skyworth Semiconductor Design Building18 Gaoxin South 4th Avenue, Nanshan District
+				shenzhen  Guangdong  518057
+				CN
+
+20-51-A5   (hex)		NetApp, Inc.
+2051A5     (base 16)		NetApp, Inc.
+				3060 Olsen Dr.
+				San Jose  CA  95128
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -52237,12 +52267,6 @@ D0989C     (base 16)		ConMet
 				5701 SE Columbia Way
 				Vancouver    WA  98661
 				US
-
-34-AD-61   (hex)		CELESTICA INC.
-34AD61     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
 
 2C-55-3C   (hex)		Vecima Networks Inc.
 2C553C     (base 16)		Vecima Networks Inc.
@@ -88397,12 +88421,6 @@ D401C3     (base 16)		Routerboard.com
 				Shenzhen  Guangdong  518126
 				CN
 
-DC-DA-4D   (hex)		CELESTICA INC.
-DCDA4D     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 50-5E-24   (hex)		zte corporation
 505E24     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -91730,12 +91748,6 @@ EC2F20     (base 16)		HYUNDAI WIA
 				Changwon-si  Gyeongsangnam-do  51533
 				KR
 
-88-5A-23   (hex)		CELESTICA INC.
-885A23     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 F8-ED-FC   (hex)		HP Inc.
 F8EDFC     (base 16)		HP Inc.
 				10300 Energy Dr
@@ -94748,12 +94760,6 @@ B064E0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-94-64-42   (hex)		CELESTICA INC.
-946442     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 50-85-7C   (hex)		eero inc.
 50857C     (base 16)		eero inc.
 				660 3rd Street 
@@ -96533,24 +96539,6 @@ CCF722     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-78-71-BA   (hex)		Silicon Laboratories
-7871BA     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-00-35-A9   (hex)		Juniper Networks
-0035A9     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
-
-8C-D1-21   (hex)		Juniper Networks
-8CD121     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
-
 20-E5-A4   (hex)		Espressif Systems (Singapore) Pte. Ltd
 20E5A4     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
@@ -96562,6 +96550,18 @@ CCF722     (base 16)		IEEE Registration Authority
 				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
 				Chengdu  Sichuan  611330
 				CN
+
+34-AD-61   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+34AD61     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+DC-DA-4D   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+DCDA4D     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
 
 E8-ED-BD   (hex)		Espressif Inc.
 E8EDBD     (base 16)		Espressif Inc.
@@ -96580,6 +96580,54 @@ A4E972     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+78-71-BA   (hex)		Silicon Laboratories
+7871BA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+8C-D1-21   (hex)		Juniper Networks
+8CD121     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+00-35-A9   (hex)		Juniper Networks
+0035A9     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+88-5A-23   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+885A23     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+94-64-42   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+946442     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+48-13-18   (hex)		zte corporation
+481318     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+40-53-B3   (hex)		SUNITEC TECHNOLOGY CO.,LIMITED
+4053B3     (base 16)		SUNITEC TECHNOLOGY CO.,LIMITED
+				Floor 1-4, building C, Weixlangtal industrial park, no, 725, Dasan Village、Xingfu community, Fucheng Street, Longhua district
+				Shenzhen    518110
+				CN
+
+1C-CC-CD   (hex)		TECNO MOBILE LIMITED
+1CCCCD     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -133400,12 +133448,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				FREMONT  CA  94538
 				US
 
-00-E0-EC   (hex)		CELESTICA INC.
-00E0EC     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 00-E0-7A   (hex)		MIKRODIDAKT AB
 00E07A     (base 16)		MIKRODIDAKT AB
 				Skiffervägen 48
@@ -144781,6 +144823,24 @@ CC5EFF     (base 16)		Nokia Solutions and Network India Private Limited
 				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
 				Singapore    138577
 				SG
+
+00-E0-EC   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+00E0EC     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+7C-86-F3   (hex)		zte corporation
+7C86F3     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+98-98-91   (hex)		zte corporation
+989891     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -187310,12 +187370,6 @@ D4E3C5     (base 16)		zte corporation
 				New York  NY  New York NY 10017
 				US
 
-D8-49-BF   (hex)		CELESTICA INC.
-D849BF     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 88-45-F0   (hex)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
 8845F0     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
 				No.168, Middle Road Of East Gate
@@ -190292,12 +190346,6 @@ A4B1E9     (base 16)		Vantiva Technologies Belgium
 				Edegem - Belgium    B-2650
 				BE
 
-64-F6-4D   (hex)		CELESTICA INC.
-64F64D     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 48-FC-7C   (hex)		Shenzhen Huidu Technology Co., Ltd.
 48FC7C     (base 16)		Shenzhen Huidu Technology Co., Ltd.
 				18F, No. 196 Tangtou Street, Shiyan Town, Baoan District, Shenzhen
@@ -192671,12 +192719,6 @@ F85333     (base 16)		Tashang Semiconductor(Shanghai) Co., Ltd.
 				Chicago  IL  60654
 				US
 
-5C-AA-A2   (hex)		CELESTICA INC.
-5CAAA2     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
-
 84-1E-1A   (hex)		Sanya Muyu Technology Co., Ltd
 841E1A     (base 16)		Sanya Muyu Technology Co., Ltd
 				SW707, 7th Floor, Building 2, Sanya Taiping Financial Industry Port, No. 198 Yingbin Road, Jiyang District
@@ -193522,6 +193564,24 @@ D04341     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou, Industrial Park
 				Mianyang  Sichuan  622650
 				CN
+
+D8-49-BF   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+D849BF     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+64-F6-4D   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+64F64D     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+5C-AA-A2   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+5CAAA2     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -201733,12 +201793,6 @@ B46E08     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
 				CN
-
-0C-48-C6   (hex)		CELESTICA INC.
-0C48C6     (base 16)		CELESTICA INC.
-				1900-5140 Yonge Street PO Box 42   
-				Toronto  Ontario  M2N 6L7
-				CA
 
 A4-29-85   (hex)		Sichuan AI-Link Technology Co., Ltd.
 A42985     (base 16)		Sichuan AI-Link Technology Co., Ltd.
@@ -241699,3 +241753,9 @@ F43E46     (base 16)		Xenox IT & Kommunikations GmbH
 				1285 Iwase,Kamakura-CITY
 				KANAGAWA    247-8538
 				JP
+
+0C-48-C6   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+0C48C6     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
