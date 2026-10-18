@@ -250884,6 +250884,17 @@
     }
   },
   {
+    "prefix": "5CAB22",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "5CAC3D",
     "organization": {
       "name": "Samsung Electronics Ltd",
