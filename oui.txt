@@ -48728,22 +48728,16 @@ E4C218     (base 16)		Silicon Laboratories
 				Taoyuan    33341
 				TW
 
-00-1E-B8   (hex)		ATLAS LINK INC.
-001EB8     (base 16)		ATLAS LINK INC.
-				 #11F, 31, Hwangsaeul-ro 205beon-gil,
-				Seongnam-si  Gyeonggi-do  13595
-				KR
+24-91-23   (hex)		SZ DJI Ronin Technology Co., Ltd.
+249123     (base 16)		SZ DJI Ronin Technology Co., Ltd.
+				Skyworth Semiconductor Design Building18 Gaoxin South 4th Avenue, Nanshan District
+				shenzhen  Guangdong  518057
+				CN
 
-F4-F0-32   (hex)		Ciena Corporation
-F4F032     (base 16)		Ciena Corporation
-				7035 Ridge Road
-				Hanover  MD  21076
-				US
-
-14-AB-7E   (hex)		Ciena Corporation
-14AB7E     (base 16)		Ciena Corporation
-				7035 Ridge Road
-				Hanover  MD  21076
+20-51-A5   (hex)		NetApp, Inc.
+2051A5     (base 16)		NetApp, Inc.
+				3060 Olsen Dr.
+				San Jose  CA  95128
 				US
 
 B4-DB-91   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
@@ -48758,17 +48752,23 @@ EC502A     (base 16)		Funshion Online Technologies Co.,Ltd
 				Beijing     100029
 				CN
 
-24-91-23   (hex)		SZ DJI Ronin Technology Co., Ltd.
-249123     (base 16)		SZ DJI Ronin Technology Co., Ltd.
-				Skyworth Semiconductor Design Building18 Gaoxin South 4th Avenue, Nanshan District
-				shenzhen  Guangdong  518057
-				CN
-
-20-51-A5   (hex)		NetApp, Inc.
-2051A5     (base 16)		NetApp, Inc.
-				3060 Olsen Dr.
-				San Jose  CA  95128
+F4-F0-32   (hex)		Ciena Corporation
+F4F032     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
 				US
+
+14-AB-7E   (hex)		Ciena Corporation
+14AB7E     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+00-1E-B8   (hex)		ATLAS LINK INC.
+001EB8     (base 16)		ATLAS LINK INC.
+				 #11F, 31, Hwangsaeul-ro 205beon-gil,
+				Seongnam-si  Gyeonggi-do  13595
+				KR
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -96628,6 +96628,18 @@ A4E972     (base 16)		Espressif Inc.
 				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
 				Hong Kong  Hong Kong  999077
 				HK
+
+BC-14-09   (hex)		Arista Networks
+BC1409     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+3C-6F-75   (hex)		Juniper Networks
+3C6F75     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -193553,24 +193565,6 @@ AC8E63     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
 				Spring  TX  77389
 				US
 
-08-F7-8C   (hex)		Nintendo Co.,Ltd
-08F78C     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
-
-D0-43-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
-D04341     (base 16)		Sichuan AI-Link Technology Co., Ltd.
-				Anzhou, Industrial Park
-				Mianyang  Sichuan  622650
-				CN
-
-D8-49-BF   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
-D849BF     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
-				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
-				Kulim    09090
-				MY
-
 64-F6-4D   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 64F64D     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
@@ -193583,10 +193577,46 @@ D849BF     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 				Kulim    09090
 				MY
 
+D0-43-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
+D04341     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou, Industrial Park
+				Mianyang  Sichuan  622650
+				CN
+
+90-DB-77   (hex)		Arista Networks
+90DB77     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+94-AA-7E   (hex)		Inveya Limited
+94AA7E     (base 16)		Inveya Limited
+				7 Airbourne Road
+				Rosedale  Auckland  0632
+				NZ
+
+D8-49-BF   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+D849BF     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+08-F7-8C   (hex)		Nintendo Co.,Ltd
+08F78C     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
 5C-AB-22   (hex)		IEEE Registration Authority
 5CAB22     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+A8-75-6A   (hex)		Juniper Networks
+A8756A     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority

@@ -212589,6 +212589,17 @@
     }
   },
   {
+    "prefix": "3C6F75",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "3C6F9B",
     "organization": {
       "name": "zte Corporation",
@@ -315065,6 +315076,17 @@
     }
   },
   {
+    "prefix": "90DB77",
+    "organization": {
+      "name": "Arista Networks",
+      "address": {
+        "line1": "5453 Great America Parkway",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "90DD5D",
     "organization": {
       "name": "Apple",
@@ -318834,6 +318856,17 @@
         "line1": "No.5 Dongxin Road",
         "line2": "Wuhan Hubei 430074",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "94AA7E",
+    "organization": {
+      "name": "Inveya Limited",
+      "address": {
+        "line1": "7 Airbourne Road",
+        "line2": "Rosedale Auckland 0632",
+        "countryCode": "NZ"
       }
     }
   },
@@ -341649,6 +341682,17 @@
     }
   },
   {
+    "prefix": "A8756A",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A875D6",
     "organization": {
       "name": "Freetek International Ltd",
@@ -363139,6 +363183,17 @@
         "line1": "No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C",
         "line2": "Hsin-chu Taiwan 300",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "BC1409",
+    "organization": {
+      "name": "Arista Networks",
+      "address": {
+        "line1": "5453 Great America Parkway",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
       }
     }
   },
