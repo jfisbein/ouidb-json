@@ -149911,6 +149911,17 @@
     }
   },
   {
+    "prefix": "08299E",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "082AD0",
     "organization": {
       "name": "SRD Innovations Inc",
@@ -191508,6 +191519,17 @@
     }
   },
   {
+    "prefix": "2C1719",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "2C17E0",
     "organization": {
       "name": "Systemes ET Technologies Identification (stid)",
@@ -217353,6 +217375,17 @@
       "address": {
         "line1": "466 Changhe Road, Binjiang District",
         "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "407803",
+    "organization": {
+      "name": "Guangzhou Shiyuan Electronic Technology Company Limited",
+      "address": {
+        "line1": "No.6, 4th Yunpu Road, Yunpu Industry District",
+        "line2": "Guangzhou Guangdong 510530",
         "countryCode": "CN"
       }
     }
@@ -258939,6 +258972,17 @@
     }
   },
   {
+    "prefix": "645647",
+    "organization": {
+      "name": "Nokia",
+      "address": {
+        "line1": "600 March Road",
+        "line2": "Kanata Ontario K2k 2e6",
+        "countryCode": "CA"
+      }
+    }
+  },
+  {
     "prefix": "6456B5",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -274502,6 +274546,17 @@
     }
   },
   {
+    "prefix": "709620",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "709684",
     "organization": {
       "name": "Apple",
@@ -279184,6 +279239,17 @@
         "line1": "No. 6, Lane 229, Sec. 3, Chang-xing Rd.",
         "line2": "Taoyuan 33852",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "748E9C",
+    "organization": {
+      "name": "Shenzhen Yingchen Technology Ltd",
+      "address": {
+        "line1": "Room 201a-h2, Building 1, Yujingwan, N16 District, Haiyu Community, Xin\u0027an Street, Bao\u0027an District, Shenzhen",
+        "line2": "Shenzhen 518000",
+        "countryCode": "CN"
       }
     }
   },
@@ -363264,6 +363330,17 @@
     }
   },
   {
+    "prefix": "BC1656",
+    "organization": {
+      "name": "Guangzhou Shiyuan Electronic Technology Company Limited",
+      "address": {
+        "line1": "No.6, 4th Yunpu Road, Yunpu Industry District",
+        "line2": "Guangzhou Guangdong 510530",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "BC1665",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -424317,6 +424394,17 @@
         "line1": "18-20 Orion Road Lane Cove West",
         "line2": "Lane Cove Nsw 2066",
         "countryCode": "AU"
+      }
+    }
+  },
+  {
+    "prefix": "F02E7A",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
+        "countryCode": "US"
       }
     }
   },
