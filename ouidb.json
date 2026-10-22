@@ -163760,6 +163760,17 @@
     }
   },
   {
+    "prefix": "14168C",
+    "organization": {
+      "name": "Iotronix Technologies Sdn. Bhd",
+      "address": {
+        "line1": "No. 85a, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.",
+        "line2": "Bayan Lepas Penang 11900",
+        "countryCode": "MY"
+      }
+    }
+  },
+  {
     "prefix": "14169D",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -204441,6 +204452,17 @@
         "line1": "445 Hoes Lane",
         "line2": "Piscataway NJ 08554",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "34C934",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -246532,6 +246554,17 @@
     }
   },
   {
+    "prefix": "58B145",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "58B18F",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -267867,6 +267900,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "6C2FA0",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -320356,6 +320400,17 @@
     }
   },
   {
+    "prefix": "94EA36",
+    "organization": {
+      "name": "Telink Micro LLC",
+      "address": {
+        "line1": "2975 Scott Blvd #120",
+        "line2": "Santa Clara CA 95054",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "94EAE7",
     "organization": {
       "name": "Lynq Technologies",
@@ -344970,6 +345025,17 @@
     }
   },
   {
+    "prefix": "AC2FE5",
+    "organization": {
+      "name": "Canon Inc",
+      "address": {
+        "line1": "30-2 Shimomaruko 3-chome",
+        "line2": "Ohta-ku Tokyo 146-8501",
+        "countryCode": "JP"
+      }
+    }
+  },
+  {
     "prefix": "AC3019",
     "organization": {
       "name": "Shenzhen Hailingwei Electronics Ltd",
@@ -358160,6 +358226,17 @@
         "line1": "Via Venaria 28-30",
         "line2": "Alpignano Torino 10091",
         "countryCode": "IT"
+      }
+    }
+  },
+  {
+    "prefix": "B4FEB5",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -386004,6 +386081,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "CCE732",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
@@ -432961,6 +433049,17 @@
         "line1": "Garden East Roadon The 15th",
         "line2": "Haidian District Beijing 100191",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F80C4E",
+    "organization": {
+      "name": "Espressif Inc",
+      "address": {
+        "line1": "Vistra Corporate Services Centre, Wickhams Cay II",
+        "line2": "Road Town Tortola Vg1110",
+        "countryCode": "VG"
       }
     }
   },
