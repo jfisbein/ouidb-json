@@ -202894,6 +202894,17 @@
     }
   },
   {
+    "prefix": "347D53",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "347DE4",
     "organization": {
       "name": "Shenzhen Bilian Electronic CO.，LTD",
@@ -211551,6 +211562,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3C310A",
+    "organization": {
+      "name": "Metro Electronics",
+      "address": {
+        "line1": "D-74, Sector 63",
+        "line2": "Noida Uttar Pradesh 201301",
+        "countryCode": "IN"
       }
     }
   },
@@ -245018,6 +245040,17 @@
     }
   },
   {
+    "prefix": "585016",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "585076",
     "organization": {
       "name": "Linear Equipamentos Eletronicos SA",
@@ -245179,6 +245212,17 @@
         "line1": "Jyllandsgade 28",
         "line2": "Sønderborg Dk-6400",
         "countryCode": "DK"
+      }
+    }
+  },
+  {
+    "prefix": "5857F0",
+    "organization": {
+      "name": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+      "address": {
+        "line1": "Plot 1, No 13, Jalan Hi-tech 9/1 Zon Industri Fasa 3a, Kulim Hi-tech Park Kulim",
+        "line2": "Kulim 09090",
+        "countryCode": "MY"
       }
     }
   },
@@ -270796,6 +270840,17 @@
         "line1": "Bertel Jungin Aukio 9",
         "line2": "Espoo 02600",
         "countryCode": "FI"
+      }
+    }
+  },
+  {
+    "prefix": "6CC51F",
+    "organization": {
+      "name": "WNC Corporation",
+      "address": {
+        "line1": "No.20, Park Avenue Ii, Hsinchu Science Park",
+        "line2": "Hsin-chu R.O.C. 308",
+        "countryCode": "TW"
       }
     }
   },
@@ -340131,6 +340186,17 @@
     }
   },
   {
+    "prefix": "A80FCA",
+    "organization": {
+      "name": "Juniper Networks",
+      "address": {
+        "line1": "1133 Innovation Way",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A81087",
     "organization": {
       "name": "Texas Instruments",
@@ -390111,6 +390177,17 @@
     }
   },
   {
+    "prefix": "D0C216",
+    "organization": {
+      "name": "Decawave Ltd",
+      "address": {
+        "line1": "Adelaide Chambers, Peter Street",
+        "line2": "Dublin Leinster D08t6ya",
+        "countryCode": "IE"
+      }
+    }
+  },
+  {
     "prefix": "D0C24E",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -420596,6 +420673,17 @@
         "line1": "623 Gangnamda-ro",
         "line2": "Seocho-gu Seoul 06524",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "EC43C4",
+    "organization": {
+      "name": "Mitrastar Technology Corp",
+      "address": {
+        "line1": "No. 6, Innovation Road II",
+        "line2": "Hsinchu 300",
+        "countryCode": "TW"
       }
     }
   },
