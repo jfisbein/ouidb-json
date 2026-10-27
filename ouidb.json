@@ -189672,6 +189672,17 @@
     }
   },
   {
+    "prefix": "28BC82",
+    "organization": {
+      "name": "Amit Automation",
+      "address": {
+        "line1": "Vídeňská 186/118",
+        "line2": "Brno 61900",
+        "countryCode": "CZ"
+      }
+    }
+  },
+  {
     "prefix": "28BD89",
     "organization": {
       "name": "Google Inc",
@@ -191426,6 +191437,17 @@
       "address": {
         "line1": "80 West Tasman Drive",
         "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "2C0C88",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
         "countryCode": "US"
       }
     }
@@ -215918,6 +215940,17 @@
     }
   },
   {
+    "prefix": "402364",
+    "organization": {
+      "name": "Serage",
+      "address": {
+        "line1": "35-37 Whitton Dene Road",
+        "line2": "Hounslow London Tw32jn",
+        "countryCode": "GB"
+      }
+    }
+  },
+  {
     "prefix": "4024B2",
     "organization": {
       "name": "Sichuan Ai-link Technology Ltd",
@@ -230922,6 +230955,17 @@
         "line1": "NO.18 Haibin Road",
         "line2": "Dong Guan Guang Dong 523860",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "4C5149",
+    "organization": {
+      "name": "GSD Viet NAM Technology Company Limited",
+      "address": {
+        "line1": "Part OF Factory 2, Lot C2.10, D1 Street, Dong AN 2 Industrial Park, Binhduong Ward",
+        "line2": "HO Chi Minh City HO Chi Minh 820000",
+        "countryCode": "VN"
       }
     }
   },
@@ -264000,6 +264044,17 @@
         "line1": "#315, Woolim Lions Valley 2nd, Gasan-dong, Geumcheon-gu",
         "line2": "Seoul 08591",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "685370",
+    "organization": {
+      "name": "Chipsea Technologies (shenzhen) Corp",
+      "address": {
+        "line1": "3 / F, Block A, Building 2, Shenzhen Bay Innovation Technology Center, No.3156 Keyuan South Road, Yuehai Street, Nanshan District, Shenzhen",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
       }
     }
   },
@@ -318431,6 +318486,17 @@
     }
   },
   {
+    "prefix": "948580",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "9486CD",
     "organization": {
       "name": "Seoul Electronics\u0026telecom",
@@ -362901,6 +362967,17 @@
     }
   },
   {
+    "prefix": "B8F453",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "B8F4A4",
     "organization": {
       "name": "Google Inc",
@@ -367352,6 +367429,17 @@
     }
   },
   {
+    "prefix": "BCD810",
+    "organization": {
+      "name": "Amazon Technologies Inc",
+      "address": {
+        "line1": "P.O Box 8102",
+        "line2": "Reno NV 89507",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "BCD849",
     "organization": {
       "name": "Tp-link Systems Inc",
@@ -370032,6 +370120,17 @@
         "line1": "Xdk Building, NO.1 Industrial Area, Bantian, Longgang District",
         "line2": "Shenzhen Guangdong 518129",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "C08009",
+    "organization": {
+      "name": "Vantiva USA LLC",
+      "address": {
+        "line1": "4855 Peachtree Industrial Blvd, Suite 200",
+        "line2": "Norcross GA 30902",
+        "countryCode": "US"
       }
     }
   },
@@ -417362,6 +417461,17 @@
         "line1": "2-9, Suehiro-cho",
         "line2": "Ome Tokyo 1988710",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "E89DEA",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
       }
     }
   },
