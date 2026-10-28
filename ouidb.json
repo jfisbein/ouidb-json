@@ -158350,6 +158350,17 @@
     }
   },
   {
+    "prefix": "10018C",
+    "organization": {
+      "name": "Beijing Xiaomi Mobile Software Ltd",
+      "address": {
+        "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
+        "line2": "Beijing Beijing 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "1001CA",
     "organization": {
       "name": "Ashley Butterworth",
@@ -165185,6 +165196,17 @@
         "line1": "Europaplatz 2",
         "line2": "Berlin 10557",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "145CDA",
+    "organization": {
+      "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
+      "address": {
+        "line1": "NO.18 Haibin Road",
+        "line2": "Dong Guan Guang Dong 523860",
+        "countryCode": "CN"
       }
     }
   },
@@ -177012,6 +177034,17 @@
     }
   },
   {
+    "prefix": "1CFC4E",
+    "organization": {
+      "name": "Efort Intelligent Robot Co., Ltd. Copyright",
+      "address": {
+        "line1": "No.96 East Wanchun Road, China(anhui) Pilot Free Trade Zone Wuhu Area, Wuhu, Anhui Province, China",
+        "line2": "Wuhu Anhui 241000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "1CFCBB",
     "organization": {
       "name": "Realfiction ApS",
@@ -179292,6 +179325,17 @@
         "line1": "75 E. Santa Clara St. Ste 600",
         "line2": "San Jose CA 95113",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "206D9A",
+    "organization": {
+      "name": "Guangdong Oppo Mobile Telecommunications CORP. Ltd",
+      "address": {
+        "line1": "NO.18 Haibin Road",
+        "line2": "Dong Guan Guang Dong 523860",
+        "countryCode": "CN"
       }
     }
   },
@@ -182338,6 +182382,17 @@
     }
   },
   {
+    "prefix": "241FBE",
+    "organization": {
+      "name": "Beijing Xiaomi Mobile Software Ltd",
+      "address": {
+        "line1": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District",
+        "line2": "Beijing Beijing 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "2420C7",
     "organization": {
       "name": "Sagemcom Broadband SAS",
@@ -183320,6 +183375,17 @@
         "line1": "P.O. Box 1016",
         "line2": "Niwot CO 80544-1016",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "245D5B",
+    "organization": {
+      "name": "Bouffalo Lab (nanjing) Ltd",
+      "address": {
+        "line1": "5f, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China",
+        "line2": "Nanjing Jiangsu 211800",
+        "countryCode": "CN"
       }
     }
   },
@@ -240274,6 +240340,17 @@
     }
   },
   {
+    "prefix": "542B88",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "542B8D",
     "organization": {
       "name": "Apple",
@@ -244684,6 +244761,17 @@
         "line1": "600 March Road",
         "line2": "Kanata Ontario K2k 2e6",
         "countryCode": "CA"
+      }
+    }
+  },
+  {
+    "prefix": "5830AC",
+    "organization": {
+      "name": "Quectel Wireless Solutions Ltd",
+      "address": {
+        "line1": "7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District",
+        "line2": "Shanghai 200233",
+        "countryCode": "CN"
       }
     }
   },
@@ -275668,6 +275756,17 @@
     }
   },
   {
+    "prefix": "70C3BE",
+    "organization": {
+      "name": "Ingram Micro Services",
+      "address": {
+        "line1": "100 Chemin DE Baillot",
+        "line2": "Montauban 82000",
+        "countryCode": "FR"
+      }
+    }
+  },
+  {
     "prefix": "70C59C",
     "organization": {
       "name": "Silicon Laboratories",
@@ -280394,6 +280493,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "74BCBC",
+    "organization": {
+      "name": "Photonic Technologies(shanghai) Ltd",
+      "address": {
+        "line1": "Room 701a-701b, Building B, No.112, Liangxiu Road, China (shanghai) Pilot Free Trade Zone",
+        "line2": "Shanghai 201203",
+        "countryCode": "CN"
       }
     }
   },
@@ -299573,6 +299683,17 @@
         "line1": "12500 TI Blvd",
         "line2": "Dallas TX 75243",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "849A10",
+    "organization": {
+      "name": "Kingtype Technologies corp. Ltd",
+      "address": {
+        "line1": "No.9, 3rd Wuke Road, Wuhou District",
+        "line2": "Chengdu Sichuan 610045",
+        "countryCode": "CN"
       }
     }
   },
@@ -332244,6 +332365,17 @@
         "line1": "207, 2nd FL., Wonhyo Bldg., 1365-22",
         "line2": "Seoul 137-863",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "A06025",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -414730,6 +414862,17 @@
     }
   },
   {
+    "prefix": "E4FD9D",
+    "organization": {
+      "name": "Shenzhen Skyworth Display Technologies Ltd",
+      "address": {
+        "line1": "1st Floor, Experimental Factory, Skyworth Technology Industrial Park, Tangtou Community, Shiyan Street, Bao\u0027an District",
+        "line2": "Shenzhen Guangdong 518108",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "E4FDA1",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -442960,6 +443103,17 @@
         "line1": "No.5 Dongxin Road",
         "line2": "Wuhan City Hubei Province 430074",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "FCF684",
+    "organization": {
+      "name": "Matx",
+      "address": {
+        "line1": "490 East Middlefield Road",
+        "line2": "Mountain View CA 94043",
+        "countryCode": "US"
       }
     }
   },
