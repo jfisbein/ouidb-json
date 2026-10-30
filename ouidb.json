@@ -304272,6 +304272,17 @@
     }
   },
   {
+    "prefix": "888AF5",
+    "organization": {
+      "name": "Intel Corporate",
+      "address": {
+        "line1": "Lot 8, Jalan Hi-tech 2/3",
+        "line2": "Kulim Kedah 09000",
+        "countryCode": "MY"
+      }
+    }
+  },
+  {
     "prefix": "888B5D",
     "organization": {
       "name": "Storage Appliance Corporation",
@@ -329153,6 +329164,17 @@
         "line1": "Building D21, No.1, East Zone 1st Road",
         "line2": "Chongqing Chongqing 401332",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "9CADE0",
+    "organization": {
+      "name": "Intel Corporate",
+      "address": {
+        "line1": "Lot 8, Jalan Hi-tech 2/3",
+        "line2": "Kulim Kedah 09000",
+        "countryCode": "MY"
       }
     }
   },
@@ -391577,6 +391599,17 @@
         "line1": "1133 Innovation Way",
         "line2": "Sunnyvale CA 94089",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D40511",
+    "organization": {
+      "name": "TCL King Electrical Appliances(Huizhou)Co. Ltd",
+      "address": {
+        "line1": "B Area, 10th Floor, Tcl Multimedia Building, Tcl International E City, #1001 Zhonshanyuan Road, Shenzhen",
+        "line2": "Guangdong China 518058",
+        "countryCode": "CN"
       }
     }
   },
