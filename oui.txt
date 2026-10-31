@@ -145112,6 +145112,12 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Kulim  Kedah  09000
 				MY
 
+94-FC-9A   (hex)		Google, Inc.
+94FC9A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View    94043
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -193955,6 +193961,12 @@ B8F453     (base 16)		IEEE Registration Authority
 				Kulim  Kedah  09000
 				MY
 
+60-41-5A   (hex)		Google, Inc.
+60415A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View    94043
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242210,10 +242222,10 @@ C08009     (base 16)		Vantiva USA LLC
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
-245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
-				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
-				Nanjing  Jiangsu  211800
+D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
+				guangdong  China  518058
 				CN
 
 1C-FC-4E   (hex)		EFORT Intelligent Robot Co., Ltd. Copyright
@@ -242222,8 +242234,8 @@ C08009     (base 16)		Vantiva USA LLC
 				Wuhu  Anhui  241000
 				CN
 
-D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
-				guangdong  China  518058
+24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
 				CN

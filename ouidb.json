@@ -254125,6 +254125,17 @@
     }
   },
   {
+    "prefix": "60415A",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View 94043",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "60427F",
     "organization": {
       "name": "Shenzhen Chuangwei-rgb Electronics Ltd",
@@ -321199,6 +321210,17 @@
         "line1": "Stuttgarter Straße 45-51",
         "line2": "Neckartenzlingen D-72654",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "94FC9A",
+    "organization": {
+      "name": "Google Inc",
+      "address": {
+        "line1": "1600 Amphitheatre Parkway",
+        "line2": "Mountain View 94043",
+        "countryCode": "US"
       }
     }
   },
