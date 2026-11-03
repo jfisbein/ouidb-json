@@ -37232,12 +37232,6 @@ A09805     (base 16)		OpenVox Communication Co Ltd
 				CHICAGO  IL  60618
 				US
 
-00-A0-57   (hex)		LANCOM Systems GmbH
-00A057     (base 16)		LANCOM Systems GmbH
-				Adenauer Straße 20 /B2
-				Würselen    52146
-				DE
-
 00-A0-9F   (hex)		COMMVISION CORP.
 00A09F     (base 16)		COMMVISION CORP.
 				510 LOGUE AVE.
@@ -48865,6 +48859,24 @@ FCF684     (base 16)		MatX
 				490 East Middlefield Road
 				Mountain View  CA  94043
 				US
+
+54-43-87   (hex)		Huawei Device Co., Ltd.
+544387     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+2C-EB-66   (hex)		Huawei Device Co., Ltd.
+2CEB66     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+00-A0-57   (hex)		Rohde & Schwarz Networks and Cybersecurity GmbH
+00A057     (base 16)		Rohde & Schwarz Networks and Cybersecurity GmbH
+				Adenauer Straße 20 /B2
+				Würselen    52146
+				DE
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -96808,6 +96820,36 @@ BC1409     (base 16)		Arista Networks
 				35-37 Whitton Dene Road
 				Hounslow  London  TW32JN
 				GB
+
+80-70-39   (hex)		Huawei Device Co., Ltd.
+807039     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+90-1C-23   (hex)		Huawei Device Co., Ltd.
+901C23     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+30-05-C8   (hex)		Huawei Device Co., Ltd.
+3005C8     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+84-C3-00   (hex)		Shenzhen SDMC Technology CP,.LTD
+84C300     (base 16)		Shenzhen SDMC Technology CP,.LTD
+				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
+				Shenzhen  China  518000
+				CN
+
+18-2F-58   (hex)		Veritech LLC
+182F58     (base 16)		Veritech LLC
+				1070 Hardees Drive
+				Aberdeen  MD  21001
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -145118,6 +145160,18 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Mountain View    94043
 				US
 
+20-AD-72   (hex)		eero inc.
+20AD72     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+34-23-8E   (hex)		eero inc.
+34238E     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -146236,12 +146290,6 @@ F87928     (base 16)		zte corporation
 				Bay Square Building 06 - Office No 105
 				Dubai  Dubai  111581
 				AE
-
-2C-D7-FF   (hex)		LANCOM Systems GmbH
-2CD7FF     (base 16)		LANCOM Systems GmbH
-				Adenauer Straße 20 /B2
-				Würselen    52146
-				DE
 
 98-03-8A   (hex)		Texas Instruments
 98038A     (base 16)		Texas Instruments
@@ -193966,6 +194014,18 @@ B8F453     (base 16)		IEEE Registration Authority
 				1600 Amphitheatre Parkway
 				Mountain View    94043
 				US
+
+34-1E-64   (hex)		Huawei Device Co., Ltd.
+341E64     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+2C-D7-FF   (hex)		Rohde & Schwarz Networks and Cybersecurity GmbH
+2CD7FF     (base 16)		Rohde & Schwarz Networks and Cybersecurity GmbH
+				Adenauer Straße 20 /B2
+				Würselen    52146
+				DE
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -242222,10 +242282,10 @@ C08009     (base 16)		Vantiva USA LLC
 				Reno  NV  89507
 				US
 
-24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
-245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
-				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
-				Nanjing  Jiangsu  211800
+D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
+				guangdong  China  518058
 				CN
 
 1C-FC-4E   (hex)		EFORT Intelligent Robot Co., Ltd. Copyright
@@ -242234,8 +242294,38 @@ C08009     (base 16)		Vantiva USA LLC
 				Wuhu  Anhui  241000
 				CN
 
-D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
-				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
-				guangdong  China  518058
+4C-64-C9   (hex)		Huawei Device Co., Ltd.
+4C64C9     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
+
+50-25-FE   (hex)		Huawei Device Co., Ltd.
+5025FE     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+70-BE-8E   (hex)		Huawei Device Co., Ltd.
+70BE8E     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
+08-F6-79   (hex)		Huawei Device Co., Ltd.
+08F679     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+8C-A0-2C   (hex)		Arcadyan Corporation
+8CA02C     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW

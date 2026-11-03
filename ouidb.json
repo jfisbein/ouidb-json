@@ -129468,7 +129468,7 @@
   {
     "prefix": "00A057",
     "organization": {
-      "name": "Lancom Systems GmbH",
+      "name": "Rohde \u0026 Schwarz Networks and Cybersecurity GmbH",
       "address": {
         "line1": "Adenauer Straße 20 /B2",
         "line2": "Würselen 52146",
@@ -153430,6 +153430,17 @@
     }
   },
   {
+    "prefix": "08F679",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "08F69C",
     "organization": {
       "name": "Apple",
@@ -168672,6 +168683,17 @@
     }
   },
   {
+    "prefix": "182F58",
+    "organization": {
+      "name": "Veritech LLC",
+      "address": {
+        "line1": "1070 Hardees Drive",
+        "line2": "Aberdeen MD 21001",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "183009",
     "organization": {
       "name": "Woojin Industrial Systems Ltd",
@@ -180369,6 +180391,17 @@
       "address": {
         "line1": "21440 W. Lake Cook Rd.",
         "line2": "Deer Park IL 60010",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "20AD72",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
         "countryCode": "US"
       }
     }
@@ -195187,7 +195220,7 @@
   {
     "prefix": "2CD7FF",
     "organization": {
-      "name": "Lancom Systems GmbH",
+      "name": "Rohde \u0026 Schwarz Networks and Cybersecurity GmbH",
       "address": {
         "line1": "Adenauer Straße 20 /B2",
         "line2": "Würselen 52146",
@@ -195588,6 +195621,17 @@
         "line1": "Lot 8, Jalan Hi-tech 2/3",
         "line2": "Kulim Kedah 09000",
         "countryCode": "MY"
+      }
+    }
+  },
+  {
+    "prefix": "2CEB66",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -196050,6 +196094,17 @@
         "line1": "1-1-1, Kawagishi, Mizuho-ku",
         "line2": "Nagoya Aichi 467-8562",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "3005C8",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -201167,6 +201222,17 @@
     }
   },
   {
+    "prefix": "341E64",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "341E6B",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -201262,6 +201328,17 @@
         "line1": "Building D21, No.1, East Zone 1st Road",
         "line2": "Chongqing Chongqing 401332",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "34238E",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
       }
     }
   },
@@ -231454,6 +231531,17 @@
     }
   },
   {
+    "prefix": "4C64C9",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "4C64D9",
     "organization": {
       "name": "Guangdong Leawin Group Ltd",
@@ -235020,6 +235108,17 @@
         "line1": "2855 Bowers Ave",
         "line2": "Santa Clara CA 95051",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "5025FE",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -240710,6 +240809,17 @@
         "line1": "Gotenyama Tec 5-1-2",
         "line2": "Tokyo Shinagawa-ku 141-0001",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "544387",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
@@ -275734,6 +275844,17 @@
     }
   },
   {
+    "prefix": "70BE8E",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "70BF3E",
     "organization": {
       "name": "Charles River Laboratories",
@@ -294354,6 +294475,17 @@
     }
   },
   {
+    "prefix": "807039",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "80711F",
     "organization": {
       "name": "Juniper Networks",
@@ -300473,6 +300605,17 @@
       "address": {
         "line1": "No. 18, Ningshuang Road",
         "line2": "Nanjing Jiangsu 210012",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "84C300",
+    "organization": {
+      "name": "Shenzhen Sdmc Technology CP. Ltd",
+      "address": {
+        "line1": "19/F, Changhong Science \u0026technology Mansion, No.18, Keji South 12th Road High-tech Industrialpark Nanshan District, Shenzhen, China",
+        "line2": "Shenzhen China 518000",
         "countryCode": "CN"
       }
     }
@@ -309624,6 +309767,17 @@
     }
   },
   {
+    "prefix": "8CA02C",
+    "organization": {
+      "name": "Arcadyan Corporation",
+      "address": {
+        "line1": "No.8, Sec.2, Guangfu Rd.",
+        "line2": "Hsinchu City Hsinchu 30071",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "8CA048",
     "organization": {
       "name": "Beijing Netopchip Technology Ltd",
@@ -311882,6 +312036,17 @@
         "line1": "Buergermeister-ulrich-strasse 100",
         "line2": "Augsburg Bayern 86199",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "901C23",
+    "organization": {
+      "name": "Huawei Device Ltd",
+      "address": {
+        "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
       }
     }
   },
