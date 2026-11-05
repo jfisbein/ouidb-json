@@ -135756,6 +135756,17 @@
     }
   },
   {
+    "prefix": "00CE39",
+    "organization": {
+      "name": "Mele Technologies(Shenzhen)Co. Ltd",
+      "address": {
+        "line1": "3fw, Mele Building, No.28 Cuijing Road, Pingshan District",
+        "line2": "Shenzhen Guangdong 518118",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "00CF1C",
     "organization": {
       "name": "Communication Machinery Corporation",
@@ -159039,6 +159050,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "102513",
+    "organization": {
+      "name": "LG Electronics",
+      "address": {
+        "line1": "222 Lg-ro, Jinwi-myeon",
+        "line2": "Pyeongtaek-si Gyeonggi-do 451-713",
+        "countryCode": "KR"
       }
     }
   },
@@ -255679,6 +255701,17 @@
         "line1": "No.8, Sec.2, Guangfu Rd.",
         "line2": "Hsinchu City Hsinchu 30071",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "608D28",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
+        "countryCode": "US"
       }
     }
   },
@@ -411210,6 +411243,17 @@
         "line1": "3857 Sixian Road, Songjiang District, Shanghai",
         "line2": "Shanghai Shanghai 201616",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E42224",
+    "organization": {
+      "name": "Motorola Mobility Llc, a Lenovo Company",
+      "address": {
+        "line1": "222 West Merchandise Mart Plaza",
+        "line2": "Chicago IL 60654",
+        "countryCode": "US"
       }
     }
   },
