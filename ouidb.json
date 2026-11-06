@@ -144951,6 +144951,17 @@
     }
   },
   {
+    "prefix": "047B43",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "047BCB",
     "organization": {
       "name": "Universal Global Scientific Industrial. Ltd",
@@ -154479,8 +154490,8 @@
     "organization": {
       "name": "Tydenbrooks",
       "address": {
-        "line1": "2727 Paces Ferry Rd, Building 2, Suite 300",
-        "line2": "Atlanta GA 30339",
+        "line1": "1 Stoffel Drive",
+        "line2": "Tallapoosa GA 30176",
         "countryCode": "US"
       }
     }
@@ -156541,10 +156552,10 @@
   {
     "prefix": "0CA2F4",
     "organization": {
-      "name": "Chameleon Technology (uk) Limited",
+      "name": "Verve Energy Technology",
       "address": {
-        "line1": "1st Floor, Central House Otley Road",
-        "line2": "Beckwith Knowle Harrogate Hg3 1uf",
+        "line1": "Suite 1 Second Floor",
+        "line2": "17-19 Cheltenham Parade, Harrogate Hg1 1dd",
         "countryCode": "GB"
       }
     }
@@ -239119,6 +239130,17 @@
     }
   },
   {
+    "prefix": "50EEF8",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "50F003",
     "organization": {
       "name": "Open Stack Inc",
@@ -266540,6 +266562,17 @@
         "line1": "Rm402 Building212, Tairan Technology Park, Futian District",
         "line2": "Shenzhen Guangdong 518000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "68D770",
+    "organization": {
+      "name": "Iotronix Technologies Sdn. Bhd",
+      "address": {
+        "line1": "No. 85a, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.",
+        "line2": "Bayan Lepas Penang 11900",
+        "countryCode": "MY"
       }
     }
   },
@@ -303503,6 +303536,17 @@
     }
   },
   {
+    "prefix": "8854E0",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "8856A6",
     "organization": {
       "name": "Espressif Inc",
@@ -305390,6 +305434,17 @@
         "line1": "No.2, Third Road, Buxinji Industrial Area, Guanjingtou Village, Fenggang Town, Dongguan City, Guangdong Province, China",
         "line2": "Dongguan 523705",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "88B8F7",
+    "organization": {
+      "name": "Nvidia Corporation",
+      "address": {
+        "line1": "2701 San Tomas Expressway",
+        "line2": "Santa Clara 95050",
+        "countryCode": "US"
       }
     }
   },
@@ -319762,6 +319817,17 @@
     }
   },
   {
+    "prefix": "94B2EC",
+    "organization": {
+      "name": "Nvidia Corporation",
+      "address": {
+        "line1": "2701 San Tomas Expressway",
+        "line2": "Santa Clara 95050",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "94B34F",
     "organization": {
       "name": "Ruckus Wireless",
@@ -330275,6 +330341,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "9CE087",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -351913,6 +351990,17 @@
         "line1": "6 Venture, Suite 140",
         "line2": "Irvine CA 92618",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B07EF4",
+    "organization": {
+      "name": "Hangzhou Hikauto Technology Ltd",
+      "address": {
+        "line1": "No. 399 Danfeng Road, Xixing Subdistrict, Binjiang District, Hangzhou, Zhejiang, China",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
       }
     }
   },
@@ -396080,6 +396168,17 @@
     }
   },
   {
+    "prefix": "D4D96A",
+    "organization": {
+      "name": "Xiaomi Communications Ltd",
+      "address": {
+        "line1": "#019, 9th Floor, Building 6, 33 Xi\u0027erqi Middle Road",
+        "line2": "Beijing Haidian District 100085",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "D4DA21",
     "organization": {
       "name": "Beijing Xiaomi Mobile Software Ltd",
@@ -397447,6 +397546,17 @@
         "line1": "16 av Carnot",
         "line2": "Massy 91349",
         "countryCode": "FR"
+      }
+    }
+  },
+  {
+    "prefix": "D82332",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
