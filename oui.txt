@@ -48860,6 +48860,12 @@ FCF684     (base 16)		MatX
 				Mountain View  CA  94043
 				US
 
+00-CE-39   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
+00CE39     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
+				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
+				Shenzhen  Guangdong  518118
+				CN
+
 54-43-87   (hex)		Huawei Device Co., Ltd.
 544387     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -48878,24 +48884,6 @@ FCF684     (base 16)		MatX
 				Würselen    52146
 				DE
 
-00-CE-39   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
-00CE39     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
-				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
-				Shenzhen  Guangdong  518118
-				CN
-
-10-25-13   (hex)		LG Electronics
-102513     (base 16)		LG Electronics
-				222 LG-ro, JINWI-MYEON
-				Pyeongtaek-si  Gyeonggi-do  451-713
-				KR
-
-9C-E0-87   (hex)		Espressif Systems (Singapore) Pte. Ltd
-9CE087     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
-
 D4-D9-6A   (hex)		Xiaomi Communications Co Ltd
 D4D96A     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
@@ -48907,6 +48895,18 @@ D4D96A     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
 				CN
+
+9C-E0-87   (hex)		Espressif Systems (Singapore) Pte. Ltd
+9CE087     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+10-25-13   (hex)		LG Electronics
+102513     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -96898,6 +96898,12 @@ D82332     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				2701 San Tomas Expressway
 				Santa Clara    95050
 				US
+
+1C-07-DD   (hex)		FRITZ! Technology GmbH
+1C07DD     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -242419,3 +242425,9 @@ E42224     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				1 Stoffel Drive
 				Tallapoosa  GA  30176
 				US
+
+F0-27-6E   (hex)		AltoBeam Inc.
+F0276E     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN

@@ -172814,6 +172814,17 @@
     }
   },
   {
+    "prefix": "1C07DD",
+    "organization": {
+      "name": "Fritz! Technology GmbH",
+      "address": {
+        "line1": "Alt-moabit 95",
+        "line2": "Berlin Berlin 10559",
+        "countryCode": "DE"
+      }
+    }
+  },
+  {
     "prefix": "1C08C1",
     "organization": {
       "name": "LG Innotek",
@@ -425329,6 +425340,17 @@
         "line1": "1-10-1 Higashikotari",
         "line2": "Nagaokakyo-shi Kyoto 617-8555",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "F0276E",
+    "organization": {
+      "name": "Altobeam Inc",
+      "address": {
+        "line1": "B808, Tsinghua Tongfang Hi-tech Plaza, Haidian",
+        "line2": "Beijing Beijing 100083",
+        "countryCode": "CN"
       }
     }
   },
