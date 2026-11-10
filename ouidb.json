@@ -180055,6 +180055,17 @@
     }
   },
   {
+    "prefix": "2099EC",
+    "organization": {
+      "name": "1AN Inc",
+      "address": {
+        "line1": "405, Busan Knowledge Industry Center Uam, 2, Sinseon-ro, Nam-gu",
+        "line2": "Busan 48480",
+        "countryCode": "KR"
+      }
+    }
+  },
+  {
     "prefix": "209A7D",
     "organization": {
       "name": "Sagemcom Broadband SAS",
@@ -187062,6 +187073,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "281F81",
+    "organization": {
+      "name": "Soxai Inc",
+      "address": {
+        "line1": "1102, Chuo Dai-6 Kannai Building1-2-1 Furocho, Naka-ku",
+        "line2": "Yokohama Kanagawa 231-0032",
+        "countryCode": "JP"
       }
     }
   },
@@ -335725,6 +335747,17 @@
         "line1": "5f, NO 31, Ln 258, Rulguang Rd",
         "line2": "Taipei Neihu District 11491",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "A4053E",
+    "organization": {
+      "name": "BSH Electrodomésticos España, S.A",
+      "address": {
+        "line1": "Ronda Del Canal Imperial de Aragón, 18-20",
+        "line2": "Zaragoza Zaragoza 50197",
+        "countryCode": "ES"
       }
     }
   },

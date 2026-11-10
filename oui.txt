@@ -96905,6 +96905,12 @@ D82332     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				Berlin  Berlin  10559
 				DE
 
+A4-05-3E   (hex)		BSH Electrodomésticos España, S.A.
+A4053E     (base 16)		BSH Electrodomésticos España, S.A.
+				Ronda del Canal Imperial de Aragón, 18-20
+				Zaragoza  Zaragoza  50197
+				ES
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -145249,6 +145255,18 @@ B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
 				No. 399 Danfeng Road, Xixing Subdistrict, Binjiang District, Hangzhou, Zhejiang, China
 				 Hangzhou  Zhejiang  310052
 				CN
+
+20-99-EC   (hex)		1AN Inc.
+2099EC     (base 16)		1AN Inc.
+				405, Busan Knowledge Industry Center Uam, 2, Sinseon-ro, Nam-gu
+				Busan    48480
+				KR
+
+28-1F-81   (hex)		SOXAI Inc.
+281F81     (base 16)		SOXAI Inc.
+				1102, Chuo Dai-6 Kannai Building1-2-1 Furocho, Naka-ku
+				Yokohama  Kanagawa  231-0032
+				JP
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
