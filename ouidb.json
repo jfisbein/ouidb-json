@@ -168518,6 +168518,17 @@
     }
   },
   {
+    "prefix": "182162",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "182195",
     "organization": {
       "name": "Samsung Electronics Ltd",
@@ -232697,6 +232708,17 @@
     }
   },
   {
+    "prefix": "4CA637",
+    "organization": {
+      "name": "Hisense Home Appliances Group Co., Ltd.Qingdao Branch",
+      "address": {
+        "line1": "Hisense R\u0026d Center, #399 Songling Road, Qingdao, Shandong, 266000, China",
+        "line2": "Qingdao Shandong 266000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "4CA64D",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -233932,6 +233954,17 @@
         "line1": "The Second Floor of The Friend Industrial Park",
         "line2": "Zhuhai Guangdong 519080",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "4CE20C",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
       }
     }
   },
@@ -298412,6 +298445,17 @@
     }
   },
   {
+    "prefix": "84413C",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "844167",
     "organization": {
       "name": "Apple",
@@ -299034,6 +299078,17 @@
         "line1": "4th Floor, Building 3, Nangang 1st Industrial Zone, Xili Street, Nanshan District",
         "line2": "Shenzhen Guangdong 518000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "846E2F",
+    "organization": {
+      "name": "Ohsung",
+      "address": {
+        "line1": "335-4, Sanhodaero, Gumi, Gyeong Buk, Korea",
+        "line2": "Gumi Gyeong Buk 730-030",
+        "countryCode": "KR"
       }
     }
   },
@@ -315395,6 +315450,17 @@
     }
   },
   {
+    "prefix": "90C046",
+    "organization": {
+      "name": "Hon Hai Precision Industry Ltd",
+      "address": {
+        "line1": "No.2, 2nd Donghuan Road, Longhua St., Longhua Dist.",
+        "line2": "Shenzhen Guangdong 518109",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "90C115",
     "organization": {
       "name": "Sony Corporation",
@@ -323969,6 +324035,17 @@
         "line1": "129, Samsung-ro, Youngtongl-gu",
         "line2": "Suwon Gyeonggi-do 16677",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "9884C1",
+    "organization": {
+      "name": "New H3C Technologies Ltd",
+      "address": {
+        "line1": "466 Changhe Road, Binjiang District",
+        "line2": "Hangzhou Zhejiang 310052",
+        "countryCode": "CN"
       }
     }
   },
@@ -411386,6 +411463,17 @@
         "line1": "Allmendstr. 11",
         "line2": "Bonndorf Baden-württemberg 79848",
         "countryCode": "DE"
+      }
+    }
+  },
+  {
+    "prefix": "E4200B",
+    "organization": {
+      "name": "Polystack Technologies Private Limited",
+      "address": {
+        "line1": "House NO. 51 P, Basement, Ryaninternational School, Sector 40, Gurugram, Haryana- 122001",
+        "line2": "Gurugram Haryana 122001",
+        "countryCode": "IN"
       }
     }
   },
