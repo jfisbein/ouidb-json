@@ -48914,6 +48914,12 @@ D4D96A     (base 16)		Xiaomi Communications Co Ltd
 				Qingdao  Shandong  266000
 				CN
 
+D8-E6-AB   (hex)		eero inc.
+D8E6AB     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96928,6 +96934,12 @@ D82332     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA
 				GUMI  GYEONG BUK  730-030
 				KR
+
+AC-66-B3   (hex)		BUFFALO.INC
+AC66B3     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -145284,6 +145296,30 @@ B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
 88B8F7     (base 16)		NVIDIA Corporation
 				2701 San Tomas Expressway
 				Santa Clara    95050
+				US
+
+78-E0-4D   (hex)		Sony Interactive Entertainment Inc.
+78E04D     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+14-A0-7D   (hex)		Microchip Technology Inc.
+14A07D     (base 16)		Microchip Technology Inc.
+				2355 W. Chandler Blvd.
+				Chandler  AZ  85224
+				US
+
+B8-CD-2B   (hex)		eero inc.
+B8CD2B     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+5C-6C-BB   (hex)		IEEE Registration Authority
+5C6CBB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -194147,11 +194183,23 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				Mountain View    94043
 				US
 
-04-7B-43   (hex)		IEEE Registration Authority
-047B43     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
+AC-64-60   (hex)		Nokia Solutions and Networks India Private Limited
+AC6460     (base 16)		Nokia Solutions and Networks India Private Limited
+				Plot 45, Fathima NagarNemilicherry,Chrompet
+				Chennai  Taminadu  600044
+				IN
+
+44-40-AB   (hex)		ASUSTek COMPUTER INC.
+4440AB     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+90-C0-46   (hex)		Hon Hai Precision Industry Co., Ltd.
+90C046     (base 16)		Hon Hai Precision Industry Co., Ltd.
+				No.2, 2nd donghuan Road, Longhua St., Longhua Dist.,
+				ShenZhen  GuangDong  518109
+				CN
 
 98-84-C1   (hex)		New H3C Technologies Co., Ltd
 9884C1     (base 16)		New H3C Technologies Co., Ltd
@@ -194159,11 +194207,23 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				Hangzhou  Zhejiang  310052
 				CN
 
-90-C0-46   (hex)		Hon Hai Precision Industry Co., Ltd.
-90C046     (base 16)		Hon Hai Precision Industry Co., Ltd.
-				No.2, 2nd donghuan Road, Longhua St., Longhua Dist.,
-				ShenZhen  GuangDong  518109
-				CN
+BC-47-D6   (hex)		Sagemcom Broadband SAS
+BC47D6     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+A8-AB-18   (hex)		Tuya Smart Inc.
+A8AB18     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US
+
+04-7B-43   (hex)		IEEE Registration Authority
+047B43     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -242497,3 +242557,15 @@ E4200B     (base 16)		Polystack Technologies Private Limited
 				HOUSE NO. 51 P, BASEMENT, RYANINTERNATIONAL SCHOOL, SECTOR 40,GURUGRAM, HARYANA- 122001
 				Gurugram  HARYANA  122001
 				IN
+
+B0-0D-A8   (hex)		Sagemcom Broadband SAS
+B00DA8     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+2C-1D-BB   (hex)		Tuya Smart Inc.
+2C1DBB     (base 16)		Tuya Smart Inc.
+				160 Greentree Drive, Suite 101
+				Dover  DE  19904
+				US

@@ -166351,6 +166351,17 @@
     }
   },
   {
+    "prefix": "14A07D",
+    "organization": {
+      "name": "Microchip Technology Inc",
+      "address": {
+        "line1": "2355 W. Chandler Blvd.",
+        "line2": "Chandler AZ 85224",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "14A0F8",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -191921,6 +191932,17 @@
       "address": {
         "line1": "6450 Sequence Drive",
         "line2": "San Diego CA 92121",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "2C1DBB",
+    "organization": {
+      "name": "Tuya Smart Inc",
+      "address": {
+        "line1": "160 Greentree Drive, Suite 101",
+        "line2": "Dover DE 19904",
         "countryCode": "US"
       }
     }
@@ -221581,6 +221603,17 @@
     }
   },
   {
+    "prefix": "4440AB",
+    "organization": {
+      "name": "Asustek Computer Inc",
+      "address": {
+        "line1": "15, Li-te Rd., Peitou, Taipei 112, Taiwan",
+        "line2": "Taipei Taiwan 112",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "4441F0",
     "organization": {
       "name": "zte Corporation",
@@ -250363,6 +250396,17 @@
         "line1": "No.2 North Xinxi Fourth Road, Xiashi Village Committee, Lunjiao Sub-district Office, Shunde District",
         "line2": "Foshan Guandong 528308",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "5C6CBB",
+    "organization": {
+      "name": "Ieee Registration Authority",
+      "address": {
+        "line1": "445 Hoes Lane",
+        "line2": "Piscataway NJ 08554",
+        "countryCode": "US"
       }
     }
   },
@@ -286957,6 +287001,17 @@
         "line1": "29f, A Tower, New Caohejing International Business Center, Guiping Road, Xuhui District",
         "line2": "Shanghai Shanghai 200000",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "78E04D",
+    "organization": {
+      "name": "Sony Interactive Entertainment Inc",
+      "address": {
+        "line1": "1-7-1 Konan",
+        "line2": "Minato-ku Tokyo 108-0075",
+        "countryCode": "JP"
       }
     }
   },
@@ -343574,6 +343629,17 @@
     }
   },
   {
+    "prefix": "A8AB18",
+    "organization": {
+      "name": "Tuya Smart Inc",
+      "address": {
+        "line1": "160 Greentree Drive, Suite 101",
+        "line2": "Dover DE 19904",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A8ABB5",
     "organization": {
       "name": "Apple",
@@ -347004,6 +347070,17 @@
     }
   },
   {
+    "prefix": "AC6460",
+    "organization": {
+      "name": "Nokia Solutions and Networks India Private Limited",
+      "address": {
+        "line1": "Plot 45, Fathima Nagarnemilicherry, Chrompet",
+        "line2": "Chennai Taminadu 600044",
+        "countryCode": "IN"
+      }
+    }
+  },
+  {
     "prefix": "AC6462",
     "organization": {
       "name": "zte Corporation",
@@ -347044,6 +347121,17 @@
         "line1": "445 Hoes Lane",
         "line2": "Piscataway NJ 08554",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "AC66B3",
+    "organization": {
+      "name": "BUFFALO.INC",
+      "address": {
+        "line1": "Akamondori Bld., 30-20, Ohsu 3-chome, Naka-ku",
+        "line2": "Nagoya Aichi Pref. 460-8315",
+        "countryCode": "JP"
       }
     }
   },
@@ -350230,6 +350318,17 @@
         "line1": "11445 Compaq Center Drive",
         "line2": "Houston 77070",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "B00DA8",
+    "organization": {
+      "name": "Sagemcom Broadband SAS",
+      "address": {
+        "line1": "4 Allée Des Messageries",
+        "line2": "Bois-colombes Haut de Seine 92270",
+        "countryCode": "FR"
       }
     }
   },
@@ -362802,6 +362901,17 @@
     }
   },
   {
+    "prefix": "B8CD2B",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "B8CD58",
     "organization": {
       "name": "Shenzhen Superelectron Technology Ltd",
@@ -365372,6 +365482,17 @@
         "line1": "#94-1, Imsoo-dong",
         "line2": "Gumi Gyeongbuk 730-350",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "BC47D6",
+    "organization": {
+      "name": "Sagemcom Broadband SAS",
+      "address": {
+        "line1": "4 Allée Des Messageries",
+        "line2": "Bois-colombes Haut de Seine 92270",
+        "countryCode": "FR"
       }
     }
   },
@@ -401402,6 +401523,17 @@
       "address": {
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D8E6AB",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
         "countryCode": "US"
       }
     }
