@@ -144709,6 +144709,17 @@
     }
   },
   {
+    "prefix": "046EE5",
+    "organization": {
+      "name": "Hi-power Solution Ltd",
+      "address": {
+        "line1": "Rm. 5f-1a, No. 6, Ln. 256, Sec. 2, Xitun Rd., Xitun Dist.",
+        "line2": "Taichung City 407428",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "046F00",
     "organization": {
       "name": "LG Electronics",
@@ -162653,6 +162664,17 @@
         "line1": "160 Greentree Drive, Suite 101",
         "line2": "Dover DE 19904",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "10D605",
+    "organization": {
+      "name": "Fn-link Technology Ltd",
+      "address": {
+        "line1": "No.8, Litong Road, Liuyang Economic \u0026 Technical Development Zone, Changsha, Hunan, China",
+        "line2": "Changsha Hunan 410329",
+        "countryCode": "CN"
       }
     }
   },
@@ -203165,6 +203187,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "3479DF",
+    "organization": {
+      "name": "Dell Inc",
+      "address": {
+        "line1": "One Dell Way",
+        "line2": "Round Rock TX 78682",
+        "countryCode": "US"
       }
     }
   },
@@ -355997,6 +356030,17 @@
         "line1": "128, Jun Cheng Road, East Section Technological Development District, Guangzhou Economic",
         "line2": "Guangzhou 510530",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "B4416B",
+    "organization": {
+      "name": "GX India Pvt Ltd",
+      "address": {
+        "line1": "595, Sector-8, Imt Manesar",
+        "line2": "Gurgaon Haryana 122051",
+        "countryCode": "IN"
       }
     }
   },
