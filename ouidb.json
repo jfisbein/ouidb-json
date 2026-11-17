@@ -194789,6 +194789,17 @@
     }
   },
   {
+    "prefix": "2CB509",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "2CB68F",
     "organization": {
       "name": "Huawei Technologies Ltd",
@@ -223803,6 +223814,17 @@
     }
   },
   {
+    "prefix": "44B208",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "44B295",
     "organization": {
       "name": "Sichuan AI-Link Technology Co., Ltd",
@@ -236461,6 +236483,17 @@
         "line1": "129, Samsung-ro, Youngtongl-gu",
         "line2": "Suwon Gyeonggi-do 16677",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "505716",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -259060,6 +259093,17 @@
     }
   },
   {
+    "prefix": "642F4F",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "642FC7",
     "organization": {
       "name": "New H3C Technologies Ltd",
@@ -278436,6 +278480,17 @@
         "line1": "15f No.738-5 Jhengjhong Rd",
         "line2": "New Taipei City 235",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "743EEA",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
       }
     }
   },
@@ -363572,6 +363627,17 @@
     }
   },
   {
+    "prefix": "B8E3BF",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "B8E3EE",
     "organization": {
       "name": "Universal Electronics Inc",
@@ -379498,6 +379564,17 @@
         "line1": "1-7-1 Konan",
         "line2": "Minato-ku Tokyo 108-0075",
         "countryCode": "JP"
+      }
+    }
+  },
+  {
+    "prefix": "C84AF0",
+    "organization": {
+      "name": "Mellanox Technologies Inc",
+      "address": {
+        "line1": "350 Oakmead Parkway, Suite 100",
+        "line2": "Sunnyvale CA 94085",
+        "countryCode": "US"
       }
     }
   },
@@ -399229,6 +399306,17 @@
     }
   },
   {
+    "prefix": "D860E6",
+    "organization": {
+      "name": "zte Corporation",
+      "address": {
+        "line1": "12/F., Zte R\u0026d Building, Kejinan Road, Shenzhen, P.R.China",
+        "line2": "Shenzhen Guangdong 518057",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "D86162",
     "organization": {
       "name": "WNC Corporation",
@@ -410807,6 +410895,17 @@
     }
   },
   {
+    "prefix": "E0DD4B",
+    "organization": {
+      "name": "Microsoft Corporation",
+      "address": {
+        "line1": "One Microsoft Way",
+        "line2": "Redmond WA 98052",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "E0DDC0",
     "organization": {
       "name": "Vivo Mobile Communication Ltd",
@@ -415148,6 +415247,17 @@
         "line1": "2121 Rdu Center Drive",
         "line2": "Morrisville NC 27560",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "E4DC16",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
       }
     }
   },
@@ -435495,6 +435605,17 @@
     }
   },
   {
+    "prefix": "F835F5",
+    "organization": {
+      "name": "Cloud Network Technology Singapore PTE. Ltd",
+      "address": {
+        "line1": "B22 Building, NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China",
+        "line2": "Nanning Guangxi 530007",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "F8369B",
     "organization": {
       "name": "Texas Instruments",
@@ -440265,6 +440386,17 @@
         "line1": "High Tech Campus 7",
         "line2": "Eindhoven 5656ae",
         "countryCode": "NL"
+      }
+    }
+  },
+  {
+    "prefix": "FC2731",
+    "organization": {
+      "name": "EM Microelectronic",
+      "address": {
+        "line1": "Rue Des Sors 3",
+        "line2": "Marin-epagnier Neuchatel 2074",
+        "countryCode": "CH"
       }
     }
   },

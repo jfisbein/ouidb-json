@@ -48938,6 +48938,12 @@ D8E6AB     (base 16)		eero inc.
 				Dongguan    523808
 				CN
 
+50-57-16   (hex)		Mellanox Technologies, Inc.
+505716     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96982,6 +96988,30 @@ B83184     (base 16)		Hewlett Packard Enterprise
 				335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA
 				GUMI  GYEONG BUK  730-030
 				KR
+
+44-B2-08   (hex)		Mellanox Technologies, Inc.
+44B208     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+74-3E-EA   (hex)		zte corporation
+743EEA     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+D8-60-E6   (hex)		zte corporation
+D860E6     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+64-2F-4F   (hex)		Microsoft Corporation
+642F4F     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -145334,35 +145364,17 @@ B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
 				Santa Clara    95050
 				US
 
-78-E0-4D   (hex)		Sony Interactive Entertainment Inc.
-78E04D     (base 16)		Sony Interactive Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
-14-A0-7D   (hex)		Microchip Technology Inc.
-14A07D     (base 16)		Microchip Technology Inc.
-				2355 W. Chandler Blvd.
-				Chandler  AZ  85224
+34-79-DF   (hex)		Dell Inc.
+3479DF     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock   TX  78682
 				US
 
-B8-CD-2B   (hex)		eero inc.
-B8CD2B     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
-
-5C-6C-BB   (hex)		IEEE Registration Authority
-5C6CBB     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-00-90-A5   (hex)		SPECTRA LOGIC
-0090A5     (base 16)		SPECTRA LOGIC
-				6285 Lookout RD 
-				Boulder  CO  80301
-				US
+10-D6-05   (hex)		FN-LINK TECHNOLOGY Ltd.
+10D605     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
 
 74-8B-7F   (hex)		Skullcandy
 748B7F     (base 16)		Skullcandy
@@ -145376,16 +145388,46 @@ B8CD2B     (base 16)		eero inc.
 				New York  NY  10010
 				US
 
-34-79-DF   (hex)		Dell Inc.
-3479DF     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock   TX  78682
+14-A0-7D   (hex)		Microchip Technology Inc.
+14A07D     (base 16)		Microchip Technology Inc.
+				2355 W. Chandler Blvd.
+				Chandler  AZ  85224
 				US
 
-10-D6-05   (hex)		FN-LINK TECHNOLOGY Ltd.
-10D605     (base 16)		FN-LINK TECHNOLOGY Ltd.
-				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
-				Changsha  Hunan  410329
+B8-CD-2B   (hex)		eero inc.
+B8CD2B     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
+B8-E3-BF   (hex)		zte corporation
+B8E3BF     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+78-E0-4D   (hex)		Sony Interactive Entertainment Inc.
+78E04D     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+5C-6C-BB   (hex)		IEEE Registration Authority
+5C6CBB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-90-A5   (hex)		SPECTRA LOGIC
+0090A5     (base 16)		SPECTRA LOGIC
+				6285 Lookout RD 
+				Boulder  CO  80301
+				US
+
+F8-35-F5   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+F835F5     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -194309,6 +194351,12 @@ A8AB18     (base 16)		Tuya Smart Inc.
 				Taichung City    407428
 				TW
 
+E4-DC-16   (hex)		EM Microelectronic
+E4DC16     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242683,3 +242731,27 @@ B4416B     (base 16)		GX India Pvt Ltd
 				595, SECTOR-8, IMT MANESAR
 				GURGAON  Haryana  122051
 				IN
+
+C8-4A-F0   (hex)		Mellanox Technologies, Inc.
+C84AF0     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+2C-B5-09   (hex)		Mellanox Technologies, Inc.
+2CB509     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+FC-27-31   (hex)		EM Microelectronic
+FC2731     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+E0-DD-4B   (hex)		Microsoft Corporation
+E0DD4B     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
