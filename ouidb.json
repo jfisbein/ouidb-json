@@ -274942,6 +274942,17 @@
     }
   },
   {
+    "prefix": "707F7D",
+    "organization": {
+      "name": "Infinix Mobility Limited",
+      "address": {
+        "line1": "Rms 05-15, 13A/F South Tower World Finance Ctr Harbour City 17 Canton RD Tst Kln Hong Kong",
+        "line2": "Hongkong Hongkong 999077",
+        "countryCode": "HK"
+      }
+    }
+  },
+  {
     "prefix": "707FF2",
     "organization": {
       "name": "Telechips Inc",
@@ -281670,6 +281681,17 @@
         "line1": "4f, 90, Chien 1 Road, Chungho, Taipei Hsien, Taiwan",
         "line2": "Taipei Taiwan 23585",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "74DFB9",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -405241,6 +405263,17 @@
     }
   },
   {
+    "prefix": "DCAB39",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "DCAC6F",
     "organization": {
       "name": "Everytale Inc",
@@ -406348,6 +406381,17 @@
         "line1": "B22 Building, NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China",
         "line2": "Nanning Guangxi 530007",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "DCEAD8",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
@@ -428339,6 +428383,17 @@
         "line1": "No.2 of Xincheng Road, Songshan Lake Zone",
         "line2": "Dongguan Guangdong 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "F0B8F7",
+    "organization": {
+      "name": "Cisco Systems Inc",
+      "address": {
+        "line1": "80 West Tasman Drive",
+        "line2": "San Jose CA 94568",
+        "countryCode": "US"
       }
     }
   },
