@@ -23675,10 +23675,10 @@
   {
     "prefix": "0008AE",
     "organization": {
-      "name": "Packetfront Network Products AB",
+      "name": "Waystream AB",
       "address": {
-        "line1": "PO 1217",
-        "line2": "Kistagangen 2, IV Kista Stockholm SE -16428",
+        "line1": "Farogatan 33",
+        "line2": "Kista 164 51",
         "countryCode": "SE"
       }
     }
@@ -155945,6 +155945,17 @@
     }
   },
   {
+    "prefix": "0C8473",
+    "organization": {
+      "name": "Bouffalo Lab (nanjing) Ltd",
+      "address": {
+        "line1": "5f, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China",
+        "line2": "Nanjing Jiangsu 211800",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "0C8484",
     "organization": {
       "name": "Zenovia Electronics Inc",
@@ -166974,6 +166985,17 @@
         "line1": "Moling Industrial Park, Development Zone, Jiangning, Nanjing",
         "line2": "Nanjing Jiangsu 211111",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "14BF9A",
+    "organization": {
+      "name": "Havocai Inc",
+      "address": {
+        "line1": "56 Broad St. Suite 14130",
+        "line2": "Boston MA 02109",
+        "countryCode": "US"
       }
     }
   },
@@ -227073,6 +227095,17 @@
         "line1": "1 Infinite Loop",
         "line2": "Cupertino CA 95014",
         "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "4860CB",
+    "organization": {
+      "name": "Nanjing Risc-v Institute Ltd",
+      "address": {
+        "line1": "Room 303, Building C, 18 Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210000",
+        "countryCode": "CN"
       }
     }
   },
@@ -340322,6 +340355,17 @@
     }
   },
   {
+    "prefix": "A4E041",
+    "organization": {
+      "name": "Ruckus Wireless",
+      "address": {
+        "line1": "350 West Java Drive",
+        "line2": "Sunnyvale CA 94089",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A4E0E6",
     "organization": {
       "name": "Filizola S.A. Pesagem E Automacao",
@@ -375033,6 +375077,17 @@
         "line1": "No.2 Xin Cheng Road, Room R6, Songshan Lake Technology Park",
         "line2": "Dongguan 523808",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "C45510",
+    "organization": {
+      "name": "Fritz! Technology GmbH",
+      "address": {
+        "line1": "Alt-moabit 95",
+        "line2": "Berlin Berlin 10559",
+        "countryCode": "DE"
       }
     }
   },

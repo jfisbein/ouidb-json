@@ -33095,12 +33095,6 @@ A09805     (base 16)		OpenVox Communication Co Ltd
 				Westminster  MA  01441
 				US
 
-00-08-AE   (hex)		PacketFront Network Products AB
-0008AE     (base 16)		PacketFront Network Products AB
-				PO 1217
-				Kistagangen 2, IV  Kista Stockholm SE -16428  
-				SE
-
 00-08-4F   (hex)		Qualstar Corporation
 00084F     (base 16)		Qualstar Corporation
 				3990B Heritage Oak Court
@@ -48943,6 +48937,12 @@ D8E6AB     (base 16)		eero inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
 				US
+
+00-08-AE   (hex)		Waystream AB
+0008AE     (base 16)		Waystream AB
+				Farogatan 33
+				Kista    164 51
+				SE
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -96959,36 +96959,6 @@ A4053E     (base 16)		BSH Electrodomésticos España, S.A.
 				Santa Clara    95050
 				US
 
-AC-66-B3   (hex)		BUFFALO.INC
-AC66B3     (base 16)		BUFFALO.INC
-				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
-				Nagoya  Aichi Pref.  460-8315
-				JP
-
-18-89-47   (hex)		HISENSE VISUAL TECHNOLOGY CO.,LTD
-188947     (base 16)		HISENSE VISUAL TECHNOLOGY CO.,LTD
-				Qianwangang Road 218
-				Qingdao  Shandong  266510
-				CN
-
-78-9F-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-789F5B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-D8-1E-A8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-D81EA8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-B8-31-84   (hex)		Hewlett Packard Enterprise
-B83184     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
-				US
-
 44-B2-08   (hex)		Mellanox Technologies, Inc.
 44B208     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -97013,6 +96983,18 @@ D860E6     (base 16)		zte corporation
 				REDMOND  WA  98052
 				US
 
+78-9F-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+789F5B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D8-1E-A8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D81EA8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 DC-EA-D8   (hex)		Cisco Systems, Inc
 DCEAD8     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -97023,6 +97005,36 @@ DC-AB-39   (hex)		Cisco Systems, Inc
 DCAB39     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose   CA  94568
+				US
+
+18-89-47   (hex)		HISENSE VISUAL TECHNOLOGY CO.,LTD
+188947     (base 16)		HISENSE VISUAL TECHNOLOGY CO.,LTD
+				Qianwangang Road 218
+				Qingdao  Shandong  266510
+				CN
+
+AC-66-B3   (hex)		BUFFALO.INC
+AC66B3     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
+
+B8-31-84   (hex)		Hewlett Packard Enterprise
+B83184     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+48-60-CB   (hex)		Nanjing RISC-V Institute Co., Ltd.
+4860CB     (base 16)		Nanjing RISC-V Institute Co., Ltd.
+				Room 303, Building C, 18 Ningshuang Road
+				Nanjing  Jiangsu  210000
+				CN
+
+A4-E0-41   (hex)		Ruckus Wireless
+A4E041     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -194381,6 +194393,12 @@ F0B8F7     (base 16)		Cisco Systems, Inc
 				San Jose   CA  94568
 				US
 
+C4-55-10   (hex)		FRITZ! Technology GmbH
+C45510     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242785,3 +242803,15 @@ E0DD4B     (base 16)		Microsoft Corporation
 				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
 				HongKong  HongKong  999077
 				HK
+
+0C-84-73   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+0C8473     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
+14-BF-9A   (hex)		HavocAI, Inc.
+14BF9A     (base 16)		HavocAI, Inc.
+				56 Broad St. Suite 14130
+				Boston  MA  02109
+				US
