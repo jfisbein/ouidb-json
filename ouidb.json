@@ -142548,6 +142548,17 @@
     }
   },
   {
+    "prefix": "00FD05",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "00FD22",
     "organization": {
       "name": "Cisco Systems Inc",
@@ -156469,6 +156480,17 @@
         "line1": "A Building, Huixin Industial Park, No 31, Yonghe Road, Fuyong Town, Bao\u0027an District",
         "line2": "Shenzhen Guangdong 518100",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "0C9AAC",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
+        "countryCode": "US"
       }
     }
   },
@@ -195753,6 +195775,17 @@
         "line1": "54-33 Dongtanhana 1-gil",
         "line2": "Hwaseong-si Gyeonggi-do 18423",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "2CE847",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
       }
     }
   },
@@ -250092,6 +250125,17 @@
     }
   },
   {
+    "prefix": "5C579B",
+    "organization": {
+      "name": "Cisco Meraki",
+      "address": {
+        "line1": "500 Terry A. Francois Blvd",
+        "line2": "San Francisco 94158",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "5C579E",
     "organization": {
       "name": "Chiun Mai Communication System Inc",
@@ -252596,6 +252640,17 @@
         "line1": "310 Liuhe Road, Zhijiang Science Park",
         "line2": "Hangzhou Zhejiang, 310053",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "5CDDCB",
+    "organization": {
+      "name": "Silicon Laboratories",
+      "address": {
+        "line1": "400 West Cesar Chavez",
+        "line2": "Austin TX 78701",
+        "countryCode": "US"
       }
     }
   },
@@ -270082,6 +270137,17 @@
     }
   },
   {
+    "prefix": "6C7CFD",
+    "organization": {
+      "name": "Eero Inc",
+      "address": {
+        "line1": "660 3rd Street",
+        "line2": "San Francisco CA 94107",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "6C7DB7",
     "organization": {
       "name": "Cisco Meraki",
@@ -271643,6 +271709,17 @@
         "line1": "Room A913, 159 Chengjiang Road",
         "line2": "Jiangyin City Jiangsu Province 214400",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "6CD441",
+    "organization": {
+      "name": "Tech4home, Lda",
+      "address": {
+        "line1": "Rua de Fundoes N151",
+        "line2": "Sao Joao da Madeira Aveiro 3700-121",
+        "countryCode": "PT"
       }
     }
   },
@@ -315703,6 +315780,17 @@
     }
   },
   {
+    "prefix": "90B970",
+    "organization": {
+      "name": "Shenzhen V-link Technology Ltd",
+      "address": {
+        "line1": "Room 1803, Bairuida Building, Bantian Sub-district, Longgang District",
+        "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "90B97D",
     "organization": {
       "name": "Johnson Outdoors Marine Electronics d/b/a Minnkota",
@@ -333472,6 +333560,17 @@
         "line1": "5th Floor, Court House",
         "line2": "Dhobi Talao Maharashtra 400 002",
         "countryCode": "IN"
+      }
+    }
+  },
+  {
+    "prefix": "A07566",
+    "organization": {
+      "name": "Cirrus Logic International Semiconductor Ltd",
+      "address": {
+        "line1": "7b Nightingale Way",
+        "line2": "Edinburgh Eh39eg",
+        "countryCode": "GB"
       }
     }
   },
