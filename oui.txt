@@ -48944,6 +48944,18 @@ D8E6AB     (base 16)		eero inc.
 				Kista    164 51
 				SE
 
+30-E8-B9   (hex)		Espressif Systems (Singapore) Pte. Ltd
+30E8B9     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+C4-9A-90   (hex)		Espressif Systems (Singapore) Pte. Ltd
+C49A90     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -97031,16 +97043,22 @@ B83184     (base 16)		Hewlett Packard Enterprise
 				Nanjing  Jiangsu  210000
 				CN
 
+30-39-EB   (hex)		hanshow America Inc.
+3039EB     (base 16)		hanshow America Inc.
+				5801 Headquarters Dr, Suite 950
+				plano  TX  75024
+				US
+
+5C-DD-CB   (hex)		Silicon Laboratories
+5CDDCB     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 A4-E0-41   (hex)		Ruckus Wireless
 A4E041     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
-				US
-
-0C-9A-AC   (hex)		Cisco Meraki
-0C9AAC     (base 16)		Cisco Meraki
-				500 Terry A. Francois Blvd
-				San Francisco    94158
 				US
 
 2C-E8-47   (hex)		eero inc.
@@ -97049,10 +97067,10 @@ A4E041     (base 16)		Ruckus Wireless
 				San Francisco  CA  94107
 				US
 
-5C-DD-CB   (hex)		Silicon Laboratories
-5CDDCB     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
+0C-9A-AC   (hex)		Cisco Meraki
+0C9AAC     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -145489,6 +145507,12 @@ B8E3BF     (base 16)		zte corporation
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
+
+F4-DE-4D   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+F4DE4D     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -242869,3 +242893,21 @@ B4416B     (base 16)		GX India Pvt Ltd
 				56 Broad St. Suite 14130
 				Boston  MA  02109
 				US
+
+C8-2F-A4   (hex)		Lyntera Singapore Pte. Ltd.
+C82FA4     (base 16)		Lyntera Singapore Pte. Ltd.
+				135 Cecil St., #10-01 Philippine Airlines Bldg
+				Singapore    069536
+				SG
+
+E0-BC-C8   (hex)		nFore Technology Co.,Ltd.
+E0BCC8     (base 16)		nFore Technology Co.,Ltd.
+				9F., No. 333, Ruiguang Rd., Neihu Dist., Taipei City 114063, Taiwan (R.O.C.)
+				Taipei    114
+				TW
+
+7C-81-AA   (hex)		Shenzhen Enrigin Technology Co. ,Ltd.
+7C81AA     (base 16)		Shenzhen Enrigin Technology Co. ,Ltd.
+				 Room 3401, Unit 1, Chengjian Yunqi Building, No. 19 Jinhua Street, Xinwei Community, Guiyuan Street, Luohu District
+				Shenzhen  Guangdong  518010
+				CN

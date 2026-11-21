@@ -197219,6 +197219,17 @@
     }
   },
   {
+    "prefix": "3039EB",
+    "organization": {
+      "name": "Hanshow America Inc",
+      "address": {
+        "line1": "5801 Headquarters Dr, Suite 950",
+        "line2": "Plano TX 75024",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "3039F2",
     "organization": {
       "name": "ADB Broadband Italia",
@@ -200305,6 +200316,17 @@
         "line1": "NO.18 Haibin Road",
         "line2": "Dong Guan Guang Dong 523860",
         "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "30E8B9",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
       }
     }
   },
@@ -290278,6 +290300,17 @@
     }
   },
   {
+    "prefix": "7C81AA",
+    "organization": {
+      "name": "Shenzhen Enrigin Technology Ltd",
+      "address": {
+        "line1": "Room 3401, Unit 1, Chengjian Yunqi Building, No. 19 Jinhua Street, Xinwei Community, Guiyuan Street, Luohu District",
+        "line2": "Shenzhen Guangdong 518010",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "7C822D",
     "organization": {
       "name": "Nortec",
@@ -376664,6 +376697,17 @@
     }
   },
   {
+    "prefix": "C49A90",
+    "organization": {
+      "name": "Espressif Systems (singapore) Pte. Ltd",
+      "address": {
+        "line1": "1 Fusionopolis View#07-02eclipse",
+        "line2": "Singapore 138577",
+        "countryCode": "SG"
+      }
+    }
+  },
+  {
     "prefix": "C49D08",
     "organization": {
       "name": "Huawei Device Ltd",
@@ -379311,6 +379355,17 @@
         "line1": "5f, No.102, Ming Chuan Road",
         "line2": "Hsin Tien Taipei County 23141",
         "countryCode": "TW"
+      }
+    }
+  },
+  {
+    "prefix": "C82FA4",
+    "organization": {
+      "name": "Lyntera Singapore Pte. Ltd",
+      "address": {
+        "line1": "135 Cecil St., #10-01 Philippine Airlines Bldg",
+        "line2": "Singapore 069536",
+        "countryCode": "SG"
       }
     }
   },
@@ -410312,6 +410367,17 @@
     }
   },
   {
+    "prefix": "E0BCC8",
+    "organization": {
+      "name": "Nfore Technology Ltd",
+      "address": {
+        "line1": "9F., No. 333, Ruiguang Rd., Neihu Dist., Taipei City 114063, Taiwan (R.O.C.)",
+        "line2": "Taipei 114",
+        "countryCode": "TW"
+      }
+    }
+  },
+  {
     "prefix": "E0BDA0",
     "organization": {
       "name": "Apple",
@@ -433984,6 +434050,17 @@
         "line1": "6 Marjanishvili St. (green Building) | 0102 Tbilisi | Georgia",
         "line2": "Tbilisi Tbilisi 0102",
         "countryCode": "GE"
+      }
+    }
+  },
+  {
+    "prefix": "F4DE4D",
+    "organization": {
+      "name": "Nanjing Qinheng Microelectronics Ltd",
+      "address": {
+        "line1": "No.18, Ningshuang Road",
+        "line2": "Nanjing Jiangsu 210012",
+        "countryCode": "CN"
       }
     }
   },
