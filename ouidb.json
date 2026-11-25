@@ -227319,6 +227319,17 @@
     }
   },
   {
+    "prefix": "4868C6",
+    "organization": {
+      "name": "NXP Semiconductors Germany GmbH",
+      "address": {
+        "line1": "Beiersdorfstraße 12",
+        "line2": "Hamburg Hamburg 22529",
+        "countryCode": "DE"
+      }
+    }
+  },
+  {
     "prefix": "486B2C",
     "organization": {
       "name": "BBK Educational Electronics CORP. Ltd",
@@ -273732,6 +273743,17 @@
         "line1": "102-610, 36, Bucheon-ro 198beon-gil, Wonmi-gu",
         "line2": "Bucheon-si Gyeonggi-do 14557",
         "countryCode": "KR"
+      }
+    }
+  },
+  {
+    "prefix": "703C07",
+    "organization": {
+      "name": "Dongguan Huayin Electronic Technology Ltd",
+      "address": {
+        "line1": "Room 101, No.8 Xinglong 3rd Road, Shipai Town",
+        "line2": "Dongguan Guangdong 523000",
+        "countryCode": "CN"
       }
     }
   },
@@ -335258,6 +335280,17 @@
     }
   },
   {
+    "prefix": "A0C68F",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville NC 27560",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "A0C6A5",
     "organization": {
       "name": "Lierda Science \u0026 Technology Group Ltd",
@@ -378809,6 +378842,17 @@
     }
   },
   {
+    "prefix": "C8040C",
+    "organization": {
+      "name": "Extreme Networks Inc",
+      "address": {
+        "line1": "2121 Rdu Center Drive",
+        "line2": "Morrisville NC 27560",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
     "prefix": "C8059E",
     "organization": {
       "name": "Hefei Symboltek Ltd",
@@ -420793,6 +420837,17 @@
       "address": {
         "line1": "18f Gdc Building, 9 Gaoxin Central Avenue 3rd, Nanshan District",
         "line2": "Shenzhen Guangdong 518000",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
+    "prefix": "E8F043",
+    "organization": {
+      "name": "Coosea Group (hk) Company Limited",
+      "address": {
+        "line1": "Unit 56 16f Multifield Plaza, 37a Part Avenue.Tsim Sha Tsui, Kl, Hong Kong, Sar China",
+        "line2": "Hong Kong 999077",
         "countryCode": "CN"
       }
     }
