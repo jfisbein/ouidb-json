@@ -145622,6 +145622,24 @@ C8040C     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
+AC-9B-BC   (hex)		Dongguan Edifier Esports Technology Co.,Ltd.
+AC9BBC     (base 16)		Dongguan Edifier Esports Technology Co.,Ltd.
+				Room 2001, D1 Building, Everbright We Valley, No.15 Science and Technology 4th Road, Songshan Lake, Dongguan, Guangdong, China
+				Dongguan  Guangdong  523808
+				CN
+
+D0-AB-DD   (hex)		ProMik GmbH
+D0ABDD     (base 16)		ProMik GmbH
+				Suedwestpark 100
+				Nuernberg  Bayern  90449
+				DE
+
+D8-5C-FE   (hex)		Hewlett Packard Enterprise
+D85CFE     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District

@@ -348797,6 +348797,17 @@
     }
   },
   {
+    "prefix": "AC9BBC",
+    "organization": {
+      "name": "Dongguan Edifier Esports Technology Ltd",
+      "address": {
+        "line1": "Room 2001, D1 Building, Everbright We Valley, No.15 Science And Technology 4th Road, Songshan Lake, Dongguan, Guangdong, China",
+        "line2": "Dongguan Guangdong 523808",
+        "countryCode": "CN"
+      }
+    }
+  },
+  {
     "prefix": "AC9CE4",
     "organization": {
       "name": "Alcatel-lucent Shanghai Bell Ltd",
@@ -391299,6 +391310,17 @@
     }
   },
   {
+    "prefix": "D0ABDD",
+    "organization": {
+      "name": "Promik GmbH",
+      "address": {
+        "line1": "Suedwestpark 100",
+        "line2": "Nuernberg Bayern 90449",
+        "countryCode": "DE"
+      }
+    }
+  },
+  {
     "prefix": "D0AD08",
     "organization": {
       "name": "HP Inc",
@@ -399646,6 +399668,17 @@
       "address": {
         "line1": "5211 Fairmont Street",
         "line2": "Jacksonville FL 32207",
+        "countryCode": "US"
+      }
+    }
+  },
+  {
+    "prefix": "D85CFE",
+    "organization": {
+      "name": "Hewlett Packard Enterprise",
+      "address": {
+        "line1": "6280 America Center Dr",
+        "line2": "San Jose CA 95002",
         "countryCode": "US"
       }
     }
